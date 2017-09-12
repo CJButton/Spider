@@ -14,18 +14,13 @@ request("https://www.goodreads.com/series/49276-fullmetal-alchemist", function(e
 
   var $ = cheerio.load(body);
 
-  $('div#siteTable > div.link').each(function( index ) {
-    var title = $(this).find('p.title > a.title').text().trim();
-    var score = $(this).find('div.score.unvoted').text().trim();
-    var user = $(this).find('a.author').text().trim();
-    console.log("Title: " + title);
-    console.log("Score: " + score);
-    console.log("User: " + user);
-    fs.appendFileSync('reddit.txt', title + '\n' + score + '\n' + user + '\n');
+  $('a.bookTitle').each(function( index ) {
+    var title = $(this).find('a.bookTitle > span').text().trim();
+    // var link = $(this).find('td.title > a').attr('href');
+    fs.appendFileSync('fma.txt', title + '\n');
   });
 
 });
-
 // request performs url requests
 // cheerio parses html
 // url parses urls

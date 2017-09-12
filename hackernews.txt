@@ -1,0 +1,58 @@
+Curl’s backdoor threat
+https://daniel.haxx.se/blog/2017/09/12/the-backdoor-threat/
+A method for improving Milky Way exposures in light pollution
+https://www.lonelyspeck.com/the-milky-way-in-los-angeles-light-pollution/
+Chrome's Plan to Distrust Symantec Certificates
+https://security.googleblog.com/2017/09/chromes-plan-to-distrust-symantec.html#
+Privacy Loss in Apple's Implementation of Differential Privacy on MacOS 10.12
+https://arxiv.org/abs/1709.02753
+A New Way to Learn Economics
+https://www.newyorker.com/news/john-cassidy/a-new-way-to-learn-economics
+House Address “Twins” Proximity
+http://www.paulplowman.com/stuff/house-address-twins-proximity/
+Facebook, You Needy Sonofabitch
+http://bradfrost.com/blog/post/facebook-you-needy-sonofabitch/
+A font to make sparklines in seconds
+http://aftertheflood.co/projects/atf-spark
+Google Rival Yelp Claims Search Giant Broke Promise Made to Regulators
+https://www.wsj.com/articles/google-rival-yelp-claims-search-giant-broke-promise-made-to-regulators-1505167498
+Why Must You Pay Sales People Commissions?
+https://a16z.com/2017/09/11/sales-commissions/
+Is StubHub's Website Deceiving Users?
+http://jordancolburn.com/2017/09/11/stubhub-shows-already-sold-tickets/
+What's So Bad About Posix I/O?
+https://www.nextplatform.com/2017/09/11/whats-bad-posix-io/
+Deadly Mexico earthquake had unusual cause
+http://www.nature.com/news/deadly-mexico-earthquake-had-unusual-cause-1.22586
+Under iOS 11, authorities won’t be able to image your device without a passcode
+https://arstechnica.com/tech-policy/2017/09/its-about-to-get-tougher-for-cops-border-agents-to-get-at-your-iphones-data/
+Equifax’s Maddening Unaccountability
+https://www.nytimes.com/2017/09/11/opinion/equifax-accountability-security.html
+A Hardware Privacy Monitor for iPhones
+https://www.schneier.com/blog/archives/2017/09/a_hardware_priv.html
+Chief Executive of Social Finance to Step Down
+https://mobile.nytimes.com/2017/09/11/technology/sofi-mike-cagney-sexual-harassment.html?_r=1&referer=
+VW announces $84B investment in electric cars and batteries
+https://electrek.co/2017/09/11/vw-massive-billion-investment-in-electric-cars-and-batteries/
+Tripling an Engineering Team in Six Months: Setting Up for Success (Part 3 of 5)
+https://www.zacsky.com/blog/2017/8/tripling-an-engineering-team-in-six-months-part-three-setting-up-for-success
+The only safe email is text-only email
+https://theconversation.com/the-only-safe-email-is-text-only-email-81434
+Friends Are Genetically Similar (2014)
+https://www.nature.com/scitable/blog/accumulating-glitches/friends_are_genetically_similar
+Photographer wins 'monkey selfie' legal fight
+http://www.bbc.co.uk/news/uk-wales-south-east-wales-41235131
+I downloaded an app and was part of the Cajun Navy
+http://www.houstonchronicle.com/local/gray-matters/article/I-downloaded-an-app-And-suddenly-I-was-talking-12172506.php?cmpid=twitter-premium
+Dialectical Wisdom
+https://medium.com/8vc-news/dialectical-wisdom-1217a67ac427
+Web frameworks are transforming from runtime libraries into optimizing compilers
+https://tomdale.net/2017/09/compilers-are-the-new-frameworks/
+Venmo is offering users an physical debit card
+https://techcrunch.com/2017/09/11/venmo-is-offering-users-an-ugly-physical-debit-card
+Comodo fails to check CAA records
+https://www.mail-archive.com/dev-security-policy@lists.mozilla.org/msg08027.html
+Fossils from Morocco complicate the story of modern humans
+https://www.nature.com/scientificamerican/journal/v317/n3/full/scientificamerican0917-12.html
+Show HN: Build A Personal Power Plant for $200
+http://gridlesskits.com/2017/09/06/burning-man-update.html
