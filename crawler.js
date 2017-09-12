@@ -5,6 +5,7 @@ const request = require('request');
 const cheerio = require('cheerio');
 const URL = require('url-parse');
 const fs = require('fs');
+const baseUrl = 'https://www.goodreads.com'
 // https://www.reddit.com
 request("https://www.goodreads.com/series/49276-fullmetal-alchemist", function(error, response, body) {
   if(error) {
@@ -14,10 +15,16 @@ request("https://www.goodreads.com/series/49276-fullmetal-alchemist", function(e
 
   var $ = cheerio.load(body);
 
+  // $('tr.athing:has(td.votelinks)').each(function( index ) {
+  //   var title = $(this).find('td.title > a').text().trim();
+  //   var link = $(this).find('td.title > a').attr('href');
+  //   fs.appendFileSync('hackernews.txt', title + '\n' + link + '\n');
+  // });
+
   $('a.bookTitle').each(function( index ) {
-    var title = $(this).find('a.bookTitle > span').text().trim();
-    // var link = $(this).find('td.title > a').attr('href');
-    fs.appendFileSync('fma.txt', title + '\n');
+    let title = $(this).find('a.bookTitle > span').text().trim();
+    let link = $(this).attr('href');
+    fs.appendFileSync('fma.txt', title + '\n' + baseUrl.concat(link) + '\n');
   });
 
 });
