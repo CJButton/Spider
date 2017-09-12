@@ -5,10 +5,14 @@ const request = require('request');
 const cheerio = require('cheerio');
 const URL = require('url-parse');
 const fs = require('fs');
+const download = require('image-downloader')
+
 const baseUrl = 'https://www.goodreads.com'
 
+// https://www.goodreads.com/list/show/7512.Best_Manga_of_All_Time
+
 function grabLinks() {
-  request("https://www.goodreads.com/list/show/7512.Best_Manga_of_All_Time", function(error, response, body) {
+  request("https://www.goodreads.com/book/show/870.Fullmetal_Alchemist_Vol_1", function(error, response, body) {
     if(error) {
       console.log("Error: " + error);
     }
@@ -22,12 +26,36 @@ function grabLinks() {
     //   fs.appendFileSync('hackernews.txt', title + '\n' + link + '\n');
     // });
 
+    // html for cover location
+    const cover = $('div.editionCover > img').attr('src');
+    fs.appendFileSync('fma.txt', cover);
+    // const mSeries = $('h1.bookTitle');
+    options = {
+      url: cover,
+      dest: `./1.jpg`        // Save to /path/to/dest/photo.jpg
+    }
+
+  download.image(options)
+    .then(({ filename, image }) => {
+      console.log('File saved to', filename)
+    }).catch((err) => {
+      throw err
+    })
+
+    // $('h1.bookTitle').each(function( index ) {
+    // this grabs the title of the comic
+      // let title = $('h1.bookTitle').text().trim();
+      // let link = $(this).attr('href');
+      // fs.appendFileSync('fma.txt', title + '\n');
+    // });
+
     // grab link to each comic in the series (and a few more)
-    $('a.bookTitle').each(function( index ) {
-      let title = $(this).find('a.bookTitle > span').text().trim();
-      let link = $(this).attr('href');
-      fs.appendFileSync('fma.txt', title + '\n' + baseUrl.concat(link) + '\n');
-    });
+    // can also grab all starting links in 'most popular series'
+    // $('a.bookTitle').each(function( index ) {
+    //   let title = $(this).find('a.bookTitle > span').text().trim();
+    //   let link = $(this).attr('href');
+    //   fs.appendFileSync('fma.txt', title + '\n' + baseUrl.concat(link) + '\n');
+    // });
 
   });
 }
