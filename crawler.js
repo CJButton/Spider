@@ -12,7 +12,7 @@ const baseUrl = 'https://www.goodreads.com'
 // https://www.goodreads.com/list/show/7512.Best_Manga_of_All_Time
 
 function grabLinks() {
-  request("https://www.goodreads.com/book/show/870.Fullmetal_Alchemist_Vol_1", function(error, response, body) {
+  request("https://www.goodreads.com/book/show/873.Fullmetal_Alchemist_Vol_2", function(error, response, body) {
     if(error) {
       console.log("Error: " + error);
     }
@@ -27,26 +27,28 @@ function grabLinks() {
     // });
 
     // html for cover location
-    const cover = $('div.editionCover > img').attr('src');
-    fs.appendFileSync('fma.txt', cover);
+    // const cover = $('div.editionCover > img').attr('src');
+    // fs.appendFileSync('fma.txt', cover);
     // const mSeries = $('h1.bookTitle');
-    options = {
-      url: cover,
-      dest: `./1.jpg`        // Save to /path/to/dest/photo.jpg
-    }
+    // options = {
+    //   url: cover,
+    //   dest: `./1.jpg`        // Save to /path/to/dest/photo.jpg
+    // }
 
-  download.image(options)
-    .then(({ filename, image }) => {
-      console.log('File saved to', filename)
-    }).catch((err) => {
-      throw err
-    })
+  // download.image(options)
+  //   .then(({ filename, image }) => {
+  //     console.log('File saved to', filename)
+  //   }).catch((err) => {
+  //     throw err
+  //   })
 
     // $('h1.bookTitle').each(function( index ) {
-    // this grabs the title of the comic
-      // let title = $('h1.bookTitle').text().trim();
+    // this grabs the title of the comic (filter retains only the comic title)
+      let title = $('h1.bookTitle').first().contents().filter(function() {
+          return this.type === 'text';
+      }).text();
       // let link = $(this).attr('href');
-      // fs.appendFileSync('fma.txt', title + '\n');
+      fs.appendFileSync('fma.txt', title + '\n');
     // });
 
     // grab link to each comic in the series (and a few more)
