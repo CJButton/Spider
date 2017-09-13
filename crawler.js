@@ -1,48 +1,64 @@
 
 
-
 const request = require('request');
 const cheerio = require('cheerio');
 const URL = require('url-parse');
 const fs = require('fs');
 const download = require('image-downloader')
 
-const baseUrl = 'https://www.goodreads.com'
+const baseUrl = 'https://www.goodreads.com';
 
-let url = "https://www.goodreads.com/book/show/1315744.Doraemon_Vol_01"
-// grabComic(url);
+const url = "https://www.goodreads.com/book/show/870.Fullmetal_Alchemist_Vol_1";
+
+let visitedUrls = {};
 
 function grabComic(url) {
   request(url, function(error, response, body) {
     if(error) {
       console.log("Error: " + error);
     }
-    console.log("Status code: " + response.statusCode);
 
     var $ = cheerio.load(body);
 
+    {/* grabs link to comic series list  */}
+    let link = $('a.greyText').attr('href');
+
+    /// grab all info from the comic
+    {/* title  */}
     // this grabs the title of the comic (filter retains only the comic title)
     let title = $('h1.bookTitle').first().contents().filter(function() {
       return this.type === 'text';
     }).text().trim();
 
+    {/* authors  */}
+    let authors = [];
+    $('a.authorName > span').each(function( index ) {
+      authors.push($(this).text());
+    });
+
+    {/* releaseDate  */}
     let releaseDate = $('nobr.greyText').text().trim();
 
+    {/* synopsis  */}
     let descrip = $('div#description > span').last().contents().filter(function() {
       return this.type === 'text';
     }).text();
 
-    // compresses name for img title (for easier matching later)
+    {/* compressed title for images  */}
     let imgTitle = title.replace(/\s/g,'');
 
+    {/* place into an object  */}
     let mangaCreate = `Manga.create(
       title: '${title}',
+      author: '${authors[0]}'
       synopsis: '${descrip}',
       release_date: '${releaseDate}')`
 
-    fs.appendFileSync('fma.txt', mangaCreate + '\n')
+    {/* append to the file  */}
+    fs.appendFileSync('comics.txt', mangaCreate + '\n');
 
-    // grabs and saves the comic cover for us
+
+    {/* cover image  */}
     const cover = $('div.editionCover > img').attr('src');
 
     options = {
@@ -52,7 +68,6 @@ function grabComic(url) {
 
     download.image(options)
       .then(({ filename, image }) => {
-        console.log('File saved to', filename)
       }).catch((err) => {
         throw err
     });
@@ -65,103 +80,35 @@ function grabComic(url) {
   });
 }
 
-const comicList = 'https://www.goodreads.com/list/show/7512.Best_Manga_of_All_Time';
-
+{/* grab all links in a set  */}
 function grabLinks() {
 
+  // const comicList = 'https://www.goodreads.com/list/show/7512.Best_Manga_of_All_Time';
+  const comicList = 'https://www.goodreads.com/series/49276-fullmetal-alchemist'
   request(comicList, function(error, response, body) {
     if(error) {
       console.log("Error: " + error);
     }
-    console.log("Status code: " + response.statusCode);
 
     const $ = cheerio.load(body);
 
+    let comicLinks = [];
+
     $('a.bookTitle').each(function( index ) {
       let link = $(this).attr('href');
+
+      comicLinks.push(baseUrl.concat(link));
       fs.appendFileSync('fma.txt', baseUrl.concat(link) + '\n');
     });
+
+    // grabComic(comicLinks[0]);
+    // from here, we will connect it with a function that grab the comic info
+    // and then create a web grabbing all other comics in the series
+
   });
 
+  console.log("Status code: " + response.statusCode);
 }
 
-grabLinks();
-
-
-
-
-
-// request performs url requests
-// cheerio parses html
-// url parses urls
-//
-//
-// // contains the list of the 100 most popular comic series
-// const START_URL = "https://www.goodreads.com/list/show/7512.Best_Manga_of_All_Time";
-// // const SEARCH_WORD = "stemming";
-// const MAX_PAGES_TO_VISIT = 10;
-//
-// const pagesVisited = {};
-// const numPagesVisited = 0;
-// const pagesToVisit = [];
-// const url = new URL(START_URL);
-// const baseUrl = url.protocol + "//" + url.hostname;
-//
-// pagesToVisit.push(START_URL);
-// // by invoking, we begin the crawl
-// crawl();
-//
-// function crawl() {
-//   if(numPagesVisited >= MAX_PAGES_TO_VISIT) {
-//     console.log("Reached max limit of number of pages to visit.");
-//     return;
-//   }
-//   const nextPage = pagesToVisit.pop();
-//   if (nextPage in pagesVisited) {
-//     // We've already visited this page, so repeat the crawl
-//     crawl();
-//   } else {
-//     // New page we haven't visited
-//     visitPage(nextPage, crawl);
-//   }
-// }
-//
-// function visitPage(url, callback) {
-//   // Add page to our set
-//   pagesVisited[url] = true;
-//   numPagesVisited++;
-//
-//   // Make the request
-//   console.log("Visiting page " + url);
-//   request(url, function(error, response, body) {
-//      // Check status code (200 is HTTP OK)
-//      console.log("Status code: " + response.statusCode);
-//      if(response.statusCode !== 200) {
-//        callback();
-//        return;
-//      }
-//      // Parse the document body
-//      const $ = cheerio.load(body);
-//      const isWordFound = searchForWord($, SEARCH_WORD);
-//      if(isWordFound) {
-//        console.log('Word ' + SEARCH_WORD + ' found at page ' + url);
-//      } else {
-//        collectInternalLinks($);
-//        // In this short program, our callback is just calling crawl()
-//        callback();
-//      }
-//   });
-// }
-//
-// function searchForWord($, word) {
-//   const bodyText = $('html > body').text().toLowerCase();
-//   return(bodyText.indexOf(word.toLowerCase()) !== -1);
-// }
-//
-// function collectInternalLinks($) {
-//     const relativeLinks = $("a[href^='/']");
-//     console.log("Found " + relativeLinks.length + " relative links on page");
-//     relativeLinks.each(function() {
-//         pagesToVisit.push(baseUrl + $(this).attr('href'));
-//     });
-// }
+// grabLinks();
+grabComic(url);
