@@ -23,9 +23,8 @@ function grabComic(url) {
     {/* grabs link to comic series list  */}
     let link = $('a.greyText').attr('href');
 
-    /// grab all info from the comic
+
     {/* title  */}
-    // this grabs the title of the comic (filter retains only the comic title)
     let title = $('h1.bookTitle').first().contents().filter(function() {
       return this.type === 'text';
     }).text().trim();
@@ -96,19 +95,21 @@ function grabLinks() {
 
     $('a.bookTitle').each(function( index ) {
       let link = $(this).attr('href');
-
       comicLinks.push(baseUrl.concat(link));
-      fs.appendFileSync('fma.txt', baseUrl.concat(link) + '\n');
+      // fs.appendFileSync('fma.txt', baseUrl.concat(link) + '\n');
     });
 
+    comicLinks.map((comicUrl) => {
+      grabComic(comicUrl)
+    });
     // grabComic(comicLinks[0]);
     // from here, we will connect it with a function that grab the comic info
     // and then create a web grabbing all other comics in the series
 
+    console.log("Status code: " + response.statusCode);
   });
 
-  console.log("Status code: " + response.statusCode);
 }
 
-// grabLinks();
-grabComic(url);
+grabLinks();
+// grabComic(url);
