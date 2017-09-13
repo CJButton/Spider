@@ -9,10 +9,11 @@ const download = require('image-downloader')
 
 const baseUrl = 'https://www.goodreads.com'
 
-// https://www.goodreads.com/list/show/7512.Best_Manga_of_All_Time
+let url = "https://www.goodreads.com/book/show/1315744.Doraemon_Vol_01"
+// grabComic(url);
 
-function grabLinks() {
-  request("https://www.goodreads.com/book/show/1315744.Doraemon_Vol_01", function(error, response, body) {
+function grabComic(url) {
+  request(url, function(error, response, body) {
     if(error) {
       console.log("Error: " + error);
     }
@@ -20,27 +21,30 @@ function grabLinks() {
 
     var $ = cheerio.load(body);
 
-    // $('tr.athing:has(td.votelinks)').each(function( index ) {
-    //   var title = $(this).find('td.title > a').text().trim();
-    //   var link = $(this).find('td.title > a').attr('href');
-    //   fs.appendFileSync('hackernews.txt', title + '\n' + link + '\n');
-    // });
-
     // this grabs the title of the comic (filter retains only the comic title)
     let title = $('h1.bookTitle').first().contents().filter(function() {
       return this.type === 'text';
+    }).text().trim();
+
+    let releaseDate = $('nobr.greyText').text().trim();
+
+    let descrip = $('div#description > span').last().contents().filter(function() {
+      return this.type === 'text';
     }).text();
 
-    let descrip = $('div#description > span').text().trim();
-
+    // compresses name for img title (for easier matching later)
     let imgTitle = title.replace(/\s/g,'');
 
-    fs.appendFileSync('fma.txt', title + '\n');
-    fs.appendFileSync('fma.txt', descrip + '\n')
-    // html for cover location
+    let mangaCreate = `Manga.create(
+      title: '${title}',
+      synopsis: '${descrip}',
+      release_date: '${releaseDate}')`
+
+    fs.appendFileSync('fma.txt', mangaCreate + '\n')
+
+    // grabs and saves the comic cover for us
     const cover = $('div.editionCover > img').attr('src');
-    // fs.appendFileSync('fma.txt', cover);
-    // const mSeries = $('h1.bookTitle');
+
     options = {
       url: cover,
       dest: `./images/${imgTitle}.jpg`
@@ -51,20 +55,42 @@ function grabLinks() {
         console.log('File saved to', filename)
       }).catch((err) => {
         throw err
-    })
+    });
 
     // grab link to each comic in the series (and a few more)
     // can also grab all starting links in 'most popular series'
-    // $('a.bookTitle').each(function( index ) {
-    //   let title = $(this).find('a.bookTitle > span').text().trim();
-    //   let link = $(this).attr('href');
     //   fs.appendFileSync('fma.txt', title + '\n' + baseUrl.concat(link) + '\n');
-    // });
+    //   let title = $(this).find('a.bookTitle > span').text().trim();
 
   });
 }
 
+const comicList = 'https://www.goodreads.com/list/show/7512.Best_Manga_of_All_Time';
+
+function grabLinks() {
+
+  request(comicList, function(error, response, body) {
+    if(error) {
+      console.log("Error: " + error);
+    }
+    console.log("Status code: " + response.statusCode);
+
+    const $ = cheerio.load(body);
+
+    $('a.bookTitle').each(function( index ) {
+      let link = $(this).attr('href');
+      fs.appendFileSync('fma.txt', baseUrl.concat(link) + '\n');
+    });
+  });
+
+}
+
 grabLinks();
+
+
+
+
+
 // request performs url requests
 // cheerio parses html
 // url parses urls
