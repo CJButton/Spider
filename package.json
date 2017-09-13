@@ -7,6 +7,7 @@
   "license": "ISC",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
+    "image-downloader": "^3.2.2",
     "request": "^2.81.0",
     "url-parse": "^1.1.9"
   }

@@ -5,26 +5,91 @@ const request = require('request');
 const cheerio = require('cheerio');
 const URL = require('url-parse');
 const fs = require('fs');
-// https://www.reddit.com
-request("https://www.goodreads.com/series/49276-fullmetal-alchemist", function(error, response, body) {
-  if(error) {
-    console.log("Error: " + error);
-  }
-  console.log("Status code: " + response.statusCode);
+const download = require('image-downloader')
 
-  var $ = cheerio.load(body);
+const baseUrl = 'https://www.goodreads.com'
 
-  $('div#siteTable > div.link').each(function( index ) {
-    var title = $(this).find('p.title > a.title').text().trim();
-    var score = $(this).find('div.score.unvoted').text().trim();
-    var user = $(this).find('a.author').text().trim();
-    console.log("Title: " + title);
-    console.log("Score: " + score);
-    console.log("User: " + user);
-    fs.appendFileSync('reddit.txt', title + '\n' + score + '\n' + user + '\n');
+let url = "https://www.goodreads.com/book/show/1315744.Doraemon_Vol_01"
+// grabComic(url);
+
+function grabComic(url) {
+  request(url, function(error, response, body) {
+    if(error) {
+      console.log("Error: " + error);
+    }
+    console.log("Status code: " + response.statusCode);
+
+    var $ = cheerio.load(body);
+
+    // this grabs the title of the comic (filter retains only the comic title)
+    let title = $('h1.bookTitle').first().contents().filter(function() {
+      return this.type === 'text';
+    }).text().trim();
+
+    let releaseDate = $('nobr.greyText').text().trim();
+
+    let descrip = $('div#description > span').last().contents().filter(function() {
+      return this.type === 'text';
+    }).text();
+
+    // compresses name for img title (for easier matching later)
+    let imgTitle = title.replace(/\s/g,'');
+
+    let mangaCreate = `Manga.create(
+      title: '${title}',
+      synopsis: '${descrip}',
+      release_date: '${releaseDate}')`
+
+    fs.appendFileSync('fma.txt', mangaCreate + '\n')
+
+    // grabs and saves the comic cover for us
+    const cover = $('div.editionCover > img').attr('src');
+
+    options = {
+      url: cover,
+      dest: `./images/${imgTitle}.jpg`
+    }
+
+    download.image(options)
+      .then(({ filename, image }) => {
+        console.log('File saved to', filename)
+      }).catch((err) => {
+        throw err
+    });
+
+    // grab link to each comic in the series (and a few more)
+    // can also grab all starting links in 'most popular series'
+    //   fs.appendFileSync('fma.txt', title + '\n' + baseUrl.concat(link) + '\n');
+    //   let title = $(this).find('a.bookTitle > span').text().trim();
+
+  });
+}
+
+const comicList = 'https://www.goodreads.com/list/show/7512.Best_Manga_of_All_Time';
+
+function grabLinks() {
+
+  request(comicList, function(error, response, body) {
+    if(error) {
+      console.log("Error: " + error);
+    }
+    console.log("Status code: " + response.statusCode);
+
+    const $ = cheerio.load(body);
+
+    $('a.bookTitle').each(function( index ) {
+      let link = $(this).attr('href');
+      fs.appendFileSync('fma.txt', baseUrl.concat(link) + '\n');
+    });
   });
 
-});
+}
+
+grabLinks();
+
+
+
+
 
 // request performs url requests
 // cheerio parses html
