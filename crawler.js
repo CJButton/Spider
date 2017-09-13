@@ -31,9 +31,12 @@ function grabLinks() {
       return this.type === 'text';
     }).text();
 
+    let descrip = $('div#description > span').text().trim();
+
     let imgTitle = title.replace(/\s/g,'');
 
     fs.appendFileSync('fma.txt', title + '\n');
+    fs.appendFileSync('fma.txt', descrip + '\n')
     // html for cover location
     const cover = $('div.editionCover > img').attr('src');
     // fs.appendFileSync('fma.txt', cover);
