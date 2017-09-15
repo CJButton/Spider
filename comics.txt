@@ -1,0 +1,717 @@
+Manga.create(
+      title: 'Neon Genesis Evangelion, Vol. 12',
+      author: 'Yoshiyuki Sadamoto'
+      synopsis: 'Reads R to L (Japanese Style) T+ audience. Japan's most controversial anime series is over...but not the manga version of Neon Genesis Evangelion! Series co-creator Yoshiyuki Sadamoto's personal interpretation of the Evangelion characters and story is sure to intrigue new and old fans alike. In 2015, the ""Angels"" have returned, and Shinji Ikari, a fourteen year-old child of the new Earth, is forced by his father Gendo--commander of the secret organization NERV--to pilot the monstrous biomechanical weapon called ""Evangelion"" to match the Angels' fearsome power...',
+      release_date: '(first published March 31st 2010)')
+Manga.create(
+      title: 'Neon Genesis Evangelion, Vol. 10',
+      author: 'Yoshiyuki Sadamoto'
+      synopsis: 'Japan's most controversial anime series is over...but not the manga version of Neon Genesis Evangelion! Series co-creator Yoshiyuki Sadamoto's personal interpretation of the Evangelion characters and story is sure to intrigue new and old fans alike.In 2015, the "Angels" have returned, and Shinji Ikari, a fourteen year-old child of the new Earth, is forced by his father Gendo--commander of the secret organization NERV--to pilot the monstrous biomechanical weapon called "Evangelion" to match the Angels' fearsome power...',
+      release_date: '(first published February 25th 2006)')
+Manga.create(
+      title: 'Neon Genesis Evangelion 2-in-1 Edition, Vol. 5: Includes vols. 13  14',
+      author: 'Yoshiyuki Sadamoto'
+      synopsis: 'The manga adaptation of the landmark animated series that changed the mecha genre. This volume contains two of the original graphic novels and includes pages of stunning, full-color art. The Instrumentality Project comes to its apocalyptic conclusion. With the earth now covered in a sea of LCL, every human consciousness in the world has become one—a combined entity waiting to be reborn. Deep within Lilith, Shinji comes face-to-face with everything he ever knew, loved and feared. The fate of the world is in his hands, and the choice he makes will doom or redeem humanity. Everything ends here. Everything begins here. This is the epic finale of !',
+      release_date: '')
+Manga.create(
+      title: 'Neon Genesis Evangelion, Vol. 13',
+      author: 'Yoshiyuki Sadamoto'
+      synopsis: 'Japan's most controversial anime series is over...but not the manga version of Neon Genesis Evangelion! Series co-creator Yoshiyuki Sadamoto's personal interpretation of the Evangelion characters and story is sure to intrigue new and old fans alike. In 2015, the "Angels" have returned, and Shinji Ikari, a fourteen year-old child of the new Earth, is forced by his father Gendo--commander of the secret organization NERV--to pilot the monstrous biomechanical weapon called "Evangelion" to match the Angels' fearsome power... Reads R to L (Japanese style) for teen plus audiences.',
+      release_date: '(first published November 2nd 2012)')
+Manga.create(
+      title: 'Neon Genesis Evangelion, Vol. 4',
+      author: 'Yoshiyuki Sadamoto'
+      synopsis: 'Japan's most controversial anime series is over...but not the manga version of Neon Genesis Evangelion! Series co-creator Yoshiyuki Sadamoto's personal interpretation of the Evangelion characters and story is sure to intrigue new and old fans alike. In 2015, the "Angels" have returned, and Shinji Ikari, a fourteen year-old child of the new Earth, is forced by his father Gendo-commander of the secret organization NERV-to pilot the monstrous biomechanical weapon called "Evangelion" to match the Angels' fearsome power. As a carrier fleet steams towards Japan carrying a mysterious embryonic form linked to the true origins of the human race, a hurricane is about to blow down Shinji's momentary peace: the wind through the red hair of Asuka Langley Soryu, the new Eva pilot arriving in Tokyo-3...One of the founding members of Gainax, Japan's most progressive anime studio, Evangelion's Yoshiyuki Sadamoto was also the character designer for their recent Adult Swim smash FLCL. EVA Vol. 4 contains a Japanese sound FX glossary plus a special bonus interview with the voice of Asuka, Battle Royale's Yuko Miyamura!',
+      release_date: '(first published October 1st 1997)')
+Manga.create(
+      title: 'Neon Genesis Evangelion: 3-in-1 Edition, Vol. 1',
+      author: 'Yoshiyuki Sadamoto'
+      synopsis: 'The classic series, now available in a deluxe omnibus edition!The manga adaptation of the landmark animated series that changed the mecha genre. Each volume contains three of the original graphic novels and includes pages of stunning, full-color art. Once Shinji didn't care about anything; then he found people to fight for--only to learn that he couldn't protect them, or keep those he let into his heart from going away. As mankind tilts on the brink of the apocalyptic Third Impact, human feelings are fault lines leading to destruction and just maybe, redemption and rebirth. Reads R to L (Japanese style) for teen plus audiences.',
+      release_date: '(first published November 6th 2012)')
+Manga.create(
+      title: 'Alice in the Country of Hearts, Vol. 04',
+      author: 'QuinRose'
+      synopsis: 'This is a clever retelling of the "Alice in Wonderland" tale - manga-style! Sadness looms over Alice after Ace shows how life is treated in Wonderland. To cheer her up, Boris takes Alice to the amusement park, but when she comes home, Julius asks her if she wants to leave the clock tower. Where will Alice live now?',
+      release_date: '')
+Manga.create(
+      title: 'Neon Genesis Evangelion, Vol. 5',
+      author: 'Yoshiyuki Sadamoto'
+      synopsis: 'With half the human race dead, a handful of teenagers pilot the colossal superentities known as Evangelions and battle the mysterious giant Angels. But even they are not prepared for the appearance of a giant eye in the heavens that heralds the Angels latest and deadliest assault.',
+      release_date: '(first published December 17th 1999)')
+Manga.create(
+      title: 'Neon Genesis Evangelion, Vol. 9',
+      author: 'Yoshiyuki Sadamoto'
+      synopsis: 'Reads R to L (Japanese Style) T+ audience. Japan's most controversial anime series is over...but not the manga version of Neon Genesis Evangelion! Series co-creator Yoshiyuki Sadamoto's personal interpretation of the Evangelion characters and story is sure to intrigue new and old fans alike. In 2015, the ""Angels"" have returned, and Shinji Ikari, a fourteen year-old child of the new Earth, is forced by his father Gendo--commander of the secret organization NERV--to pilot the monstrous biomechanical weapon called ""Evangelion"" to match the Angels' fearsome power...',
+      release_date: '(first published April 3rd 2004)')
+Manga.create(
+      title: 'PLUTO: Urasawa x Tezuka, Volume 002',
+      author: 'Naoki Urasawa'
+      synopsis: 'In a distant future where sentient humanoid robots pass for human, someone or some thing is out to destroy the seven great robots of the world. Europol’s top detective Gesicht is assigned to investigate these mysterious robot serial murders—the only catch is that he himself is one of the seven targets. Atom, a boy robot whose sophisticated AI programming seamlessly blurs the distinction between man and machine, starts his own investigation into the serial murders of the great robots of the world. When he discovers that the killer’s motives may be connected with the geopolitical events of the recent past, he realizes that the case is far larger than anyone could have ever imagined.Contains Chapters 8 to 15.',
+      release_date: '(first published April 26th 2005)')
+Manga.create(
+      title: 'Attack on Titan, Volume 12',
+      author: 'Hajime Isayama'
+      synopsis: 'THE CHASE IS ON! Erwin and the Survey Corps desperately mount a rescue operation to take Eren back from the Colossus Titan and Armored Titan. But without the numbers to form up properly outside the walls, how can the humans catch up before they're all slaughtered? Just whose side is Ymir on? And will Eren ever see his friends again? PRAISE FOR THE HIT ANIME "A visceral and fantastically intense action/horror story." - Anime News Network "Japan's equivalent of The Walking Dead." - io9Chapter List:47. Children48. Someone49. Charge50. Scream',
+      release_date: '(first published December 9th 2013)')
+Manga.create(
+      title: 'Alice in the Country of Hearts, Vol. 02',
+      author: 'QuinRose'
+      synopsis: 'Alice is kidnapped and brought to the strange world of Wonderland, where a war is waging between the Queen of Hearts and the Hatter gang syndicate, and Alice must find her way home while escaping their wrath.',
+      release_date: '(first published January 10th 2009)')
+Manga.create(
+      title: 'Alice in the Country of Hearts, Vol. 2',
+      author: 'QuinRose'
+      synopsis: 'Kidnapped by a handsome man with rabbit ears, Alice Liddell finds herself abandoned in an odd place called Wonderland and thrust into a "game," the rules of which she has yet to learn. Alice, ever the plucky tomboy, sets off to explore and get the lay of this strange land, intent on finding her rude kidnapper and giving him a piece of her mind (and her fist). But little does she know that she's wandered right into the middle of a dangerous power struggle involving just about all of Wonderland's attractive, weapon-happy denizens. And the only way for Alice to return home is to get acquainted with the lot of them?! How in the world will she manage that and still manage to stay alive?!',
+      release_date: '(first published December 10th 2009)')
+Manga.create(
+      title: 'Alice in the Country of Hearts, Vol. 03',
+      author: 'QuinRose'
+      synopsis: 'The hilarious--and dangerous--tale of Alice's adventures in wonderful Wonderland continues.',
+      release_date: '(first published June 10th 2009)')
+Manga.create(
+      title: 'PLUTO: Urasawa x Tezuka, Volume 004',
+      author: 'Naoki Urasawa'
+      synopsis: 'A powerful, destructive force in the form of a tornado is killing the great robots of the world one by one. Who or what could be behind this whirlwind? Be it man or robot, it now has its sights set on Atom, the most advanced robot ever created--and Atom is ready to dive right into the eye of the storm.Contains Chapters 24 to 31.',
+      release_date: '(first published December 26th 2006)')
+Manga.create(
+      title: '進撃の巨人 1-11巻 セット [Shingeki no Kyojin 1-11 Maki Set]',
+      author: 'Hajime Isayama'
+      synopsis: 'Complete manga set of popular manga "Attack on Titans" by Hajime Isayama.[全巻] 進撃の巨人 [1-11巻 までセット] (週刊少年マガジンKC)/ 諫山創巨人がすべてを支配する世界。巨人の餌と化した人類は巨大な壁を築き、壁外への自由と引き換えに侵略を防いでいた。だが名ばかりの平和は壁を越える大巨人の出現により崩れ、絶望の戦いが始まってしまう。手足もがれ、餌と成り果てようと、人類は巨人に挑む!! 超大作アクション誕生!!',
+      release_date: '')
+Manga.create(
+      title: 'Attack on Titan: The Beginning Box Set',
+      author: 'Hajime Isayama'
+      synopsis: '',
+      release_date: '')
+Manga.create(
+      title: 'Attack on Titan, Vol. 6',
+      author: 'Hajime Isayama'
+      synopsis: 'TITAN ON THE HUNTOn the way to Eren’s home, deep in Titan territory, the Survey Corps ranks are broken by a charge led by a female Titan! But this Abnormal is different – she kills not to eat but to protect herself, and she seems to be looking for someone. Armin comes to a shocking conclusion: She’s a human in a Titan’s body, just like Eren!Chapters List:-23.The Female Titan24.The Titan Forest25.Bite26.The Easy Path',
+      release_date: '(first published December 9th 2011)')
+Manga.create(
+      title: 'Neon Genesis Evangelion, Vol. 6',
+      author: 'Yoshiyuki Sadamoto'
+      synopsis: 'It's NERV against the Angels in the battle to control Earth in 2015. During a lull in the fighting, Commander Ikari and Ritsuko prepare for the delivery of Unit-03. But no one is prepared when Unit-03 reveals itself as the next Angel.',
+      release_date: '(first published December 15th 2000)')
+Manga.create(
+      title: 'Der Mond: The Art of Neon Genesis Evangelion',
+      author: 'Yoshiyuki Sadamoto'
+      synopsis: 'New look, a hard cover version for Der Mond!',
+      release_date: '(first published September 1999)')
+Manga.create(
+      title: 'Neon Genesis Evangelion: 3-in-1 Edition, Vol. 2',
+      author: 'Yoshiyuki Sadamoto'
+      synopsis: 'The manga adaptation of the landmark animated series that changed the mecha genre. Each volume contains three of the original graphic novels and includes pages of stunning, full-color art.  Once Shinji didn’t care about anything; then he found people to fight for—only to learn that he couldn’t protect them, or keep those he let into his heart from going away. As mankind tilts on the brink of the apocalyptic Third Impact, human feelings are fault lines leading to destruction and just maybe, redemption and rebirth.  Reads R to L (Japanese Style) for teen plus audiences.',
+      release_date: '')
+Manga.create(
+      title: 'Alice in the Country of Hearts, Vol. 05',
+      author: 'QuinRose'
+      synopsis: 'The NEW YORK TIMES bestselling manga continues!',
+      release_date: '(first published June 10th 2010)')
+Manga.create(
+      title: 'Attack on Titan, Volume 14',
+      author: 'Hajime Isayama'
+      synopsis: 'ERWIN'S GREATEST GAMBLE Commander Erwin has finally come to a decision: Putting their own wealth and position ahead of the survival of humanity, the royal government is no longer fit to lead. To execute their leader's most audacious plan yet, Eren and Krista will have to put themselves in peril yet again, and Armin, Mikasa, and the rest of the Survey Corps will have to turn from humanity's guardians into traitors. If they fail this time, they'll face not a Titan's gaping mouth, but the gallows...Chapters list :55. Pain56. Actors57. Kenny the Ripper58. Gunfire',
+      release_date: '(first published August 8th 2014)')
+Manga.create(
+      title: 'PLUTO: Urasawa x Tezuka, Volume 007',
+      author: 'Naoki Urasawa'
+      synopsis: 'Who Killed Astro Boy? No Robots; Human vs. humanoid!Pluto has destroyed six out of the seven great robots of the world, and the pacifist robot Epsilon is the only one that remains. Will Epsilon, who refused to participate in the 39th Central Asian War, leave behind his war-orphaned charges to step onto the battlefield? It just might be that kindly Epsilon, who wields the power of photon energy, will be Pluto's greatest opponent of all!Contains Chapters 48 to 55.',
+      release_date: '(first published February 21st 2009)')
+Manga.create(
+      title: 'Neon Genesis Evangelion, Vol. 14',
+      author: 'Yoshiyuki Sadamoto'
+      synopsis: 'Japan's most controversial anime series is over...but not the manga version of Neon Genesis Evangelion! Series co-creator Yoshiyuki Sadamoto's personal interpretation of the Evangelion characters and story is sure to intrigue new and old fans alike. In 2015, the "Angels" have returned, and Shinji Ikari, a fourteen year-old child of the new Earth, is forced by his father Gendo--commander of the secret organization NERV--to pilot the monstrous biomechanical weapon called "Evangelion" to match the Angels' fearsome power... The Third Impact has come. As the unbelievably massive form of Ayanami towers over the Earth, the Instrumentality Project enters its last stages. While the world shudders in terror as it is engulfed in a sea of LCL, Shinji's consciousness merges with Lilith';s, and he searches his memories for a final understanding of himself and the fate of humanity.',
+      release_date: '(first published November 1st 2014)')
+Manga.create(
+      title: 'Neon Genesis Evangelion: 3-in-1 Edition, Vol. 4',
+      author: 'Yoshiyuki Sadamoto'
+      synopsis: 'The classic series, now available in a deluxe omnibus edition!The manga adaptation of the landmark animated series that changed the mecha genre. Each volume contains three of the original graphic novels and includes pages of stunning, full-color art.  Once Shinji didn’t care about anything; then he found people to fight for—only to learn that he couldn’t protect them, or keep those he let into his heart from going away. As mankind tilts on the brink of the apocalyptic Third Impact, human feelings are fault lines leading to destruction and just maybe, redemption and rebirth. Reads R to L (Japanese Style) for teen plus audiences.',
+      release_date: '')
+Manga.create(
+      title: 'Attack on Titan, Volume 13',
+      author: 'Hajime Isayama'
+      synopsis: 'In this post-apocalyptic sci-fi story, humanity has been devastated by the bizarre, giant humanoids known as the Titans. Little is known about where they came from or why they are bent on consuming mankind. Seemingly unintelligent, they have roamed the world for years, killing everyone they see. For the past century, what's left of the human race has hidden in a giant, three-walled city. People believe their 100-metre-high walls will protect them from the Titans, but the sudden appearance of an immense Titan is about to change everything.Chapters list :51. Squad Levi52. Krista Lenz53. Smoke Signal54. Location of the Counterattack',
+      release_date: '(first published April 9th 2014)')
+Manga.create(
+      title: 'Attack on Titan, Vol. 2',
+      author: 'Hajime Isayama'
+      synopsis: 'BIRTH OF A MONSTER   The Colossal Titan has breached humanity’s first line of defense, Wall Maria. Mikasa, the 104th Training Corps’ ace and Eren’s best friend, may be the only one capable of defeating them, but beneath her calm exterior lurks a dark past. When all looks lost, a new Titan appears and begins to slaughter its fellow Titans. Could this new monster be a blessing in disguise, or is the truth something much more sinister?This volume of Attack on Titan includes special extras after the story!Chapters list :5. A Dull Glow in the Midst of Despair6. The World that the Girl Saw7. Small Blade8. Roar9. The Beating of a Heart Can Be Heard',
+      release_date: '(first published July 17th 2010)')
+Manga.create(
+      title: 'Neon Genesis Evangelion, Vol. 7',
+      author: 'Yoshiyuki Sadamoto'
+      synopsis: '- From the character designer of the recent Adult Swim smash FLCL.- Part of the Neon Genesis Evangelion phenomenon - the most talked about anime show of the last ten years!- Broadcasted nationwide in Japan by TV Tokyo in 1995-96 and re-run seven times. Final episode had audience of 10 million!- Video sales of US $80MM, merchandise sales US$400MM -- video and soundtrack CDs available in the US.- The film The End Of Evangelion won Japanese Academy Award in 1997.',
+      release_date: '(first published December 1st 2001)')
+Manga.create(
+      title: 'Attack on Titan, Volume 16',
+      author: 'Hajime Isayama'
+      synopsis: 'WHAT WAS HIS FATHER'S SIN?Captured by Rod Reiss, the rightful king, Krista and Eren finally have their memories back. What exactly happened to Eren, and what was the crime his father committed? Meanwhile, the Survey Corps desperately hunts for Eren, while at the same time seeking to legitimize their military coup. As the situation inside the walls comes to a head, the mysteries of the world of the Titans seem on the cusp of being solved at last!63. Chains64. Welcome Party65. Dreams and Curses66. Wish',
+      release_date: '(first published April 9th 2015)')
+Manga.create(
+      title: 'Neon Genesis Evangelion, Vol. 2',
+      author: 'Yoshiyuki Sadamoto'
+      synopsis: 'Neon Genesis Evangelion is the most controversial -- and some say the best -- anime of the decade. Set in the year 2015 when humanity faces a terrifying last judgment from mysterious giant "Angels, " the series has been acclaimed for its original story line, direct psychological content, and self-referential examination of the genre.',
+      release_date: '(first published October 29th 1995)')
+Manga.create(
+      title: 'PLUTO: Urasawa x Tezuka, Volume 003',
+      author: 'Naoki Urasawa'
+      synopsis: 'In a distant future where sentient humanoid robots pass for human, someone or some thing is out to destroy the seven great robots of the world. Europol’s top detective Gesicht is assigned to investigate these mysterious robot serial murders—the only catch is that he himself is one of the seven targets. ',
+      release_date: '(first published March 24th 2006)')
+Manga.create(
+      title: 'Attack on Titan, Vol. 4',
+      author: 'Hajime Isayama'
+      synopsis: 'HUMANITY PUSHES BACK!   The Survey Corps develop a risky gambit – have Eren in Titan form attempt to repair Wall Rose, reclaiming human territory from the monsters for the first time in a century. But Titan-Eren’s self-control is far from perfect, and when he goes on a rampage, not even Armin can stop him! With the survival of humanity on his massive shoulders, will Eren be able to return to his senses, or will he lose himself forever?Chapters list :14. Primitive Desire15. One by One16. Necessity17. Delusions of Strength18. What Should I Do Now?',
+      release_date: '(first published April 8th 2011)')
+Manga.create(
+      title: 'Alice in the Country of Hearts, Vol. 06',
+      author: 'QuinRose'
+      synopsis: 'A clever retelling of the Alice in Wonderland tale - manga-style! Sadness looms over Alice after Ace shows how life is treated in Wonderland. To cheer her up, Boris takes Alice to the amusement park, but when she comes home, Julius asks her if she wants to leave the clock tower. Where will Alice live now?',
+      release_date: '(first published December 15th 2010)')
+Manga.create(
+      title: 'Neon Genesis Evangelion, Vol. 8',
+      author: 'Yoshiyuki Sadamoto'
+      synopsis: 'Japan's most controversial anime series is over...but not the manga version of Neon Genesis Evangelion Series co-creator Yoshiyuki Sadamoto's personal interpretation of the Evangelion characters and story is sure to intrigue new and old fans alike. In 2015, the "Angels" have returned, and Shinji Ikari, a fourteen year-old child of the new Earth, is forced by his father Gendo-commander of the secret organization NERV-to pilot the monstrous biomechanical weapon called "Evangelion" to match the Angels' fearsome power. As a disembodied Shinji drifts in visions, merged with the esoteric fluids of the Evangelion, his father's long-serving lieutenant, Fuyutsuki, is kidnapped for interrogation by SEELE-in German, the "Soul"-the council of superiors whom NERV has been double-crossing for some time now...One of the founding members of Gainax, Japan's most progressive anime studio, Evangelion's Yoshiyuki Sadamoto was also the character designer for their recent Adult Swim smash FLCL. EVA Vol. 8 contains a Japanese sound FX glossary plus a special bonus guide to help U.S. fans discover the best of the many import books available on Evangelion',
+      release_date: '(first published December 19th 2002)')
+Manga.create(
+      title: 'Alice in the Country of Hearts, Vol. 01',
+      author: 'QuinRose'
+      synopsis: 'A clever retelling of the "Alice in Wonderland" tale--manga-style--this title is releasing in time for the major motion picture directed by Tim Burton and starring Johnny Depp.',
+      release_date: '(first published July 10th 2008)')
+Manga.create(
+      title: 'Neon Genesis Evangelion, Vol. 3',
+      author: 'Yoshiyuki Sadamoto'
+      synopsis: 'In the year 2015, humanity faces terrifying last judgement by a mysterious race of giants, and a handful of teenagers must pilot the colossal superentities known as "evangelions" in the fight for survival. With Volume 3, this controversial science fiction series continues to push the limits of the genre.',
+      release_date: '(first published October 29th 1996)')
+Manga.create(
+      title: 'PLUTO: Urasawa x Tezuka, Volume 006',
+      author: 'Naoki Urasawa'
+      synopsis: 'A new vision based on Astro Boy - "The Greatest Robot On Earth" Pluto… Sahad… Goji… Abullah… Mysterious figures somehow involved with the serial murders of the great robots of the world. Europol's top robot detective Gesicht has been put on the case, and he's mere steps away from discovering the horrifying truth behind the killer and his motives… Little does he realize that he's also steps away from discovering a horrifying truth of his own… Masterfully crafted science fiction and suspense at its best! In an ideal world where man and robots coexist, someone or some has destroyed the powerful Swiss robot Mont Blanc. Elsewhere a key figure in a robot rights group is murdered. The two incidents appear to be unrelated...except for one very conspicuous clue - the bodies of both victims have been fashioned into some sort of bizarre collage complete with makeshift horns placed by the victims' heads. Interpol assigns robot detective Gesicht to this most strange and complex case - and he eventually discovers that he too, as one of the seven great robots of the world, is one of the targets.Contains Chapters 40 to 47.',
+      release_date: '(first published July 18th 2008)')
+Manga.create(
+      title: 'Attack on Titan, Vol. 11',
+      author: 'Hajime Isayama'
+      synopsis: '"DO YOU THINK THIS WORLD HAS A FUTURE?" Thanks to Eren's timely arrival, the 104th has managed to turn the tide at Wall Rose. But this momentary victory forces two more traitors into a corner – and the identity of the Titans who have been destroying the walls is revealed! What can Eren do against the two most dangerous monsters humanity has ever faced? And who else might be an enemy in disguise?  Chapters list :43. The Armored Titan44. Strike, Throw, Submit45. The Hunters46. Opening',
+      release_date: '(first published August 9th 2013)')
+Manga.create(
+      title: 'Neon Genesis Evangelion, Vol. 1',
+      author: 'Yoshiyuki Sadamoto'
+      synopsis: 'Evangelion, Vol. 1, contains a Japanese sound FX glossary plus special bonus commentary by series mecha designer Ikuto Yamashita, as well as the famous "confession letter" written by director Hideaki Anno in the months before the original TV series premiere that laid out his deeply personal motivations to make Evangelion.',
+      release_date: '(first published August 29th 1995)')
+Manga.create(
+      title: 'Alice in the Country of Hearts, Vol. 3',
+      author: 'QuinRose'
+      synopsis: 'Kidnapped by a handsome man with rabbit ears, Alice Liddell finds herself abandoned in an odd place called Wonderland and thrust into a "game," the rules of which she has yet to learn. Alice, ever the plucky tomboy, sets off to explore and get the lay of this strange land, intent on finding her rude kidnapper and giving him a piece of her mind (and her fist). But little does she know that she's wandered right into the middle of a dangerous power struggle involving just about all of Wonderland's attractive, weapon-happy denizens. And the only way for Alice to return home is to get acquainted with the lot of them?! How in the world will she manage that and still manage to stay alive?!',
+      release_date: '(first published December 15th 2010)')
+Manga.create(
+      title: 'Attack on Titan, Vol. 5',
+      author: 'Hajime Isayama'
+      synopsis: 'CAN YOU GO HOME AGAIN?Thanks to Eren, humanity has taken the town of Trost back from the Titans. Exhausted, Eren falls into a coma for three days – and wakes in shackles, staring at Erwin Smith, leader of the Survey Corps. Certain that Eren's father's research holds the key to the mystery of the Titans’ rise, Smith wants an expedition to retrieve it from the house where Eren grew up. But that’s deep in Titan territory, and to get there Eren will need to master a power he still doesn’t fully understandChapters list :Side Story: Ilse's Notebook19. Still Can't See20. Special Operations Squad21. Opening the Gate22. Long-Distance Enemy Scouting Formation',
+      release_date: '(first published August 9th 2011)')
+Manga.create(
+      title: 'Attack on Titan, Vol. 1',
+      author: 'Hajime Isayama'
+      synopsis: 'In this post-apocalytpic sci-fi story, humanity has been devastated by the bizarre, giant humanoids known as the Titans. Little is known about where they came from or why they are bent on consuming mankind. Seemingly unintelligent, they have roamed the world for years, killing everyone they see. For the past century, what's left of man has hidden in a giant, three-walled city. People believe their 100-meter-high walls will protect them from the Titans, but the sudden appearance of an immense Titan is about to change everything.Chapters list:1. To You, 2000 Years From Now2. That Day3. Night Of The Disbanding Ceremony4. First Battle',
+      release_date: '(first published March 17th 2010)')
+Manga.create(
+      title: 'Alice in the Country of Hearts, Vol. 1',
+      author: 'QuinRose'
+      synopsis: 'Kidnapped by a handsome man with rabbit ears, Alice Liddell finds herself abandoned in an odd place called Wonderland and thrust into a "game," the rules of which she has yet to learn. Alice, ever the plucky tomboy, sets off to explore and get the lay of this strange land, intent on finding her rude kidnapper and giving him a piece of her mind (and her fist). But little does she know that she's wandered right into the middle of a dangerous power struggle involving just about all of Wonderland's attractive, weapon-happy denizens. And the only way for Alice to return home is to get acquainted with the lot of them?! How in the world will she manage that and still manage to stay alive?!',
+      release_date: '(first published January 10th 2009)')
+Manga.create(
+      title: 'Neon Genesis Evangelion, Vol. 11',
+      author: 'Yoshiyuki Sadamoto'
+      synopsis: 'In 2015, the "Angels" have returned, and Shinji Ikari, a fourteen year-old child of the new Earth, is forced by his father Gendo--commander of the secret organization NERV--to pilot the monstrous biomechanical weapon called "Evangelion" to match the Angels' fearsome power...',
+      release_date: '(first published June 19th 2007)')
+Manga.create(
+      title: 'Neon Genesis Evangelion: 3-in-1 Edition, Vol. 3',
+      author: 'Yoshiyuki Sadamoto'
+      synopsis: 'The manga adaptation of the landmark animated series that changed the mecha genre. Each volume contains three of the original graphic novels and includes pages of stunning, full-color art.  Once Shinji didn’t care about anything; then he found people to fight for—only to learn that he couldn’t protect them or keep those he let into his heart from going away. As mankind tilts on the brink of the apocalyptic Third Impact, human feelings are fault lines leading to destruction and just maybe, redemption and rebirth.  Reads R to L (Japanese Style) for teen plus audiences.',
+      release_date: '')
+Manga.create(
+      title: 'PLUTO: Urasawa x Tezuka, Volume 008',
+      author: 'Naoki Urasawa'
+      synopsis: 'A new vision based on Astroboy - "The greatest robot on earth". Contains Chapters 56 to 65.',
+      release_date: '(first published June 30th 2009)')
+Manga.create(
+      title: 'Attack on Titan, Vol. 3',
+      author: 'Hajime Isayama'
+      synopsis: 'TRAITOR   The last thing Eren remembers before blacking out, a Titan had bitten off his arm and leg and was getting ready to eat him alive. Much to his surprise he wakes up without a scratch on him, with a crowd of angry soldiers screaming for his blood. What strange new power has he awakened, and what will happen when the boy devoted to destroying the Titans becomes one himself?Includes special extras after the story!',
+      release_date: '(first published December 9th 2010)')
+Manga.create(
+      title: 'Saiyuki, Vol. 2',
+      author: 'Kazuya Minekura'
+      synopsis: 'Continuing their journey west and leaving a trail of dead Youkai in their wake, Genjyo Sanzo and company come upon a young woman who has quite a tale to tell.',
+      release_date: '(first published July 1st 2002)')
+Manga.create(
+      title: 'Saiyuki, Vol. 5',
+      author: 'Kazuya Minekura'
+      synopsis: 'Violence drew them close, but something far more powerful kept them together. The story of how Sanzo, Goku, Gojyo, and Hakkai met is revealed at last.',
+      release_date: '(first published October 27th 1999)')
+Manga.create(
+      title: 'Saiyuki, Vol. 7',
+      author: 'Kazuya Minekura'
+      synopsis: 'A set of twins barge in our heroes, one which is transformed into a monster. While Goku and Hakkai are sucked into the twin's magical gourd, Sanzou and Gojyo set off a hunt for the twin. They find that the demon twins escaped from their village and were taken under the wing of God, a mysterious figure who granted them whatever they wanted.',
+      release_date: '(first published January 1st 2000)')
+Manga.create(
+      title: 'Saiyuki, Vol. 9',
+      author: 'Kazuya Minekura'
+      synopsis: 'Feeling down in the dumps about losing in the battle against "God", Goku attempts to raise everyone's spirits with a game of Mahjung (sp?). He wins match after match until he scolds them all to snap out of it and shape up, leading to them playing a whole day straight of the game. Ready for another round, the gang approaches "The God's Castle", where they run into a bit of trouble with talking toys, before finally reaching "God". They kick major ass and succeed in beating him in the end. There is a flashback of when Sanzou was younger and had a run-in with a young "God", who was a disciple to Ukoku Sanzou Houshi, a very powerful and wise monk. With the "game" over, the castle around them collapses, but they manage to escape. Amongst the ruins, Ugoku appears and picks up "God"s (I think his name is actually Kouryuu) fallen monk hat and announces that he's ready for another "game". Our heroes drive off into the distance, back to their usual bickering selves, but the story is far from over...',
+      release_date: '(first published March 27th 2002)')
+Manga.create(
+      title: 'Saiyuki Reload Volume 1',
+      author: 'Kazuya Minekura'
+      synopsis: 'Book by Kazuya Minekura',
+      release_date: '(first published July 25th 2002)')
+Manga.create(
+      title: 'Saiyuki Reload Volume 7',
+      author: 'Kazuya Minekura'
+      synopsis: 'Book by Kazuya Minekura',
+      release_date: '(first published August 15th 2006)')
+Manga.create(
+      title: 'Saiyuki Reload, Volume 3',
+      author: 'Kazuya Minekura'
+      synopsis: 'In this action-adventure manga, readers see the explanation of many of the characters past as Sanzo and company celebrate the one-year anniversary of their journey west. Includes four full-color bonus inserts. Rated for older teens. (Graphic Novels)',
+      release_date: '(first published December 31st 1999)')
+Manga.create(
+      title: 'Saiyuki, Vol. 8',
+      author: 'Kazuya Minekura'
+      synopsis: 'Sanzo, Goku and Hakkai are out to find "God"--and Gojyo. At the same time, Gojyo climbs a seemingly endless stairway to heaven and is assailed by a very maternal monster. The gang finally catches up to Gojyo, and as luck would have it, they've also found "God." But this dangerous deity is no ordinary opponent, and the quartet must get serious before they get crushed.',
+      release_date: '(first published 2003)')
+Manga.create(
+      title: 'Saiyuki Reload, Volume 2',
+      author: 'Kazuya Minekura'
+      synopsis: 'Sanzo faces off against his evil doppelganger. The progress westward is held up continually as new villains surface, and an old foe makes an appearance. While his companions wrestle with corporeal demons, Sanzo must face his inner fears.',
+      release_date: '(first published March 26th 2003)')
+Manga.create(
+      title: 'Saiyuki Reload, Volume 5',
+      author: 'Kazuya Minekura'
+      synopsis: 'A group of youkai advance upon Goku, Hakkai, and Gojyo. To stop the onslaught against Sanzo and company, Hazel and Gat show up to exterminate the attackers. Our heroes start to disagree with one another when youkai children join the fray Is it morally wrong to slay those that are trying to kill you, even if they are children?',
+      release_date: '(first published January 1st 2005)')
+Manga.create(
+      title: 'Saiyuki Reload, Volume 9',
+      author: 'Kazuya Minekura'
+      synopsis: 'Ukoku is back and creepier than ever, and it's going to be the Seiten sutra vs. the Muten sutra if Sanzo has his way. Meanwhile, Hazel's past is revealed, along with his own knowledge of Ukoku and the Muten sutra.',
+      release_date: '(first published January 1st 2008)')
+Manga.create(
+      title: 'Saiyuki, Vol. 3',
+      author: 'Kazuya Minekura'
+      synopsis: 'In the midst of battle with Sanzo and his team, a cursed human by the name of Rikudo impales the human leader, as he tries to protect Goku. In the melee, Goku's Youkai power limiter, the device that keeps his Youkai madness from taking over his soul, shatters, sending Goku into a violent rampage that yields for neither friend nor foe.',
+      release_date: '(first published January 1st 2000)')
+Manga.create(
+      title: 'Saiyuki Reload #10',
+      author: 'Kazuya Minekura'
+      synopsis: 'Goku, Gojyo, and Hakkai arrive in time to rescue Sanzo from the darkness unleashed from the Maten Scripture, but the battle with Ukoku is far from over, as the 'Black Sanzo' still has another trick hidden up his sleeve - a pawn he has groomed from young, lured by the powers of resurrection. Whereabouts is the monster responsible for exorcist Filbert's death, and which side will Hazel stand on when the truth comes to light? For some the journey will continue on, but for some it has come to an end...',
+      release_date: '')
+Manga.create(
+      title: 'Saiyuki Reload, Volume 6',
+      author: 'Kazuya Minekura'
+      synopsis: 'Ukoku/Ni Jianyi returns! The renegade Sanzo priest tells Hazel of the Great Sage Equalling Heaven, how he is the most dangerous youkai in the land, and that the Sage is traveling with the Sanzo party. Hazel now has to make a new decision: Is his personal quest worth sacrificing a new friend? Meanwhile, the Sanzo party ends up in a mysteriously prosperous and youkai-free village. What kind of deal has the village headman made to maintain their safety? And what will happen when the fearsome foursome get involved?!',
+      release_date: '(first published February 15th 2006)')
+Manga.create(
+      title: 'Saiyuki Reload, Volume 8',
+      author: 'Kazuya Minekura'
+      synopsis: 'The bestselling series that has inspired the hit anime from Geneon continues with this eighth volume.',
+      release_date: '(first published June 15th 2007)')
+Manga.create(
+      title: 'Saiyuki Reload, Volume 4',
+      author: 'Kazuya Minekura'
+      synopsis: 'New troubles and new characters are introduced in this exciting installment of "Saiyuki Reload." As the fearsome foursome continue on their latest adventure, what will happen when they are faced with a new kind of enemy? Rated for older teens.',
+      release_date: '')
+Manga.create(
+      title: 'Saiyuki, Vol. 1',
+      author: 'Kazuya Minekura'
+      synopsis: 'It was a time of chaos, when Heaven and Earth were as one, and humans and demons - the youkai - lived together in peace. The foundations of civilization and religion were raised and reinforced in this land of Togenkyo, the paradise known as Shangri-la.But now, a great evil threatens harmony in this great land. Far to the West, in India, someone is attempting to resurrect the youkai lord Gyumaoh by mixing human science with youkai magic. This forbidden practice has created a Minus Wave of negative energy that is spreading across Shangri-la, poisoning the souls of the youkai and turning them into mindless monsters. The only hope lies in four legendary heroes: Genjyo Sanzo, a high priest with low morals; Son Goku, the hungry and mischievous Monkey King, just released from 500 years imprisonment; Sha Gojyo, a water sprite with an addiction for good smokes and bad women; Cho Hakkai, the legendary demon slayer, and his transforming dragon Hakuryu. To save Shangri-la, these unlikely companions, united by fate, must travel together ... INTO THE WEST! Having been assigned by the human elders the mission of stopping a mystical plague that has afflicted the Youkai with madness, Genjyo Sanzo assembles his team of Youkai warriors, desperately hoping that the disease will not affect them. He sets up qualifying tests that will help him determine the loyalty and worth of Cho Hakkai, Son Goku and Sha Gojyo. The team then journeys west to rid the land of madness.',
+      release_date: '(first published January 1st 1997)')
+Manga.create(
+      title: 'Saiyuki, Vol. 6',
+      author: 'Kazuya Minekura'
+      synopsis: 'With poison coursing through his veins, Sanzo's life dwindles as Goku and the others fight to discover a way out of their desert prison. Although Kougaiji offers a solution, there's a catch - Goku must first defeat him in combat! Goku's desperation grows as Sanzo's health rapidly fails, but there's no divine intervention if Goku loses control this time. Will Goku put Sanzo's life above everything...and everyone?',
+      release_date: '(first published April 27th 2000)')
+Manga.create(
+      title: 'Saiyuki, Vol. 4',
+      author: 'Kazuya Minekura'
+      synopsis: 'The mysterious fortune-teller Chin Yisou takes great pleasure in pushing Hakkai's psychological boundaries, and Hakkai is frightened to find his bloody past nipping at his heels. When Chin Yisou starts targeting Sanzo and the others, our heroes find themselves not only fighting against him, but against each other.',
+      release_date: '(first published April 27th 1999)')
+
+/// batch 1
+Manga.create(
+      title: 'Vampire Knight, Vol. 5',
+      author: 'Matsuri Hino'
+      synopsis: 'Zero is suspected of killing Shizuka Hio, the pureblood vampire who murdered his family. Incensed, the vampire senate sends assassins to Cross Academy to execute him. Will the Night Class intervene, or will Kaname let Zero take the fall?',
+      release_date: '(first published April 5th 2007)')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 13',
+      author: 'Hiromu Arakawa'
+      synopsis: 'In the midst of a heated battle, Ed and Prince Lin of Xing are swallowed whole by the homunculus Gluttony. Will they survive the depths of Gluttony's gullet like Jonah in the whale, or has Al lost his brother for good? And the political power structure of the military may be irreparably shattered when Colonel Mustang confronts Führer President King Bradley with his horrifying suspicion that Bradley is a homunculus.',
+      release_date: '(first published March 22nd 2006)')
+Manga.create(
+      title: 'Bakuman, Volume 10: Imagination and Presentation',
+      author: 'Tsugumi Ohba'
+      synopsis: 'Reads R to L (Japanese Style), for audiences T. Average student Moritaka Mashiro enjoys drawing for fun. When his classmate and aspiring writer Akito Takagi discovers his talent, he begs Moritaka to team up with him as a manga-creating duo. But what exactly does it take to make it in the manga-publishing world? Moritaka and Akito will need to come up with an amazing new manga idea if they ever hope to get back into Weekly Jump magazine, and they only have six months to do it! But with Hattori, their former editor, helping behind the scenes, the duo might have everything in place to create the perfect story.',
+      release_date: '(first published October 4th 2010)')
+Manga.create(
+      title: 'Vampire Knight, Vol. 15',
+      author: 'Matsuri Hino'
+      synopsis: 'With Kaname missing, Yuki must now step in as acting head of her clan to maintain the fragile peace between the human and vampire societies. Will she be able to regain the trust of the vampire aristocrats, much less Aido?Reads R to L (Japanese Style) for T+ audiences.',
+      release_date: '(first published December 5th 2011)')
+Manga.create(
+      title: 'Vampire Knight, Vol. 2',
+      author: 'Matsuri Hino'
+      synopsis: 'Yuki and Zero go into town to do some shopping for the Headmaster, and they are attacked by a fiendish vampire called a "Level E". Two Night Class students, Takuma Ichijo and Senri Shiki, come just on time and slay it, and invite Yuki and Zero to their dormitory at midnight to find out why they killed one of their own kind...',
+      release_date: '(first published December 5th 2005)')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 6',
+      author: 'Hiromu Arakawa'
+      synopsis: 'The origin of the Elric Brothers! Once, Edward and Alphonse Elric were willing to do anything to become alchemists. But when they tried to use their newfound skills to resurrect their dead mother, they broke a taboo and encountered something more terrifying than death itself. Now, hardened by years of military training, Edward and Alphonse have returned to the woman who first taught them alchemy...but can she help them, or even forgive them?',
+      release_date: '(first published October 22nd 2003)')
+Manga.create(
+      title: 'Vampire Knight, Vol. 4',
+      author: 'Matsuri Hino'
+      synopsis: 'Zero warns Yuki to stay away from Maria Kurenai, the new Night Class transfer student, although he won't tell Yuki why. Kaname is also wary, and he sends Ichijo to watch Maria so she doesn't start trouble. Who is this girl, and why does she have the entire Night Class on edge',
+      release_date: '(first published October 5th 2006)')
+Manga.create(
+      title: 'Vampire Knight, Vol. 14',
+      author: 'Matsuri Hino'
+      synopsis: 'The Vampire Hunter Society has imprisoned Aido in order to interrogate him about Kaname’s connection to Sara Shirabuki. Meanwhile, Yuki wants a fresh start with Kaname, but circumstances arise that may force them apart.',
+      release_date: '(first published June 3rd 2011)')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 16',
+      author: 'Hiromu Arakawa'
+      synopsis: 'The brothers pursue fugitive May Chang to solve the mystery of why their alchemical powers were rendered inert while she and Scar continue to be able to wield them. Meanwhile, Scar enlists some unlikely help to delve into the secrets of his brother's alchemical knowledge. And the newest, most horrifying homunculus makes an appearance...!',
+      release_date: '(first published March 22nd 2007)')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 4',
+      author: 'Hiromu Arakawa'
+      synopsis: 'Trapped and injured in a secret alchemical laboratory, Edward Elric is at the mercy of his enemies, Lust and Envy. But they don't want him dead...they have other plans for him. As the laboratory goes up in flames, the brothers find themselves back at square one, with only an inkling of the massive scale of the Philosopher's Stone conspiracy. But then, Lieutenant Colonel Maes Hughes uncovers a shocking secret...',
+      release_date: '(first published January 20th 2003)')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 12',
+      author: 'Hiromu Arakawa'
+      synopsis: 'The hunters become the hunted when the Elric brothers and Prince Lin set a trap for the homunculus with the insatiable appetite - Gluttony! On another front, state politics are shaken up when a horrifying truth about Fuhrer President King Bradley is revealed - and Colonel Roy Mustang is right there to capitalize on the situation.',
+      release_date: '(first published November 21st 2005)')
+Manga.create(
+      title: 'Fullmetal Alchemist Box Set',
+      author: 'Hiromu Arakawa'
+      synopsis: 'This best selling series is now available in a complete box set Includes volumes 1-27, plus extras such as Fullmetal Alchemist Novel: The Ties That Bind and a full-color, two-sided poster. Over a 20% savings over buying the individual volumes',
+      release_date: '')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 24',
+      author: 'Hiromu Arakawa'
+      synopsis: 'Hohenheim finally gets his chance to stop the mysterious homunculus "father" who rules over Central City. Will Hohenheim's surprise be enough to defeat the most powerful homunculus of them all? And when King Bradley makes a triumphant return, will the battle turn in the military's favor...?',
+      release_date: '(first published December 22nd 2009)')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 3',
+      author: 'Hiromu Arakawa'
+      synopsis: 'Accompanied by their bodyguard, Alex Louis Armstrong, our heroes seek out their closest childhood friend, mechanic Winry Rockbell, to fix their battered "auto-mail" bodyparts. Soon their quest for the Philosopher's Stone takes them to the great central library, where the Stone's formula may be hidden...if the mysterious figure named Lust doesn't get there first! But the secret of the Philosopher's Stone may be even more frightening than the beings who guard it...',
+      release_date: '(first published September 21st 2002)')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 5',
+      author: 'Hiromu Arakawa'
+      synopsis: 'Ed, Alphonse and their mechanic Winry go south in search of Izumi Curtis, the master alchemist who taught the brothers how to use alchemy. But in the boomtown of Rush Valley, an encounter with a pickpocket turns them down a different path in search of an auto-mail blacksmith whose handiwork is the best that Winry has ever seen. Then the action flashes back to the past to show how Ed and Alphonse first learned alchemy...',
+      release_date: '(first published June 21st 2003)')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 2',
+      author: 'Hiromu Arakawa'
+      synopsis: 'In an alchemical ritual gone wrong, Edward Elric lost his arm and his leg, and his brother Alphonse became nothing but a soul in a suit of armor. Equipped with mechanical "auto-mail" limbs, Edward becomes a state alchemist, seeking the one thing that can restore his brother and himself... the legendary Philosopher's Stone.There are many types of alchemy in the world. Edward's commanding officer, "Flame Alchemist" Roy Mustang, can control fire. Shou Tucker, the "Sewing-Life Alchemist," specializes in the most difficult alchemy of all...biological transmutation, the ability to alter the tissue of living things. But no matter what their power, alchemists are still human. And when a mysterious killer begins stalking state alchemists, no one can escape his vengeance...',
+      release_date: '(first published May 20th 2002)')
+Manga.create(
+      title: 'Vampire Knight, Vol. 13',
+      author: 'Matsuri Hino'
+      synopsis: 'Yuki is attacked by another pureblood outside a graveyard for meddling in the ways of the vampire society. Injured, she returns home to Kaname, who shares with her his past memories and the truth behind the Kuran family.',
+      release_date: '(first published December 3rd 2010)')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 1',
+      author: 'Hiromu Arakawa'
+      synopsis: 'Alchemy: the mystical power to alter the natural world; something between magic, art and science. When two brothers, Edward and Alphonse Elric, dabbled in this power to grant their dearest wish, one of them lost an arm and a leg...and the other became nothing but a soul locked into a body of living steel. Now Edward is an agent of the government, a slave of the military-alchemical complex, using his unique powers to obey orders...even to kill. Except his powers aren't unique. The world has been ravaged by the abuse of alchemy. And in pursuit of the ultimate alchemical treasure, the Philosopher's Stone, their enemies are even more ruthless than they are...',
+      release_date: '(first published January 1st 2002)')
+Manga.create(
+      title: 'Vampire Knight: Fleeting Dreams',
+      author: 'Matsuri Hino'
+      synopsis: 'A collection of short stories based on Vampire Knight Deranged Love A dying Rido reflects on his obsessive love for Juri. Gifts for Yuki Kaname wants to reward Yuki for doing well on her studies with tutor Aido. Hidden Love This is the story of Sara’s first love. Queen of the Abyss After Zero parts ways with Yuki and returns to being a vampire hunter, he encounters a vampire named Shien.',
+      release_date: '')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 22',
+      author: 'Hiromu Arakawa'
+      synopsis: 'Having consumed Gluttony's powers, Pride may now be too much to handle for Ed and his allies. Their only chance could be the help of Al and Hohenheim, but will Ed trust his estranged father long enough for their plan to work? And back at Central City, Mustang and his team have started their attack. But does the army have a dangerous trick up its sleeve...?',
+      release_date: '(first published January 1st 2009)')
+Manga.create(
+      title: 'Bakuman, Volume 2: Chocolate and Akamaru',
+      author: 'Tsugumi Ohba'
+      synopsis: 'After Moritaka and Akito collaborate on a manga together, they venture to publishing house Shueisha in hopes of capturing an editor's interest. As much potential as these two rookies have, will their story impress the pros and actually get printed?',
+      release_date: '(first published 2009)')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 9',
+      author: 'Hiromu Arakawa'
+      synopsis: 'Ed, Al and Winry return to Central Command, but only bad news greets the Fullmetal Alchemist and his friends. Lieutenant Colonel Maes Hughes has been murdered - and Second Lieutenant Maria Ross is the prime suspect! While Maria awaits an uncertain fate in jail, the living suit of armor bearing the soul of serial killer "Berry the Chopper" breaks free of the military and goes on a rampage. Now, the mysterious Homunculi must come out of the shadows to deal with the mess before their monstrous conspiracy is exposed. But for Colonel Mustang, Maes Hughes's former best friend, it's not about the truth; it's about revenge...',
+      release_date: '(first published November 22nd 2004)')
+Manga.create(
+      title: 'Bakuman, Volume 7: Gag and Serious',
+      author: 'Tsugumi Ohba'
+      synopsis: 'Reads R to L (Japanese Style). Average student Moritaka Mashiro enjoys drawing for fun. When his classmate and aspiring writer Akito Takagi discovers his talent, he begs Moritaka to team up with him as a manga-creating duo. But what exactly does it take to make it in the manga-publishing world? Moritaka and Akito face the prospect of their series being canceled in Shonen Jump due to dropping popularity. Can the duo avoid the axe and keep fighting? And when Akito starts becoming friendly with fellow manga creator Ko Aoki, how will it affect his long-term relationship with Kaya? About The Author: Born in Tokyo, Tsugumi Ohba is the author of the hit series Death Note. His current series Bakuman. is serialized in Weekly Shonen Jump.',
+      release_date: '(first published March 4th 2010)')
+Manga.create(
+      title: 'Vampire Knight, Vol. 17',
+      author: 'Matsuri Hino'
+      synopsis: 'The #1 hit series from Shojo Beat—a tale of vampire romanceCross Academy is attended by two groups of students: the Day Class and the Night Class. At twilight, when the students of the Day Class return to their dorm, they cross paths with the Night Class on their way to school. Yuki Cross and Zero Kiryu are the Guardians of the school, protecting the Day Class from the Academy's dark secret: the Night Class is full of vampires!Reads R to L (Japanese Style) for teen plus audiences.',
+      release_date: '(first published December 5th 2012)')
+Manga.create(
+      title: 'Vampire Knight: Life',
+      author: 'Matsuri Hino'
+      synopsis: 'A digital-only exclusive! This special chapter reveals more about Yuki and Zero’s relationship at the end of volume 19.',
+      release_date: '')
+Manga.create(
+      title: 'Vampire Knight, Vol. 12',
+      author: 'Matsuri Hino'
+      synopsis: 'It's been one year since Yuki left Cross Academy with Kaname, and tonight is her first vampire soirée as a pureblood. Her best friend Sayori has snuck into the party to see her, but will Yuki and Zero be able to protect a human girl amid a bevy of vampires?',
+      release_date: '(first published July 5th 2010)')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 7',
+      author: 'Hiromu Arakawa'
+      synopsis: 'Where did Alphonse Elric go during the few short minutes he was wiped from existence, body and soul? From a secret lair in the city of Dublith, a group of outcasts kidnaps Alphonse to find the alchemical secrets of his creation! It's up to Ed (and a certain housewife) to go into the Devil's Nest and rescue his brother. But the criminals of the Devil's Nest aren't exactly human either. Now, Al must fight a homunculus - an artificial human being - and the streets of Dublith will run red with blood...',
+      release_date: '(first published March 22nd 2004)')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 21',
+      author: 'Hiromu Arakawa'
+      synopsis: 'A diabolical trap is set for President Bradley... If he is  assassinated, a power vacuum will open that Mustang and his allies will be more than happy to fill. Then, while Ed is reunited with someone from his past, Al is separated from his body - his proxy armor body! Now who is filling his heavy metal shoes...?Plus, take a break from all the alchemical intrigue and homunculus backstabbing at the annual Resembool Spring Sheep Festival!',
+      release_date: '(first published December 22nd 2008)')
+Manga.create(
+      title: 'Vampire Knight: Ice Blue Sin',
+      author: 'Ayuna Fujisaki'
+      synopsis: 'Cross Academy: Behind its gates, humans and vampires share the same halls, separated by Day and Night - a testament to the efforts of one man to promote their peaceful co-existence. Very soon, it will bear witness to a dramatic change in dynasty centuries old in the making. But Before that, stories from the past shall set future events in stone...In the hours of twilight, an intreprid Day Class girl sneaks into the most forbidden place on campus - the Moon Dormitory of te Night Class students. While these scions of vampire aristocracy do not usually take note of humans, Fuka was warmly received and even invited back among them. Something about her has got the Night Class talking, and when one becomes bewitched by the darkness, there can be no turning back...Born into a distinguished vampire hunter family, young Zero is destined to follow in the footsteps of his ancestors. Used to the safety and security of training with his master, the arrival of a senior disciple soon opens his eyes to the harsh reality that is the life of a vampire hunter. Before Cross Academy beckons, this one event shall forever reshape the boy's childhood and turn his eyes jaded to the world.',
+      release_date: '(first published 2008)')
+Manga.create(
+      title: 'Bakuman, Volume 14: Psychological Warfare and Catchphrases',
+      author: 'Tsugumi Ohba'
+      synopsis: 'Average student Moritaka Mashiro enjoys drawing for fun. When his classmate and aspiring writer Akito Takagi discovers his talent, he begs Moritaka to team up with him as a manga-creating duo. But what exactly does it take to make it in the manga-publishing world?Is Moritaka and Akito’s newest rival also their greatest fan?! The duo is asked to judge a manga contest and the best entry reminds them of their own creations. But who is this mysterious new artist and what are his controversial methods of creating manga?',
+      release_date: '(first published 2010)')
+Manga.create(
+      title: 'Vampire Knight, Vol. 1',
+      author: 'Matsuri Hino'
+      synopsis: 'Yuki Cross has no memory of her past prior to the moment she was saved from a vampire attack ten years ago. She was adopted by the headmaster of Cross Academy, and now works alongside Zero to guard the Academy's secret. Cross Adademy is attended by two groups of students: the Day Class and the Night Class. At twilight, when the students of the Day Class return to their dorm, they cross paths with the Night Class on their way to school. Yuki Cross and Zero Kiryu are the Guardians of the school, protecting the Day Class from the Academy's dark secret: the Night Class is full of vampires!',
+      release_date: '(first published July 5th 2005)')
+Manga.create(
+      title: 'Bakuman, Volume 5: Yearbook and Photobook',
+      author: 'Tsugumi Ohba'
+      synopsis: 'By the creators of Death Note! The mystery behind manga-making revealed!Reads R to L (Japanese Style), for audiences T  Big changes are in store now that Moritaka and Akito have their very own series in Shonen Jump. Hanging out with their favorite manga creators, hiring assistants, keeping track of the weekly reader surveys—life as a professional manga artist is tough! Can these two survive the pressure…?',
+      release_date: '(first published January 1st 2009)')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 10',
+      author: 'Hiromu Arakawa'
+      synopsis: 'In an alchemical ritual gone wrong, Edward Elric lost his arm and his leg, and his brother Alphonse became nothing but a soul in a suit of armor. Equipped with mechanical "auto-mail" limbs, Edward becomes a state alchemist, seeking the one thing that can restore his and his brother's bodies...the legendary Philosopher's Stone.Barry the Chopper, the psychopathic killer whose soul is encased in a suit of armor, has been captured by Colonel Mustang's troops. Fearing he will reveal the Philosopher's Stone conspiracy, Gluttony and Lust decide to kill him, using Barry's own original soulless body to track him down! Though Colonel Mustang has anticipated their moves and set up an ambush, Gluttony and Lust prove too powerful and easily fight their way through to Barry, who is being protected by Al and Lieutenant Hawkeye. In a terrible battle, a badly injured Colonel Mustang sacrifices all in a last-ditch attempt to stop Lust!',
+      release_date: '(first published January 1st 2005)')
+Manga.create(
+      title: 'Bakuman, Volume 8: Panty Shot and Savior',
+      author: 'Tsugumi Ohba'
+      synopsis: 'By the creators of Death Note! The mystery behind manga-making revealed!Reads R to L (Japanese Style). Average student Moritaka Mashiro enjoys drawing for fun. When his classmate and aspiring writer Akito Takagi discovers his talent, he begs Moritaka to team up with him as a manga-creating duo. But what exactly does it take to make it in the manga-publishing world?Drama swirls around the manga creators as they try to move forward after being canceled from . Moritaka and Akito work hard on a new comedy story pitch while Aoki and Nakai struggle with some personal issues. But when Kaya uncovers Akito’s meetings with Aoki and Iwase, things might never be the same.',
+      release_date: '(first published April 30th 2010)')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 17',
+      author: 'Hiromu Arakawa'
+      synopsis: 'A homunculus manages to breach impenetrable Fort Briggs, and the Elric brothers discover a terrible alchemical secret that penetrates every corner of the world as they know it! Meanwhile, Major Kimblee and a ruthless General Raven make Major General Olivier Mira Armstrong an offer she can't refuse...Whose side is she on, really? And how far is she willing to go?',
+      release_date: '(first published August 11th 2007)')
+Manga.create(
+      title: 'Bakuman: Complete Box Set',
+      author: 'Tsugumi Ohba'
+      synopsis: 'Discover the mystery of manga-making in the bestselling series by Tsugumi Ohba, the creator of the hit series DEATH NOTE, available for the first time in a complete box set. The Box Set includes Volumes 1 through 20, plus the bonus mini-comic “Otter No. 11,” along with a full-color, two-sided poster.In BAKUMAN。, average student Moritaka Mashiro enjoys drawing for fun. When his classmate and aspiring writer Akito Takagi discovers his talent, he begs Moritaka to team up with him as a manga-creating duo. But what exactly does it take to make it in the manga-publishing world? Also catch BAKUMAN。in the pages of VIZ Media’s Weekly Shonen Jump manga magazine.',
+      release_date: '')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 19',
+      author: 'Hiromu Arakawa'
+      synopsis: 'Ed's clever plan to take out an enemy leaves him severely injured... Can he cheat death? One of our friends discovers the ironic secret behind Scar's brother's transmutation notes. And Major General Armstrong meets with evil homunculus President Bradley. Whose side is she on again...?Plus, the disturbing origin of Ed and Al's immortal father finally revealed!',
+      release_date: '(first published January 1st 2008)')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 8',
+      author: 'Hiromu Arakawa'
+      synopsis: 'In an alchemical ritual gone wrong, Edward Elric lost his arm and his leg, and his brother Alphonse became nothing but a soul in a suit of armor. Equipped with mechanical "auto-mail" limbs, Edward becomes a state alchemist, seeking the one thing that can restore his and his brother's bodies...the legendary Philosopher's Stone.The raid on the Devil's Nest becomes a slaughter, as government troops - led by the Fuhrer President himself, King Bradley - exterminate the half-human forces of the Homunculus Greed. But will Ed and Al survive the battle unchanged? As Greed is sent to meet his maker, foreign travelers arrive in Amestris, having crossed the great desert from the eastern country of Xing. Their names are Mei and Ling, and they've come for the Philosopher's Stone...and a secret even the Elric brothers never imagined...',
+      release_date: '(first published July 22nd 2004)')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 25',
+      author: 'Hiromu Arakawa'
+      synopsis: 'As Greed and King Bradley continue their battle, the mysterious homunculus "father" makes his move under Central City. In order to achieve his objectives, he will need to force Mustang to make an unthinkable choice. Meanwhile, Alphonse has the chance to regain his own body, but the sacrifice to do so may be too much.',
+      release_date: '(first published January 1st 2010)')
+Manga.create(
+      title: 'Bakuman, Volume 9: Talent and Pride',
+      author: 'Tsugumi Ohba'
+      synopsis: 'By the creators of ! The mystery behind manga-making revealed!Reads R to L (Japanese Style), for audiences T. Average student Moritaka Mashiro enjoys drawing for fun. When his classmate and aspiring writer Akito Takagi discovers his talent, he begs Moritaka to team up with him as a manga-creating duo. But what exactly does it take to make it in the manga-publishing world? With Aiko Iwase teaming up with Eiji to get a series in Shonen Jump, Moritaka and Akito have another major rival to contend with. Can the duo get their series serialized and succeed in Jump this time? And when Akito has to ask for permission to marry Kaya, he’ll have to face her father, a master in Karate!',
+      release_date: '(first published August 4th 2010)')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 20',
+      author: 'Hiromu Arakawa'
+      synopsis: 'Betrayal and double-crossing are the order of the day. Greed, Pride and Envy prove to be formidable enemies, but one homunculus seems to be having pangs of - could it be? - conscience. Ominous news spreads quickly about a mysterious portal. Will this gateway help the Elric brothers regain their natural bodies? And will the gigantic underground transmutation circle be completed, leading to a major regime change? Plus, a moving reunion between Al and someone from his past!',
+      release_date: '(first published August 22nd 2008)')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 15',
+      author: 'Hiromu Arakawa'
+      synopsis: 'The horrors of the Ishbalan campaign occurred years before Ed became a state alchemist, and has serious repercussions, which set the tone for the complicated dealings of present-day state politics. Lieutenant Hawkeye reluctantly tells Ed all the dread details of the role Colonel Mustang and the other state alchemists played in this tragic event.',
+      release_date: '(first published November 22nd 2006)')
+Manga.create(
+      title: 'Bakuman, Vol. 12: Artist and Manga Artist',
+      author: 'Tsugumi Ohba'
+      synopsis: 'By the creators of Death Note! The mystery behind manga-making revealed!Reads R to L (Japanese Style), for audiences rated teen. Average student Moritaka Mashiro enjoys drawing for fun. When his classmate and aspiring writer Akito Takagi discovers his talent, he begs Moritaka to team up with him as a manga-creating duo. But what exactly does it take to make it in the manga-publishing world? With their new series Perfect Crime Party doing well in Weekly Shonen Jump, Moritaka and Akito sets their sights on beating their rivals in the magazine. But just as their dreams seem within reach, some surprising news will deal them an unexpected setback.',
+      release_date: '(first published March 4th 2011)')
+Manga.create(
+      title: 'Bakuman, Volume 4: Phone Call and the Night Before',
+      author: 'Tsugumi Ohba'
+      synopsis: 'Average student Moritaka Mashiro enjoys drawing for fun. When his classmate and aspiring writer Akito Takagi discovers his talent, he begs Moritaka to team up with him as a manga-creating duo. But what exactly does it take to make it in the manga-publishing world?When Akito is unable to come up with a storyboard within the time frame he promised, Moritaka decides to break up their partnership! As they go their separate ways to create manga, it may turn out that they're actually headed in the same direction...',
+      release_date: '(first published January 1st 2009)')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 26',
+      author: 'Hiromu Arakawa'
+      synopsis: 'With all the pieces now in his possession, the homunculus "father" executes his master plan as Edward and the others watch in horror. When the dust settles, the entire world has been reshaped. With the help of Hohenheim, the Elric brothers lauch a desperate final attack, but is it all too late...?',
+      release_date: '(first published January 1st 2010)')
+Manga.create(
+      title: 'Bakuman, Volume 13: Avid Readers and Love at First Sight',
+      author: 'Tsugumi Ohba'
+      synopsis: 'Reads R to L (Japanese Style) for audiences T.',
+      release_date: '(first published January 1st 2011)')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 18',
+      author: 'Hiromu Arakawa'
+      synopsis: 'Automail engineer Winry is captured and held hostage to force Edward to do her captor's bidding. Hawkeye discovers the disturbing truth about President Bradley's son. Our heroes have fortuitous and not-so-fortuitous reunions with old friends and enemies. And multiple intrigues and double-crosses ensue as some plot to save the world while others scheme to destroy it.',
+      release_date: '(first published December 22nd 2007)')
+Manga.create(
+      title: 'Bakuman, Volume 6: Recklessness and Guts',
+      author: 'Tsugumi Ohba'
+      synopsis: 'By the creators of Death Note! The mystery behind manga-making revealed!Reads R to L (Japanese Style), for audiences T  Moritaka and Akito’s hard work is paying off, and they start challenging their rival Eiji’s popularity in Shonen Jump. But just as they plan to take the next step, the team is hit with a surprising setback. Moritaka and Akito will need the help of their manga artist friends to overcome this hurdle!',
+      release_date: '(first published January 1st 2010)')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 23',
+      author: 'Hiromu Arakawa'
+      synopsis: 'As the battle for Central City rages on, Alphonse faces off against Pride and Kimblee with the aid of a Philosopher's Stone. Can he come up with a plan to take down these two dangerous foes? Meanwhile, Ed and his friends run into Envy below the city. When Roy Mustang learns the truth about Hughes's murder, will he be consumed by hatred and do the unthinkable...?',
+      release_date: '(first published January 1st 2009)')
+Manga.create(
+      title: 'Vampire Knight, Vol. 11',
+      author: 'Matsuri Hino'
+      synopsis: 'The Night Class at Cross Academy has been abolished. Zero still attends the Day Class while carrying out his duties as a vampire hunter. Yuki now lives hidden away at the Kuran residence with Kaname, but can she embrace the life of a pureblood vampire?',
+      release_date: '(first published December 4th 2009)')
+Manga.create(
+      title: 'The Art of Vampire Knight',
+      author: 'Matsuri Hino'
+      synopsis: 'The full-color artwork collection of the hit series Vampire Knight!Reads R to L (Japanese Style), for audiences T+  Cross over into the world of Vampire Knight with the lush, full-color artwork of Matsuri Hino. Includes an extensive gallery with author comments, a how-to tutorial, and an exclusive poster.',
+      release_date: '(first published July 5th 2010)')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 14',
+      author: 'Hiromu Arakawa'
+      synopsis: 'Ed and Al come face to face with the "father" of the homunculi, who just so happens to be a dead ringer for their own father, Van Hohenheim--a resemblance too uncanny for coincidence. And later, when the allure of immortality proves to be too much for Prince Lin of Xin, he lets Greed take over...literally!',
+      release_date: '(first published July 22nd 2006)')
+Manga.create(
+      title: 'Vampire Knight, Vol. 18',
+      author: 'Matsuri Hino'
+      synopsis: 'Cross Academy is attended by two groups of students: the Day Class and the Night Class. At twilight, when the students of the Day Class return to their dorm, they cross paths with the Night Class on their way to school. Yuki Cross and Zero Kiryu are the Guardians of the school, protecting the Day Class from the Academy’s dark secret: the Night Class is full of vampires!Yukio and Zero team up to go after Kaname. Yuki and Kaname fight each other in the headquarters of the Hunter Society while Sara tries to control Zero through her blood. The female progenitor’s origin metal intervenes, and Yuki realizes there is only one way to stop Kaname…',
+      release_date: '(first published May 2nd 2013)')
+Manga.create(
+      title: 'Vampire Knight, Vol. 9',
+      author: 'Matsuri Hino'
+      synopsis: 'R to L (Japanese Style). Cross over to the night. Meet your knights in shining darkness. Cross Adademy is attended by two groups of students: the Day Class and the Night Class. At twilight, when the students of the Day Class return to their dorm, they cross paths with the Night Class on their way to school. Yuki Cross and Zero Kiryu are the Guardians of the school, protecting the Day Class from the Academy's dark secret: the Night Class is full of vampires! A war among vampires has started at Cross Academy, and even Day Class students are being attacked. Kaname finally reveals his hidden plan to Zero, and Zero must choose on which side he will fight. But in order for Zero to defeat the enemy, he will have to take part in an atrocious act...',
+      release_date: '(first published November 5th 2008)')
+Manga.create(
+      title: 'Vampire Knight, Vol. 3',
+      author: 'Matsuri Hino'
+      synopsis: 'Kaname, the pureblood vampire, has kept to his room since learning of Yuki and Zero's forbidden act. However, the arrival of Ichijo's grandfather brings the entire Night Class together to greet one of the oldest vampires on the senate. Ichijo's grandfather says he's there merely to visit his grandson, but he's out for Kaname's blood.',
+      release_date: '(first published April 5th 2006)')
+Manga.create(
+      title: 'Vampire Knight, Vol. 16',
+      author: 'Matsuri Hino'
+      synopsis: 'The Night Class is back in session, but Yuki finds herself quickly becoming second fiddle to Sara Shirabuki. With Kaname gone, Yuki is now desperate for blood, so Zero offers her his own. Will she break her promise to Kaname and drink from Zero?',
+      release_date: '(first published May 2nd 2012)')
+Manga.create(
+      title: 'Fullmetal Alchemist, Vol. 11',
+      author: 'Hiromu Arakawa'
+      synopsis: 'Ed returns to Resembool and meets his father Hohenheim for the first time in many years. Although his father is happy to see him, Ed harbors intense feelings of resentment for being all but abandoned many years ago. However, anger gives way to intrigue as Ed and Al discover an important fact about the human transmutation ritual they attempted years before. What they thought was a partial resurrection of their mother was something else entirely - a revelation that could change their destiny forever.',
+      release_date: '(first published July 22nd 2005)')
+Manga.create(
+      title: 'Cardcaptor Sakura, Vol. 3',
+      author: 'CLAMP'
+      synopsis: 'When missing Clow Cards begin turning up alarmingly close to Sakura's home, catching the cards isn't just a matter of responsibility--it's a matter of protecting the ones she loves! Meanwhile, the new teacher at school has taken a particular interest in Sakura and her friends. Could she be looking for the Clow Cards too?',
+      release_date: '(first published August 1st 1997)')
+Manga.create(
+      title: 'Cardcaptor Sakura, Vol. 6',
+      author: 'CLAMP'
+      synopsis: 'Sakura has collected all of the Clow Cards, but her quest is not over yet. Unless she can pass the final trial, the cards will unleash a terrible curse. Yue, the Judge, doesn't think she has what it takes to become master of the cards. With everything she's ever held dear on the line, Sakura needs to give the performance of her lifetime.',
+      release_date: '(first published July 6th 1998)')
+Manga.create(
+      title: 'Cardcaptor Sakura, Omnibus 3',
+      author: 'CLAMP'
+      synopsis: 'Now that Sakura has proven herself as a magician, she finds that there are other unnatural forces threatening her town... forces linked, somehow, to two mysterious transfer students who''ve just arrived - one attracted to her brother, the other attracted to her Li and Sakura may be friends now instead of rivals, but if there''s a rival for Sakura''s affections, is he going back to Hong Kong?',
+      release_date: '(first published February 1st 2012)')
+Manga.create(
+      title: 'Cardcaptor Sakura, Omnibus 2',
+      author: 'CLAMP'
+      synopsis: 'The beautiful new teacher in Sakura's class, Kaho Mizuki, soon reveals that she's a shrine maiden with magic powers of her own. But as always, the struggle to capture the Clow cards is woven together with the mysterious - and complicated - threads of love and affection between Sakura and all the people in her life. Will her heart be strong enough as she faces the one who will judge her worthiness to master the cards at last?',
+      release_date: '(first published 1996)')
+Manga.create(
+      title: 'Cardcaptor Sakura: Master of the Clow, Vol. 3',
+      author: 'CLAMP'
+      synopsis: 'Capturing Cards was only the beginning...Once upon a magic night, an English sorcerer mixed Western wizardry with Eastern enchantments to create a magical deck of cards called the Clow Cards. These cards were hidden inside a dusty old book for decades, their powers virtually wasted. Then one fateful day, a young girl named Sakura Kinomoto discovered the book in her father's library. When she opened it, however, the Clow Cards were gone--and so was life as she knew it. The book's magical guardian, Cerberus, declared Sakura the Cardcaptor, and after many exciting adventures, she finally retrieved all of the cards. Now Sakura has earned the title Master of the Clow.The mysterious presence of Clow Reed continues to test Sakura with new dangers that require all of her energy to defeat. And this means that she no longer has the energy to support Yue, the Guardian of the Moon, and now he could disappear forever! Most of the time, Yue stays in his human form as Yukito, the boy Sakura has a crush on, but now that Yue is weakening, Yukito is deathly ill. If Sakura can't find a way to help him, boy and guardian will disappear forever!',
+      release_date: '(first published July 15th 1999)')
+Manga.create(
+      title: 'Cardcaptor Sakura, Vol. 4',
+      author: 'CLAMP'
+      synopsis: 'The school field trip is the perfect getaway for Sakura. She loves the sea, making dinner with her friends, having no homework, telling ghost stories—and best of all, no worrying about Clow Cards! It's all a blast... until the students start disappearing, one by one! Sakura and company have fallen into a Clow Card trap! Can she defeat the unknown card to get her friends back?!',
+      release_date: '(first published December 1st 1997)')
+Manga.create(
+      title: 'Cardcaptor Sakura: Master of the Clow, Vol. 2',
+      author: 'CLAMP'
+      synopsis: 'Capturing Cards was only the beginning...Once upon a magic night, an English sorcerer mixed Western wizardry with Eastern enchantments to create a magical deck of cards called the Clow Cards. These cards were hidden inside a dusty old book for decades, their powers virtually wasted. Then one fateful day, a young girl named Sakura Kinomoto discovered the book in her father's library. When she opened it, however, the Clow Cards were gone--and so was life as she knew it. The book's magical guardian, Cerberus, declared Sakura the Cardcaptor, and after many exciting adventures, she finally retrieved all of the cards. Now Sakura has earned the title Master of the Clow.Sakura is quickly learning that not all mysteries come from magic cards. In fact, the greatest mysteries of all come from the heart. One person who is close to the hearts of many is the charismatic Yukito. Most of the time, he's a mild-mannered high school student with a big appetite, but Sakura knows that his true form is that of the majestic winged guardian, Yue. As Sakura struggles to reconcile her feelings for this mysterious older boy, she finds that she has two suitors of her own: Li Syaoran, her one-time rival, now a close friend, and Eriol Hiiragizawa, the enigmatic new transfer student. But in this world of enchantment, not everyone's intentions are what they appear to be...',
+      release_date: '(first published March 5th 1999)')
+Manga.create(
+      title: 'Cardcaptor Sakura, Vol. 2',
+      author: 'CLAMP'
+      synopsis: 'Sakura Kinomoto seems like your average fourth grader--loves P.E., hates math--but there's something about her that's not so normal... she can use magic! As the Cardcaptor, it is Sakura's job to use her powers to track down the missing Clow Cards before disaster befalls the Earth. But there's a new boy in town, Syaoran Li, who claims that the cards are his birthright. According to the Covenant, there can only be one Cardcaptor--did Kero-chan pick the wrong person?',
+      release_date: '(first published April 1st 1997)')
+Manga.create(
+      title: 'Cardcaptor Sakura: Master of the Clow, Vol. 6',
+      author: 'CLAMP'
+      synopsis: 'Capturing Cards was only the beginning...Once upon a magic night, an English sorcerer mixed Western wizardry with Eastern enchantments to create a magical deck of cards called the Clow Cards. These cards were hidden inside a dusty old book for decades, their powers virtually wasted. Then one fateful day, a young girl named Sakura Kinomoto discovered the book in her father's library. When she opened it, however, the Clow Cards were gone--and so was life as she knew it. The book's magical guardian, Cerberus, declared Sakura the Cardcaptor, and after many exciting adventures, she finally retrieved all of the cards. Now Sakura has earned the title Master of the Clow.Eriol Hiiragazawa, the source of power behind Sakura's recent trials, is returning to England. The ordeals that Sakura had to endure since capturing the Clow Cards enabled her to fully realize her magical potential, and now that Clow's mystery has been revealed and his heir determined, the Cardcaptor's journey is over. So why is it that Sakura still feels empty? When Li Syaoran announces that he must return to Hong Kong, Sakura must come to terms with her feelings before she loses her friend forever. Up until now, Sakura relied on the power of her star to guide her. For this, her final adventure, she must trust in the power of her heart.',
+      release_date: '(first published July 26th 2000)')
+Manga.create(
+      title: 'Cardcaptor Sakura: Master of the Clow, Vol. 1',
+      author: 'CLAMP'
+      synopsis: 'Capturing Cards was only the beginning...Once upon a magic night, an English sorcerer mixed Western wizardry with Eastern enchantments to create a magical deck of cards called the Clow Cards. These cards were hidden inside a dusty old book for decades, their powers virtually wasted. Then one fateful day, a young girl named Sakura Kinomoto discovered the book in her father's library. When she opened it, however, the Clow Cards were gone—and so was life as she knew it. The book's magical guardian, a diminutive winged lion, named Sakura the Cardcaptor, and after many exciting adventures, she finally retrieved all of the cards. Now Sakura has earned the title Master of the Clow.An ominous force is brewing in Tomoeda. New enchantments are popping up all over the city, and Sakura's Clow Cards seem completely unable to stop them. But when Sakura taps into her inner power to fuel the Clow Cards, she unlocks a new magic of her own creation. Thus begins this 10-year-old's quest to become the greatest magician in the world!',
+      release_date: '(first published November 13th 1998)')
+Manga.create(
+      title: 'Cardcaptor Sakura, Vol. 1',
+      author: 'CLAMP'
+      synopsis: 'From Clamp comes the thrilling adventures of Sakura, a fourth-grader who accidentally finds an enchanted book called . The book once contained a set of magical Clow Cards, but they all escaped while the guardian of the book fell asleep. Now, Sakura is thrust into a mystical journey to capture all the cards before they wreak chaos and destruction!',
+      release_date: '(first published May 1996)')
+Manga.create(
+      title: 'Cardcaptor Sakura, Omnibus 1',
+      author: 'CLAMP'
+      synopsis: 'Fourth grader Sakura Kinomoto finds a strange book in her father's library -- a book made by the wizard Clow to store dangerous spirits sealed within a set of magical cards. But when Sakura opens it up, there is nothing left inside but Kero-chan, the book's cute little guardian beast . . . who informs Sakura that since the Clow cards seem to have escaped while he was asleep, it's now her job to capture them!',
+      release_date: '(first published October 7th 2003)')
+Manga.create(
+      title: 'Cardcaptor Sakura, Vol. 5',
+      author: 'CLAMP'
+      synopsis: 'It's time for the school talent show and Sakura's class is putting on . Sakura is cast as the prince and you won't believe who the princess is! All seems to be going well with the performance until a Clow Card makes an unexpected entrance between acts! Can our prince break the spell, capture the card and save the day?',
+      release_date: '(first published April 1st 1998)')
+Manga.create(
+      title: 'Cardcaptor Sakura, Omnibus 4',
+      author: 'CLAMP'
+      synopsis: 'The conclusion of the Cardcaptor Sakura saga Now is the time for people to admit the feelings for other people they've held secret . . . but there are so many feelings, running in so many directions What are the true desires of Eriol, the powerful young boy who is the reincarnation of Clow Reed . . . and why did he wish that Sakura would replace him as Master of the Clow?',
+      release_date: '')
+Manga.create(
+      title: 'Cardcaptor Sakura: Master of the Clow, Vol. 4',
+      author: 'CLAMP'
+      synopsis: 'Capturing Cards was only the beginning...Once upon a magic night, an English sorcerer mixed Western wizardry with Eastern enchantments to create a magical deck of cards called the Clow Cards. These cards were hidden inside a dusty old book for decades, their powers virtually forgotten. Then one fateful day, a young girl named Sakura Kinomoto discovered the book in her father's library. When she opened it, however, the Clow Cards were gone--and so was life as she knew it. The book's magical guardian, Cerberus, declared Sakura the Cardcaptor, and after many exciting adventures, she finally retrieved all of the cards. Now Sakura has earned the title Master of the Clow.After defeating Clow Reed's latest batch of magical tests, Sakura must tackle her greatest challenge yet. No, not another enchantment, but the feelings in her heart. Young Sakura has long fostered deep feelings for the older boy, Yukito, and even though it's unlikely that he feels the same way about her, she cannot continue to keep her feelings secret. But even as Sakura prepares to pour out her heart, Eriol, the mysterious transfer student with an unknown link to Clow Reed, plots another dangerous trap for the new Master of the Clow.',
+      release_date: '(first published December 1st 1999)')
+Manga.create(
+      title: 'The Art of Cardcaptor Sakura, Vol. 2',
+      author: 'CLAMP'
+      synopsis: 'Cardcaptor Sakura was the top-selling girls manga in Japan, and it's become the top-selling girls manga in America, too Now fans can collect all of the full-color artwork from Clamp featuring their favorite characters. Each volume of the Art of Cardcaptor Sakura contains over 100 full color pictures from the series, most of which have never before been seen in America.',
+      release_date: '(first published April 26th 2000)')
+Manga.create(
+      title: 'The Art of Cardcaptor Sakura, Vol. 3',
+      author: 'CLAMP'
+      synopsis: 'Cardcaptor Sakura was the top-selling girls manga in Japan, and it's become the top-selling girls manga in America, too Now fans can collect all of the full-color artwork from Clamp featuring their favorite characters. Each volume of the Art of Cardcaptor Sakura contains over 100 full color pictures from the series, most of which have never before been seen in America.',
+      release_date: '(first published December 2000)')
+Manga.create(
+      title: 'Cardcaptor Sakura: Master of the Clow, Vol. 5',
+      author: 'CLAMP'
+      synopsis: 'Capturing Cards was only the beginning...Once upon a magic night, an English sorcerer mixed Western wizardry with Eastern enchantments to create a magical deck of cards called the Clow Cards. These cards were hidden inside a dusty old book for decades, their powers virtually wasted. Then one fateful day, a young girl named Sakura Kinomoto discovered the book in her father's library. When she opened it, however, the Clow Cards were gone--and so was life as she knew it. The book's magical guardian, Cerberus, declared Sakura the Cardcaptor, and after many exciting adventures, she finally retrieved all of the cards. Now Sakura has earned the title Master of the Clow.The dreams come stronger now to young Sakura. Tokyo Tower... a city asleep... the sun eclipsed by the moon... Kero says it's a premonition, but what does it all mean? It must have something to with Clow Reed—it seems like everything is connected to him these days. He supposedly died many years ago, but his spirit has been present at all of the magical challenges Sakura's faced of late. Why would Clow attack Sakura? Kero chose her to be the new Master of the Clow! Unless that means... Kero chose the wrong heir? It's time for Sakura to face her mysterious opponent and find out once and for all.',
+      release_date: '(first published February 18th 2000)')
+Manga.create(
+      title: 'PLUTO: Naoki Urasawa x Ozamu Tezuka, Band 001',
+      author: 'Naoki Urasawa'
+      synopsis: 'In a distant future where sentient humanoid robots pass for human, someone or some thing is out to destroy the seven great robots of the world. Europol's top detective Gesicht is assigned to investigate these mysterious robot serial murders; the only catch is that he himself is one of the seven targets.',
+      release_date: '(first published September 30th 2004)')

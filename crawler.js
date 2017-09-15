@@ -10,10 +10,12 @@ const startUrl = 'http://www.goodreads.com';
 const url = new URL(startUrl);
 const baseUrl = url.protocol + "//" + url.hostname;
 
-let visitedUrls = {};
+const mangaList = require('./comicList');
 
-// const url = 'https://www.goodreads.com/book/show/870.Fullmetal_Alchemist_Vol_1';
-// grabComic(url);
+// const testUrl = 'https://www.goodreads.com/book/show/870.Fullmetal_Alchemist_Vol_1';
+// const testUrl = 'https://www.goodreads.com/book/show/1315744.Doraemon_Vol_01'
+const testUrl = 'https://www.goodreads.com/book/show/1725523.PLUTO';
+grabComic(testUrl);
 
 function grabComic(url) {
   request(url, function(error, response, body) {
@@ -23,11 +25,9 @@ function grabComic(url) {
 
     var $ = cheerio.load(body);
 
-    if (url in visitedUrls) {
-      return;
-    }
-
-    visitedUrls[url] = true;
+    {/* check if correct language and return if not English or none given*/}
+    let lang = $('div[itemprop = "inLanguage"]').text().trim();
+    // if (lang !== 'English') return;
 
     {/* title  */}
     let title = $('h1.bookTitle').first().contents().filter(function() {
@@ -61,7 +61,6 @@ function grabComic(url) {
     {/* append to the file  */}
     fs.appendFileSync('comics.txt', mangaCreate + '\n');
 
-
     {/* cover image  */}
     const cover = $('div.editionCover > img').attr('src');
 
@@ -77,18 +76,18 @@ function grabComic(url) {
     });
 
     {/* grabs link to comic series list  */}
-    let link = $('a.greyText').attr('href');
-    fs.appendFileSync('comicList.txt', baseUrl.concat(link) + '\n');
+    // let link = $('a.greyText').attr('href');
+    // fs.appendFileSync('comicList.txt', baseUrl.concat(link) + '\n');
 
-    console.log(!(baseUrl.concat(link)));
-    if (!(baseUrl.concat(link) in visitedUrls)) {
-      grabLinks(baseUrl.concat(link));
-    }
+    // console.log(!(baseUrl.concat(link)));
+    // if (!(baseUrl.concat(link) in visitedUrls)) {
+    //   grabLinks(baseUrl.concat(link));
+    // }
 
   });
 }
 
-const comicList = 'http://www.goodreads.com/list/show/7512.Best_Manga_of_All_Time';
+// const comicList = 'http://www.goodreads.com/list/show/7512.Best_Manga_of_All_Time';
 // const comicList = 'https://www.goodreads.com/series/49276-fullmetal-alchemist'
 
 {/* grab all links in a set  */}
@@ -98,21 +97,20 @@ function grabLinks(comicList) {
       console.log("Error: " + error);
     }
 
-    visitedUrls[comicList] = true;
-
     const $ = cheerio.load(body);
     let total = 0;
-
     $('a.bookTitle').each(function( index ) {
       let link = $(this).attr('href');
-      if (!(baseUrl.concat(link) in visitedUrls)){
-        grabComic(baseUrl.concat(link));
-        total += 1;
-        console.log(total);
-      }
+      total += 1;
+      console.log(total);
+      grabComic(baseUrl.concat(link));
     });
     console.log("Status code: " + response.statusCode);
   });
 }
 
-grabLinks(comicList);
+const comicList = mangaList;
+
+// comicList.map((list) => {
+//   grabLinks(list);
+// })
