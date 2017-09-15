@@ -12,6 +12,7 @@ const baseUrl = url.protocol + "//" + url.hostname;
 
 const mangaList = require('./comicList');
 
+{/* testing links */}
 // const testUrl = 'https://www.goodreads.com/book/show/870.Fullmetal_Alchemist_Vol_1';
 // const testUrl = 'https://www.goodreads.com/book/show/1315744.Doraemon_Vol_01'
 // const testUrl = 'https://www.goodreads.com/book/show/1725523.PLUTO';
@@ -49,7 +50,7 @@ function grabComic(url) {
     }).text();
 
     {/* compressed title for images  */}
-    let imgTitle = title.replace(/\s/g,'');
+    let imgTitle = title.replace(/[/\s]/g,'');
 
     {/* place into an object  */}
     let mangaCreate = `Manga.create(
@@ -86,9 +87,6 @@ function grabComic(url) {
 
   });
 }
-
-// const comicList = 'http://www.goodreads.com/list/show/7512.Best_Manga_of_All_Time';
-// const comicList = 'https://www.goodreads.com/series/49276-fullmetal-alchemist'
 
 {/* grab all links in a set  */}
 function grabLinks(comicList) {
