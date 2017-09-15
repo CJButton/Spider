@@ -1,17 +1,19 @@
 
 
-const request = require('request');
+const request = require('request').defaults({ family: 4 });
 const cheerio = require('cheerio');
 const URL = require('url-parse');
 const fs = require('fs');
 const download = require('image-downloader')
 
-const baseUrl = 'https://www.goodreads.com';
+const startUrl = 'http://www.goodreads.com';
+const url = new URL(startUrl);
+const baseUrl = url.protocol + "//" + url.hostname;
 
 let visitedUrls = {};
 
-const url = 'https://www.goodreads.com/book/show/870.Fullmetal_Alchemist_Vol_1';
-grabComic(url);
+// const url = 'https://www.goodreads.com/book/show/870.Fullmetal_Alchemist_Vol_1';
+// grabComic(url);
 
 function grabComic(url) {
   request(url, function(error, response, body) {
@@ -76,17 +78,17 @@ function grabComic(url) {
 
     {/* grabs link to comic series list  */}
     let link = $('a.greyText').attr('href');
+    fs.appendFileSync('comicList.txt', baseUrl.concat(link) + '\n');
 
-    // console.log(!(baseUrl.concat(link)));
+    console.log(!(baseUrl.concat(link)));
     if (!(baseUrl.concat(link) in visitedUrls)) {
-      console.log(link);
       grabLinks(baseUrl.concat(link));
     }
 
   });
 }
 
-// const comicList = 'https://www.goodreads.com/list/show/7512.Best_Manga_of_All_Time';
+const comicList = 'http://www.goodreads.com/list/show/7512.Best_Manga_of_All_Time';
 // const comicList = 'https://www.goodreads.com/series/49276-fullmetal-alchemist'
 
 {/* grab all links in a set  */}
@@ -99,18 +101,18 @@ function grabLinks(comicList) {
     visitedUrls[comicList] = true;
 
     const $ = cheerio.load(body);
+    let total = 0;
 
     $('a.bookTitle').each(function( index ) {
       let link = $(this).attr('href');
       if (!(baseUrl.concat(link) in visitedUrls)){
-        console.log(link);
         grabComic(baseUrl.concat(link));
+        total += 1;
+        console.log(total);
       }
-      // comicLinks.push(baseUrl.concat(link));
-      // fs.appendFileSync('fma.txt', baseUrl.concat(link) + '\n');
     });
     console.log("Status code: " + response.statusCode);
   });
 }
 
-// grabLinks(comicList);
+grabLinks(comicList);
