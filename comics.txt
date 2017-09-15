@@ -715,3 +715,426 @@ Manga.create(
       author: 'Naoki Urasawa'
       synopsis: 'In a distant future where sentient humanoid robots pass for human, someone or some thing is out to destroy the seven great robots of the world. Europol's top detective Gesicht is assigned to investigate these mysterious robot serial murders; the only catch is that he himself is one of the seven targets.',
       release_date: '(first published September 30th 2004)')
+
+// Batch 2 complete
+
+Manga.create(
+      title: 'Yotsuba&!, Vol. 03',
+      author: 'Kiyohiko Azuma'
+      synopsis: 'When Asagi brings her a gift from Okinawa, Yotsuba is determined to return the favor - no matter what! Her search for the perfect present takes her to the park, but what will Asagi think of this hand-picked offering? As night falls and fireworks season kicks in, the sparks will fly (and so will Jumbo)!',
+      release_date: '(first published November 27th 2004)')
+Manga.create(
+      title: 'Yotsuba&!, Vol. 04',
+      author: 'Kiyohiko Azuma'
+      synopsis: 'Having already tackled such diverse topics as cicadas and global warming, Yotsuba is back and ready to face a whole new set of challenges. See as she strives to master the complexities of rock-paper-scissors! Feel as she becomes one with the water during a weekend of fishing. Be confused as she tries to get money from strangers to buy her groceries! The mayhem continues in Volume 4.',
+      release_date: '(first published 2005)')
+Manga.create(
+      title: 'Yotsuba&!, Vol. 05',
+      author: 'Kiyohiko Azuma'
+      synopsis: 'It's the end of an endless summer, and Yotsuba is out to make the most of it. First, she'll go toe-to-toe with a cardboard robot, then help out the neighbors by eating their grapes and spearheading an impromptu trip to the beach. But when her ice cream is stolen by Yanda, Koiwai's understudy, Yotsuba may have to admit she's finally met her match!',
+      release_date: '(first published April 2006)')
+Manga.create(
+      title: 'Yotsuba&!, Vol. 01',
+      author: 'Kiyohiko Azuma'
+      synopsis: 'Presents the story of the new kid in town - little Yotsuba, a green-haired and wide-eyed girl who doesn't have a clue... about anything! With no knowledge of the world around her, and an unnatural fear of air conditioners, Yotsuba has her new neighbors' heads spinning. This book is written by Kyohiko Azuma, creator of Azumanga Daioh.',
+      release_date: '(first published August 27th 2003)')
+Manga.create(
+      title: 'Nausicaä of the Valley of the Wind, Vol. 7',
+      author: 'Hayao Miyazaki'
+      synopsis: 'Hayao Miyazaki was a budding filmmaker in 1982 when he agreed to collaborate on a project with the popular Japanese anime magazine Animage. This was Nausicaa, which would make Miyazaki's reputation as much as his 11 films and TV shows. Set in the far future, Nausicaa visualizes an Earth radically changed by ecological disaster. Strange human kingdoms survive at the edge of the Sea of Corruption, a poisonous fungal forest. Nausicaa, a gentle young princess, has a telepathic bond with the giant mutated insects of this dystopia. Her task is to negotiate peace between kingdoms battling over the last of the world's precious natural resources. Nausicaa took Miyazaki 12 years to create, in part because he worked with few or no assistants, doing both the writing and drawing using a meticulously detailed style that critics have compared to the work of the French artist Moebius.',
+      release_date: '(first published 1995)')
+Manga.create(
+      title: 'Nausicaa of the Valley of Wind',
+      author: 'Hayao Miyazaki'
+      synopsis: 'In a long-ago war, humankind set off a devastating ecological disaster. Thriving industrial societies disappeared. The earth is slowly submerging beneath the expanding Sea of Corruption, an enormous toxic forest that creates mutant insects and releases a miasma of poisonous spores into the air. At the periphery of the sea, tiny kingdoms are scattered on tiny parcels of land. Here lies the Valley of the Wind, a kingdom of barely 500 citizens; a nation given fragile protection from the decaying sea's poisons by the ocean breezes; and home to Nausicaä. Nausicaä, a young princess, has an emphatic bond with the giant Ohmu insects and animals of every creed. She fights to create tolerance, understanding and patience among empires that are fighting over the world's remaining precious natural resources.',
+      release_date: '(first published January 1st 1989)')
+Manga.create(
+      title: 'Nausicaä of the Valley of the Wind, Vol. 2',
+      author: 'Hayao Miyazaki'
+      synopsis: 'Princess Nausicaä has left the Valley of the Wind to join Princess Kushana's forces. However, Nausicaä gets separated from the Torumekian fleet and finds herself face to face with the mysterious Ohmu, who open their hearts to her. But will Nausicaä be able to interpret their urgent warning about the southern forest? And what of the war which rages all around her?',
+      release_date: '(first published August 25th 1983)')
+Manga.create(
+      title: 'Nausicaä of the Valley of the Wind, Vol. 6',
+      author: 'Hayao Miyazaki'
+      synopsis: 'In a long-ago war, humankind set off a devastating ecological disaster. Now the Earth is slowly submerging beneath the expanding Sea of Corruption, an enormous toxic forest filled with mutant fungi that release a miasma of poisonous spores into the air. Nausicaa, a compassionate young princess, and her allies fight to create peace between kingdoms fighting over the world's remaining precious natural resources. Nausicaa embarks on an inner, spiritual journey to the heart of the Sea of Corruption, where she discovers its surprising secret. She returns to the land of the living, compelled to share her discovery, but Nausicaa accidentally awakens a God Warrior - a biotechnological abomination of the war known as the Seven Days of Fire - from its stasis. And now the monstrous yet childlike God Warrior thinks Nausicaa is its mother!',
+      release_date: '(first published 1993)')
+Manga.create(
+      title: 'Yotsuba&!, Vol. 02',
+      author: 'Kiyohiko Azuma'
+      synopsis: 'More all ages comedy from the creator of Azumanga Daioh. Yotsuba hasn't gotten much smarter, and her neighbors still haven't gotten used to this wacky tike's exploits. A truly heartwarming comedy that will make you laugh out loud!',
+      release_date: '(first published April 27th 2004)')
+Manga.create(
+      title: 'Yotsuba&!, Vol. 06',
+      author: 'Kiyohiko Azuma'
+      synopsis: 'Yotsuba recycles! Gets a bike! Learns about sticky notes! And drinks some super-yummy milk which she then decides she has to share with EVERYONE! But when she forgets to share with Fuuka, this spontaneous little milk lady takes her new bike and goes off on a heart-thumping little adventure of her own, much to her daddy's chagrin. What trouble will Yotsuba get into next?',
+      release_date: '(first published December 16th 2006)')
+Manga.create(
+      title: 'Nausicaä of the Valley of the Wind, Vol. 5',
+      author: 'Hayao Miyazaki'
+      synopsis: 'The Torumekian army is moving house, destroy all in its path, the remaining Doroks have set their sights on Torumekia and Emperor Namulith is plotting to form a joint Dorok-Torumekian kingdom. Meanwhile, four bodies of mold have spawned, expelling heavy miasma and eating everything in their path as they try and merge. Has the long period of purification begun?',
+      release_date: '(first published January 1st 1991)')
+Manga.create(
+      title: 'Nausicaa of the Valley of the Wind: Tokuma's Magical Adventure, Vol. 2',
+      author: 'Hayao Miyazaki'
+      synopsis: 'Hayao Miyazaki was a budding filmmaker in 1982 when he agreed to collaborate on a project with the popular Japanese anime magazine Animage. This was Nausicaa, which would make Miyazaki's reputation as much as his 11 films and TV shows. Set in the far future, Nausicaa visualizes an Earth radically changed by ecological disaster. Strange human kingdoms survive at the edge of the Sea of Corruption, a poisonous fungal forest. Nausicaa, a gentle young princess, has a telepathic bond with the giant mutated insects of this dystopia. Her task is to negotiate peace between kingdoms battling over the last of the world's precious natural resources. Nausicaa took Miyazaki 12 years to create, in part because he worked with few or no assistants, doing both the writing and drawing using a meticulously detailed style that critics have compared to the work of the French artist Moebius.',
+      release_date: '')
+Manga.create(
+      title: 'Nausicaa of the Valley of the Wind: Tokuma's Magical Adventure, Vol. 1',
+      author: 'Hayao Miyazaki'
+      synopsis: 'Hayao Miyazaki was a budding filmmaker in 1982 when he agreed to collaborate on a project with the popular Japanese anime magazine Animage. This was Nausicaa, which would make Miyazaki's reputation as much as his 11 films and TV shows. Set in the far future, Nausicaa visualizes an Earth radically changed by ecological disaster. Strange human kingdoms survive at the edge of the Sea of Corruption, a poisonous fungal forest. Nausicaa, a gentle young princess, has a telepathic bond with the giant mutated insects of this dystopia. Her task is to negotiate peace between kingdoms battling over the last of the world's precious natural resources. Nausicaa took Miyazaki 12 years to create, in part because he worked with few or no assistants, doing both the writing and drawing using a meticulously detailed style that critics have compared to the work of the French artist Moebius.P',
+      release_date: '')
+Manga.create(
+      title: 'Nausicaä of the Valley of the Wind, Vol. 4',
+      author: 'Hayao Miyazaki'
+      synopsis: 'A monk warns Nausicaä that omens of an apocalypse, Daikaisho, will appear soon and the forest will boil over to cover the land. His predictions appear to be coming true when she arrives in the Forest in the South and discovers Lord Miralupa has developed mutant spores for biological warfare, but the mould begins growing uncontrollably and there's no antidote.',
+      release_date: '(first published March 1st 1987)')
+Manga.create(
+      title: 'Nausicaä of the Valley of the Wind, Vol. 1',
+      author: 'Hayao Miyazaki'
+      synopsis: 'In a long-ago war, humankind set off a devastating ecological disaster. Thriving industrial societies disappeared. The earth is slowly submerging beneath the expanding Sea of Corruption, an enormous toxic forest that creates mutant insects and releases a miasma of poisonous spores into the air. At the periphery of the sea, tiny kingdoms are scattered on tiny parcels of land. Here lies the Valley of the Wind, a kingdom of barely 500 citizens; a nation given fragile protection from the decaying sea's poisons by the ocean breezes; and home to Nausicaä .Nausicaä, a young princess, has an emphatic bond with the giant Ohmu insects and animals of every creed. She fights to create tolerance, understanding and patience among empires that are fighting over the world's remaining precious natural resources.',
+      release_date: '(first published 1982)')
+Manga.create(
+      title: 'Shugo Chara!, Vol. 2: Friends in Need',
+      author: 'Peach-Pit'
+      synopsis: 'FRIENDS IN NEEDCute schoolgirl Amu has a secret: She has three magical companions. Only these enchanted Guardians know who Amu’s true self is, and they’ll do anything to help her unlock her heart! They’re searching for a magic egg, a powerful weapon that could mean trouble in the wrong hands. To find this egg, Amu will have to change her life–and finally learn to be true to herself. Includes special extras after the story![Rating logo:] Ages 13+',
+      release_date: '(first published January 6th 2007)')
+Manga.create(
+      title: 'Shugo Chara!, Vol. 4: Character Swap!',
+      author: 'Peach-Pit'
+      synopsis: 'CHARACTER SWAP!Amu has three Guardian Characters, reflections of her true self. But now a fourth egg has shown up at the start of a new school year. Everything has gone wrong, and Amu has no idea who she truly wants to be. Meanwhile, her rival Utau has rejected one of her own Guardian Characters. Is it time for the two to trade Guardians? Is that even possible?',
+      release_date: '(first published January 1st 2007)')
+Manga.create(
+      title: 'Shugo Chara!, Vol. 6: Betrayal',
+      author: 'Peach-Pit'
+      synopsis: 'BETRAYAL Amu has three Guardian Characters who represent different sides of her ideal self-and a fourth who has gone over to work for the evil Easter Corporation! Amu must now face her renegade character while the Guardians try to foil Easter's sinister new scheme-all while dealing with a surprise traitor in their midst! Includes special extras after the story!',
+      release_date: '(first published January 1st 2008)')
+Manga.create(
+      title: 'Shugo Chara!, Vol. 5: The New Kids',
+      author: 'Peach-Pit'
+      synopsis: 'THE NEW KIDS!Amu and her Guardian Characters have found a home at an elite school. But now two new Guardians have been chosen, and each has a secret. One is more complex than Amu thought, and the other may be out to betray the Guardians to the evil Easter Corporation!',
+      release_date: '(first published November 20th 2007)')
+Manga.create(
+      title: 'Nausicaä of the Valley of the Wind, Vol. 3',
+      author: 'Hayao Miyazaki'
+      synopsis: 'Nausicaä finds herself on the edge of despair as she comes to realize the full extent of the ecological destruction that's ravaging Earth. Meanwhile, Queen Kushana of Torumekia plots to lead her troops back to the imperial capital and seize the crown. Nausicaä agrees to join Kushana and her people in the fight against the Doroks and her scheming brothers.',
+      release_date: '(first published 1984)')
+Manga.create(
+      title: 'Shugo Chara!, Vol. 1: Who Do You Want to Be?',
+      author: 'Peach-Pit'
+      synopsis: 'WHO DO YOU WANT TO BE?Everybody at Seiyo Elementary thinks that stylish and super cool Amu has it all: But nobody knows the real Amu, a shy girl who wishes she had the courage to truly be herself. Changing Amu’s life is going to take more than wishes and dreams–it’s going to take a little magic! One morning, Amu finds a surprise in her bed: three strange little eggs. Each egg contains a Guardian Character, an angel-like being who can give her the power to be someone new. With the help of her Guardian Characters, Amu is about to discover that her true self is even more amazing than she ever dreamed.',
+      release_date: '(first published January 1st 2006)')
+Manga.create(
+      title: 'Shugo Chara!, Vol. 8: With a Little Help From Their Friends',
+      author: 'Peach-Pit'
+      synopsis: 'WITH A LITTLE HELP FROM THEIR FRIENDS Ikuto has disappeared, and it’s up to Amu and her fellow Guardians to save him. But what about Tadase’s mysterious past with Ikuto? And what does that mean for Amu and Tadase’s relationship? Plus, Rima learns the truth about Nagihiko’s double life! Includes special extras after the story!',
+      release_date: '(first published December 5th 2008)')
+Manga.create(
+      title: 'Yotsuba&!, Vol. 10',
+      author: 'Kiyohiko Azuma'
+      synopsis: 'Yotsuba loooooves playing games! When Daddy's the counter in hide-and-seek, he can never find Yotsuba, 'cos I'm such a good hider! And when we go to the park, Yotsuba's the bestest at swing-tag-shoe-races. Daddy says Yotsuba's making up the rules as we go along, but Yotsuba thinks Daddy's just a sour loser. But maybe Yotsuba will let him win once in a while...",
+      release_date: '(first published November 27th 2010)')
+Manga.create(
+      title: 'Yotsuba&!, Vol. 09',
+      author: 'Kiyohiko Azuma'
+      synopsis: 'Beep-beep-beep! Yotsuba here, and riiiight on schedule! Every day is a fun day, and today’s gonna be even funner than the rest. We’re busy, busy, busy! We should write down a schedule so we don’t forget what we gotta do… like go to the bathroom! And go to the teddy bear store with Daddy! And try to fly! Omigosh, Yotsuba missed toilet time already! Noooo! What to do?! What to do?!',
+      release_date: '(first published November 27th 2009)')
+Manga.create(
+      title: 'Shugo Chara!, Vol. 7: Black Cat',
+      author: 'Peach-Pit'
+      synopsis: 'BLACK CATAll the time they’ve been battling the Easter Corporation, Amu and her friends have never known which side mysterious bad boy Ikuto has been on. Now Ikuto is in trouble and has only one place to hide: Amu’s house! Will Amu finally learn Ikuto’s secret?',
+      release_date: '(first published July 6th 2006)')
+Manga.create(
+      title: 'Shugo Chara!, Vol. 9: A Big Discovery',
+      author: 'Peach-Pit'
+      synopsis: 'A BIG DISCOVERY Amu and the Guardians are battling the Easter Corporation in order to save Ikuto. But during the fight, two surprising things happen: Ikuto’s troubled past is revealed, and the powerful Embryo appears! Who will catch the egg that makes dreams come true?',
+      release_date: '(first published January 1st 2009)')
+Manga.create(
+      title: 'Nausicaä of the Valley of the Wind: The Complete Series',
+      author: 'Hayao Miyazaki'
+      synopsis: 'Nausicaä of the Valley of the Wind is an epic fantasy tale written and illustrated by legendary Studio Ghibli director Hayao Miyazaki, creator of My Neighbor Totoro, Spirited Away and Howl’s Moving Castle. A modern masterpiece, the entire series is now available in this deluxe box set containing two hardcover volumes with interior color pages and a bonus poster.',
+      release_date: '(first published 1995)')
+Manga.create(
+      title: 'Shugo Chara!, Vol. 3: Can a Bad Guy Turn Good?',
+      author: 'Peach-Pit'
+      synopsis: 'CAN A BAD GUY TURN GOOD? Amu's Guardian Characters have been stolen by her teacher, a bitter man whose dreams died when his own egg was smashed. When Amu goes to reclaim her Characters, the School Guardians are there to help. But can they get Amu's eggs back and put the evil teacher's egg together again?',
+      release_date: '(first published January 1st 2007)')
+Manga.create(
+      title: 'Shugo Chara!, Vol. 10: A Heart's Desire...',
+      author: 'Peach-Pit'
+      synopsis: 'As Amu and Ikuto get to the heart of the Easter Corporation, the Embryo’s true owner is found, and the egg from Ikuto’s violin resurfaces! Later, as graduation approaches, relationships complicate. Who will prove the victor in this game of hearts?',
+      release_date: '(first published January 1st 2009)')
+Manga.create(
+      title: 'Rurouni Kenshin, Vol. 6 #16-18',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'R to L (Japanese Style). Second only to Shishio Makoto when it comes to skill with a blade, the emotionless warrior Seta SMjirM‘s speed and agility are pushing Kenshin to the breaking point. But how did a seemingly humble man such as SMjirM decide to ally himself with the ruthless  Shishio? Mid-battle, SMjirM pauses to reflect back on his fateful encounter with the man to whom he would one day pledge his loyalty. Has SMjirM truly reconciled himself to his master's downright homicidal worldview?And finally, Kenshin's long-awaited duel with Shishio commences. With nothing less than the future of Japan hanging in the balance, Kenshin's resolution to never again take a life is about to be put to the ultimate test. Assistance also comes from Sanosuke, SaitM Hajime and Shinomori Aoshi, but to the power-hungry Shishio, men even of their caliber can be swatted down like so many flies. Will someone find Shishio's weakness before he annihilates the greatest swordsmen the Meiji Era has to offer? Furthermore, can Kenshin's dream for a new Japan be possible as long as Shishio still draws breath?',
+      release_date: '')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 13',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'The Great Kyoto Fire behind them (and casualties relatively slight), Kenshin and the others consider their next move. The Oniwabanshu may indeed be allies this time ("Now there's a weird twist," as Sano says), but their leader, Shinomori Aoshi, is not. Is Kenshin truly, as it is claimed, the only one who can bring peace to the former Okashira or "head" of the Kyoto-based spy group...? Elsewhere, madman Shishio Makoto has made his own plans for Kenshin and the others, plans involving a "man-to-man," death match-style battle to the finish…',
+      release_date: '(first published December 2nd 1996)')
+Manga.create(
+      title: 'Rurouni Kenshin, Vol. 5 #13-15',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'One of the most popular manga series in the world now in an omnibus format. Packed with action, romance and historical intrigue, Rurouni Kenshin is one of the most beloved and popular manga series worldwide.',
+      release_date: '(first published January 20th 2009)')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 04',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'Shinomori Aoshi was once the leader of Edo Castle's elite guard, the Oniwabanshû. But with the fighting at an end and the shôgunate overthrown, the brilliant Aoshi and his four most loyal onmitsu, or spies, find themselves without a home or a purpose. When fighting is your life, loyalty to those lost ideals (and to the man who most symbolized them) may be the one thing left. But Megumi's life is at stake, and however sympathetic Kenshin may feel, he will fight on, to the last man if necessary...',
+      release_date: '(first published April 4th 1995)')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 28',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'As the feared assassin of the Bakumatsu, Himura Kenshin killed in the name of the new era. As the rurouni of Meiji, he wielded a sakabatô to protect those who couldn't protect themselves, all along holding true to his vow to never take another life. Now Kenshin's fight with Enishi has entered its final stage, as has his quest for atonement. Will another life be required to complete the circle? The road of redemption has been a long one for the world-weary swordsman, but now that Kenshin has found the will to live, can he muster the strength to survive?Find out in the final, unforgettable volume of Nobuhiro Watsuki's international manga sensation, Rurouni Kenshin.',
+      release_date: '(first published November 4th 1999)')
+Manga.create(
+      title: 'Rurouni Kenshin, Vol. 7',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'R to L (Japanese Style). In the new Meiji Era, Himura Kenshin uses his reversed-edge sword to protect the lives of those within his reach, but during the chaos and bloodshed of the Bakumatsu, he was a very different man. What is the true story behind the cross-shaped scar Kenshin bears on his face? It is the tale of Himura Tomoe, Kenshin's wife who died at his very hands, and of her brother Enishi, who has devoted his entire existence to the goal of watching Kenshin suffer.As one of the deadliest hitokiri in Kyoto several years ago, Kenshin served at the pleasure of Katsura Kogor of Ch sh . One night, Kenshin found himself doing battle with agents of the sh gunate, and a lone woman from a nearby pub witnessed the scene--but she may not have been there entirely by accident. Betrayal, lost love, revenge: such is the nature of Kenshin's past life. Can he reconcile these old memories in time to prevent the carnage that Enishi is about to visit upon the Kamiya Dojo and those dearest to him?',
+      release_date: '')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 24',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'To defeat an enemy in combat is one thing. To destroy an enemy's spirit by striking at what he holds dearest is another. Kenshin always felt that, so long as he wielded a sakabatô, those within his sight could be protected from harm, yet while he is incapacitated by the gargantuan Kujiranami of the "Six Comrades," Enishi seizes upon the opportunity to cripple Kenshin's resolve, and will to fight, for good. If Kaoru dies, will Kenshin's dream of a new Japan die with her?',
+      release_date: '(first published February 4th 1999)')
+Manga.create(
+      title: 'High School Debut, Vol. 10',
+      author: 'Kazune Kawahara'
+      synopsis: 'Can a junior high jock turn high school sweetheart overnight? When Haruna hits 9th grade suddenly boys seem much more interesting than softball! Will Haruna’s high school debut end up in heartbreak hotel?Friendship and love are put to the test when Asaoka reveals to Yoh that he likes Haruna. To settle things once and for all, Yoh and Asaoka strike a deal--whoever loses the school sports meet will give up his feelings for her! Who will win the meet  Haruna's heart?',
+      release_date: '(first published December 25th 2007)')
+Manga.create(
+      title: 'High School Debut, Vol. 05',
+      author: 'Kazune Kawahara'
+      synopsis: 'Hapless Haruna needs help finding a boyfriend! After failing to win the eye of any guy in high school, Haruna enlists the help of cute upperclassman Yoh to coach her on how to make herself more appealing to the male species. Yoh agress, with one catch: Haruna had better not fall for him! Just when things are going well for Haruna, in walks transfer student Leone Matsuzaka. Beautiful Leona's got only one thing in mind--to destroy Haruna's happiness! Who is this vengeful girl and why does she want to hurt Haruna so badly?',
+      release_date: '(first published January 25th 2006)')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 23',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'In order to discover more about the relationship that binds Kenshin and Enishi, Saitô Hajime makes a surprise appearance at Kamiya Dojo--only to find the aftermath of Kenshin, Sanosuke, and Yahiko's desperate life-or-death battles with Enishi's cabal of fighters. One member of the "Six Comrades" remains standing--the mysterious and deadly Yatsume Mumyôi. Will the strength of Saitô Gatotsu be enough to fell this freakish warrior-of-the-shadows?!',
+      release_date: '(first published November 4th 1998)')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 08',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'In the 11th year of Meiji, on the day marked in the Western calendar as May 14th, time once again begins to flow. The shocking midday murder of Department of Internal Affairs Chief Ôûkubo a fait accompli, Kenshin leaves for Kyoto, scene of chaos and bloodshed--against the wishes of nearly everyone who knows him as the gentle "rurouni." Awaiting him there is Shishio Makoto, the hitokiri who replaced the cold-eyed assassin Himura Battôsai who forswore further killing and took up the reversed-blade sakabatô. But does Kenshin go to Kyoto for a duel...or for a death-match?!',
+      release_date: '(first published December 1st 1995)')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 10',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'His sakabato broken in battle, Kenshin seeks out the man who forged it--Arai Shakkû--only to be turned away. Seikû;, son of the legendary swordsmith, had for a time been continuing his father's work (the forging of katana, meant for killing), but has since given up that calling and spends his time making humble cooking knives. Respecting Seikû's wishes, Kenshin leaves without the desired blade...but not before Shishio's spies learn that Shakkû has forged one last sword. Meanwhile, Shishio arrives in Kyoto with orders for his ten generals or "Ten Swords" to join him and put into motion a plan to take over Japan. Chô, one of Shishio's "swords," learns early of Shakkû's final blade and determines to secure it at any cost. Now, armed only with his broken sakabatô, Kenshin must face Chô in battle...',
+      release_date: '(first published April 4th 1996)')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 17',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'The madness of Shishio Makoto may know no bounds, but what of his body? An eleventh-hour revelation suggests a possible weakness, but will the news come in time to help a critically wounded Kenshin, whose own strength is reaching its limit? In this new era of Meiji, it's getting harder and harder to tell the innocents from the outlaws. Perhaps, as Kenshin says, it should be for history to decide which side was right, and which side was wrong. The time for hitokiri such as Kenshin and Shishio has passed; let not the man decide the age...but the age, the man.',
+      release_date: '(first published October 3rd 1997)')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 12',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'As Kenshin continues his re-education at the hand of his master in Hiten Mitsurugi, Hiko Seijûrô, he looks back also to the first, early years of that training...including the moment in his life in which he changed his name to "Kenshin." Meanwhile, the remaining members of the Juppongatana , or "Ten Swords," arrive in Kyoto, while the first phase of Shishio Makoto's plan for Japan finally gets underway. While Misao and the Oniwabanshu plan how best to pool their resources to stop Shishio from setting Kyoto ablaze, Kenshin, Sano, and Saitô--now reunited--must consider their own next course of action.',
+      release_date: '(first published September 4th 1996)')
+Manga.create(
+      title: 'Rurouni Kenshin, Vol. 3 #7-9',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'Packed with action, romance and historical intrigue, Rurouni Kenshin is one of the most beloved and popular manga series worldwide. Set against the backdrop of the Meiji Restoration, it tells the saga of Himura Kenshin, once an assassin of ferocious power, now a humble rurouni, a wandering swordsman fighting to protect the honor of those in need.',
+      release_date: '')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 05',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'Isurugi Raijûta, a truly old-school swordsman, comes to Kenshin and requests his aid in reforming the state of swordsmanship schools, or kenjutsu dojo, in Japan. Although Kenshin is intrigued by Raijûta's ideals (chiefly, that there is a need for a nation-wide, unifying school), Raijûta's plan to "weed out" the schools he deems unfit is not in accordance with Kenshin's deepest-held beliefs. Given the choice of either joining Raijûta's "Shinko-ryû" movement or dying, Kenshin walks away, choosing neither. But Raijûta isn't willing to let Kenshin off the hook so easily...',
+      release_date: '(first published June 2nd 1995)')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 26',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'If there's one thing tough-as-nails street brawler--and ex-Sekihô Army cadet--Sagara Sanosuke can't stand, it's hypocritical, loudmouthed braggarts who talk the talk but are incapable of walking the walk. Finding himself in the middle of a provincial squabble between an old man and the local yakuza, Sano returns to his old "fight merchant" ways and agrees to do some ad hoc butt kicking for pay. But the old man he's hired to tangle with might be his strongest foe to date.',
+      release_date: '(first published July 2nd 1999)')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 14',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'As the Juppongatana or "Ten Swords" move to attack those at Aoi-Ya (Kaoru, Yahiko, Misao, and the rest of the Kyoto-based spy clan), Kenshin--accompanied by Sanosuke and Saitô--squares off against one of his most powerful opponents yet: Shinomori Aoshi, former Okashira or "head" of the Oniwabanshû. Bound by promises to both return Misao's "Aoshi-sama" to her safely, and to face Shinomori himself in a climactic, decisive battle, the time is now to learn once and for all who has the will to live, who has the will to die...and who has the will to fight.',
+      release_date: '(first published March 4th 1997)')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 25',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'Kujiranami, the giant whose right arm Kenshin severed during the Bakumatsu, escapes from prison and goes on the rampage. He is armed with a frightening new weapon, and the police force is helpless against his wrath. One warrior has the courage to stand up to him: Myôjin Yahiko, Kenshin's youthful ward and Kaoru's only student in Kamiya Kasshin-ryû. And while it's true that Yahiko's skill has increased, will he alone be able to stop a deranged Kujiranami? If Kenshin doesn't do something quick, this will certainly be Yahiko's greatest--and last--battle!',
+      release_date: '(first published April 2nd 1999)')
+Manga.create(
+      title: 'High School Debut, Vol. 12',
+      author: 'Kazune Kawahara'
+      synopsis: 'Can a junior high jock turn high school sweetheart overnight? When Haruna hits 9th grade suddenly boys seem much more interesting than softball! Will Haruna’s high school debut end up in heartbreak hotel?For Yoh's birthday, Haruna makes plans for the two of them to go on an overnight trip. Wait a minute...overnight means...they'll be sharing a room?! Close quarters create an intimate setting for romance, but will that be the case for Haruna and Yoh?',
+      release_date: '(first published August 25th 2008)')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 07',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'The Shinsengumi--fearsome and formidable protectors of the Shôgunate. Kenshin knows them well, having done battle with them during the final days of the Meiji Restoration. One man in particular--Saitô Hajime, captain of the third unit--lingers in Kenshin's mind. Now an officer of the law and known as "Fujita Gorô," Saitô arrives on the steps of the Kamiya Dojo, challenging Kenshin to a duel that will force a reawakening of Kenshin's own past. But the confrontation with Saitô is just the beginning of something much larger, something that will involve the future of the new Japan...',
+      release_date: '(first published October 4th 1995)')
+Manga.create(
+      title: 'High School Debut, Vol. 04',
+      author: 'Kazune Kawahara'
+      synopsis: 'Can a junior high jock turn high school sweetheart overnight? When Haruna hits ninth grade suddenly boys seem much more interesting than softball! Will Haruna’s high school debut end up in heartbreak hotel?Haruna jumps to the conclusion that Yoh is interested in her friend Mami when she sees the two of them together. Instead of confronting him about it, she runs away! Will Haruna's insecurities end her relationship with Yoh?',
+      release_date: '(first published May 25th 2005)')
+Manga.create(
+      title: 'Rurouni Kenshin, Vol. 2 #4-6',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'Packed with action, romance and historical intrigue, is one of the most beloved and popular manga series worldwide. Set against the backdrop of the Meiji Restoration, it tells the saga of Himura Kenshin, once an assassin of ferocious power, now a humble rurouni, a wandering swordsman fighting to protect the honor of those in need. This VIZBIG edition of contains volumes 4-6, bonus color content, and updated text. ',
+      release_date: '')
+Manga.create(
+      title: 'High School Debut (3-in-1 Edition), Vol. 3',
+      author: 'Kazune Kawahara'
+      synopsis: 'Even as the two of them grow closer as a couple, insecurities surface when incoming freshmen at the school are interested in both Yoh and Haruna… Haruna wants to be a strong girlfriend, but a series of misunderstandings puts Yoh in a difficult spot! What sort of shocking solution will he come up with?',
+      release_date: '')
+Manga.create(
+      title: 'Rurouni Kenshin, Vol. 8',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'Change your perspective: get BIG R to L (Japanese Style). Making good on his promise to attack the Kamiya Dojo, Enishi and his comrades pounce on Kenshin and company and quickly fight them to a standstill. Seeking to break the impasse, the masked puppet master Gein prepares to unleash his greatest creation, IwanbM Version Three. Now the battle has three fronts: Sanosuke vs. Inui Banjin and his indestructible gauntlets, Yahiko vs. the deviously deadly Otowa HyMko, and Kenshin vs. Gein's latest toy.Not wanting to be left out of the fun, SaitM Hajime happens by in time to clash with the freakish Yatsume MumyMi, but has this all been a calculated step in Enishi's master plan? For the first time since his appearance in Tokyo, Enishi unveils his awesome fighting skills, a deadly combination of both Japanese and Chinese techniques. Believing that Kenshin's death alone will not satisfy his departed sister's soul, Enishi prepares to cast Kenshin into a living hell of remorse and regret. Will Kaoru become a sacrifice on the altar of Enishi's bloody revenge? Action, romance, and historical intrigue help make Nobuhiro Watsuki's , the tale of a wandering swordsman set against the backdrop of the Meiji Restoration, one of the most popular Shonen Jump titles among fans to date. Himura Kenshin, once an assassin (or ) of ferocious power, now fights to protect the honor of those in need.',
+      release_date: '')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 02',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'When the chief of the Police Sword Corps himself comes asking for favors, things must be bad. Hitokiri Udô Jin-e--a black-hatted, crazy-eyed slayer who fells both targets and innocent bystanders alike--is steadily working his way through a list of former Ishin Shishi patriots now ensconced within position of power in the Meiji government. Can Kenshin withstand the hypnotic, paralyzing effect of Jin-e...?',
+      release_date: '(first published December 2nd 1994)')
+Manga.create(
+      title: 'High School Debut (3-in-1 Edition), Vol. 4',
+      author: 'Kazune Kawahara'
+      synopsis: 'Friendship and love are put to the test when Yoh’s friend Asaoka reveals that he likes Haruna. The two boys strike a deal—whoever loses the school sports meet will give up on her! Later, Haruna grapples with an unattractive girl who’s obsessed with Yoh… But can Haruna win against jealousy and sabotage?',
+      release_date: '')
+Manga.create(
+      title: 'High School Debut, Vol. 11',
+      author: 'Kazune Kawahara'
+      synopsis: 'Can a junior high jock turn high school sweetheart overnight? When Haruna hits 9th grade suddenly boys seem much more interesting than softball! Will Haruna’s high school debut end up in heartbreak hotel?Haruna becomes worried when she sees Yoh hanging out with an unattractive classmate. (Yoh does seem to have strange taste in women after all...) She has good reason for feeling uneasy--it looks like this girl really does want to sabotage their relationship!',
+      release_date: '(first published April 25th 2008)')
+Manga.create(
+      title: 'Rurouni Kenshin, Vol. 1: Meiji Swordsman Romantic Story',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'Packed with action, romance and historical intrigue,  is one of the most beloved and popular manga series worldwide. Set against the backdrop of the Meiji Restoration, it tells the saga of Himura Kenshin, once an assassin of ferocious power, now a humble , a wandering swordsman fighting to protect the honor of those in need. ',
+      release_date: '(first published September 2nd 1994)')
+Manga.create(
+      title: 'High School Debut, Vol. 09',
+      author: 'Kazune Kawahara'
+      synopsis: 'Can a junior high jock turn high school sweetheart overnight? When Haruna hits 9th grade suddenly boys seem much more interesting than softball! Will Haruna’s high school debut end up in heartbreak hotel?The school sports meet is coming up, so everyone's gearing up for some fierce competition! Even affairs of the heart become a competitive event when Yoh suspects his friend Asaoka may truly have feelings for Haruna...',
+      release_date: '(first published July 25th 2007)')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 21',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'Though he once killed in the name of the nascent Meiji government, even an infamous manslayer such as "Hitokiri Battôsai" might grow weary and vow never to kill again. As a new age dawns, there are those who yet cling to the ways of bloodshed, and see the days of peace and prosperity Kenshin and others like him fought so hard to bring forth as betrayal. In ten days' time, the enemies of Kenshin will come for him, and all who stand beside him are in danger. Is the time of earthly justice truly at hand?',
+      release_date: '(first published July 3rd 1998)')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 22',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'The ghosts of Kenshin's past come to wreak havoc on his future as the fight is literally brought to the doorstep of Kamiya Dojo. Three great battles--three great warriors! Myôjin Yahiko, the student of swords not yet a man, takes on a fighter more than twice his age. Sagara Sanosuke, the free-wheeling street fighter, learns a new humility and becomes stronger for it. And Himura Kenshin, the former slayer of men, begins to see a way to atone for the sins of the hitokiri ...',
+      release_date: '(first published September 2nd 1998)')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 19',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'It began with a sin, committed by Kenshin, back during his bloody days as hitokiri or a government-sanctioned slayer of men. Although stopping most of the assassins who still come seeking revenge should be easy enough, what of the innocent--Sanosuke and Yahiko (Kenshin's comrades), everyone at Akabeko Inn (Kenshin's friends), Kaoru (Kenshin's...?). For once there was another love in Kenshin's life, one which--given his nature--must by definition have been tragic. Can Kenshin escape the shades of his past, and find the will to fight for the real world--for the living--for reality?!',
+      release_date: '(first published February 4th 1998)')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 03',
+      author: 'Nobuhiro Watsuki'
+      synopsis: '"Spider's Web"...like ordinary opium, but better processed. Half the cost to produce, but twice the profits! To the people of Aizu, Takani Megumi was a daughter in a famous family of doctors, in which everyone--women and children alike--studied medicine. But to grasping industrialist Takeda Kanryû, she is the hen who lays the golden egg--the only one who knows the Spider's Web formula! To stay with Kanryû is to send even more to their deaths. But to stay with Kenshin and the others is to invite theirs...',
+      release_date: '(first published February 2nd 1995)')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 06',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'Kenshin's battle with Raijûta to decide the fate of Meiji Era swordsmanship is coming to a head. One fact is quickly becoming apparent: Raijûta will stop at nothing to ensure the supremacy of his own school of sword-fighting! Reunited with a member of the former Sekihô Army--that doomed civilian unit--Sanosuke runs into trouble of his own. Old alliances are challenged when a plan to topple the current government by any means necessary is shared...and as his friend puts it, Sano's either "in," or "in the way." Plus a bonus installment containing the first story Nobuhiro Watsuki ever published!',
+      release_date: '(first published August 4th 1995)')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 09',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'A glimpse of the new Japan if the mad ambitions of Shishio Makoto should succeed is revealed when Kenshin arrives in Kyoto and meets him at last...although the epic battle between them will have to wait. Pitted against Shishio's soldiers, Kenshin's reversed-edge sakabatô is broken--can it be reforged? Should it be reforged? For time has once again begun to flow, and violence once more washes over the land. Although Kenshin has abandoned the ways of the hitokiri and has sworn to take life no longer, a new assassin has now arisen--one whose taste for blood and thirst for power knows no bounds…',
+      release_date: '(first published February 2nd 1996)')
+Manga.create(
+      title: 'High School Debut, Vol. 06',
+      author: 'Kazune Kawahara'
+      synopsis: 'Can a junior high jock turn high school sweetheart overnight? When Haruna hits ninth grade suddenly boys seem much more interesting than softball! Will Haruna's high school debut end up in heartbreak hotel?A chance encounter on the train brings Haruna face-to-face with Yoh's ex-girlfriend. (Yes, the ex-girlfriend of "the beads incident" fame!) Yoh reassures Haruna that he doesn't want to get back together with his ex, but is that how he truly feels?',
+      release_date: '(first published April 25th 2006)')
+Manga.create(
+      title: 'High School Debut, Vol. 07',
+      author: 'Kazune Kawahara'
+      synopsis: 'Can a junior high jock turn high school sweetheart overnight? When Haruna hits ninth grade suddenly boys seem much more interesting than softball! Will Haruna’s high school debut end up in heartbreak hotel?With Yoh's parents out of town, it's up to Haruna to take care of Yoh when he becomes sick. No parents around, huh? Hmm...but Haruna wouldn't dream of taking advantage of this convenient situation...or would she?',
+      release_date: '(first published November 24th 2006)')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 11',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'With Misao's help, Kaoru finally manages to locate Kenshin in Kyoto--at the home of Hiko Seijûrô, his master in the school of Hiten Mitsurugi. Having convinced his master to resume (complete) his training, Kenshin assumes the role of pupil once more, while elsewhere in Kyoto, other forces come together. There is the arrival of Shinomori Aoshi, soon approached by the men of Shishio Makoto to join their cause; there is the arrival also of Saitô Hajime, who comes to free Sano from jail and also to join him in questioning "Ten Swords" member Chô. The truth of Shishio's plan for Japan is beginning to be unveiled…',
+      release_date: '(first published June 4th 1996)')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 20',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'To build a new age, must one truly be mad enough to turn from the extreme justice that political allegiance requires? Deep in the Japanese countryside, far from the gore-spattered streets of the capital, a man who never knew what happiness was begins a new life as husband to a woman who claims to have nowhere else to go. If a man cannot fight to protect the woman he loves, what will become of the nation? Can one woman alone be enough to hold back the madness?',
+      release_date: '(first published May 1st 1998)')
+Manga.create(
+      title: 'Rurouni Kenshin, Vol. 9',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'R to L (Japanese Style). Change your perspective: get BIG ',
+      release_date: '')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 15',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'At the madman Shishio Makoto's headquarters, the long-delayed duel between Kenshin and Shinomori Aoshi concludes, while at Aoi-Ya, those left behind wage their own, desperate battle against Shishio's Juppongatana or "Ten Swords." The strength of one swordsman in particular seems monstrous, and defeat imminent...that is, until Kenshin's former Hiten Mitsurugi master, Hiko Seijûrô, takes the field. Will the respect of one warrior for another succeed where all else has failed? Elsewhere, Kenshin and Sôjirô cross swords at last. Although well-matched, Kenshin's victory is by no means certain...',
+      release_date: '(first published May 1st 1997)')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 27',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'Kenshin and his comrades have finally discovered the location of Enishi's island compound, but to free Kaoru from captivity, a good deal of fighting will be necessary. Woo Heishin, Enishi's mysterious second-in-command, meets them on the beach and brings his deadly bodyguards, the Sû-shin or the "Four Stars," to serve as a welcoming committee. Yahiko, Sanosuke, Saitô and Aoshi dive into combat with Woo Heishin's warriors as Kenshin prepares himself for his fateful, climactic duel with Enishi. Each of them a ferocious fighter, the Sû-shin are set on stopping Kenshin's friends dead in their tracks.',
+      release_date: '(first published September 3rd 1999)')
+Manga.create(
+      title: 'Rurouni Kenshin, Vol. 1 #1-3',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'Packed with action, romance and historical intrigue,  is one of the most beloved and popular manga series worldwide. Set against the backdrop of the Meiji Restoration, it tells the saga of Himura Kenshin, once an assassin of ferocious power, now a humble , a wandering swordsman fighting to protect the honor of those in need.',
+      release_date: '')
+Manga.create(
+      title: 'Rurouni Kenshin, Vol. 4 #10-12',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'One of the most popular manga series in the world now in an omnibus format. Packed with action, romance and historical intrigue, Rurouni Kenshin is one of the most beloved and popular manga series worldwide.',
+      release_date: '')
+Manga.create(
+      title: 'High School Debut (3-in-1 Edition), Vol. 5',
+      author: 'Kazune Kawahara'
+      synopsis: 'With graduation on the horizon, Yoh faces a difficult choice: should he go to university all the way in Tokyo or stay near Haruna? Haruna wants to support Yoh’s decision no matter what, but can their relationship weather long distance?Don’t miss the series finale, plus previously unpublished stories from volumes 14 and 15 of the High School Debut series!',
+      release_date: '')
+Manga.create(
+      title: 'High School Debut, Vol. 02',
+      author: 'Kazune Kawahara'
+      synopsis: 'Hopeless Haruna needs help finding a boyfriend! After failing to win the eye of any guy in high school, Haruna enlists the help of cute upperclassman Yoh to coach her on how to make herself more appealing to the male species. Yoh agrees, with one catch: Haruna had better not fall for him!Haruna begins to develop feelings for Fumiya, Yoh's friend. Yoh talks her through her first-date jitters, but is Fumiya the right guy for Haruna? Especially when they walk in on Fuyima and Yoh's sister Asami...kissing?!',
+      release_date: '(first published July 23rd 2004)')
+Manga.create(
+      title: 'High School Debut, Vol. 03',
+      author: 'Kazune Kawahara'
+      synopsis: 'Hopeless Haruna needs help finding a boyfriend! After failing to win the eye of any guy in high school, Haruna enlists the help of cute upperclassman Yoh to coach her on how to make herself more appealing to the male species. Yoh agrees, with one catch: Haruna had better not fall for him!But what does Haruna do when she  find herself liking Yoh? She starts acting weird and avoiding him, that's what! When he confronts her about her strange behaviour and encourages her to be honest with him, will she quash her feelings or confess her love?',
+      release_date: '(first published November 23rd 2001)')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 18',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'He may be one of the "good guys" now (as Misao insists) but, even a month later, Kenshin still is haunted by Kyoto. How can he not be, when it was in Kyoto that, as the feared "Hitokiri Battôsai," he once made the streets flow red...? And yet, before he departs this place of so many memories, there are ghosts which must be put to rest. It's said that, when strong feelings are attached to a particular wound, so long as those feelings persist, the scar will remain. How did Kenshin get that cross-shaped scar on his face, and who was it that gave it to him?',
+      release_date: '(first published December 4th 1997)')
+Manga.create(
+      title: 'High School Debut (3-in-1 Edition), Vol. 2',
+      author: 'Kazune Kawahara'
+      synopsis: 'When Haruna and Yoh start dating, their path to true love is filled with obstacles—awkward dates, a manipulative sister, and even a vengeful nemesis! Through it all, Haruna’s determination keeps her going! But when Yoh’s ex-girlfriend shows up, how will she handle the competition?',
+      release_date: '')
+Manga.create(
+      title: 'High School Debut (3-in-1 Edition), Vol. 1',
+      author: 'Kazune Kawahara'
+      synopsis: 'Hapless Haruna needs help finding a boyfriend! After failing to win the eye of any guy in high school, Haruna enlists the help of cute upperclassmen Yoh to coach her on how to make herself more appealing to the male species. Yoh agress, with one catch: Haruna had better not fall for him!With Yoh's help, Haruna starts to discover all sorts of things--how to dress better, what guys to avoid, and what it feels like to fall in love for the first time. Haruna's foray into love has its ups and downs, but nothing's going to prepare her for when she actually lands herself a boyfriend!',
+      release_date: '')
+Manga.create(
+      title: 'High School Debut, Vol. 08',
+      author: 'Kazune Kawahara'
+      synopsis: 'Back in junior high, Haruna Nagashima was only interested in two things: softball and manga. Now that she's starting high school, Haruna's focus has changed--she wants to snag a boyfriend and have the romance of her dreams!Yoh's worried that a freshman seems to have the hots for Haruna, but Haruna is as oblivious as ever. So when the boy in question makes a move on Haruna, how will Haruna respond? More importantly, how will Yoh react?',
+      release_date: '(first published March 23rd 2007)')
+Manga.create(
+      title: 'Rurouni Kenshin, Volume 16',
+      author: 'Nobuhiro Watsuki'
+      synopsis: 'Is there such a thing as divine will or guidance...? Seta Sôjirô, stopping for a moment in mid-battle with Kenshin, may be beginning to think so. When Sôjirô made the fateful decision to ally with the monomaniacal Shishio Makoto, his family paid the ultimate price. But is the flesh of the weak truly the sustenance of the strong, as Shishio insists? Kenshin, whose Hiten Mitsurugi school places the protection of the helpless before all else, would surely disagree. In a world where might makes right only too often, what choice have "the wronged" but to wait for a savior? And when that savior comes too late...what then?',
+      release_date: '(first published July 4th 1997)')
+Manga.create(
+      title: 'High School Debut, Vol. 13',
+      author: 'Kazune Kawahara'
+      synopsis: 'Can a junior high jock turn high school sweetheart overnight? When Haruna hits 9th grade suddenly boys seem much more interesting than softball! Will Haruna’s high school debut end up in heartbreak hotel?Yoh faces a difficult choice: should he go to university all the way in Tokyo or stay near Haruna? Haruna wants to support Yoh's decision no matter what, but will her high school romance end with his graduation?',
+      release_date: '(first published December 25th 2008)')
+Manga.create(
+      title: 'High School Debut, Vol. 01',
+      author: 'Kazune Kawahara'
+      synopsis: 'When Haruna Nagashima was in junior high her life consisted of playing softball and reading comics. But now that she's going to high school, Haruna decides to put all of her energy towards getting a boyfriend and having the high school romance of a lifetime. To help in her quest, she enlists cute upperclassman Yoh Komiyama to coach her as she eschews her jock tendencies and turns herself into the kind of girl who can catch a guy. Yoh agrees, with one catch: Haruna had better not fall for him!',
+      release_date: '(first published March 25th 2004)')

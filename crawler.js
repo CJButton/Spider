@@ -14,8 +14,8 @@ const mangaList = require('./comicList');
 
 // const testUrl = 'https://www.goodreads.com/book/show/870.Fullmetal_Alchemist_Vol_1';
 // const testUrl = 'https://www.goodreads.com/book/show/1315744.Doraemon_Vol_01'
-const testUrl = 'https://www.goodreads.com/book/show/1725523.PLUTO';
-grabComic(testUrl);
+// const testUrl = 'https://www.goodreads.com/book/show/1725523.PLUTO';
+// grabComic(testUrl);
 
 function grabComic(url) {
   request(url, function(error, response, body) {
@@ -27,7 +27,7 @@ function grabComic(url) {
 
     {/* check if correct language and return if not English or none given*/}
     let lang = $('div[itemprop = "inLanguage"]').text().trim();
-    // if (lang !== 'English') return;
+    if (lang !== 'English') return;
 
     {/* title  */}
     let title = $('h1.bookTitle').first().contents().filter(function() {
@@ -111,6 +111,6 @@ function grabLinks(comicList) {
 
 const comicList = mangaList;
 
-// comicList.map((list) => {
-//   grabLinks(list);
-// })
+comicList.map((list) => {
+  grabLinks(list);
+})
