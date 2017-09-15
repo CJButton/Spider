@@ -1138,3 +1138,548 @@ Manga.create(
       author: 'Kazune Kawahara'
       synopsis: 'When Haruna Nagashima was in junior high her life consisted of playing softball and reading comics. But now that she's going to high school, Haruna decides to put all of her energy towards getting a boyfriend and having the high school romance of a lifetime. To help in her quest, she enlists cute upperclassman Yoh Komiyama to coach her as she eschews her jock tendencies and turns herself into the kind of girl who can catch a guy. Yoh agrees, with one catch: Haruna had better not fall for him!',
       release_date: '(first published March 25th 2004)')
+
+// batch 3 (227)
+
+Manga.create(
+      title: 'Gakuen Alice, Vol. 06',
+      author: 'Tachibana Higuchi'
+      synopsis: 'Young Mikan is the newest student at the mysterious and prestigious Alice Academy, where the most talented and powerful students in the country are united, but for what purpose? A series of mysterious incidents of Alices suddenly losing their powers strikes close to home when Prez's abilities suddenly disappear!',
+      release_date: '(first published November 19th 2004)')
+Manga.create(
+      title: 'Love Hina, Vol. 07',
+      author: 'Ken Akamatsu'
+      synopsis: 'At the age of 5, Keitaro and his childhood sweetheart promised to meet again as students at Japan's most prestigious university. Now 20, he can't pass his entrance exams...or even remember the girl's name Stumbing into a fluke job at an all-girls dormitory may be his last chance. In the series that inspired the new hit anime, Love Hina proves that love conquers all. Even stupidity.',
+      release_date: '(first published April 14th 2000)')
+Manga.create(
+      title: 'Vagabond, Vol. 1',
+      author: 'Takehiko Inoue'
+      synopsis: 'At seventeen years of age, Miyamoto Musashi--still known by his childhood name, Shinmen Takezō--was a wild young brute just setting out along the way of the sword.In the aftermath of the epic Battle of Sekigahara, Takezō finds himself a fugitive survivor on the losing side of the war. Takezō's vicious nature has made him an outcast even in his own village, and he is hunted down like an animal. At this crucial crossroads in Takezō's life, an eccentric monk and a childhood friend are the only ones who can help him find his way.Everything Takehiko Inoue has published has hit the top ten sales list in Japan. Striving for enlightenment by way of the sword, Miyamoto Musashi is prepared to cut down anyone who stands in his way. Vagabond is an action-packed portrayal of the life and times of the quintessential warrior-philosopher--the most celebrated samurai of all time! Shinmen Takezo is destined to become the legendary sword-saint, Miyamoto Musashi--perhaps the most renowned samurai of all time. For now, Takezo is a cold-hearted kiler, who will take on anyone in mortal combat to make a name for himself. This is the journey of a wild young brute who strives to reach enlightenment by way of the sword--fighting on the edge of death.',
+      release_date: '')
+Manga.create(
+      title: 'Gakuen Alice, Vol. 08',
+      author: 'Tachibana Higuchi'
+      synopsis: '[Read Chapter 1 at URL.] Mikan and her friends have infiltrated Z's secret hideout, but their dangerous journey is far from over. A face-off between Mikan and the Alice-stealing woman with connections to Mikan's past is just the start of a tense battle to save Hotaru, Prez, and maybe even the lives of Mikan and her team!(Tokyopop)',
+      release_date: '(first published August 19th 2005)')
+Manga.create(
+      title: 'Gakuen Alice, Vol. 13',
+      author: 'Tachibana Higuchi'
+      synopsis: 'The exciting events of the Flower Palace may be finally concluded, but the drama never stops at Alice Academy! A lesson in the making of Alice Stones turns out to be fairly revealing, especially when the meaning behind the exchange of said stones is explained to poor Mikan!',
+      release_date: '(first published May 18th 2007)')
+Manga.create(
+      title: 'Vagabond, Vol. 6',
+      author: 'Takehiko Inoue'
+      synopsis: 'BattlefieldSasaki Kojirō is the man destined to become Miyamoto Musashi's greatest rival and opponent in the most well-known duel in the annals of Japanese history. As a deaf-mute young man coming of age in a remote seaside village, Kojirō's innate ability with the sword compels him to become even better. This drive takes him beyond the borders of his peaceful village into the violent and chaotic world of feudal era Japan in the midst of a bloody war.',
+      release_date: '')
+Manga.create(
+      title: 'Love Hina, Vol. 04',
+      author: 'Ken Akamatsu'
+      synopsis: 'At the age of 5, Keitaro and his childhood sweetheart promised to meet again as students at Japan's most prestigious university. Now 20, he can't pass his entrance exams...or even remember the girl's name Stumbing into a fluke job at an all-girls dormitory may be his last chance. In the series that inspired the new hit anime, Love Hina proves that love conquers all. Even stupidity.',
+      release_date: '(first published September 16th 1999)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 25: And Shusuke Smiles',
+      author: 'Takeshi Konomi'
+      synopsis: 'It's Seishun versus Rikkai in the Kanto Tournament Finals, and the action is heating up. Sadaharu must confront his childhood friend Renji Yanagi, while Shusuke faces off against Akaya Kirihara, Rikkai's brilliant--and ruthless--star player.',
+      release_date: '(first published September 3rd 2004)')
+Manga.create(
+      title: 'Vagabond, Vol. 7',
+      author: 'Takehiko Inoue'
+      synopsis: 'The Distant OceanIn the aftermath of the bloody Battle of Sekigahara, Sasaki Kojirō, the man destined to be Musashi's opponent in the most famous duel in Japanese history, finds himself alone amidst desperate refugees and vicious hunters. Despite being pushed to his limits, Kojirō is far from daunted by his peril and instead thrives with an almost supernatural serenity. Driven by his macabre thirst for battle, Kojirō is transformed into the ultimate swordsman.',
+      release_date: '')
+Manga.create(
+      title: 'Vagabond, Vol. 8',
+      author: 'Takehiko Inoue'
+      synopsis: 'ConfrontationMusashi has returned to Kyoto one year after he last attempted to take on the mighty Yoshioka School, and the entire city is abuzz anticipating the rematch to come. When the elder disciples of the Yoshioka discover the unbelievable progress Musashi has made along the way of the sword, they plot to defeat him however they can--even if it means resorting to dishonorable means.',
+      release_date: '')
+Manga.create(
+      title: 'Gakuen Alice, Vol. 03',
+      author: 'Tachibana Higuchi'
+      synopsis: 'The school cultural festival is approaching, and the special guest star is going to be Leo. But it turns out that Leo is apparently involved in a dangerous plot to kidnap Natsume for some mysterious purpose. It's up to Mikan and Sumire to break out of the school to follow the abductors.',
+      release_date: '(first published November 19th 2003)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 4: The Black Unit',
+      author: 'Takeshi Konomi'
+      synopsis: 'The quest continues for the gritty players at Seishun Academy. With their sights dead-set on making it all the way to the Nationals, they must outclass every team that stands in their way. Next up is Fudomine, a group of belligerent players who were disqualified from the rookie games last year due to a tournament fracas. Tempers flare and talents soar when the battle begins with the very first serve. It might take more than "Tsubame Gaeshi" to secure this victory!',
+      release_date: '(first published August 4th 2000)')
+Manga.create(
+      title: 'Vagabond, Vol. 11',
+      author: 'Takehiko Inoue'
+      synopsis: 'Sword DemonAfter single-handedly defeating seventy bloodthirsty men from the Yoshioka clan, Musashi is at the greatest crossroads of his life—will he head toward the light and live a life among men, or will the allure of the darkness be too strong for him to resist? A chance encounter with the ferocious master, Ito Ittosai, may make the decision to live by the sword inevitable.',
+      release_date: '')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 14: Day of the Demons',
+      author: 'Kazuo Koike'
+      synopsis: 'As the flames draw nearer, the fire gets hotter. Ronin assassin Ogami Itto seeks to learn what's written on the secret messages from the corrupt Yagyu clan to the Shogun, and leaves a river of blood in his path. Elsewhere, a shamed woman attempts to force her husband to name his own child, but his job and honor stand in the way. Daigoro makes a new friend in another samurai fated to  &mdash; ritual suicide &mdash; and defends the honor of a young playmate. The world keeps turning as the Lone Wolf and his Cub wander the land seeking revenge and answers, the questions to which are written in blood and ink. One Rainy Day O-Shichiri Man The Kyushu Road Day of the Demons',
+      release_date: '(first published June 1988)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 15: The Sadaharu-Kaoru Pair',
+      author: 'Takeshi Konomi'
+      synopsis: 'At the Kanto Tournament, the brillant play of Hyotei Academy's Gakuto and Yushi's drives Seishun's Momo and Eiji to assume the Australian formation, a technique they masterfully pulled off in a previous match. Meanwhile, the Seishun team of Kaoru and Sadaharu walk into a landmine filled with "scud serves" and accurate, aggressive doubles play. But just when things look bleak, Sadaharu unleashes his well-planned counterattack...',
+      release_date: '(first published September 4th 2002)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 23: Rikkai's Law',
+      author: 'Takeshi Konomi'
+      synopsis: 'Seishun players spend sleepless nights anxiously awaiting the Kanto Tournament Finals against Rikkai. And they  be worried! Rikkai's diabolical doubles team of Bunta Marui and Jackal Kuwahara has some crazy moves that'll keep their opponents up for nights to come!',
+      release_date: '(first published April 2nd 2004)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 31: A Surprise Strategy: Eiji Plays Singles',
+      author: 'Takeshi Konomi'
+      synopsis: 'With Shuichiro out of play, the other half of Seishun's Golden Pair faces off against Higa's Yujiro Kai in No. 2 Singles. Can Eiji bring Seishun a victory without his partner's support? The final match of the round, No. 1 Singles, pits captain against captain: Kunimitsu, in his first game back from injury, versus Eishiro "Killer" Kite.',
+      release_date: '(first published December 2nd 2005)')
+Manga.create(
+      title: 'Love Hina, Vol. 11',
+      author: 'Ken Akamatsu'
+      synopsis: 'When Keitaro Urashima fails his entrance exams to get into Tokyo University for the second time, he's officially an unemployed and uneducated slacker. To make things worse, his parents have kicked him out of his house. Fortunately, his grandmother owns the fabulous Hinata Lodge and has agreed to take Keitaro in as caretaker. What he doesn't know is that the lodge is actually a girl's dorm and he's the only guy around! Most guys would kill to live with five sexy ladies, but if Keitaro's not careful, this job will kill him.',
+      release_date: '(first published April 17th 2001)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 35: Farewell, Hyotei Academy',
+      author: 'Takeshi Konomi'
+      synopsis: 'Ryoma and Keigo's incredible match turns into a battle of stamina and sheer will: whoever's left standing to make the last play will be the winner. Meanwhile, Fudomine's captain, Kippei Tachibana, plays his team's last quarterfinal match against Shitenhoji. His opponent is his ex-teammate, Senri Chitose. Can Kippei overcome the demons of his past and defeat his old friend?',
+      release_date: '(first published September 4th 2006)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 13: Akutsu's Pride/Ryoma's Courage',
+      author: 'Takeshi Konomi'
+      synopsis: 'Seishun Academy is in the finals of the District Preliminaries, and the only thing standing in their way is mean, violent, and ill-tempered Jin Akutsu of Yamabuki Junior High! Ryoma desperately needs to toughen up mentally, as Jin has figured out a way to punish him with his powerful shots. Meanwhile, Seishun holds more intra-squad games, and this time someone loses his spot on the starting team…!',
+      release_date: '(first published April 4th 2002)')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 2: The Gateless Barrier',
+      author: 'Kazuo Koike'
+      synopsis: 'The epic continues! Among the five stories in this issue: Cub has been captured while Lone Wolf lies unconscious! All of Cub's captors are cruel, all but the  (the lowest maid). But her help may be her undoing. The household waits for the feared Lone Wolf to come looking for his son...and when he does...pick up Volume Two to find out what happens &mdash; plus four other great stories, as this classic epic continues!Red CatThe Coming of the ColdTragic O-SueThe Gateless BarrierWinter Flower',
+      release_date: '(first published 1971)')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 23: Tears of Ice',
+      author: 'Kazuo Koike'
+      synopsis: 'Holy hand grenades! Edo is flooded, and by flooded, we mean crazy-flooded. Bridges are crumbling, rivers are washing past retaining walls, and everything in Edo is floating away, including our vengeful ronin, his foe, and his little boy. In an ironic show of samurai respect, little Cub Daigoro gets saved by the conniving Retsudo Yagyu. And proving he can lend a hand, too, Lone Wolf Ogami pulls someone to safety as well -- but maybe he should have let him drown. Eventually, the two opposing master swordsmen dry off and go head to head in a sword fight of a thousand stances and couple of days length. This seems like it could be the deciding bout between the two, unless that nasty, Abeno Kaii gets in the way, and he seems to do that a lot lately.',
+      release_date: '(first published July 30th 2002)')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 12: Shattered Stones',
+      author: 'Kazuo Koike'
+      synopsis: 'A woman driven to insanity by the murder of her child, and the horribly burned husband seeking revenge; unseen samurai under the thumb of a power-hungry woman; a beggar ronin seeking the downfall of his greedily ambitious wife; a good-for-nothing beggar willing to use a child to make easy money; a lady magician threatened by swindling gangsters: all of these people have something in common &mdash; the need to regain their honor, and this quest almost always means death. Ogami Itto, a wandering ronin on a road to vengeance, has been paid to put these folks back on that path, at any cost. For this grim samurai and his infant son, there is nothing left in this world except honor, vengeance, death, and blood. Fortunately, there's plenty of each to go around... Nameless, Penniless, Lifeless Body Check Shattered Stones A Promise of Potatoes Wife Killer',
+      release_date: '')
+Manga.create(
+      title: 'Gakuen Alice, Vol. 11',
+      author: 'Tachibana Higuchi'
+      synopsis: '"Gakuen Alice, Volume 11".',
+      release_date: '(first published September 19th 2006)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 17: Waltzing Toward Destruction',
+      author: 'Takeshi Konomi'
+      synopsis: 'Shusuke and Jiro's match continues! Both pull out all the stops, but it's the Hakugei, also known as the White Whale, that's the move to beat. Will it be enough? You gotta read to find out who the loser is in this one!',
+      release_date: '(first published February 4th 2003)')
+Manga.create(
+      title: 'Love Hina, Vol. 01',
+      author: 'Ken Akamatsu'
+      synopsis: 'At the age of 5, Keitaro and his childhood sweetheart promised to meet again as students at Japan's most prestigious university. Now 20, he can't pass his entrance exams...or even remember the girl's name. Stumbling into a fluke job at an all-girls dormitory may be his last chance. In the series that inspired the new hit anime, Love Hina proves that love conquers all. Even stupidity.',
+      release_date: '(first published March 17th 1999)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 21: Kikamaru's New Step',
+      author: 'Takeshi Konomi'
+      synopsis: 'Rokkaku's not going down without a fight. And Rikkai is better than expected. It's up to Eiji--and Ryoma--to pull out all the stops for Seishun! Can their new moves turn the tables?',
+      release_date: '(first published December 4th 2003)')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 11: Talisman of Hades',
+      author: 'Kazuo Koike'
+      synopsis: 'The #1-selling graphic-novel sensation continues! The Lone Wolf and his cub, father and son, are separated by the hatred of the Yagyu -- and the path to togetherness is lined with blood and honor. As Ogami continues his search for little Daigoro, he must battle deadly Yagyu assassins and aspiring, cocky samurai. He prepares to give them a taste of his blade... Meanwhile, Daigoro visits a crazed old woman living under a bridge, and teaches her a valuable lesson. In these and other stories in this volume, Lone Wolf and Cub continue to unlock the mystery of the Yagyu, one step closer to the truth behind his quest for vengeance. Prepare for more legendary action, in a handy size that fits in your back pocket! Talisman of Hades Ailing Star Thirteen Strings A Poem for the Grave',
+      release_date: '(first published July 25th 2001)')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 28: The Lotus Throne',
+      author: 'Kazuo Koike'
+      synopsis: 'What exactly needs to be said in solicitation copy for the VERY LAST VOLUME OF ? It's the moment you've all been waiting years and years to read. It's the end of the long path the  father and son have been on since the boy's birth. Through unimaginable violence and bad weather, across hundreds of miles of blood-soaked roadbeds, over years of tragedy and anguish, to this final still-epic story, Itto and Daigoro have kept us holding on to what little hope exists in a world where honor is all but forgotten and warriors are obsolete. It's a bloody battle all the way to the finish, with dramatic twists and turns right up to the final page. Stay with us as we conclude the translation of what will always be considered one of the finest examples of comic-book mastery ever created, This volume contains the following stories: Corpse Tree Flute and Wave The Lotus Throne Empty Stirrups Arms',
+      release_date: '(first published January 9th 2002)')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 10: Hostage Child',
+      author: 'Kazuo Koike'
+      synopsis: 'Pages: 32 Language: English Publisher: Dark Horse Comics The six paths and four lives are split asunder. as Itto Ogami and Daigoro become separated in one of this series most powerful stories to date The Lone Wolfs arch-enemy. Yagyu Retsudo. pursues! Ogami to retrieve the secret letter stolen from him. only to watch dozens of his men fall victim to the Lone Wolfs hungry sword! But Yagyu drives father and son apart as they tumble down a cliff and must survive on their own! Little Daigoro must begin . his honorable search for his father But with Yagyus henchmen hunting high and low for the Lone Wolf and his cub. the net drags closer and the danger wraps tighter. but the blood flows ever freely ... This volume contains the following stories: The Yagyu LetterThe Tears of DaigoroThe Fisherwomans LoveDrifting ShadowsStraw Boy',
+      release_date: '(first published June 26th 1997)')
+Manga.create(
+      title: 'Vagabond, Vol. 12',
+      author: 'Takehiko Inoue'
+      synopsis: 'Miyamoto Musashi and Sasaki Kojiro’s intertwining paths lead them toward what will be the greatest samurai duel in Japanese history. Sasaki Kojiro heads to Kokura for his new position as sword instructor for the powerful Hosokawa Clan. Meanwhile, Musashi is at a crossroads dealing with the aftermath of single-handedly destroying the mighty Yoshioka clan. After he starts to question his quest to be invincible and his whole reason for existence, will his confidence in himself ever be the same?',
+      release_date: '(first published March 17th 2015)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 9: Take Aim!',
+      author: 'Takeshi Konomi'
+      synopsis: 'The much-anticipated match between Seishun Academy 's Ryoma Echizen and St. Rudolph's Yuta is underway, and neither of them is giving in to each other's intimidation techniques. Upon orders from Hajime, St. Rudolph's cunning team manager, Yuta must aim for Ryoma's left eye, which was accidentally injured during his previous match. Battling all odds to secure his team's victory--as well as his own on-court safety--can Ryoma formulate a strategy to tame Yuta's killer twist spin shot? And is Yuta really that evil?',
+      release_date: '(first published July 4th 2001)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 32: Two of a Cunning Kind',
+      author: 'Takeshi Konomi'
+      synopsis: 'The National Tournament moves into the quarterfinal stage, and the Seishun players find themselves pitted against their old rivals, Hyotei. Kicking things off is the No. 3 Singles match between Momoshiro and Hyotei's resident "genius," Yushi Oshitari. Will all of Momo's strength and cunning be enough to defeat the "Player of a Thousand Techniques"?',
+      release_date: '(first published February 3rd 2006)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 29: The Nationals Begin!',
+      author: 'Takeshi Konomi'
+      synopsis: 'After arriving at the Nationals, Seishun scouts their upcoming opponents: their old rivals Rokkaku and an unknown team from Okinawa, Higa Junior High. After watching Higa mow through their first-round match-ups, the Seishun players are taken aback by the team's dominance. But there's no time for doubt--the second round is starting, and it's Ryoma versus Higa's heavy hitter, the giant Kei Tanishi and his unreturnable "Big Bang" serve.',
+      release_date: '(first published January 1st 2005)')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 22: Heaven and Earth',
+      author: 'Kazuo Koike'
+      synopsis: 'Rain. Poison. Explosives. Vengeance. It's a deadly combination that forms a volatile mixture of deceit, betrayal, and hate as the final showdown between Lone Wolf assassin Ogami Itto and his nemesis Retsudo begins. While the torrential rains continue to pound Edo, the fiery Retsudo and his bloodthirsty Yagyu army rush along the banks of the swelling Hatcho River, racing to beat a load of explosives that's traveling down the other side, heading right into the hands of the vengeful samurai Ogami. Meanwhile, the cunning poisoner Abeno sees his chance to destroy both sides as they run headlong on their collision course  he's going flood all of Edo! Forced to put their battle aside, Ogami and Retsudo find themselves fighting side by side to save all of Edo from the floods, while Ogami's little son Daigoro wanders alone, fighting for his life and searching for his father! It's a deluge of evil, and it threatens to wash away all that stands in its path!',
+      release_date: '(first published 1989)')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 25: Perhaps in Death',
+      author: 'Kazuo Koike'
+      synopsis: 'The mortal enemy of our ronin hero, Retsudo Yagyu has been imprisoned in Edo castle by the shogun. It seems the conniving poisoner, Abeno Kaii, has exposed the Yagyu letter! And Yagyu's jailer is none other than the poisoner himself, determined to feed Retsudo the dose that will end his life in a pit of dishonor. But Yagu has spies even in Edo caslte, and a message is sent to his "grass," members of the clan hiding in secret, living as normal townspeople throughout Japan. It is up to them to give their lives in this final hour of desperate need. Meanwhile, Itto Ogami is living in a shack and training his little boy for the day when he must protect the battlefield with his own little hands. Still, two swords remain in this field of death, awaiting the two hands that will draw them from the soil and bring us closer to the end of our tale.',
+      release_date: '(first published September 24th 2002)')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 8: Chains of Death',
+      author: 'Kazuo Koike'
+      synopsis: 'The journey of vengeance in blood and honor continues. Under the itinerant thumb of Yagyu Retsudo, the Shogun's secret ninja warriors, the Kurokuwa clan, attempt to ensnare Ogami. Can the Lone Wolf break the chains? If so, there are many in line behind Yagyu waiting to challenge the masterful swordsman, such as a vengeful widow, numerous police, and the freezing cold of winter itself. Plus, read the story of Ogami's rise to the position of the Shogun's Officer of Death, feel the seething root of Retsudo Yagyu's bitterness against Ogami, and watch Ogami teach a proud thief about true honor and the wages of deception. Five action-packed chapters, including never-before-translated material, are included in the latest volume of this classic series. Read it on the bullet train to Edo!Tidings of the GeeseThe Frozen CraneChains of DeathThe Infinite PathThread of TearsBeku-no-ji',
+      release_date: '(first published 1987)')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 3: The Flute of the Fallen Tiger',
+      author: 'Kazuo Koike'
+      synopsis: 'Join renegade samurai Itto Ogami and his infant son, Daigoro, in five more adventures on the dark road to Hell. What do three mysterious Shogunate assassins, a street entertainer, and the crests of the dead have in common? "The Baby Cart Wolf" continues his dealing of death for gold and encounters one  who is bent on putting a stop to his journey. Will he succeed? Follow the monthly adventures of  one of the true classics of comics literature, available in America for the first time in over a decade! The Flute of the Fallen Tiger Half Mat, One Mat, A Fistful of Rice The White Path Between the Rivers The Virgin and the Whore Close Quarters',
+      release_date: '(first published 1995)')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 6: Lanterns for the Dead',
+      author: 'Kazuo Koike'
+      synopsis: 'The legend of Lone Wolf and Cub continues to grow in this latest chapter of Koike and Kojima's epic samurai masterpiece chronicling the wanderings of Japan's deadliest assassin, Itto Ogami, and his infant son, Daigoro. In this volume, Ogami takes on the most dangerous killer of the countryside, foils the plans of a deceptive gambling troupe, tricks an evil lord into exposing his weak underbelly, and pits himself against the Shogun's dangerous and deadly Kurokawa ninja! Drawing extensively from Sun Tzu's The Art of War, and featuring the saddest puppy-dog story ever published, this must-have volume is packed with action and emotion.',
+      release_date: '(first published February 27th 1997)')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 4: The Bell Warden',
+      author: 'Kazuo Koike'
+      synopsis: 'Dark Horse continues its presentation of the entirety of Japan's Lone Wolf and Cub, one of the unquestioned landmarks of graphic fiction, packaged in the digest format preferred by creator Goseki Kojima. The fourth volume of this ambitious monthly program collects four classic Lone Wolf tales, including one never before seen in America, where little Daigoro searches for his lost father while amazing a well-known samurai with his warrior's eyes and cool demeanor. Also, the Lone Wolf takes on the sons of the war-bell warden, legions of organized crime bosses, and a mysterious tattooed lady with a dark story and impeccable killing skills. It's bloody and romantic...and among the best the comics medium has to offer.',
+      release_date: '(first published 1995)')
+Manga.create(
+      title: 'Gakuen Alice, Vol. 05',
+      author: 'Tachibana Higuchi'
+      synopsis: '[Read Chapter 1 at URL] The Alice Festival is coming to a close, but the surprises and fun aren't over for Mikan and her friends yet! Things get a little crazy for Narumi's musical when an accident takes out some of the performers, and Mikan has to step in as the star of the show. But what will happen when she and Luca have to kiss on stage?! And as if that's not enough, as soon as the kids are back in class, it's time for exams, and Mikan is in for some bad news when the scores come back! ',
+      release_date: '(first published July 16th 2004)')
+Manga.create(
+      title: 'Love Hina: Boxed Set Vol 1',
+      author: 'Ken Akamatsu'
+      synopsis: '',
+      release_date: '')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 16: Super Combo',
+      author: 'Takeshi Konomi'
+      synopsis: 'Takashi Kawamura battles the mysterious Kabaji of Hyotei Academy. Taka unleashes a brutal two-handed "Hadokyu" (wave surge shot), which Kabaji dishes right back. Unbeknownst to Taka, Kabaji's special talent is his ability to mimic shots with accuracy and ease. Meanwhile, Sadaharu's honesty and keen eye for detail becomes Seishun's downfall when he volunteers that his winning smash was actually out. Can Seishun Academy afford another loss?',
+      release_date: '(first published December 4th 2002)')
+Manga.create(
+      title: 'Vagabond, Vol. 5',
+      author: 'Takehiko Inoue'
+      synopsis: 'Glimmering WavesIn a remote seaside village, an abandoned infant is left to the care of a reclusive old man who has all but renounced the ways of the world. This helpless child is destined to become Sasaki Kojirō--the legendary archrival of Miyamoto Musashi. Inoue's unique take on this enigmatic figure lays the foundation for his fictional account of the most famous rivalry in Japanese history.',
+      release_date: '')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 12: Invincible Man',
+      author: 'Takeshi Konomi'
+      synopsis: 'The next round of games are underway, and Seishun's Takeshi Momoshiro ("Momo") encounters Kiyosumi in the No. 3 Singles. Momo's in for a hard day's work, as Kiyosumi proves to be a intimidating opponent from the moment he launches his "Kohou" (Tiger Cannon), or wallop serve. Meanwhile, the Prince of Tennis Ryoma Echizen faces Yamabuki's Jin in the No. 2 Singles. Discover the "reason" why Jin can't possibly lose...',
+      release_date: '(first published February 4th 2002)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 19: Tezuka's Departure',
+      author: 'Takeshi Konomi'
+      synopsis: 'Captain Kunimitsu is out! Now, without him, Seishun's up against a team coached by a four-time Japan Open winner. It's time for serious pressure, on and off the court!',
+      release_date: '(first published July 4th 2003)')
+Manga.create(
+      title: 'Vagabond, Vol. 2',
+      author: 'Takehiko Inoue'
+      synopsis: 'Musashi sets out for Nara intent on challenging the warrior monks of legendary Hozoin Temple. But Musashi's growing feelings for his childhood friend Otsu; may prove to be a fatal distraction in his match against Inshun, the austere master of Hozoin's deadly spear technique!',
+      release_date: '')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 34: Synchro',
+      author: 'Takeshi Konomi'
+      synopsis: 'Shuichiro and Eiji are down 3-6 at tie break in their quarterfinal match against Hyotei's Ohtori and Shishido. With their backs against the wall, the Golden Pair unveil their final technique: Synchro. And then it's down to the No. 1 Singles match, with all of Seishun's hopes resting on Ryoma's shoulders as he struggles against Hyotei's captain, Keigo Atobe.',
+      release_date: '(first published July 4th 2006)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 39: Flare-up! Barbecue Battle!!',
+      author: 'Takeshi Konomi'
+      synopsis: 'Before the Seishun boys hit the courts for the final round of the Nationals, they hit the yakiniku table for an all-out barbecue blitz! When the time comes for Seishun to take on Rikkai at the tournament, Ryoma is stuck in Karuizawa! Help comes from an unexpected quarter to get Ryoma to that stadium. The first game is the long-awaited match that will ignite the perfect storm: Seishun captain Kunimitsu vs. Rikkai's Sanada!',
+      release_date: '(first published January 1st 2007)')
+Manga.create(
+      title: 'Vagabond, Vol. 3',
+      author: 'Takehiko Inoue'
+      synopsis: 'One With Heaven and EarthMusashi suffers a humiliating defeat against Inshun, the second-generation master of Hōzōin Temple. To prepare for a rematch, Musashi undertakes an intense spiritual and physical training regimen with a most unlikely teacher--Inshun's predecessor, the founder of the Hōzōin Spear Technique. To attain the focus necessary to take on the most technically proficient and deadliest fighter he has ever faced, Musashi will first have to confront his own deep-seated personal demons.',
+      release_date: '')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 38: Clash! One-Shot Battle',
+      author: 'Takeshi Konomi'
+      synopsis: 'Seishun's semifinal round against Shitenhoji continues with the No. 1 Doubles match, and now it's captain vs. captain as Kunimitsu and Senri square off for a fight. They're backed up by their partners Sadaharu and Hikaru... or are they?! Later Ryoma steps onto the clay against Shitenhoji's seventh-grade prodigy Kintaro, and this time neither of them are holding anything back.',
+      release_date: '(first published January 1st 2007)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 5: New Challenge',
+      author: 'Takeshi Konomi'
+      synopsis: 'With only one victory away from advancing to the city tournament, Seishun Academy fields the Prince of Tennis, Ryoma Echizen, to compete against the mysterious and mumbling Shinji of the Fudomine Team. As the punishing battle of skills unfolds, Ryoma develops a muscle paralysis called "Spot," which leaves him with barely enough strength to grip the racket, much less swing it. Refusing to go down without a fight, Ryoma unleashes a "two-sword fighting style" technique that only talented, ambidextrous players are able to execute. Will Ryoma have the strength to pull himself out of the ditch and beat Shinji? And what awaits his ex-pro tennis player father, Nanjiro, when a reporter tracks him down? Find out in the next volume of this intense sports manga!',
+      release_date: '(first published October 4th 2000)')
+Manga.create(
+      title: 'Love Hina, Vol. 12',
+      author: 'Ken Akamatsu'
+      synopsis: 'When Keitaro Urashima fails his entrance exams to get into Tokyo University for the second time, he's officially an unemployed and uneducated slacker. To make things worse, his parents have kicked him out of his house. Fortunately, his grandmother owns the fabulous Hinata Lodge and has agreed to take Keitaro in as caretaker. What he doesn't know is that the lodge is actually a girl's dorm and he's the only guy around! Most guys would kill to live with five sexy ladies, but if Keitaro's not careful, this job will kill him.',
+      release_date: '(first published July 17th 2001)')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 15: Brothers of the Grass',
+      author: 'Kazuo Koike'
+      synopsis: 'The legendary saga of Lone Wolf and Cub passes the halfway mark with this stunning volume. Watch as Ogami Itto, the Lone Wolf, comes face-to-face with his arch-enemy, Yagyu Retsudo, in a tale of dark ambition and political intrigue. Witness the tragic tale of the Women of Sodeshi. Stalk alongside a deep-cover ninja as he chases his brother who has fled his station, while a group of shadow warriors prepare for a suicide mission to find a secret gold mine - guarded by the Lone Wolf! America's best-selling graphic novel series continues to gain legions of fans. Don't miss the largest volume of LW&C yet, for the same low price!',
+      release_date: '')
+Manga.create(
+      title: 'Love Hina, Vol. 13',
+      author: 'Ken Akamatsu'
+      synopsis: 'When Keitaro Urashima fails his entrance exams to get into Tokyo University for the second time, he's officially an unemployed and uneducated slacker. To make things worse, his parents have kicked him out of his house. Fortunately, his grandmother owns the fabulous Hinata Lodge and has agreed to take Keitaro in as caretaker. What he doesn't know is that the lodge is actually a girl's dorm and he's the only guy around! Most guys would kill to live with five sexy ladies, but if Keitaro's not careful, this job will kill him.',
+      release_date: '(first published October 17th 2001)')
+Manga.create(
+      title: 'Love Hina, Vol. 05',
+      author: 'Ken Akamatsu'
+      synopsis: 'At the age of 5, Keitaro and his childhood sweetheart promised to meet again as students at Japan's most prestigious university. Now 20, he can't pass his entrance exams...or even remember the girl's name Stumbing into a fluke job at an all-girls dormitory may be his last chance. In the series that inspired the new hit anime, Love Hina proves that love conquers all. Even stupidity.',
+      release_date: '(first published November 17th 1999)')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 20: A Taste of Poison',
+      author: 'Kazuo Koike'
+      synopsis: 'A quest for vengeance wouldn't be complete without a little poison. Having tired of his retainer's futile attempts at reining in the unstoppable samurai, the shogun himself sends Abeno Kaii, a master of poison, to join the Yagyu in their hunt for ronin Itto Ogami and his little boy Daigoro. Armed with a sack full of poison and a network of streetwalking spies, Abeno creeps ever closer to the father and son. Soon Ogami and Daigoro find themselves surrounded on all sides, facing deadly secret agents, murderously seductive prostitutes, and a river of poison flowing all around them! The Eisner and Harvey Award winning series rolls ever onward with five more stories of intrigue and intensity.',
+      release_date: '(first published 1995)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 11: Premonition of a Storm',
+      author: 'Takeshi Konomi'
+      synopsis: 'Practice games soar to a new level as the Seishun Academy intra-squad games get underway. Meanwhile, the semifinal match between Fudomine and Yamabuki at the City Tournament is put on ice when word reaches Kippei that his teammates were involved in a car accident. But the real fun begins when Seishun's Momo steps onto the court to play Yamabuki's Kiyosumi Sengoku. Momo sure wasn't prepared to face a player who uses a racket with an unusually low string tension...!',
+      release_date: '(first published December 4th 2001)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 37: The Terror of Comic Tennis',
+      author: 'Takeshi Konomi'
+      synopsis: 'Seishun's semifinal matches against Shitenhoji continue, and now it's Kaoru and Momo's turn in No. 2 Doubles. Their opponents, Koharu Konjiki and Yuji Hitoji, are highly skilled players but have a style that's a little...unusual. Next, two power players step onto the court for No. 2 Singles: Taka and Gin Ishida, the originator of Taka's Hadokyu shot. In this match of Hadokyu vs. Hadokyu, it's the last player standing who'll win!',
+      release_date: '(first published January 1st 2007)')
+Manga.create(
+      title: 'Love Hina, Vol. 09',
+      author: 'Ken Akamatsu'
+      synopsis: 'At the age of 5, Keitaro and his childhood sweetheart promised to meet again as students at Japan's most prestigious university. Now 20, he can't pass his entrance exams...or even remember the girl's name Stumbing into a fluke job at an all-girls dormitory may be his last chance. In the series that inspired the new hit anime, Love Hina proves that love conquers all. Even stupidity.',
+      release_date: '(first published October 17th 2000)')
+Manga.create(
+      title: 'Gakuen Alice, Vol. 04',
+      author: 'Tachibana Higuchi'
+      synopsis: 'Mikan's daring rescue of Natsume has earned her an upgrade to One-star rank, and just in time for the School Festival to start. The festival is even more spectacular than Mikan had ever dreamed, and she and the rest of the Special Ability class are all set to knock visitor's socks off with their great new attraction.',
+      release_date: '(first published March 19th 2004)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 7: St. Rudolph's Best',
+      author: 'Takeshi Konomi'
+      synopsis: 'As the road to the Nationals narrows, Seishun Academy squares off with St. Rudolph. Through the maneuverings of Hajime, Saint Rudolph's cunning manager, Ryoma gets matched up with Yuta-known to many as "Lefty Killer." With an unorthodox game laced with reverse spins and angles, Yuta's game ignites against the seemingly inexperienced-against-lefties Ryoma. Meanwhile, the Seishun doubles tandem of Eiji and Shuichiro assume the Australian formation to break a tie. Is this a desperate attempt to win, or a well-calculated strategy?',
+      release_date: '(first published February 2nd 2001)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 18: Ace in the Hole',
+      author: 'Takeshi Konomi'
+      synopsis: 'Seishun's chance at the Nationals all comes down to Kunimitsu. Will he have to forfeit to save his injured arm, or will he play to the end--and end his career?!',
+      release_date: '(first published April 4th 2003)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 2: Adder's Fangs',
+      author: 'Takeshi Konomi'
+      synopsis: 'Ryoma Echizen, the Prince of Tennis, has just enrolled at Seishun Academy after spending several years in America winning 4 consecutive US Junior Tournaments. His cool confidence raises the hackles of a few older students on the tennis team, and they challenge him to a game--but none of them even comes close to his skill and level of play. Now intramural matches to determine the starting members of the team for the upcoming city tournament are about to begin, and even though the rules don't allow 7th graders to play in tournaments, the captain has arranged for Ryoma to enter the ranking matches. Does he have what it takes to truly deserve the title Prince of Tennis? Find out in this amazing tennis manga!',
+      release_date: '(first published April 4th 2000)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 20: Seishun vs. Rokkaku',
+      author: 'Takeshi Konomi'
+      synopsis: 'It's the Kanto Tournament semifinals! And Shusuke's not playing his best--meaning the advantage may once again go to last year's winner, Rokkaku!',
+      release_date: '(first published September 4th 2003)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 8: Change the Script!',
+      author: 'Takeshi Konomi'
+      synopsis: 'As far as winning strategies go, no effective game plan can be carried out without one essential factor--stamina. And when Seishun Academy's Eiji succumbs to exhaustion, their chances of securing the crucial win over St. Rudolph's fades with each drop of their hard-earned sweat. Then, Seishun's setback turns into an even more daunting situation when their team equalizer, Ryoma Echizen, treads unfamiliar ground in his match against the infamous lefty killer Yuta. With Yuta's impressive win-loss record of 16-0 against left-handers, Ryoma's in for one tricky match….',
+      release_date: '(first published May 1st 2001)')
+Manga.create(
+      title: 'Love Hina, Vol. 03',
+      author: 'Ken Akamatsu'
+      synopsis: 'At the age of 5, Keitaro and his childhood sweetheart promised to meet again as students at Japan's most prestigious university. Now 20, he can't pass his entrance exams...or even remember the girl's name Stumbing into a fluke job at an all-girls dormitory may be his last chance. In the series that inspired the new hit anime, Love Hina proves that love conquers all. Even stupidity.',
+      release_date: '(first published June 17th 1999)')
+Manga.create(
+      title: 'Love Hina, Vol. 08',
+      author: 'Ken Akamatsu'
+      synopsis: 'At the age of 5, Keitaro and his childhood sweetheart promised to meet again as students at Japan's most prestigious university. Now 20, he can't pass his entrance exams...or even remember the girl's name Stumbing into a fluke job at an all-girls dormitory may be his last chance. In the series that inspired the new hit anime, Love Hina proves that love conquers all. Even stupidity.',
+      release_date: '(first published July 17th 2000)')
+Manga.create(
+      title: 'Gakuen Alice, Vol. 02',
+      author: 'Tachibana Higuchi'
+      synopsis: 'Mikan is officially admitted into Alice Academy, but things still aren't exactly going smoothly. Natsume still bullies her, her class ranking couldn't be lower, some of the teachers are outright hostile, and she has been forbidden to contact anyone outside of the school. Will she be able to find others like her at the school, be betrayed?',
+      release_date: '(first published July 18th 2003)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 30: The Boys from Okinawa',
+      author: 'Takeshi Konomi'
+      synopsis: 'As the match between Ryoma and Higa's giant Kei Tanishi continues, it's apparent to everyone that Tanishi is in control of the game--to everyone except Ryoma, that is. Higa continues to dominate in No. 2 Doubles, with Taka and Shusuke paired up against Hiroshi Chinen and Rin Hirakoba. Now Seishun's hopes rest on whether Shusuke can figure out how to effectively counter Rin's lethal "Habu" shot.',
+      release_date: '(first published January 1st 2005)')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 16: Gateway into Winter',
+      author: 'Kazuo Koike'
+      synopsis: 'The Lone Wolf's arch-enemy, Yagyu Retsudo, begins to reach the end of his rope, as he sends his only daughter and last child after the blood-storm that is Itto Ogami! Meanwhile, Ogami and Daigoro happen upon another clue about the mysterious Yagyu Letter in a final showdown with the Kurokuwa ninja clan. A desperate Retsudo puts a bounty on Ogami's head, and two of Japan's most deadly bounty hunters hunt for the Lone Wolf and his Cub, while a poor woodcutter must decide between the bounty and his life by sheltering Ogami and Daigoro! All this and much more awaits in one of comics' most legendary series.',
+      release_date: '(first published December 21st 2001)')
+Manga.create(
+      title: 'Love Hina, Vol. 02',
+      author: 'Ken Akamatsu'
+      synopsis: 'At the age of 5, Keitaro and his childhood sweetheart promised to meet again as students at Japan's most prestigious university. Now 20, he can't pass his entrance exams...or even remember the girl's name Stumbing into a fluke job at an all-girls dormitory may be his last chance. In the series that inspired the new hit anime, Love Hina proves that love conquers all. Even stupidity.',
+      release_date: '(first published April 16th 1999)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 10: Seize the Moment!',
+      author: 'Takeshi Konomi'
+      synopsis: 'In preparation for the City Tournament, Seishun Academy's team captain Kunimitsu Tezuka decides to hold intra-squad games. It's a routine way for the team players to get some much-needed practice matches, but it's all fun and games until someone's competitive nature surfaces. Ryoma is pitted against Shusuke, and Ryoma wastes no time in putting on the pressure against his teammate. But with his tenacious strategy known as "Higuma Otoshi" (Bear Hunt), Shusuke's got a few tricks of his own....',
+      release_date: '(first published September 4th 2001)')
+Manga.create(
+      title: 'Vagabond, Vol. 4',
+      author: 'Takehiko Inoue'
+      synopsis: 'Infinite UniverseMusashi endeavors to take on sword master Yagyū Sekishūsai, a man recognized by many to be the greatest swordsman of his time. But with Sekishūsai far past his prime, does Musashi truly believe that killing a seemingly helpless old man in his sleep will take him further along the path?',
+      release_date: '')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 18: Twilight of the Kurokuwa',
+      author: 'Kazuo Koike'
+      synopsis: 'The Shogun himself has given Retsudo a stern warning: do something about Itto Ogami, the Lone Wolf, or the Yagyu clan will fall out of favor. Now Retsudo must turn to the Fire Watchers, a select band of warriors, for help &mdash; as well as the last surviving members of the legendary Kurokuwa ninja clan! As death stalks him, Ogami is confronted by desperate, impoverished peasants who want him to share his fortune with the suffering. With Ogami's cub, Daigoro, caught in the middle, what will he decide? Find out what everyone can't stop talking about. Firewatchers of the Black Gate The Immortal Firewatchers Paper Money Lifeline Twilight of the Kurokuwa',
+      release_date: '(first published 1988)')
+Manga.create(
+      title: 'Gakuen Alice, Vol. 10',
+      author: 'Tachibana Higuchi'
+      synopsis: 'It's time for New Year's, which also makes it Mikan's birthday. But will her special day get lost in the latest whirl of crazy Academy celebrations? And what happens when you combine an invitation to the elite Flower Garden Association's New Year's party (a girls-only event!) with a very sticky prank? Natsume's definitely up to something, but Mikan is left baffled as to what it might be. Read on in the latest, loveliest volume of Gakuen Alice! (Tokyopop)',
+      release_date: '(first published April 19th 2006)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 24: Reunited',
+      author: 'Takeshi Konomi'
+      synopsis: 'All hope for a Kanto Tournament Finals win comes down to Eiji and Shuichiro, the Golden Pair. Can they handle a face-off against Rikkai's Masaharu "The Con Artist" Nio and Hiroshi "The Gentleman" Yagiyu?! Injuries, surprise secret moves and the ultimate courtside con may mean disaster for Seishun!',
+      release_date: '(first published July 2nd 2004)')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 21: Fragrance of Death',
+      author: 'Kazuo Koike'
+      synopsis: 'As the trail of blood and honor gets deeper and longer, corruption and double crossings abound. Two considerably evil and ambitious forces, previously teamed to finally kill the vengeful samurai Itto Ogami, clash in the torrential rains that continue to pound Edo. Determined to be the first to reach Ogami Itto and his Diagoro, the shogun's own poisoner waits in a temple where the samurai and his toddler boy left their cart, reflecting on the path that has led him to this point, and brewing his most deadly poison. And the fiery Retsudo won't be stopped in his quest to kill Ogami, however now he must be wary of the poisoner's crafty ways. Meanwhile, the Lone Wolf and Cub enlist the aid of a tailor to help them prepare for what could be their last stand! There's something in the air, and it smells like death!',
+      release_date: '(first published January 1989)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 28: Hyotei Rhapsody',
+      author: 'Takeshi Konomi'
+      synopsis: 'After Tokyo is chosen as the site for the upcoming Nationals, Hyotei gets a shot at redemption by being given an invitational berth in the tournament. Meanwhile, a prodigy from Kansai is making his way toward Tokyo. Packing serious power--and a temper to match--in his small frame, this wild 7th-grader has talent and skill that could rival even Ryoma's.',
+      release_date: '(first published April 4th 2005)')
+Manga.create(
+      title: 'Gakuen Alice, Vol. 07',
+      author: 'Tachibana Higuchi'
+      synopsis: 'Mikan and co. successfully broke into the Senior Division, trying to find the location of the secret wormhole that Z used to escape from campus. But they're all shocked to discover who the guardians of the wormhole turn out to be! And even once their hot pursuit of Z continues, getting a cure for Hotaru and bringing back Prez's Alice may well cost them their lives.',
+      release_date: '(first published March 18th 2005)')
+Manga.create(
+      title: 'Vagabond, Vol. 10',
+      author: 'Takehiko Inoue'
+      synopsis: 'To Live by the SwordWhat does a man do after he accomplishes the impossible and lives to survive? Musashi is at what is quite possibly the greatest crossroads of his life after he single-handedly defeats 70 bloodthirsty men from the Yoshioka clan. Shall he continue to live by the sword, or should he settle down to a quiet and happy life? But before he can take his next step, Musashi must recover from his battle wounds—and it remains to be seen whether he'll even be able to walk again…',
+      release_date: '')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 1: Ryoma Echizen',
+      author: 'Takeshi Konomi'
+      synopsis: 'There is a rumor going around that a twelve-year-old boy is going to enter the sixteen-year-old and under tennis group. How can someone so young ever hope to compete with kids much older and more experienced than him? This is no ordinary kid: he is none other than Ryoma Echizen, the Prince of Tennis! Ryoma's father was destined for greatness until he injured himself during a match, ending his career forever. His talent was passed on to his son, who is determined to be the best tennis player in the world. Can the prince gain the respect of his fellow teammates despite his small size and young age? Find out in this intense sports manga!',
+      release_date: '(first published January 7th 2000)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 26: Ryoma Echizen vs. Genichiro Sanada',
+      author: 'Takeshi Konomi'
+      synopsis: 'The Kanto Tournament Finals are down to the last two matches, with the top players for the two best teams--Seishun and Rikkai--engaged in a fierce battle for dominance. As Shusuke and Akaya's match reaches its surprising end, the final showdown begins: Ryoma vs. "Emperor" Genichiro Sanada.',
+      release_date: '(first published December 3rd 2004)')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 1: The Assassin's Road',
+      author: 'Kazuo Koike'
+      synopsis: 'Shogunate executioner Ogami Itto is framed as a traitor by the agents from a rival clan. With his wife murdered and with an infant son to protect, Ogami chooses the path of the ronin, the masterless samurai. The Lone Wolf and Cub wander feudal Japan, Ogami's sword for hire, but all roads will lead them to a single destination: vengeance.',
+      release_date: '(first published 1970)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 22: Ryoma, Awake!',
+      author: 'Takeshi Konomi'
+      synopsis: 'As if taking on a totally new personality, Ryoma plays an unpredictable match, switching to his left hand and winning point after point. Where does his intensity come from? A bonus story about an entirely different player may shed some light on the The Prince of Tennis's skills!',
+      release_date: '(first published February 4th 2004)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 27: Until the Very Last Shot',
+      author: 'Takeshi Konomi'
+      synopsis: 'The Kanto Tournament reaches its electrifying conclusion!All eyes are riveted on center court, where Ryoma and Genichiro Sanada are locked in a furious contest of strength, skill and willpower. Will Ryoma find a way to contain the tremendous power of Genichiro's "Furin Kazan" shot? Or will Genichiro lead Rikkai to yet another victory?',
+      release_date: '(first published January 5th 2005)')
+Manga.create(
+      title: 'Love Hina, Vol. 10',
+      author: 'Ken Akamatsu'
+      synopsis: 'At the age of 5, Keitaro and his childhood sweetheart promised to meet again as students at Japan's most prestigious university. Now 20, he can't pass his entrance exams...or even remember the girl's name Stumbing into a fluke job at an all-girls dormitory may be his last chance. In the series that inspired the new hit anime, Love Hina proves that love conquers all. Even stupidity.',
+      release_date: '(first published January 17th 2001)')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 7: Cloud Dragon, Wind Tiger',
+      author: 'Kazuo Koike'
+      synopsis: 'Pages: 117 Language: English Publisher: Dark Horse Comics There is more than just blood between parent and child Itto Ogami and his son Daigoro have seen more blood flowing from more bodies than anyone in Edo. but what connects them is their spirit and path. . In this collection of classic stories. Itto must protect a young girl after her family is destroyed by a cunning courtesan. Meanwhile. Ittos arch-enemy. Yagyu Retsudo. has sent the civilian police force to round up the Lone Wolf as a common criminal . and before long. Daigoro is coincidentally tangled in a messy pair of crimes. And. most dramatically. Itto returns to the scene of one of his past executions to enter a tender and honorable sword fight against an executed lords former retainer.This volume contains the following stories: DragnetNight StalkerCloud Dragon. Wind TigerInn of the Last ChrysanthemumPenal Code Ar...',
+      release_date: '(first published March 27th 1997)')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 26: Struggle in the Dark',
+      author: 'Kazuo Koike'
+      synopsis: 'One could believe the old adage about the grass being greener on the other side. But, if you're referring to the "other side" of the Sanzu, the river between life and death, chances are it will be white, the color of a samurai's death robes. And a lot of that "grass" was probably dispatched by the hand of Itto Ogami. The Yagyu "grass," spies planted for years in local citizenry, has been on the move, gathering in Edo for a final battle. The ronin Itto Ogami has walked a path of demons with Daigoro at his side, on a quest of vengeance and death that has shaken the very foundations of the samurai caste and the shögunate. No one has been able to stop him, not even the crafty, Abeno Kaii and it looks like he's about see his final day, but he won't go out without a battle of wits! Only three more volumes until the long-awaited conclusion of . And when it's over, you'll only want to read it again. Tales of the Grass: Nindo Ukon Struggle in the Dark Song of the Spirit Great Reversals Scarlet Summer, Silver Fall',
+      release_date: '(first published October 29th 2002)')
+Manga.create(
+      title: 'Love Hina, Vol. 14',
+      author: 'Ken Akamatsu'
+      synopsis: 'At the age of 5, Keitaro and his childhood sweetheart promised to meet again as students at Japan's most prestigious university. Now 20, he can't pass his entrance exams...or even remember the girl's name Stumbing into a fluke job at an all-girls dormitory may be his last chance. In the series that inspired the new hit anime, Love Hina proves that love conquers all. Even stupidity.',
+      release_date: '(first published January 17th 2002)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 6: Sign of Strength',
+      author: 'Takeshi Konomi'
+      synopsis: 'As spies from rival schools continue to gather information about the Seishun players, Tezuka, the team captain, challenges Ryoma to a bitter duel to settle their differences. Which player will come out on top of the game? And what peril lurks behind the mask of St. Rudolph's manager and strategist Hajime Mizuki?',
+      release_date: '(first published December 4th 2000)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 3: Street Tennis',
+      author: 'Takeshi Konomi'
+      synopsis: 'The Nationals are coming and Seishun Academy has started training harder than ever! During practice, Rikkai Junior High School's 8th-grader ace Akaya Kirihara spies on Seishun Academy's team. Luckily, he is caught and escorted off the courts. But on the way out, he bumps into none other than Ryoma Echizen, the Prince of Tennis. Tension soars as these two ace players size each other up knowing that someday they will engage in battle to see who is the stronger player. Soon after, Ryoma and Momo get drawn into a doubles match--street tennis style! Can these two star players ever learn how to use their legendary skills to play good doubles?',
+      release_date: '(first published June 2nd 2000)')
+Manga.create(
+      title: 'Gakuen Alice, Vol. 01',
+      author: 'Tachibana Higuchi'
+      synopsis: 'Young Mikan runs away to Tokyo following her best friend, Hotaru, who has been enrolled in an exclusive, secretive private school for geniuses. But it turns out that there is a lot more to Alice Academy than meets the eye. If Mikan wants to stay by Hotaru's side, she has to both pass the strange "entrance exam" and face the even greater challenge of befriending her very odd new classmates. Whether it's Hotaru's gift for inventing gadgets, the cranky Natsume's fire-casting ability, or Professor Narumi's control of human pheromones, everyone at the school has some sort of special talent. But what ability, if any, does Mikan possess? Mikan is going to have to rely on her courage and spunk if she's going to stay in school, or even stay alive!',
+      release_date: '(first published January 1st 2003)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 33: Kunimitsu in Kyushu',
+      author: 'Takeshi Konomi'
+      synopsis: 'The National Tournament quarterfinals against Hyotei continue, with Kunimitsu facing power player Munehiro Kabaji. During the match Seishun's captain flashes back to his time in Kyushu and the road that led him to the Nationals. Later, it's a battle of the Golden Pairs: Ryo Shishido and Chotaro Ohtori versus Oishi and Eiji!',
+      release_date: '(first published May 2nd 2006)')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 5: Black Wind',
+      author: 'Kazuo Koike'
+      synopsis: 'This volume contains five powerful, classic tales of the assassin Itto Ogami, the Lone Wolf, as he continues his journey to hell. The Yagyu clan, fearful of the growing legend surrounding Lone Wolf, has decided to protect itself by sending its own assassin after him, and later pit the greatest swordsman of a rival clan against him. Also, Lone Wolf must face the leader of a bounty-hunting gang who seeks revenge against Ogami for slaying his young lord years ago, and a master gunsmith who values the art of warfare above all else and will change his life forever. Don't miss a single volume of the acclaimed epic series that belongs on every bookshelf: Trail MarkersExecutioner's HillBlack WindDecapitator AsemonThe Guns of Sakai',
+      release_date: '(first published January 30th 1997)')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 13: The Moon in the East, the Sun in the West',
+      author: 'Kazuo Koike'
+      synopsis: 'Yagyu Retsudo is a man on fire. For years he's been planning the destruction of Ogami Itto, the Lone Wolf. Ogami is a one-man army, having cut down all of Yagyu's sons &mdash; except one, who's been sent to avenge his brothers or die trying! Meanwhile, the toughest cop in Edo, now retired, has the chance to take in the killer of a lifetime, Ogami himself. But is he up to the task? And Daigoro, the Wolf's cub, finds himself in adventures of his own, befriending a rich family and their spoiled son, and mysterious female falconers! It's all in a day's work for Lone Wolf and Cub... Don't miss out on the best-selling graphic novels of the year and a series that belongs on every bookshelf! The Moon in the East, the Sun in the West "Marohoshi" Mamesho Spoiling Daigoro The Hojiro Yagyu The Bird Catchers',
+      release_date: '')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 27: Battle's Eve',
+      author: 'Kazuo Koike'
+      synopsis: 'Hooooo doggy! The tension is getting so thick, a  wielded by the strongest samurai would have a hard time cutting through it! Just two more volumes left until one of the world's most classic pieces of comic-book literature reaches its exciting and emotional conclusion. Two swords remain planted in the ground, awaiting the final duel between the conniving Retsudo and the vengeful Itto, and little Daigoro guards the two blades with his life. Indeed, his life is threatened when a stampede of villagers escaping a burning village almost plow him into the dirt. Impressed townfolk decide to stop and help him, staying for a while on the same beach. For once, Daigoro experiences the joy of being a child, playing with the other children, but that peace won't last long. Yaygu Retsudo, imprisoned in the castle of the shögun, deceives his way to freedom and commands the very last members of the Yagyu ninja to kill Itto! But knowing swords alone won't kill him, Yagyu sends a strange and fascinating weapon to the battlefield, the exploding ninja! To Protect and Defend For Whom to Die Way of the Warrior, Way of Man Battle's Eve Grass that Never Flowers',
+      release_date: '(first published November 22nd 2002)')
+Manga.create(
+      title: 'Gakuen Alice, Vol. 09',
+      author: 'Tachibana Higuchi'
+      synopsis: '[Read Chapter 1 at URL.] It's time for the Alice Academy Christmas party, and all the students are pitching in with their Alices to help with the preparations. But while Mikan has gotten a lot more comfortable with her own powers, how can "nullification" help in a situation like this? Meanwhile, the holidays are bringing up a variety of confusing emotions all around, and quite a bit of speculation about romance! (Tokyopop)',
+      release_date: '(first published December 16th 2005)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 14: Seishun's Ultimate Man',
+      author: 'Takeshi Konomi'
+      synopsis: 'As more intra-squad games are played to determine the starting line-up, fellow Seishun Academy players Kunimitsu Tezuka and Sadaharu Inui duke it out for a slot. But the disparity in their skills becomes evident when everyone realizes that Kunimitsu has not budged since he delivered his serve. Meanwhile, Coach Banda of Yamabuki Junior High offers team captain Kunimitsu a chance to play overseas as an exchange student. Could this be the end of Kunimitsu's tour of duty at Seishun?',
+      release_date: '(first published July 4th 2002)')
+Manga.create(
+      title: 'Love Hina, Vol. 06',
+      author: 'Ken Akamatsu'
+      synopsis: 'At the age of 5, Keitaro and his childhood sweetheart promised to meet again as students at Japan's most prestigious university. Now 20, he can't pass his entrance exams...or even remember the girl's name Stumbing into a fluke job at an all-girls dormitory may be his last chance. In the series that inspired the new hit anime, Love Hina proves that love conquers all. Even stupidity.',
+      release_date: '(first published February 17th 2000)')
+Manga.create(
+      title: 'Vagabond, Vol. 9',
+      author: 'Takehiko Inoue'
+      synopsis: 'It's been one year since Yoshioka Denshichiro granted Musashi a reprieve for a rematch. Denshichiro may have been a better swordsman back then, but with Musashi before him now, he realizes the truly incredible strides his opponent has made in such a short period of time. By sheer force of will, a reluctant Denshichiro moves forward into the fight. And what will the deadly repercussions be for Musashi after this duel that's all but already won?',
+      release_date: '(first published October 19th 2010)')
+Manga.create(
+      title: 'Gakuen Alice, Vol. 14',
+      author: 'Tachibana Higuchi'
+      synopsis: 'Mikan and her friends are 6th graders now, but the new school year is starting off badly. The school president has created a Public Morals Squad, and it's clear whose behaviour they will be monitoring the most. To top it off, there's a new student in Mikan's class! But for a gentle girl with a sickly demeanour, she's up to something.',
+      release_date: '(first published September 19th 2007)')
+Manga.create(
+      title: 'Gakuen Alice, Vol. 12',
+      author: 'Tachibana Higuchi'
+      synopsis: 'Young Mikan runs away to Tokyo following her best friend, Hotaru, who has been enrolled in an exclusive private school for geniuses. But it turns out that Alice Academy has more than meets the eye. What ability, if any, does Mikan possess?',
+      release_date: '(first published December 19th 2006)')
+Manga.create(
+      title: 'The Prince of Tennis, Volume 36: A Heated Battle! Seishun vs. Shitenhoji',
+      author: 'Takeshi Konomi'
+      synopsis: 'The semifinals of the National Tournament begin! Seishun is pitted against powerhouse team Shitenhoji. The first match is No. 3 Singles, with Shusuke up against the Shitenhoji captain, Kuranosuke Shiraishi. Shusuke may be Seishun's resident "genius," but the mysterious Kuranosuke is rumored to play "perfect tennis," a game with no flaws.',
+      release_date: '(first published January 1st 2007)')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 24: In These Small Hands',
+      author: 'Kazuo Koike'
+      synopsis: 'Holy hand grenades! Edo is flooded, and by flooded, we mean crazy-flooded. Bridges are crumbling, rivers are washing past retaining walls, and everything in Edo is floating away, including our vengeful ronin, his foe, and his little boy. In an ironic show of samurai respect, little Cub Daigoro gets saved by the conniving Retsudo Yagyu. And proving he can lend a hand, too, Lone Wolf Ogami pulls someone to safety as well &mdash; but maybe he should have let him drown. Eventually, the two opposing master swordsmen dry off and go head to head in a sword fight of a thousand stances and couple of days length. This seems like it could be the deciding bout between the two, unless that nasty, Abeno Kaii gets in the way, and he seems to do that a lot lately.The true meaning of  the warrior code, oozes from every page of this volume. A little boy desperately attempts to drag his  father to safely, even if it costs him his own life; that same wandering samurai and his mortal enemy work together to save the frostbitten fingers of the same little boy, knowing they will eventually match swords again in a battle to the death; another samurai bites his own tongue, killing himself and locking a dark secret in his grave. The code of the samurai is complex and rich with irony, which is why so few carry this code through life. But as we draw closer to the conclusion of this epic struggle, the true bushi are stepping forth and showing their colors. It will truly be a fight to the finish. So, in these final days, a  and his young boy will visit the grave of their murdered wife and mother. It just might be the last Spring the two will share, like the many petals falling from branches. Child of the Fields In These Samll Hands Kaii Triumph The Last Cherry Blossoms Stone Upon Stone',
+      release_date: '(first published 1989)')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 17: The Will of the Fang',
+      author: 'Kazuo Koike'
+      synopsis: 'The epic journey of Ogami Itto and Daigoro continues in this stunning volume! A female yakuza and her band are ordered to catch Lone Wolf and Cub, but the authorities aren't counting on a woman's heart. Meanwhile, the Yagyu have called in Japan's most deadly bounty hunters, and offer an even greater reward &mdash; can the Lone Wolf trust anyone around him, when the lure of wealth tempts even seemingly harmless peasant folk? And with Daigoro feverish and near death's door, can Lone Wolf and Cub make it through a winter gale to safety? To a Tomorrow That Never Comes Bounty Demons The Will of the Fang When the Wolf Comes Life in Death',
+      release_date: '(first published 1995)')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 19: The Moon in Our Hearts',
+      author: 'Kazuo Koike'
+      synopsis: 'The time for delay is past. Itto Ogami and Daigoro are headed for Edo, to face Retsudo of the Yagyu once and for all! Stalked by bounty hunters and killers after their reward money, the Lone Wolf now faces deadlier enemies still. Retsudo has called out the nation's most accomplished rifleman, and dispatched a cannon-laden man of war, to intercept the father and son as they navigate treacherous cliffs and the high seas of Japan! ',
+      release_date: '(first published 1995)')
+Manga.create(
+      title: 'Lone Wolf and Cub, Vol. 9: Echo of the Assassin',
+      author: 'Kazuo Koike'
+      synopsis: 'Water, death, and angry ninja take the foreground in this exciting volume of the legendary  series! A pitiful ferryboat girl discovers the tragic ways of &quot;A Wife of the Heart,&quot; as the Lone Wolf, Ogami Itto, stands against the man she loves. In &quot;Wayward Swords,&quot; a rogue swordsman-for-hire learns a valuable lesson about Bushido, the Way of the Warrior, from the Lone Wolf. Afterwards, Ogami once again must face the treachery of the Kurokuwa ninja clan, then becomes a river porter to foil the secret plans of his enemy, the Yagyu clan, and in doing so declares war against them all! The Lone Wolf's actions lead to a nationwide manhunt and an epic, bloody battle unlike any in comics. Don't dare miss a volume of the series that belongs on every bookshelf: Wife of the HeartWandering SamuraiEcho of the AssassinNaked WormsThe Yagyu Letter: Prologue',
+      release_date: '(first published May 29th 1997)')
+
+// batch 4 (335)
