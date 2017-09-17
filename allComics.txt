@@ -2802,13 +2802,6 @@ Manga.create(
       img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1410.jpg')
 
 Manga.create(
-      title: 'Ranma 1/2 (2-in-1 Edition), Vol. 4',
-      author: 'Rumiko Takahashi',
-      synopsis: 'A remastered 2-in-1 edition of the all-time classic hit from one of Japan’s most beloved creators, available for the first time in a format faithful to the original work. One day, teenage martial artist Ranma Saotome went on a training mission with his father and ended up taking a dive into some cursed springs at a legendary training ground in China. Now, every time he’s splashed with cold water, he changes into a girl. His father, Genma, changes into a panda! What’s a half-guy, half-girl to do? Contains volumes 7 and 8! Back when Ranma’s father, Genma, and Akane’s father, Soun, were young martial artists, they learned the secrets of Anything-Goes Martial Arts from one of the greatest masters of all time. Unfortunately, he’s also someone they would do just about anything to get away from, and the entire Tendo household is about to find out why. Followed by a stirring rendition of Romeo and Juliet…and Juliet…and Romeo…',
-      release_date: '',
-      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1411.jpg')
-
-Manga.create(
       title: 'Ranma 1/2, Vol. 23,
       author: 'Rumiko Takahashi',
       synopsis: 'Series Description: From the best-selling manga author of Inu-Yasha, Ranma features a martial artist with a curse: When he gets doused with cold water, he turns into a voluptuous girl! And his friends -- and enemies -- turn into various cute animals! Ranma 1/2, a heady blend of action, adventure, and romantic comedy, is the longest-running manga in the United States. In this installment of the enduring series, Ranma's fight against Herb, Mint, and Lime continues. Does he have a chance of defeating Herb when even his ultimate move has failed against this Chinese warrior? Then a new teacher comes to Furinkan High with a rep for dealing harshly with delinquents! Unfortunately for Ranma, she also has martial arts skills so deadly even Happosai is scared of her! Finally, Akane tries to recover a memory from her past, only to find that the mysterious boy she recalls from childhood has no idea who she is...',
@@ -2835,13 +2828,6 @@ Manga.create(
       synopsis: 'Ranma Saotome never thought a martial arts training mission to China would turn out like this An accidental dunk in a cursed spring changes boy Ranma into a young girl, every time he is splashed with cold water. Hot water reverses the effect - but only until next time. Akane Tendo is shocked when she wins a contest by being the 10,000th girl at the beach who isn't able to swim! The locals reward her with an enchanted jellyfish bathing suit that has the uncanny power to enable its wearer to swim. In return for this prize she must enter a long-distance swimming competition against a group of girls all wearing the same magical bathing suit. Akane takes the lead, but a dangerous surprise awaits her at the finish line! Will Ranma dive in and save her in time?',
       release_date: '(first published 1996)',
       img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1415.jpg')
-
-Manga.create(
-      title: 'Ranma 1/2 (2-in-1 Edition), Vol. 2: Includes vols. 3  4',
-      author: 'Rumiko Takahashi',
-      synopsis: 'A remastered 2-in-1 edition of the all-time classic hit from one of Japan’s most beloved creators, available for the first time in a format faithful to the original work.One day, teenaged martial artist Ranma Saotome went on a training mission with his father and ended up taking a dive into some cursed springs at a legendary training ground in China. Now, every time he’s splashed with cold water, he changes into a girl. His father, Genma, changes into a panda! What’s a half-guy, half-girl to do?Contains volumes 3 and 4!Being a martial artist, Ranma just can’t resist the call to combat and takes on one opponent after another: Ryoga, a lone-wolf fighter with no sense of direction; Shampoo, a Chinese Amazon who has pledged to kill him; and finally Shampoo’s suitor Mousse, a martial arts master of hidden weapons. Is there such a thing as TOO much fighting spirit?Reads R to L (Japanese Style) for teen plus audiences.',
-      release_date: '',
-      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1416.jpg')
 
 Manga.create(
       title: 'Ranma 1/2, Volume 29',
@@ -2977,22 +2963,8 @@ Manga.create(
       img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1435.jpg')
 
 Manga.create(
-      title: 'Ranma 1/2 (2-in-1 Edition), Vol. 1: Includes vols. 1  2',
-      author: 'Rumiko Takahashi',
-      synopsis: 'One day, teenaged martial artist Ranma Saotome went on a training mission with his father and ended up taking a dive into some cursed springs at a legendary training ground in China. Now, every time he's splashed with cold water, he changes into a girl. His father, Genma, changes into a panda! What's a half-guy, half-girl to do? Years ago, Genma promised his old friend Soun Tendo that Ranma would marry one of Soun's three daughters and carry on the family's martial arts school. Except that the girl picked to be Ranma's bride doesn't seem to like him, Ranma keeps getting into fights, and did we mention that whole changing into a girl thing?',
-      release_date: '',
-      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1436.jpg')
-
-Manga.create(
       title: 'Ranma 1/2, Vol. 12,
       author: 'Rumiko Takahashi',
       synopsis: 'Ranma's recent weakness has convinced him he needs a new technique, and he's gone to the wilds of Japan to train. Cologne shares her knowledge of Hiryû Shôten Ha, the "Heaven Blast of the Dragon," a technique that harnesses a combatant's battle aura and unleashes it into a powerful blast...but the learning curve is more challenging than he ever expected. Then, the sound of a bell brings Shampoo a new suitor, Akane takes swimming lessons, and Genma gains a new friend.',
       release_date: '(first published 1997)',
       img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1437.jpg')
-
-Manga.create(
-      title: 'Ranma 1/2 (2-in-1 Edition), Vol. 3',
-      author: 'Rumiko Takahashi',
-      synopsis: 'A remastered 2-in-1 edition of the all-time classic hit from one of Japan’s most beloved creators, available for the first time in a format faithful to the original work. One day, teenage martial artist Ranma Saotome went on a training mission with his father and ended up taking a dive into some cursed springs at a legendary training ground in China. Now, every time he’s splashed with cold water, he changes into a girl. His father, Genma, changes into a panda! What’s a half-guy, half-girl to do? Contains volumes 5 and 6! Chinese Amazon warrior Shampoo hasn’t given up on Ranma yet—only instead of killing him, she now wants to marry him! There are just a few obstacles in the way of their future happiness, though, starting with a childhood phobia of Ranma’s and followed by Shampoo’s suitor, Mousse, martial arts master of hidden weapons. Can Ranma escape Shampoo’s soap opera? Or a better question might be, does he even want to?',
-      release_date: '',
-      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1438.jpg')
