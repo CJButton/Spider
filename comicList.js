@@ -4,12 +4,11 @@ module.exports = [
         // 'http://www.goodreads.com/series/56781-pluto',
         // 'http://www.goodreads.com/series/83553-attack-on-titan',
         // 'http://www.goodreads.com/series/54579-alice-in-the-country-of-hearts',
-        // 'http://www.goodreads.com/series/52005-bakuman',
-        // 'http://www.goodreads.com/series/49276-fullmetal-alchemist',
-        // 'http://www.goodreads.com/series/49198-cardcaptor-sakura',
-        // 'http://www.goodreads.com/series/54299-vampire-knight',
-        // 'http://www.goodreads.com/series/56780-20th-century-boys',
-        // 'http://www.goodreads.com/series/61469-rurouni-kenshin',
+        'http://www.goodreads.com/series/52005-bakuman',
+        'http://www.goodreads.com/series/49198-cardcaptor-sakura',
+        'http://www.goodreads.com/series/54299-vampire-knight',
+        'http://www.goodreads.com/series/56780-20th-century-boys',
+        'http://www.goodreads.com/series/61469-rurouni-kenshin',
         // 'http://www.goodreads.com/series/61843-high-school-debut',
         // 'http://www.goodreads.com/series/64592-shugo-chara',
         // 'http://www.goodreads.com/series/50462-yotsuba',
@@ -99,5 +98,5 @@ module.exports = [
         // 'http://www.goodreads.com/series/53312-maid-sama',
         // 'http://www.goodreads.com/series/72068-puella-magi-madoka-magic'
       ]
-
+// 'http://www.goodreads.com/series/49276-fullmetal-alchemist',
 // 'https://www.goodreads.com/series/155330-doraemon-bilingual-edition',

@@ -44,14 +44,19 @@ const mangaList = require('./comicList');
   Start at 1000
   Update the files that are written to
 
+  Delete comics/elements:
+  Reads R to L (Japanese Style) for teen plus audiences.
+  The art of
 
+  // consider fixing synopsis for Bakuman
   */}
-const testUrl = 'http://www.goodreads.com/series/49276-fullmetal-alchemist'
-grabLinks(testUrl);
+// const testUrl = 'http://www.goodreads.com/series/49276-fullmetal-alchemist'
+// grabLinks(testUrl);
+
 
 {/* Counter Closure */}
 const comicUpdater = () => {
-  let total = 1000;
+  let total = 1094;
 
   return(
     adder = () => {
@@ -61,7 +66,6 @@ const comicUpdater = () => {
 }
 
 let comicCounter = comicUpdater();
-
 
 function grabComic(url) {
   request(url, function(error, response, body) {
@@ -101,16 +105,14 @@ function grabComic(url) {
     {/* place into an object  */}
     let mangaCreate = `Manga.create(
       title: '${title}',
-      author: '${authors[0]}'
+      author: '${authors[0]}',
       synopsis: '${descrip}',
       release_date: '${releaseDate}',
       img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/${imgTitle}.jpg')`
 
 
     {/* append to the file  */}
-    // img_url:"http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/v1478851605/manga%20covers/dragonball2.jpg",
-    // updated for test
-    fs.appendFileSync('comicsTests.txt', mangaCreate + '\n');
+    fs.appendFileSync('allComics.txt', mangaCreate + '\n' + '\n');
 
     {/* cover image  */}
     const cover = $('div.editionCover > img').attr('src');
@@ -148,11 +150,11 @@ function grabLinks(comicList) {
   });
 }
 
-// const comicList = mangaList;
-//
-// comicList.map((list) => {
-//   grabLinks(list);
-// })
+const comicList = mangaList;
+
+comicList.map((list) => {
+  grabLinks(list);
+})
 //
 // {/* grabs link to comic series list  */}
 // // let link = $('a.greyText').attr('href');
