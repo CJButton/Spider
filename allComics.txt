@@ -2271,3 +2271,439 @@ Manga.create(
       synopsis: 'As the flames draw nearer, the fire gets hotter. Ronin assassin Ogami Itto seeks to learn what's written on the secret messages from the corrupt Yagyu clan to the Shogun, and leaves a river of blood in his path. Elsewhere, a shamed woman attempts to force her husband to name his own child, but his job and honor stand in the way. Daigoro makes a new friend in another samurai fated to  &mdash; ritual suicide &mdash; and defends the honor of a young playmate. The world keeps turning as the Lone Wolf and his Cub wander the land seeking revenge and answers, the questions to which are written in blood and ink. One Rainy Day O-Shichiri Man The Kyushu Road Day of the Demons',
       release_date: '(first published June 1988)',
       img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1335.jpg')
+
+// batch 1335
+
+Manga.create(
+      title: 'One Piece, Volume 19: Rebellion',
+      author: 'Eiichirō Oda',
+      synopsis: 'Luffy and pals are headed for the fabled Rainbase, the town of dreams. There they accidentally attract the unwanted attention of the Baroque Works security as well as their old "pal" Captain Smoker! While beating a hasty retreat from both, Ms. All Sunday invites the crew to the casino's VIP room, which turns out to be a trap. To make matters worse, Vivi gets separated from the others and is pursued by the Baroque Works! Will she be able to shake her pursuers and spring her friends?!',
+      release_date: '(first published July 4th 2001)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1336.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 17',
+      author: 'Tite Kubo',
+      synopsis: 'Rosa Rubicundior, Lilio CandidiorThe rebellion within the Soul Society grows as doubts spread about the death sentence of ex-Soul Reaper Rukia Kuchiki. Determined to save her, Rukia's childhood friend Renji vows to cut down the captain of his own squad, unaware of the terrifying fate that awaits him.',
+      release_date: '(first published June 3rd 2005)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1337.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 15',
+      author: 'Tite Kubo',
+      synopsis: 'Beginning of the Death of TomorrowDuring a bloody confrontation with a sadistic Soul Reaper, Uryu chooses a path that will temporarily grant him enormous power, at great personal cost. Meanwhile, Ichigo races to master a powerful technique that will help him fight Byakuya and, hopefully, save Rukia from execution.',
+      release_date: '(first published December 3rd 2004)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1338.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 26',
+      author: 'Tite Kubo',
+      synopsis: 'The Mascaron DriveIchigo and all his friends are training like mad, spurred on by the looming threat of Aizen's wicked plans. But while Uryū and Chad increase their powers, Orihime finds out that she has to sit out the coming fight, leaving her friends without her protection. And Ichigo, despite his intensive training with the Vizards, can't control his Hollowfied self long enough to battle. With the war against the Arrancars ramping up, can the team afford to have two fighters on the sidelines?',
+      release_date: '(first published February 2nd 2007)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1339.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 52: Roger and Rayleigh',
+      author: 'Eiichirō Oda',
+      synopsis: 'In his effort to save Camie the mermaid from being sold to the highest bidder, Luffy's attack on an exalted Celestial Dragon has given the Navy the green light to send the Admirals in after him. But the Straw Hats get help from an unexpected source--a mysterious outlaw who knows all about Gold Roger, the original King of the Pirates!',
+      release_date: '(first published December 4th 2008)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1340.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 10',
+      author: 'Tite Kubo',
+      synopsis: 'Tattoo on the SkyWith the help of Kūkaku - a one-armed explosives expert and old friend of the mysterious talking cat Yoruichi - Ichigo and crew are one step closer to infiltrating the Soul Society and rescuing their friend Rukia before she is executed. For Kūkaku's plan to work, Ichigo must control his enormous reservoir of spiritual energy - and there's no telling how much collateral damage this will cause. Meanwhile, the Soul Society hasn't been twiddling their collective thumbs, and quickly dispatches a delegation of captains to give the unwanted visitors the rudest of welcomings imaginable.',
+      release_date: '(first published November 4th 2003)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1341.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 21',
+      author: 'Tite Kubo',
+      synopsis: 'Be My Family or NotIchigo and his friends return to the World of the Living, where life goes on as usual. But the arrival of a new transfer student raises disturbing questions, for outside school he carries a zanpaku-tô and wears the mask of a Hollow...  ',
+      release_date: '(first published March 3rd 2006)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1342.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 20',
+      author: 'Tite Kubo',
+      synopsis: 'End of HypnosisThe shocking truth behind the collapse of the Soul Society is finally revealed! The magnitude of the conspiracy is far-reaching, and the perpetrators wield staggering power. Is this the end of the Soul Society?Having achieved Bankai, Ichigo rescues Rukia in the nick of time and defeats the fearsome Byakuya Kuchiki!Meanwhile, Soul Reaper Tōshirō Hitsugaya discovers the corpses of the Council of 46 and hurries to get to Momo before the murderer does! And as Rukia and Renji race for safety, they find themselves facing a foe far worse than those they have fled ...',
+      release_date: '(first published December 2nd 2005)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1343.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 05',
+      author: 'Tite Kubo',
+      synopsis: 'Right Arm of the GiantIchigo Kurosaki thought that Soul Reapers were the only ones hunting Hollows, but he was wrong. Enter Uryū Ishida, a Quincy, and possibly the last member of a powerful clan that died out over 200 years ago. Unlike Soul Reapers who strive to cleanse Hollows of their sins and send them to the Soul Society, Quincies adopt a more direct approach - they kill Hollows without hesitation. To demonstrate the supremacy of the Quincies' ways, Uryū challenges Ichigo to a contest - bait is spread around the city, attracting a large number of unstable Hollows. Whoever defeats the most wins, regardless of the danger. Also, Orihime and Chad, confronted with a host of Hollows terrorizing their friends, awaken to their own psychic abilities. Who is the strongest? Find this out and more in the action-packed fifth volume of Tite Kubo's !',
+      release_date: '(first published November 1st 2002)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1344.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 03',
+      author: 'Tite Kubo',
+      synopsis: 'Memories in the RainIchigo Kurosaki was a little boy when his mother passed away. One rainy day, Ichigo, whose ability top see the undead is a blessing and curse, tried to stop young girl from drowning in a nearby river. His mother, Masaki, ran after them, frantically trying to rescue her only son. Then everything went black, and Ichigo awoke only to discover his mother dead and the little girl gone. It's the anniversary of Masaki's death, and the entire Kurosaki clan, along with former Soul Reaper Rukia Kuchiki, head to the cemetary to pay their respects. Sleeping demons rarely ever stay still and pretty soon Ichigo confronts the Grand Fisher, the Hollow that may be responsible for his mother's demise.',
+      release_date: '(first published June 4th 2002)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1345.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 05: For Whom the Bell Tolls',
+      author: 'Eiichirō Oda',
+      synopsis: 'Once upon a time, Usopp was just a local boy with a talent for tall tales. Everyone in his little seaside village knew him as the joker who claimed to be a pirate captain and woke people up in the mornings by shouting "Pirates are coming!" But then real pirates landed on the beach…Now Usopp's village is under attack by the Black Cat Pirates, one of the most legendary and feared crews on the high seas. And three young would-be pirates have joined him in defending the village: Nami the thief, Zolo the swordsman, and Luffy, the straw-hatted wannabe pirate with incredible rubber powers. Usopp is about to find out how an imaginary pirate stands up to the real thing… and what it means to be a real pirate. His neighbors would never believe it in a million years...',
+      release_date: '(first published October 2nd 1998)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1346.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 10: OK, Let's Stand Up!',
+      author: 'Eiichirō Oda',
+      synopsis: 'Luffy's navigator, Nami, has been working all along for "Saw-Tooth" Arlong to steal enough treasure to buy back her village. In return, the pirate has handed over her fortune to the Navy! Now Luffy and his crew prepare to risk their lives for Nami's sake against their most ruthless opponent yet.',
+      release_date: '(first published October 4th 1999)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1347.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 11',
+      author: 'Tite Kubo',
+      synopsis: 'A Star and a Stray DogIchigo successfully defeats Ikkaku of the Eleventh Company and is rewarded with a valuable piece of information - the location of where Rukia is being detained as she awaits execution. However, Ichigo's companion, the pyrotechnics-wielding Ganju, is having a much harder time with his Soul Reaper opponent. Meanwhile, Orihime and Uryū confront the younger brother of the gargantuan gatekeeper whom Ichigo defeated a little while ago. It's time for Uryū to put all his training to the test and prove to everyone (and himself) how much more powerful he has become.',
+      release_date: '(first published December 19th 2003)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1348.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 07',
+      author: 'Tite Kubo',
+      synopsis: 'The Broken CodaRukia Kuchiki, the ex-Soul Reaper responsible for Ichigo's transformation, is on the lam. Her brethren at the Soul Society are quite displeased with the fact that she transferred the powers of a Soul Reaper to a human and have dispatched two of their strongest agents to neutralize the situation. Their mission is twofold: to return Rukia to the Soul Society so that she may pay for her crime and to deal with Ichigo - permanently. But an unlikely third party is standing in their way: Uryū Ishida, the Quincy!',
+      release_date: '(first published March 4th 2003)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1349.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 32: Love Song',
+      author: 'Eiichirō Oda',
+      synopsis: 'As the epic battle between the Straw Hats and almighty Eneru moves toward a dramatic finish, the crew must work together if they can ever hope to defeat this powerful enemy. Will they be able to ring the Golden Bell and save Skypiea? Or will this be a foe that even the Straw Hats cannot defeat?',
+      release_date: '(first published March 4th 2004)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1350.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 03: Don't Get Fooled Again',
+      author: 'Eiichirō Oda',
+      synopsis: 'Sure, lots of people say they want to be the King of the Pirates, but how many have the guts to do what it takes? When Monkey D. Luffy first set out to sea in a leaky rowboat, he had no idea what might lie over the horizon. Now he's got a crew--sort of--in the form of swordsman Roronoa Zolo and treasure-hunting thief Nami. If he wants to prove himself on the high seas, Luffy will have to defeat the weird pirate lord Buggy the Clown. He'll have to find a map to the Grand Line, the sea route where the toughest pirates sail. And he'll have to face the Dread Captain Usopp, who claims to be a notorious pirate captain...but frankly, Usopp says a lot of things...',
+      release_date: '(first published June 4th 1998)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1351.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 50: Arriving Again',
+      author: 'Eiichirō Oda',
+      synopsis: 'The Straw Hats are in a desperate battle against time and Gecko Moria to get their shadows back before dawn. Gecko Moria unleashes his devastating power of a thousand shadows, but Luffy counters back with his "Gear" powers. To save his crew, will Luffy have to make the ultimate sacrifice?',
+      release_date: '(first published June 4th 2008)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1352.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 15: Straight Ahead!',
+      author: 'Eiichirō Oda',
+      synopsis: 'Nami's sick! Now the Merry Go is without her navigator! Luffy and crew have but one choice--find land and hopefully a doctor. They miraculously stumble upon Drum Island where it is eternally winter, but upon arriving they find out the island has only one doctor--and she's a witch! With Nami's life on the line, Luffy sets out through the snow-laden fields to find this doctor, witch or not!',
+      release_date: '(first published September 4th 2000)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1353.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 18: Ace Arrives',
+      author: 'Eiichirō Oda',
+      synopsis: 'The Straw Hats at long last reach Alabasta! But their stay is cut short when Luffy attracts too much attention from the Navy. They're not the only ones interested in Luffy--someone from his past has been waiting for him too! Meanwhile, the Baroque Works' agents are summoned together when their leader, the dastardly Mr. Zero, aka Sir Crocodile, learns that Luffy is still alive and orders his immediate extermination!',
+      release_date: '(first published April 4th 2001)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1354.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 22',
+      author: 'Tite Kubo',
+      synopsis: 'ConquistadoresThe noose is tightening around Ichigo. His inner Hollow can't wait to consume him, the sinister transfer student has him tapped for a mysterious job, and now powerful new enemies have landed in his hometown to destroy him.After a fateful encounter with Soul Reaper, Rukia Kuchiki, Ichigo becomes a Soul Reaper himself. So, when Rukia is arrested and sentenced to death, Ichigo travels to the Soul Society to rescue her; and in the process uncovers a fiendish plot. But the conspirators escape and Ichigo returns to the world of the the living.Now a Deputy Soul Reaper, Ichigo spends his days fighting Hollows. But his life soon gets even more bizarre with the appearance of a new menace, the Arrancar; and the discovery that his own father is a Soul Reaper! And still more disturbing, Ichigo is confronted with the possibility that his own inner demon may be far more terrible than he ever imagined.',
+      release_date: '(first published May 2nd 2006)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1355.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 09',
+      author: 'Tite Kubo',
+      synopsis: 'Fourteen Days For Conspiracy The race to save Rukia from the Soul Society is officially on, and Ichigo and company have come to their first roadblock, a very, very big roadblock. Jindanbô, the monstrous, fez-sporting gatekeeper hasn't let a single soul enter the Western Gate he guards in over 300 years, and he isn't about to change his mind about it just because Ichigo's crew wants to go through either. But, in a where-the-rubber-meets-the-road kind of way, Ichigo wasn't expecting his assault on the Soul Society to be a piece of cake either. After all, that'd just be boring.',
+      release_date: '(first published August 4th 2003)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1356.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 51: The Eleven Supernovas',
+      author: 'Eiichirō Oda',
+      synopsis: 'Camie the mermaid offers to take Luffy and the crew to Fish-Man Island if they'll help rescue her boss Hachi from the notorious Flying Fish Riders. Ignoring all of the warning signs (hint: her boss sounds suspiciously like an old enemy!), the crew agrees to help their mermaid friend, only to end up losing Camie to other kidnappers!',
+      release_date: '(first published September 4th 2008)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1357.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 14: Instinct',
+      author: 'Eiichirō Oda',
+      synopsis: 'Someone has given Dorry the Giant exploding ale and he's not happy! Assuming it was Luffy and crew, he launches an all-out attack and is soundly defeated by the rubbery power of the Gum-Gum Rocket! But a mystery is afoot--if Luffy didn't slip the giant the exploding brew, just who did?',
+      release_date: '(first published July 4th 2000)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1358.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 02',
+      author: 'Tite Kubo',
+      synopsis: 'Goodbye Parakeet, Good Night My SisterImmediately after checking into the Kurosaki Clinic with a mysterious scar on his back, the muscle-bound Chad goes AWOL. Accompanying Chad is a talking parakeet imbued with the soul of a young boy named Yūichi. It doesn't take newbie Soul Reaper Ichigo Kurosaki long to surmise that a Hollow must be involved. By far the strongest spirit he's faced to date, Ichigo is about to discover that not every soul is bound for the Soul Society, especially if it's tainted with innocent blood.',
+      release_date: '(first published March 4th 2002)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1359.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 49: Nightmare Luffy',
+      author: 'Eiichirō Oda',
+      synopsis: 'In their effort to help their new friend Brook regain his shadow from Gecko Moria and his army of zombies, Luffy, Sanji and Zolo lose their shadows too! A human with no shadow will die if sunlight hits them! Can the crew defeat one of the Seven Warlords of the Sea to get their shadows back before the sun rises?',
+      release_date: '(first published March 4th 2008)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1360.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 07: The Crap-Geezer',
+      author: 'Eiichirō Oda',
+      synopsis: 'Don Krieg's evil pirate armada attempts to hijack the oceangoing restaurant Baratie, but the pirate cooks put up a fierce resistance until Krieg reveals one of the greatest secret weapons in his arsenal--Invincible Pearl! When sous chef Sanji steps into the fray, it turns out that he and Chef Zeff have some unfinished business concerning the loss of the latter's leg! Will their differences come between them or make the Baratie stronger? Either way, unfortunately for Luffy, it turns out that Don Krieg harbors an even deadlier weapon--Gin, the very man whose life Sanji once saved with a square meal!',
+      release_date: '(first published March 4th 1999)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1361.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 11: The Meanest Man in the East',
+      author: 'Eiichirō Oda',
+      synopsis: 'After almost drowning at the hands of "Saw-Tooth" Arlong, captain of the nasty Fish-Man pirates, Luffy bounces back with a few tricks up his sleeve. The fate of Coco Village, if not the rest of the East Blue, rests upon the outcome of their final battle!',
+      release_date: '(first published December 2nd 1999)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1362.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 65: To Nothing',
+      author: 'Eiichirō Oda',
+      synopsis: 'The Straw Hat crew are the only ones standing in the way of the New Fish-Man pirates taking complete control over Fish-Man Island. And when Hody puts his diabolical plan into action, only Luffy can stop him. Luffy may have become much more powerful thanks to his training, but how can he hope to defeat a Fish-Man at the bottom of the ocean?!',
+      release_date: '(first published February 3rd 2012)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1363.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 28',
+      author: 'Tite Kubo',
+      synopsis: 'Baron's Lecture Full-CourseIchigo, Chad and Uryū are determined to rescue Orihime from Aizen's vile machinations. But though the Arrancars' fortress is in sight, the would-be heroes must first pass Tres Cifras--the land of the disgraced Arrancars, who see destroying Ichigo and his friends as a way to redeem their honor!',
+      release_date: '(first published June 4th 2007)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1364.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 08: I Won't Die',
+      author: 'Eiichirō Oda',
+      synopsis: 'If Luffy wants to get out of a year's worth of chore-boy duty on the oceangoing restaurant Baratie, he's got to rid the seas of the evil Don Krieg. Unfortunately, Krieg's armed to the teeth and aided by his "Demon Man," Commander Gin. The battle takes a surprising turn as Krieg reveals his increasingly deadly military might! Meanwhile, Nami has sailed off on the Merry Go with treasure in tow, and she's headed to Arlong Park, home of creepy Captain Arlong and his Fish-Man Pirates. What business does Nami have at Arlong Park, anyway? Something fishy is going on and Luffy's crew just may be in over their heads!',
+      release_date: '(first published April 30th 1999)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1365.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 09: Tears',
+      author: 'Eiichirō Oda',
+      synopsis: 'Luffy and crew must contend with "Saw-Tooth" Arlong and his nasty Fish Man pirates, who specialize in using mafia tactics to squeeze the lifeblood from innocent villagers. Needless to say, it comes as a big surprise to everyone that pirate-hating Nami is actually a member of Arlong's crew!',
+      release_date: '(first published July 2nd 1999)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1366.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 25',
+      author: 'Tite Kubo',
+      synopsis: 'No Shaking ThroneIchigo's recent battles with the Arrancars have proven that if he wants to protect his friends he must get stronger, and the only way to do that is to control his inner Hollow. Ichigo turns to the Visoreds, ex-Soul Reapers who have been Hollowfied, to teach him. But before his training begins, Ichigo must do battle against his Hollow self—winner takes his soul!',
+      release_date: '(first published December 4th 2006)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1367.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 13',
+      author: 'Tite Kubo',
+      synopsis: 'The UndeadChad has stormed his way into the heart of the Soul Society, the Seireitei, only to meet his match in the devastatingly efficient Captain Kyôraku. Meanwhile, Ichigo struggles in his battle against Kenpachi Zaraki, the captain of the 11th company. Although Ichigo succeeds in drawing blood, the secret of Kenpachi's zanpaku-tô may be his undoing. Before Ichigo realizes it, Kenpachi's blade has pierced his heart!',
+      release_date: '(first published June 4th 2004)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1368.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 54: Unstoppable',
+      author: 'Eiichirō Oda',
+      synopsis: 'With his brother Ace locked up in the Naval prison Impel Down, Luffy doesn't have much time to rescue him before his imminent execution. While he may have found a way to sneak into the maximum-security prison, finding Ace isn't going to be as easy. But a chance reunion with some former enemies just might be a blessing in disguise!',
+      release_date: '(first published June 4th 2009)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1369.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 67: COOL FIGHT',
+      author: 'Eiichirō Oda',
+      synopsis: 'Now that they’ve reached the New World, the Straw Hat pirates are up against things they’ve never seen before! Dragons, centaurs and deadly samurai are just the tip of the iceberg compared to the true dangers of Punk Hazard! Can Luffy and his mates uncover the dark secrets of this mysterious island?!',
+      release_date: '(first published August 3rd 2012)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1370.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 01',
+      author: 'Tite Kubo',
+      synopsis: 'Hot-tempered 15-year-old Ichigo Kurosaki, the hero of the popular fantasy-adventure , has the unsettling ability to see spirits who are unable to rest in peace. His sixth sense leads him to Rukia, a Soul Reaper who destroys  (soul-devouring monsters) and ensures the deceased find repose with the Soul Society. When she's injured in battle, Rukia transfers her sword and much of her power to Ichigo, whose spiritual energy makes him a formidable substitute Soul Reaper. But the orange-haired teenager isn't sure he wants the job: too many risks and moral dilemmas.',
+      release_date: '(first published January 5th 2002)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1371.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 60',
+      author: 'Tite Kubo',
+      synopsis: 'Everything But the RainAs the rain falls in Karakura Town, Isshin faces off against a mysterious Black Hollow. But when a familiar face joins the fight, Isshin will need all the help he can get. Ichigo's dark past is revealed, but can he recover from the shock of finally learning the truth?!',
+      release_date: '(first published August 2nd 2013)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1372.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 19',
+      author: 'Tite Kubo',
+      synopsis: 'The Black Moon RisingThe long-awaited showdown between Ichigo and Byakuya Kuchiki has finally begun. Has Ichigo succeeded in mastering , the highest level of power that a Soul Reaper can attain, to face Byakuya as an equal?In the aftermath of Rukia's last-minute rescue, Yoruichi faces her former subordinate Soi Fun in mortal combat, while the 13 Court Guard Companies teeter on the brink of civil war. Meanwhile, Ichigo and Byakuya Kuchiki square off in the final bloody duel that will decide Rukia's fate - and their own!',
+      release_date: '(first published October 4th 2005)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1373.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 12: The Legend Begins',
+      author: 'Eiichirō Oda',
+      synopsis: 'Luffy narrowly escapes being executed by his old nemeses Lady Alvida and Buggy the Clown, but now he has the Navy hot on his trail. Leading the hunt is the relentless Captain Smoker, a man who has never let a pirate escape from his jurisdiction!',
+      release_date: '(first published February 2nd 2000)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1374.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 04: The Black Cat Pirates',
+      author: 'Eiichirō Oda',
+      synopsis: 'Captain Kuro of the Black Cat Pirates was the most feared evil genius on the high seas...until he vanished. Most people believe he's dead, but only his crew knows the truth: Captain Kuro has been laying low in a small seaside village, posing as a mild-mannered butler until the time for pillage is just right. Now that time has come, and the ruthless Black Cat Pirates are about to attack...Unless, of course, Monkey D.Luffy can stop them! All Luffy has on his side are the sword-wielding first mate, Zolo; his thieving navigator, Nami; Usopp, a local kid with a knack for telling lies; and his own bizarre rubber-limbed powers. If these four amateur pirates want to stop the entire Black Cat crew, they'll have to come up with a pretty slick plan...',
+      release_date: '(first published August 4th 1998)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1375.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 20: Showdown at Alubarna',
+      author: 'Eiichirō Oda',
+      synopsis: 'When leaving Rainbase to head off the rebels in the capital city of Alubarna, Luffy gets pulled aside by Crocodile for some cozy one-on-one time! With only three minutes to fight, can Luffy take on the sand pirate on his domain?! The rest of the crew must help Vivi stop the rebels, but the formidable Officer Agents have been waiting for them at the city gates! Will Vivi be in time to stop the inevitable clash between the rebels and the Army?!',
+      release_date: '(first published September 4th 2001)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1376.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 66: The Road Toward the Sun',
+      author: 'Eiichirō Oda',
+      synopsis: 'The battle for Fish-Man island continues as a giant ship threatens to collide with the island and destroy everything. Can the Straw Hat pirates defeat Hody Jones and create a new bond between humans and Fish-Men? And what strange new adventures await the crew and they finally step into the New World!',
+      release_date: '(first published May 2nd 2012)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1377.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 14',
+      author: 'Tite Kubo',
+      synopsis: 'White Tower RocksIchigo and Yoruichi race to save Ichigo's friends from Rukia's cold-blooded brother, Byakuya Kukichi. They arrive to find Ganju in tatters, and Rukia with him. Ichigo is bent on defeating her brother this time, but he is nowhere near prepared. Can he learn decades' worth of skill in just a matter of days?',
+      release_date: '(first published September 3rd 2004)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1378.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 16',
+      author: 'Tite Kubo',
+      synopsis: 'Night of WijnruitThe scheduled execution of former Soul Reaper Rukia Kuchiki has been moved up and is now just hours away. Meanwhile, the Soul Society is in chaos, with Soul Reapers drawing swords against one another. Something is rotting at the core of the Soul Society, but who, or what, could be behind it?',
+      release_date: '(first published March 4th 2005)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1379.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 55: A Ray of Hope',
+      author: 'Eiichirō Oda',
+      synopsis: 'A Ray of Hope: Luffy's got some backup in his former enemies Buggy the Clown, Mr. 2 Bon Clay and Mr. 3 as he tries to rescue his brother from Impel Down prison. But now Warden Magellan, with his Venom-Venom powers, is out to stop him! Can Luffy survive such a dangerous attack from a person whose very breath is a deadly weapon, or could his ace in the hole possibly be a "queen"?',
+      release_date: '(first published September 4th 2009)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1380.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 01: Romance Dawn',
+      author: 'Eiichirō Oda',
+      synopsis: 'As a child, Monkey D. Luffy was inspired to become a pirate by listening to the tales of the buccaneer "Red-Haired" Shanks. But his life changed when he accidentally ate the fruit of the Gum-Gum Tree and gained the power to stretch like rubber...at the cost of never being able to swim again! Years later, still vowing to become the king of the pirates, Luffy sets out on his adventure...one guy alone in a rowboat, in search of the legendary "One Piece," said to be the greatest treasure in the world...',
+      release_date: '(first published December 24th 1997)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1381.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 16: Carrying On His Will',
+      author: 'Eiichirō Oda',
+      synopsis: 'Avalanche! Luffy and Sanji surf a tree down a mountain on a fast-moving wave of snow and just avoid being buried alive. But then the demented King Wapol suddenly appears and orders Luffy and Sanji's deaths. With no time to lose, Luffy evades their attacks, when out of the blue an unlikely friend comes to his rescue! A friend who was just trying to kill him only hours before!',
+      release_date: '(first published December 4th 2000)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1382.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 29',
+      author: 'Tite Kubo',
+      synopsis: 'The Slashing OperaIchigo and his friends knew invading Hueco Mundo wouldn't be easy, but even the lesser Arrancars are pushing them to their limits! Can Ichigo, Uryū and Chad find the inner strength to overcome the first line of attack, or will Orihime be stuck in Hueco Mundo forever?!',
+      release_date: '(first published August 3rd 2007)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1383.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 53: Natural Born King',
+      author: 'Eiichirō Oda',
+      synopsis: 'When the Straw Hats come in contact with Bartholomew Kuma's bare paw, this Warlord of the Sea's teleportation power sends them flying to an unknown location. Luffy lands on a maiden island where he battles the local Amazons. But with the crew scattered all around the world, will they ever be able to meet up again?!',
+      release_date: '(first published March 4th 2009)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1384.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 12',
+      author: 'Tite Kubo',
+      synopsis: 'Flower on the PrecipiceWith reports of powerful intruders defeating a number of assistant captains, the inner sanctum of the Soul Society - the Seireitei, the home of the Soul Reapers - is put on a state of high alert. Matters are further compounded by the mysterious death of a prominent captain. Is his death a cover-up to prevent a valuable secret from being exposed? Meanwhile, Ichigo confronts Kenpachi Zaraki, captain of the eleventh company, and by far the most brutal fighter in the Seireitei!',
+      release_date: '(first published March 4th 2004)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1385.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 33: Davy Back Fight',
+      author: 'Eiichirō Oda',
+      synopsis: 'After exploring the newest island, Long Ring Long Land, the Straw Hats meet the Foxy Pirates. Led by Foxy the Silver Fox, these new foes waste no time in challenging Luffy to a high stakes Davy Back Fight. Will Luffy accept the challenge of these dangerous new enemies?',
+      release_date: '(first published June 4th 2004)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1386.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 02: Buggy the Clown',
+      author: 'Eiichirō Oda',
+      synopsis: 'As a kid, Monkey D. Luffy vowed to become King of the Pirates and find the legendary treasure called the "One Piece." The enchanted Gum-Gum Fruit has given Luffy the power to stretch like rubber--and his new crewmate, the infamous pirate hunter Roronoa Zolo, strikes fear into the hearts of other buccaneers! But what chance does one rubber guy stand against Nami, a thief so tough she specializes in robbing pirates...or Captain Buggy, a fiendish pirate lord whose weird, clownish appearance conceals even weirder powers? It's pirate vs. pirate in the second swashbuckling volume of One Piece!',
+      release_date: '(first published April 3rd 1998)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1387.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 18',
+      author: 'Tite Kubo',
+      synopsis: 'The Deathberry ReturnsThe execution of Ichigo's friend Rukia has begun, yet Ichigo himself is nowhere in sight. In a matter of seconds, the power of one million zanpaku-to will slice through Rukia as punishment for sharing her Soul Reaper powers with Ichigo. Is this really how things are going to end?!',
+      release_date: '(first published August 4th 2005)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1388.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 13: It's All Right!',
+      author: 'Eiichirō Oda',
+      synopsis: 'No sooner have Luffy and crew escaped the bounty hunters of Whisky Peak than they become the target of a sinister criminal outfit known as Baroque Works. But the Straw Hat pirates have bigger worries, now that they've agreed to protect a very important person in return for untold riches.',
+      release_date: '(first published April 28th 2000)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1389.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 06',
+      author: 'Tite Kubo',
+      synopsis: 'The Death Trilogy OvertureNow Ichigo finds himself in a deadly contest with Uryū Ishida, a "Quincy" who hates Soul Reapers - whoever defeats the most Hollows wins! But in no time the neighborhood of Karakura is swarming with ravenous Hollows!!',
+      release_date: '(first published December 20th 2002)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1390.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 17: Hiriluk's Cherry Blossoms',
+      author: 'Eiichirō Oda',
+      synopsis: 'It's the final showdown with the metallic King Wapol! He wants his castle back and he's not taking "no" for an answer. Well, Luffy, Sanji and their newfound friend Tony Tony Chopper aren't giving up so easily! But our heroes have their hands full--especially with Wapol's ability to modify his body depending on what he eats! Meanwhile, down the mountain in Big Horn village the people are devastated as their beloved leader lies in the snow, badly injured. But all is not lost when Wapol's deadly 20 Doctors make an unbelievable announcement!',
+      release_date: '(first published February 2nd 2001)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1391.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 23',
+      author: 'Tite Kubo',
+      synopsis: '¡Mala Suerte!The Arrancars, Hollows that have attained Soul Reaper-like powers, have descended on Karakura Town. Led by Grimmjow Jaegerjaques, they plan to eliminate anyone who poses a threat to them. And their deadly hunt doesn't stop with Ichigo and the Soul Reapers--the Arrancars are after anyone with even a trace of spiritual powers!',
+      release_date: '(first published August 4th 2006)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1392.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 35: Captain',
+      author: 'Eiichirō Oda',
+      synopsis: 'Luffy and crewmate Usopp try hard to find a way to repair the Merry Go, but after Usopp is attacked and the money they had saved to repair the ship is stolen, Luffy must make the most difficult decision as a captain yet. What will become of their beloved ship? And where did Robin disappear to...?',
+      release_date: '(first published November 4th 2004)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1393.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 24',
+      author: 'Tite Kubo',
+      synopsis: 'Immanent God BluesIchigo and the Soul Reapers wage a furious battle against the Arrancars who are attacking Karakura Town. But this enemy is unlike anything they have ever fought before, and these aren't even the strongest of the Arrancars! If Ichigo and his friends can barely face them, how can they hope to fight off the elite Arrancar warriors, the dreaded Espada?',
+      release_date: '(first published October 4th 2006)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1394.jpg')
+
+Manga.create(
+      title: 'One Piece, Volume 06: The Oath',
+      author: 'Eiichirō Oda',
+      synopsis: 'Luffy's pirates thought they were just stopping in for a quick bite...but now Luffy's been made a busboy on Baratie, the oceangoing restaurant, and it turns out some of the worst-mannered pirates on the Grand Line are just dying for a meal.Always one to look on the bright side, Luffy sets his sights on Sanji, the smart-talking, skirt-chasing assistant chef on the Baratie, as the Merry Go's new cook. But it'll take more than a vicious pirate battle and a little sweet talking from Nami to convince him to leave the Baratie and join Luffy's team. His oath to feed any and all pirates in need keeps getting in the way. The question is: what do you do when the very same pirates you just fed now want to serve you up for dinner?',
+      release_date: '(first published December 3rd 1998)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1395.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 08',
+      author: 'Tite Kubo',
+      synopsis: 'The Blade and MeIchigo knows that to retrieve Rukia from the Soul Society, he'll have to enter that world himself. But his fight with Rukia's brother Byakuya showed, in no uncertain terms, that Ichigo still has a great deal of rigorous study and training ahead of him. Deep beneath Kisuke's Urahara Shoten, Ichigo practices his fighting and hones his spiritual energies, and now he must face the most daunting challenge of all: prevent his Chain of Fate from consuming itself, or be forever transformed into a soul-devouring Hollow!',
+      release_date: '(first published June 4th 2003)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1396.jpg')
+
+Manga.create(
+      title: 'Bleach, Volume 04',
+      author: 'Tite Kubo',
+      synopsis: 'Quincy Archer Hates YouA new reality-show craze is sweeping the nation, garnering legions of screaming fans (the majority of them being teenaged girls). But this program comes with a supernatural twist - the host, a media-savvy spiritualist, travels to local hotspots and performs exorcisms, live on national TV! Surly Soul Reaper Ichigo Kurosaki has his doubts about this primetime prima donna, and his assumptions are about to be put to the test - the show is heading straight for his neighborhood. what effect will this unprovoked media presence have on the fragile balance between Earth and the spirit world?',
+      release_date: '(first published September 4th 2002)',
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1397.jpg')
