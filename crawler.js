@@ -49,6 +49,7 @@ const mangaList = require('./comicList');
   The art of
 
   // consider fixing synopsis for Bakuman
+  // update synopsis for love hina
   */}
 // const testUrl = 'http://www.goodreads.com/series/49276-fullmetal-alchemist'
 // grabLinks(testUrl);
@@ -56,7 +57,7 @@ const mangaList = require('./comicList');
 
 {/* Counter Closure */}
 const comicUpdater = () => {
-  let total = 1179;
+  let total = 1227;
 
   return(
     adder = () => {
