@@ -67,11 +67,17 @@ const mangaList = require('./comicList');
              release_date: "January 10, 1986",
              img_url:"nothing",
              genre: ["Adventure", "Martial arts", "Sci-Fi"]}
+
+  Genres to Create:
+  ['Action',
+   'Adventure',
+   'Science Fantasy'
+  ]
   */}
 
 {/* Counter Closure */}
 const comicUpdater = () => {
-  let total = 1509;
+  let total = 1066;
 
   return(
     adder = () => {
@@ -123,7 +129,7 @@ function grabComic(url) {
       author: '${authors[0]}',
       synopsis: '${descrip}',
       release_date: '${releaseDate}',
-      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/${imgTitle}.jpg'}`
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/${imgTitle}.jpg'},`
 
 
     {/* append to the file  */}
@@ -155,6 +161,7 @@ function grabLinks(comicList) {
 
     const $ = cheerio.load(body);
     let total = 0;
+    fs.appendFileSync('allComics.txt', '[' + '\n');
     $('a.bookTitle').each(function( index ) {
       let link = $(this).attr('href');
       total += 1;
@@ -163,6 +170,8 @@ function grabLinks(comicList) {
     });
     console.log("Status code: " + response.statusCode);
   });
+  fs.appendFileSync('allComics.txt', '[genres]' + '\n');
+  fs.appendFileSync('allComics.txt', '],' + '\n');
 }
 
 const comicList = mangaList;
