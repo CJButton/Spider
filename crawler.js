@@ -48,13 +48,30 @@ const mangaList = require('./comicList');
   Reads R to L (Japanese Style) for teen plus audiences.
   The art of
 
-  // consider fixing synopsis for Bakuman
-  // update synopsis for love hina
+  consider fixing synopsis for Bakuman
+  update synopsis for love hina
+  create table for genres/tags for easier searching and grabbing books of genres
+  - create list of genres based off of wikipiedia's recommendations
+
+
+  #   cities = Manga.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
+  The below sample is valid for creating an object in the db
+  Bookshelf.create({user_id: 1, title: "Currently-Reading"})
+
+  Have each comic sorted together as objects inside of arrays
+  Iterate over each comic, thereby creating an object in the db, and then
+  take that comics id, and add it to the appropriate genre categories table
+  {title:"tester",
+             author:"Akira Toriyama",
+             {synopsis:"tester2",
+             release_date: "January 10, 1986",
+             img_url:"nothing",
+             genre: ["Adventure", "Martial arts", "Sci-Fi"]}
   */}
 
 {/* Counter Closure */}
 const comicUpdater = () => {
-  let total = 1437;
+  let total = 1509;
 
   return(
     adder = () => {
@@ -101,12 +118,12 @@ function grabComic(url) {
     let imgTitle = comicCounter();
 
     {/* place into an object  */}
-    let mangaCreate = `Manga.create(
+    let mangaCreate = `{
       title: '${title}',
       author: '${authors[0]}',
       synopsis: '${descrip}',
       release_date: '${releaseDate}',
-      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/${imgTitle}.jpg')`
+      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/${imgTitle}.jpg'}`
 
 
     {/* append to the file  */}
