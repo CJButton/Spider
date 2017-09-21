@@ -75,9 +75,11 @@ const mangaList = require('./comicList');
   ]
   */}
 
+// change to parens to quotes to avoid erros with seed synopsis
+
 {/* Counter Closure */}
 const comicUpdater = () => {
-  let total = 1066;
+  let total = 1000;
 
   return(
     adder = () => {
@@ -87,6 +89,10 @@ const comicUpdater = () => {
 }
 
 let comicCounter = comicUpdater();
+
+let descrip = 'word""word""word"';
+updated = descrip.replace(/"/g, "\'")
+console.log(updated);
 
 function grabComic(url) {
   request(url, function(error, response, body) {
@@ -115,9 +121,12 @@ function grabComic(url) {
     let releaseDate = $('nobr.greyText').text().trim();
 
     {/* synopsis  */}
-    let descrip = $('div#description > span').last().contents().filter(function() {
+    {/* removes double quotes if there are any, and replaces them with ''; this is to prevent
+        issues with the seed file later  */}
+    let description = $('div#description > span').last().contents().filter(function() {
       return this.type === 'text';
     }).text();
+    let descrip = description.replace(/"/g, "\'")
 
     {/* compressed title for images  */}
     // let imgTitle = title.replace(/[/\s]/g,'');
@@ -125,11 +134,11 @@ function grabComic(url) {
 
     {/* place into an object  */}
     let mangaCreate = `{
-      title: '${title}',
-      author: '${authors[0]}',
-      synopsis: '${descrip}',
-      release_date: '${releaseDate}',
-      img_url: 'http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/${imgTitle}.jpg'},`
+      title: ""${title}"",
+      author: ""${authors[0]}"",
+      synopsis: ""${descrip}"",
+      release_date: ""${releaseDate}"",
+      img_url: ""http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/${imgTitle}.jpg""},`
 
 
     {/* append to the file  */}
@@ -176,9 +185,9 @@ function grabLinks(comicList) {
 
 const comicList = mangaList;
 
-comicList.map((list) => {
-  grabLinks(list);
-})
+// comicList.map((list) => {
+//   grabLinks(list);
+// })
 //
 // {/* grabs link to comic series list  */}
 // // let link = $('a.greyText').attr('href');
