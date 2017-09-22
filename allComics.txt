@@ -6,9 +6,8 @@ Check for "" and add data if needed
 Add appropriate genres
 
 
-Comedy, Romance
-Themes: School Life
-[genres[14], genres[13], genres[15]]
+Comedy, Drama, Romance
+[genres[14], genres[7], genres[13]]
 Add ], to close series array
 
 Fantasy
@@ -1760,4 +1759,106 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1239.jpg"},
 
       [genres[14], genres[13], genres[15]]
+      ],
+      [
+
+{
+      title: "Love Hina, Vol. 01",
+      author: "Ken Akamatsu",
+      synopsis: "At the age of 5, Keitaro and his childhood sweetheart promised to meet again as students at Japan's most prestigious university. Now 20, he can't pass his entrance exams...or even remember the girl's name. Stumbling into a fluke job at an all-girls dormitory may be his last chance. In the series that inspired the new hit anime, Love Hina proves that love conquers all. Even stupidity.",
+      release_date: "March 17th 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1226.jpg"},
+
+{
+      title: "Love Hina, Vol. 04",
+      author: "Ken Akamatsu",
+      synopsis: "At the age of 5, Keitaro and his childhood sweetheart promised to meet again as students at Japan's most prestigious university. Now 20, he can't pass his entrance exams...or even remember the girl's name Stumbing into a fluke job at an all-girls dormitory may be his last chance. In the series that inspired the new hit anime, Love Hina proves that love conquers all. Even stupidity.",
+      release_date: "September 16th 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1227.jpg"},
+
+{
+      title: "Love Hina, Vol. 13",
+      author: "Ken Akamatsu",
+      synopsis: "When Keitaro Urashima fails his entrance exams to get into Tokyo University for the second time, he's officially an unemployed and uneducated slacker. To make things worse, his parents have kicked him out of his house. Fortunately, his grandmother owns the fabulous Hinata Lodge and has agreed to take Keitaro in as caretaker. What he doesn't know is that the lodge is actually a girl's dorm and he's the only guy around! Most guys would kill to live with five sexy ladies, but if Keitaro's not careful, this job will kill him.",
+      release_date: "October 17th 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1228.jpg"},
+
+{
+      title: "Love Hina, Vol. 07",
+      author: "Ken Akamatsu",
+      synopsis: "At the age of 5, Keitaro and his childhood sweetheart promised to meet again as students at Japan's most prestigious university. Now 20, he can't pass his entrance exams...or even remember the girl's name Stumbing into a fluke job at an all-girls dormitory may be his last chance. In the series that inspired the new hit anime, Love Hina proves that love conquers all. Even stupidity.",
+      release_date: "April 14th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1229.jpg"},
+
+{
+      title: "Love Hina, Vol. 02",
+      author: "Ken Akamatsu",
+      synopsis: "At the age of 5, Keitaro and his childhood sweetheart promised to meet again as students at Japan's most prestigious university. Now 20, he can't pass his entrance exams...or even remember the girl's name Stumbing into a fluke job at an all-girls dormitory may be his last chance. In the series that inspired the new hit anime, Love Hina proves that love conquers all. Even stupidity.",
+      release_date: "April 16th 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1230.jpg"},
+
+{
+      title: "Love Hina, Vol. 14",
+      author: "Ken Akamatsu",
+      synopsis: "At the age of 5, Keitaro and his childhood sweetheart promised to meet again as students at Japan's most prestigious university. Now 20, he can't pass his entrance exams...or even remember the girl's name Stumbing into a fluke job at an all-girls dormitory may be his last chance. In the series that inspired the new hit anime, Love Hina proves that love conquers all. Even stupidity.",
+      release_date: "January 17th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1231.jpg"},
+
+{
+      title: "Love Hina, Vol. 05",
+      author: "Ken Akamatsu",
+      synopsis: "At the age of 5, Keitaro and his childhood sweetheart promised to meet again as students at Japan's most prestigious university. Now 20, he can't pass his entrance exams...or even remember the girl's name Stumbing into a fluke job at an all-girls dormitory may be his last chance. In the series that inspired the new hit anime, Love Hina proves that love conquers all. Even stupidity.",
+      release_date: "November 17th 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1232.jpg"},
+
+{
+      title: "Love Hina, Vol. 03",
+      author: "Ken Akamatsu",
+      synopsis: "At the age of 5, Keitaro and his childhood sweetheart promised to meet again as students at Japan's most prestigious university. Now 20, he can't pass his entrance exams...or even remember the girl's name Stumbing into a fluke job at an all-girls dormitory may be his last chance. In the series that inspired the new hit anime, Love Hina proves that love conquers all. Even stupidity.",
+      release_date: "June 17th 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1233.jpg"},
+
+{
+      title: "Love Hina, Vol. 10",
+      author: "Ken Akamatsu",
+      synopsis: "At the age of 5, Keitaro and his childhood sweetheart promised to meet again as students at Japan's most prestigious university. Now 20, he can't pass his entrance exams...or even remember the girl's name Stumbing into a fluke job at an all-girls dormitory may be his last chance. In the series that inspired the new hit anime, Love Hina proves that love conquers all. Even stupidity.",
+      release_date: "January 17th 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1234.jpg"},
+
+{
+      title: "Love Hina, Vol. 11",
+      author: "Ken Akamatsu",
+      synopsis: "When Keitaro Urashima fails his entrance exams to get into Tokyo University for the second time, he's officially an unemployed and uneducated slacker. To make things worse, his parents have kicked him out of his house. Fortunately, his grandmother owns the fabulous Hinata Lodge and has agreed to take Keitaro in as caretaker. What he doesn't know is that the lodge is actually a girl's dorm and he's the only guy around! Most guys would kill to live with five sexy ladies, but if Keitaro's not careful, this job will kill him.",
+      release_date: "April 17th 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1235.jpg"},
+
+{
+      title: "Love Hina, Vol. 06",
+      author: "Ken Akamatsu",
+      synopsis: "At the age of 5, Keitaro and his childhood sweetheart promised to meet again as students at Japan's most prestigious university. Now 20, he can't pass his entrance exams...or even remember the girl's name Stumbing into a fluke job at an all-girls dormitory may be his last chance. In the series that inspired the new hit anime, Love Hina proves that love conquers all. Even stupidity.",
+      release_date: "February 17th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1236.jpg"},
+
+{
+      title: "Love Hina, Vol. 09",
+      author: "Ken Akamatsu",
+      synopsis: "At the age of 5, Keitaro and his childhood sweetheart promised to meet again as students at Japan's most prestigious university. Now 20, he can't pass his entrance exams...or even remember the girl's name Stumbing into a fluke job at an all-girls dormitory may be his last chance. In the series that inspired the new hit anime, Love Hina proves that love conquers all. Even stupidity.",
+      release_date: "October 17th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1237.jpg"},
+
+{
+      title: "Love Hina, Vol. 12",
+      author: "Ken Akamatsu",
+      synopsis: "When Keitaro Urashima fails his entrance exams to get into Tokyo University for the second time, he's officially an unemployed and uneducated slacker. To make things worse, his parents have kicked him out of his house. Fortunately, his grandmother owns the fabulous Hinata Lodge and has agreed to take Keitaro in as caretaker. What he doesn't know is that the lodge is actually a girl's dorm and he's the only guy around! Most guys would kill to live with five sexy ladies, but if Keitaro's not careful, this job will kill him.",
+      release_date: "July 17th 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1238.jpg"},
+
+{
+      title: "Love Hina, Vol. 08",
+      author: "Ken Akamatsu",
+      synopsis: "At the age of 5, Keitaro and his childhood sweetheart promised to meet again as students at Japan's most prestigious university. Now 20, he can't pass his entrance exams...or even remember the girl's name Stumbing into a fluke job at an all-girls dormitory may be his last chance. In the series that inspired the new hit anime, Love Hina proves that love conquers all. Even stupidity.",
+      release_date: "July 17th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1239.jpg"},
+
+      [genres[14], genres[7], genres[13]]
       ],
