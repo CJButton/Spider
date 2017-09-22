@@ -56,7 +56,7 @@ const mangaList = require('./comicList');
 
 {/* Counter Closure */}
 const comicUpdater = () => {
-  let total = 1104;
+  let total = 1131;
 
   return(
     adder = () => {
@@ -77,7 +77,7 @@ function grabComic(url) {
 
     {/* check if correct language and return if not English or none given*/}
     let lang = $('div[itemprop = "inLanguage"]').text().trim();
-    // if (lang !== 'English') return;
+    if (lang !== 'English') return;
 
     {/* title  */}
     let title = $('h1.bookTitle').first().contents().filter(function() {
