@@ -6,9 +6,9 @@ Check for "" and add data if needed
 Add appropriate genres
 
 
-Action, Drama
-Themes: Historical
-[genres[0], genres[7], genres[9]]
+Action, Fantasy
+Themes: Adventure, Battles, Supernatural
+[genres[0], genres[4], genres[1], genres[10], genres[18]]
 Add ], to close series array
 
 Fantasy
@@ -2541,3 +2541,6 @@ allComics = [
       synopsis: "Be My Family or Not: Ichigo and his friends return to the World of the Living, where life goes on as usual. But the arrival of a new transfer student raises disturbing questions, for outside school he carries a zanpaku-tô and wears the mask of a Hollow...  ",
       release_date: "March 3rd 2006",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1334.jpg"},
+
+      [genres[0], genres[4], genres[1], genres[10], genres[18]]
+      ],
