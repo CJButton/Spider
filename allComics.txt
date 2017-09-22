@@ -6,8 +6,9 @@ Check for "" and add data if needed
 Add appropriate genres
 
 
-Comedy, Drama, Romance
-[genres[14], genres[7], genres[13]]
+Action, Drama
+Themes: Adventure, Historical
+[genres[0], genres[7], genres[1], genres[9]]
 Add ], to close series array
 
 Fantasy
@@ -1861,4 +1862,21 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1239.jpg"},
 
       [genres[14], genres[7], genres[13]]
+      ],
+      [
+{
+      title: "Vagabond, Vol. 9",
+      author: "Takehiko Inoue",
+      synopsis: "It's been one year since Yoshioka Denshichiro granted Musashi a reprieve for a rematch. Denshichiro may have been a better swordsman back then, but with Musashi before him now, he realizes the truly incredible strides his opponent has made in such a short period of time. By sheer force of will, a reluctant Denshichiro moves forward into the fight. And what will the deadly repercussions be for Musashi after this duel that's all but already won?",
+      release_date: "October 19th 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1240.jpg"},
+
+{
+      title: "Vagabond, Vol. 12",
+      author: "Takehiko Inoue",
+      synopsis: "Miyamoto Musashi and Sasaki Kojiro’s intertwining paths lead them toward what will be the greatest samurai duel in Japanese history. Sasaki Kojiro heads to Kokura for his new position as sword instructor for the powerful Hosokawa Clan. Meanwhile, Musashi is at a crossroads dealing with the aftermath of single-handedly destroying the mighty Yoshioka clan. After he starts to question his quest to be invincible and his whole reason for existence, will his confidence in himself ever be the same?",
+      release_date: "March 17th 2015",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1241.jpg"},
+
+      [genres[0], genres[7], genres[1], genres[9]]
       ],
