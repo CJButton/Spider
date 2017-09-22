@@ -1160,3 +1160,206 @@ allComics = [
 
       [genres[7], genres[13], genres[15], genres[18]]
       ],
+[
+{
+      title: "Rurouni Kenshin, Volume 19",
+      author: "Nobuhiro Watsuki",
+      synopsis: "It began with a sin, committed by Kenshin, back during his bloody days as hitokiri or a government-sanctioned slayer of men. Although stopping most of the assassins who still come seeking revenge should be easy enough, what of the innocent--Sanosuke and Yahiko (Kenshin's comrades), everyone at Akabeko Inn (Kenshin's friends), Kaoru (Kenshin's...?). For once there was another love in Kenshin's life, one which--given his nature--must by definition have been tragic. Can Kenshin escape the shades of his past, and find the will to fight for the real world--for the living--for reality?!",
+      release_date: "February 4th 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1150.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 03",
+      author: "Nobuhiro Watsuki",
+      synopsis: "'Spider's Web'...like ordinary opium, but better processed. Half the cost to produce, but twice the profits! To the people of Aizu, Takani Megumi was a daughter in a famous family of doctors, in which everyone--women and children alike--studied medicine. But to grasping industrialist Takeda Kanryû, she is the hen who lays the golden egg--the only one who knows the Spider's Web formula! To stay with Kanryû is to send even more to their deaths. But to stay with Kenshin and the others is to invite theirs...",
+      release_date: "February 2nd 1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1151.jpg"},
+
+{
+      title: "Rurouni Kenshin, Vol. 1: Meiji Swordsman Romantic Story",
+      author: "Nobuhiro Watsuki",
+      synopsis: "Packed with action, romance and historical intrigue,  is one of the most beloved and popular manga series worldwide. Set against the backdrop of the Meiji Restoration, it tells the saga of Himura Kenshin, once an assassin of ferocious power, now a humble , a wandering swordsman fighting to protect the honor of those in need. ",
+      release_date: "September 2nd 1994",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1152.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 15",
+      author: "Nobuhiro Watsuki",
+      synopsis: "At the madman Shishio Makoto's headquarters, the long-delayed duel between Kenshin and Shinomori Aoshi concludes, while at Aoi-Ya, those left behind wage their own, desperate battle against Shishio's Juppongatana or 'Ten Swords.' The strength of one swordsman in particular seems monstrous, and defeat imminent...that is, until Kenshin's former Hiten Mitsurugi master, Hiko Seijûrô, takes the field. Will the respect of one warrior for another succeed where all else has failed? Elsewhere, Kenshin and Sôjirô cross swords at last. Although well-matched, Kenshin's victory is by no means certain...",
+      release_date: "May 1st 1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1153.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 20",
+      author: "Nobuhiro Watsuki",
+      synopsis: "To build a new age, must one truly be mad enough to turn from the extreme justice that political allegiance requires? Deep in the Japanese countryside, far from the gore-spattered streets of the capital, a man who never knew what happiness was begins a new life as husband to a woman who claims to have nowhere else to go. If a man cannot fight to protect the woman he loves, what will become of the nation? Can one woman alone be enough to hold back the madness?",
+      release_date: "May 1st 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1154.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 06",
+      author: "Nobuhiro Watsuki",
+      synopsis: "Kenshin's battle with Raijûta to decide the fate of Meiji Era swordsmanship is coming to a head. One fact is quickly becoming apparent: Raijûta will stop at nothing to ensure the supremacy of his own school of sword-fighting! Reunited with a member of the former Sekihô Army--that doomed civilian unit--Sanosuke runs into trouble of his own. Old alliances are challenged when a plan to topple the current government by any means necessary is shared...and as his friend puts it, Sano's either 'in,' or 'in the way.' Plus a bonus installment containing the first story Nobuhiro Watsuki ever published!",
+      release_date: "August 4th 1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1156.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 26",
+      author: "Nobuhiro Watsuki",
+      synopsis: "If there's one thing tough-as-nails street brawler--and ex-Sekihô Army cadet--Sagara Sanosuke can't stand, it's hypocritical, loudmouthed braggarts who talk the talk but are incapable of walking the walk. Finding himself in the middle of a provincial squabble between an old man and the local yakuza, Sano returns to his old 'fight merchant' ways and agrees to do some ad hoc butt kicking for pay. But the old man he's hired to tangle with might be his strongest foe to date.",
+      release_date: "July 2nd 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1157.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 27",
+      author: "Nobuhiro Watsuki",
+      synopsis: "Kenshin and his comrades have finally discovered the location of Enishi's island compound, but to free Kaoru from captivity, a good deal of fighting will be necessary. Woo Heishin, Enishi's mysterious second-in-command, meets them on the beach and brings his deadly bodyguards, the Sû-shin or the 'Four Stars,' to serve as a welcoming committee. Yahiko, Sanosuke, Saitô and Aoshi dive into combat with Woo Heishin's warriors as Kenshin prepares himself for his fateful, climactic duel with Enishi. Each of them a ferocious fighter, the Sû-shin are set on stopping Kenshin's friends dead in their tracks.",
+      release_date: "September 3rd 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1158.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 12",
+      author: "Nobuhiro Watsuki",
+      synopsis: "As Kenshin continues his re-education at the hand of his master in Hiten Mitsurugi, Hiko Seijûrô, he looks back also to the first, early years of that training...including the moment in his life in which he changed his name to 'Kenshin.' Meanwhile, the remaining members of the Juppongatana , or 'Ten Swords,' arrive in Kyoto, while the first phase of Shishio Makoto's plan for Japan finally gets underway. While Misao and the Oniwabanshu plan how best to pool their resources to stop Shishio from setting Kyoto ablaze, Kenshin, Sano, and Saitô--now reunited--must consider their own next course of action.",
+      release_date: "September 4th 1996",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1160.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 05",
+      author: "Nobuhiro Watsuki",
+      synopsis: "Isurugi Raijûta, a truly old-school swordsman, comes to Kenshin and requests his aid in reforming the state of swordsmanship schools, or kenjutsu dojo, in Japan. Although Kenshin is intrigued by Raijûta's ideals (chiefly, that there is a need for a nation-wide, unifying school), Raijûta's plan to 'weed out' the schools he deems unfit is not in accordance with Kenshin's deepest-held beliefs. Given the choice of either joining Raijûta's 'Shinko-ryû' movement or dying, Kenshin walks away, choosing neither. But Raijûta isn't willing to let Kenshin off the hook so easily...",
+      release_date: "June 2nd 1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1161.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 16",
+      author: "Nobuhiro Watsuki",
+      synopsis: "Is there such a thing as divine will or guidance...? Seta Sôjirô, stopping for a moment in mid-battle with Kenshin, may be beginning to think so. When Sôjirô made the fateful decision to ally with the monomaniacal Shishio Makoto, his family paid the ultimate price. But is the flesh of the weak truly the sustenance of the strong, as Shishio insists? Kenshin, whose Hiten Mitsurugi school places the protection of the helpless before all else, would surely disagree. In a world where might makes right only too often, what choice have 'the wronged' but to wait for a savior? And when that savior comes too late...what then?",
+      release_date: "July 4th 1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1162.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 02",
+      author: "Nobuhiro Watsuki",
+      synopsis: "When the chief of the Police Sword Corps himself comes asking for favors, things must be bad. Hitokiri Udô Jin-e--a black-hatted, crazy-eyed slayer who fells both targets and innocent bystanders alike--is steadily working his way through a list of former Ishin Shishi patriots now ensconced within position of power in the Meiji government. Can Kenshin withstand the hypnotic, paralyzing effect of Jin-e...?",
+      release_date: "December 2nd 1994",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1163.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 23",
+      author: "Nobuhiro Watsuki",
+      synopsis: "In order to discover more about the relationship that binds Kenshin and Enishi, Saitô Hajime makes a surprise appearance at Kamiya Dojo--only to find the aftermath of Kenshin, Sanosuke, and Yahiko's desperate life-or-death battles with Enishi's cabal of fighters. One member of the 'Six Comrades' remains standing--the mysterious and deadly Yatsume Mumyôi. Will the strength of Saitô Gatotsu be enough to fell this freakish warrior-of-the-shadows?!",
+      release_date: "November 4th 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1164.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 21",
+      author: "Nobuhiro Watsuki",
+      synopsis: "Though he once killed in the name of the nascent Meiji government, even an infamous manslayer such as 'Hitokiri Battôsai' might grow weary and vow never to kill again. As a new age dawns, there are those who yet cling to the ways of bloodshed, and see the days of peace and prosperity Kenshin and others like him fought so hard to bring forth as betrayal. In ten days' time, the enemies of Kenshin will come for him, and all who stand beside him are in danger. Is the time of earthly justice truly at hand?",
+      release_date: "July 3rd 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1165.jpg"},
+
+{
+      title: "Rurouni Kenshin, Vol. 5 #13-15",
+      author: "Nobuhiro Watsuki",
+      synopsis: "One of the most popular manga series in the world now in an omnibus format. Packed with action, romance and historical intrigue, Rurouni Kenshin is one of the most beloved and popular manga series worldwide.",
+      release_date: "January 20th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1166.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 13",
+      author: "Nobuhiro Watsuki",
+      synopsis: "The Great Kyoto Fire behind them (and casualties relatively slight), Kenshin and the others consider their next move. The Oniwabanshu may indeed be allies this time ('Now there's a weird twist,' as Sano says), but their leader, Shinomori Aoshi, is not. Is Kenshin truly, as it is claimed, the only one who can bring peace to the former Okashira or 'head' of the Kyoto-based spy group...? Elsewhere, madman Shishio Makoto has made his own plans for Kenshin and the others, plans involving a 'man-to-man,' death match-style battle to the finish…",
+      release_date: "December 2nd 1996",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1168.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 09",
+      author: "Nobuhiro Watsuki",
+      synopsis: "A glimpse of the new Japan if the mad ambitions of Shishio Makoto should succeed is revealed when Kenshin arrives in Kyoto and meets him at last...although the epic battle between them will have to wait. Pitted against Shishio's soldiers, Kenshin's reversed-edge sakabatô is broken--can it be reforged? Should it be reforged? For time has once again begun to flow, and violence once more washes over the land. Although Kenshin has abandoned the ways of the hitokiri and has sworn to take life no longer, a new assassin has now arisen--one whose taste for blood and thirst for power knows no bounds…",
+      release_date: "February 2nd 1996",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1169.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 08",
+      author: "Nobuhiro Watsuki",
+      synopsis: "In the 11th year of Meiji, on the day marked in the Western calendar as May 14th, time once again begins to flow. The shocking midday murder of Department of Internal Affairs Chief Ôûkubo a fait accompli, Kenshin leaves for Kyoto, scene of chaos and bloodshed--against the wishes of nearly everyone who knows him as the gentle 'rurouni.' Awaiting him there is Shishio Makoto, the hitokiri who replaced the cold-eyed assassin Himura Battôsai who forswore further killing and took up the reversed-blade sakabatô. But does Kenshin go to Kyoto for a duel...or for a death-match?!",
+      release_date: "December 1st 1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1172.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 14",
+      author: "Nobuhiro Watsuki",
+      synopsis: "As the Juppongatana or 'Ten Swords' move to attack those at Aoi-Ya (Kaoru, Yahiko, Misao, and the rest of the Kyoto-based spy clan), Kenshin--accompanied by Sanosuke and Saitô--squares off against one of his most powerful opponents yet: Shinomori Aoshi, former Okashira or 'head' of the Oniwabanshû. Bound by promises to both return Misao's 'Aoshi-sama' to her safely, and to face Shinomori himself in a climactic, decisive battle, the time is now to learn once and for all who has the will to live, who has the will to die...and who has the will to fight.",
+      release_date: "March 4th 1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1173.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 24",
+      author: "Nobuhiro Watsuki",
+      synopsis: "To defeat an enemy in combat is one thing. To destroy an enemy's spirit by striking at what he holds dearest is another. Kenshin always felt that, so long as he wielded a sakabatô, those within his sight could be protected from harm, yet while he is incapacitated by the gargantuan Kujiranami of the 'Six Comrades,' Enishi seizes upon the opportunity to cripple Kenshin's resolve, and will to fight, for good. If Kaoru dies, will Kenshin's dream of a new Japan die with her?",
+      release_date: "February 4th 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1174.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 17",
+      author: "Nobuhiro Watsuki",
+      synopsis: "The madness of Shishio Makoto may know no bounds, but what of his body? An eleventh-hour revelation suggests a possible weakness, but will the news come in time to help a critically wounded Kenshin, whose own strength is reaching its limit? In this new era of Meiji, it's getting harder and harder to tell the innocents from the outlaws. Perhaps, as Kenshin says, it should be for history to decide which side was right, and which side was wrong. The time for hitokiri such as Kenshin and Shishio has passed; let not the man decide the age...but the age, the man.",
+      release_date: "October 3rd 1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1175.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 18",
+      author: "Nobuhiro Watsuki",
+      synopsis: "He may be one of the 'good guys' now (as Misao insists) but, even a month later, Kenshin still is haunted by Kyoto. How can he not be, when it was in Kyoto that, as the feared 'Hitokiri Battôsai,' he once made the streets flow red...? And yet, before he departs this place of so many memories, there are ghosts which must be put to rest. It's said that, when strong feelings are attached to a particular wound, so long as those feelings persist, the scar will remain. How did Kenshin get that cross-shaped scar on his face, and who was it that gave it to him?",
+      release_date: "December 4th 1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1176.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 11",
+      author: "Nobuhiro Watsuki",
+      synopsis: "With Misao's help, Kaoru finally manages to locate Kenshin in Kyoto--at the home of Hiko Seijûrô, his master in the school of Hiten Mitsurugi. Having convinced his master to resume (complete) his training, Kenshin assumes the role of pupil once more, while elsewhere in Kyoto, other forces come together. There is the arrival of Shinomori Aoshi, soon approached by the men of Shishio Makoto to join their cause; there is the arrival also of Saitô Hajime, who comes to free Sano from jail and also to join him in questioning 'Ten Swords' member Chô. The truth of Shishio's plan for Japan is beginning to be unveiled…",
+      release_date: "June 4th 1996",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1178.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 22",
+      author: "Nobuhiro Watsuki",
+      synopsis: "The ghosts of Kenshin's past come to wreak havoc on his future as the fight is literally brought to the doorstep of Kamiya Dojo. Three great battles--three great warriors! Myôjin Yahiko, the student of swords not yet a man, takes on a fighter more than twice his age. Sagara Sanosuke, the free-wheeling street fighter, learns a new humility and becomes stronger for it. And Himura Kenshin, the former slayer of men, begins to see a way to atone for the sins of the hitokiri ...",
+      release_date: "September 2nd 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1179.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 04",
+      author: "Nobuhiro Watsuki",
+      synopsis: "Shinomori Aoshi was once the leader of Edo Castle's elite guard, the Oniwabanshû. But with the fighting at an end and the shôgunate overthrown, the brilliant Aoshi and his four most loyal onmitsu, or spies, find themselves without a home or a purpose. When fighting is your life, loyalty to those lost ideals (and to the man who most symbolized them) may be the one thing left. But Megumi's life is at stake, and however sympathetic Kenshin may feel, he will fight on, to the last man if necessary...",
+      release_date: "April 4th 1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1180.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 07",
+      author: "Nobuhiro Watsuki",
+      synopsis: "The Shinsengumi--fearsome and formidable protectors of the Shôgunate. Kenshin knows them well, having done battle with them during the final days of the Meiji Restoration. One man in particular--Saitô Hajime, captain of the third unit--lingers in Kenshin's mind. Now an officer of the law and known as 'Fujita Gorô,' Saitô arrives on the steps of the Kamiya Dojo, challenging Kenshin to a duel that will force a reawakening of Kenshin's own past. But the confrontation with Saitô is just the beginning of something much larger, something that will involve the future of the new Japan...",
+      release_date: "October 4th 1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1181.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 25",
+      author: "Nobuhiro Watsuki",
+      synopsis: "Kujiranami, the giant whose right arm Kenshin severed during the Bakumatsu, escapes from prison and goes on the rampage. He is armed with a frightening new weapon, and the police force is helpless against his wrath. One warrior has the courage to stand up to him: Myôjin Yahiko, Kenshin's youthful ward and Kaoru's only student in Kamiya Kasshin-ryû. And while it's true that Yahiko's skill has increased, will he alone be able to stop a deranged Kujiranami? If Kenshin doesn't do something quick, this will certainly be Yahiko's greatest--and last--battle!",
+      release_date: "April 2nd 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1182.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 10",
+      author: "Nobuhiro Watsuki",
+      synopsis: "His sakabato broken in battle, Kenshin seeks out the man who forged it--Arai Shakkû--only to be turned away. Seikû;, son of the legendary swordsmith, had for a time been continuing his father's work (the forging of katana, meant for killing), but has since given up that calling and spends his time making humble cooking knives. Respecting Seikû's wishes, Kenshin leaves without the desired blade...but not before Shishio's spies learn that Shakkû has forged one last sword. Meanwhile, Shishio arrives in Kyoto with orders for his ten generals or 'Ten Swords' to join him and put into motion a plan to take over Japan. Chô, one of Shishio's 'swords,' learns early of Shakkû's final blade and determines to secure it at any cost. Now, armed only with his broken sakabatô, Kenshin must face Chô in battle...",
+      release_date: "April 4th 1996",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1183.jpg"},
+
+{
+      title: "Rurouni Kenshin, Volume 28",
+      author: "Nobuhiro Watsuki",
+      synopsis: "As the feared assassin of the Bakumatsu, Himura Kenshin killed in the name of the new era. As the rurouni of Meiji, he wielded a sakabatô to protect those who couldn't protect themselves, all along holding true to his vow to never take another life. Now Kenshin's fight with Enishi has entered its final stage, as has his quest for atonement. Will another life be required to complete the circle? The road of redemption has been a long one for the world-weary swordsman, but now that Kenshin has found the will to live, can he muster the strength to survive?Find out in the final, unforgettable volume of Nobuhiro Watsuki's international manga sensation, Rurouni Kenshin.",
+      release_date: "November 4th 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1185.jpg"},
