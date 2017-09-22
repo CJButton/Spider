@@ -94,7 +94,6 @@ function grabComic(url) {
     let date = $('nobr.greyText').text().trim();
     let noBrackets = date.replace(/[()]/g, '');
     let releaseDate = noBrackets.replace(/first published /g, '');
-    console.log(releaseDate);
 
     {/* synopsis  */}
     {/* removes double quotes if there are any, and replaces them with ''; this is to prevent
@@ -115,7 +114,7 @@ function grabComic(url) {
 
 
     {/* append to the file  */}
-    // fs.appendFileSync('allComics.txt', mangaCreate + '\n' + '\n');
+    fs.appendFileSync('allComics.txt', mangaCreate + '\n' + '\n');
 
     {/* cover image  */}
     const cover = $('div.editionCover > img').attr('src');
@@ -126,11 +125,11 @@ function grabComic(url) {
       dest: `./newImages/${imgTitle}.jpg`
     }
 
-    // download.image(options)
-    //   .then(({ filename, image }) => {
-    //   }).catch((err) => {
-    //     throw err
-    // });
+    download.image(options)
+      .then(({ filename, image }) => {
+      }).catch((err) => {
+        throw err
+    });
   });
 }
 
