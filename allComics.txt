@@ -5,11 +5,10 @@ Check if box sets and remove
 Check for "" and add data if needed
 Add appropriate genres
 
-Comedy
-Themes: Magical Girl, School Life
-[genres[14], genres[17], genres[15], genres[10], genres[9]]
+
+Themes: Slice of Life
+[genres[14], genres[15]]
 Add ], to close series array
-[genres[14], genres[17], genres[15]]
 
 Fantasy
 Themes: Adventure, Magical Girl, Supernatural
@@ -1533,4 +1532,70 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1208.jpg"},
 
       [genres[14], genres[17], genres[15]]
+      ],
+      [
+{
+      title: "Yotsuba!, Vol. 10",
+      author: "Kiyohiko Azuma",
+      synopsis: "Yotsuba loooooves playing games! When Daddy's the counter in hide-and-seek, he can never find Yotsuba, 'cos I'm such a good hider! And when we go to the park, Yotsuba's the bestest at swing-tag-shoe-races. Daddy says Yotsuba's making up the rules as we go along, but Yotsuba thinks Daddy's just a sour loser. But maybe Yotsuba will let him win once in a while...'Sementara ayahnya bekerja, Yotsuba bermain rumah-rumahan di bawah mejanya. Kemudian, terinspirasi oleh buku bergambar, Yotsuba pun mulai belajar bagaimana cara membuat pancake. Kisah-kisah lucu dan menyenangkan dalam keseharian Yotsuba!'",
+      release_date: "November 27th 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1209.jpg"},
+
+{
+      title: "Yotsuba!, Vol. 06",
+      author: "Kiyohiko Azuma",
+      synopsis: "Yotsuba recycles! Gets a bike! Learns about sticky notes! And drinks some super-yummy milk which she then decides she has to share with EVERYONE! But when she forgets to share with Fuuka, this spontaneous little milk lady takes her new bike and goes off on a heart-thumping little adventure of her own, much to her daddy's chagrin. What trouble will Yotsuba get into next?",
+      release_date: "December 16th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1210.jpg"},
+
+{
+      title: "Yotsuba!, Vol. 03",
+      author: "Kiyohiko Azuma",
+      synopsis: "When Asagi brings her a gift from Okinawa, Yotsuba is determined to return the favor - no matter what! Her search for the perfect present takes her to the park, but what will Asagi think of this hand-picked offering? As night falls and fireworks season kicks in, the sparks will fly (and so will Jumbo)!",
+      release_date: "November 27th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1211.jpg"},
+
+{
+      title: "Yotsuba!, Vol. 02",
+      author: "Kiyohiko Azuma",
+      synopsis: "More all ages comedy from the creator of Azumanga Daioh. Yotsuba hasn't gotten much smarter, and her neighbors still haven't gotten used to this wacky tike's exploits. A truly heartwarming comedy that will make you laugh out loud!",
+      release_date: "April 27th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1212.jpg"},
+
+{
+      title: "Yotsuba!, Vol. 01",
+      author: "Kiyohiko Azuma",
+      synopsis: "Presents the story of the new kid in town - little Yotsuba, a green-haired and wide-eyed girl who doesn't have a clue... about anything! With no knowledge of the world around her, and an unnatural fear of air conditioners, Yotsuba has her new neighbors' heads spinning. This book is written by Kyohiko Azuma, creator of Azumanga Daioh.",
+      release_date: "August 27th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1213.jpg"},
+
+{
+      title: "Yotsuba!, Vol. 09",
+      author: "Kiyohiko Azuma",
+      synopsis: "Beep-beep-beep! Yotsuba here, and riiiight on schedule! Every day is a fun day, and today’s gonna be even funner than the rest. We’re busy, busy, busy! We should write down a schedule so we don’t forget what we gotta do… like go to the bathroom! And go to the berry gair* store with Daddy! And try to fly! Omigosh, Yotsuba missed toilet time already! Noooo! What to do?! What to do?!(*Koiwai’s note: I think she means “teddy bear.”)",
+      release_date: "November 27th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1214.jpg"},
+
+{
+      title: "Yotsuba!, Vol. 07",
+      author: "Kiyohiko Azuma",
+      synopsis: "Mooooo...! MOOOO...! Cows are neato! It's fun pretending to be a cow! And milk comes from cows, so I bet they're real nice too. 'Cos milk is super-yummy, right?! Yotsuba thinks so! And milk comes in lotsa flavors, so cows must come in different flavors too. How else is there white milk and coffee milk and chocolate milk?! Then there's the black and white cows, they've gotta make a super-secret special flavor, huh?! Yotsuba wants to know! Let's go ask the cows at the ranch, Daddy! Come on!",
+      release_date: "October 15th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1215.jpg"},
+
+{
+      title: "Yotsuba!, Vol. 05",
+      author: "Kiyohiko Azuma",
+      synopsis: "It's the end of an endless summer, and Yotsuba is out to make the most of it. First, she'll go toe-to-toe with a cardboard robot, then help out the neighbors by eating their grapes and spearheading an impromptu trip to the beach. But when her ice cream is stolen by Yanda, Koiwai's understudy, Yotsuba may have to admit she's finally met her match!",
+      release_date: "April 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1216.jpg"},
+
+{
+      title: "Yotsuba!, Vol. 04",
+      author: "Kiyohiko Azuma",
+      synopsis: "Having already tackled such diverse topics as cicadas and global warming, Yotsuba is back and ready to face a whole new set of challenges. See as she strives to master the complexities of rock-paper-scissors! Feel as she becomes one with the water during a weekend of fishing. Be confused as she tries to get money from strangers to buy her groceries! The mayhem continues in Volume 4.",
+      release_date: "2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1217.jpg"},
+
+      [genres[14], genres[15]]
       ],
