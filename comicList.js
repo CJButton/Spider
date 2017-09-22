@@ -1,6 +1,6 @@
 module.exports = [
-        'http://www.goodreads.com/series/49276-fullmetal-alchemist',
-        // 'http://www.goodreads.com/series/54823-saiyuki-universe',
+        // 'http://www.goodreads.com/series/49276-fullmetal-alchemist',
+        'http://www.goodreads.com/series/54823-saiyuki-universe',
         // 'http://www.goodreads.com/series/57509-neon-genesis-evangelion',
         // 'http://www.goodreads.com/series/56781-pluto',
         // 'http://www.goodreads.com/series/83553-attack-on-titan',

@@ -1,11 +1,15 @@
 
+
 {/*
-allComics = [
- (seriesArray=>)[
-  {comic}, {comic}, [genres]
-  ]
- ]
-}
+Check if box sets and remove
+Check for "" and add data if needed
+Add appropriate genres
+[genres[0], genres[5], genres[6]]
+Add ] to close series array
+
+
+Action, Fantasy
+Themes: Adventure
 
  */}
 This array allows us to keep the naming more consistent
@@ -18,7 +22,9 @@ This array allows us to keep the naming more consistent
   5'Science Fiction'
   6'Mecha',
   7'Drama',
-  8'Mystery'
+  8'Mystery',
+  9'Historical,
+  10'Battles'
  ]
 ///
 // remember to add the ending bracket for allComics!!!
@@ -352,3 +358,142 @@ allComics = [
       synopsis: "Automail engineer Winry is captured and held hostage to force Edward to do her captor's bidding. Hawkeye discovers the disturbing truth about President Bradley's son. Our heroes have fortuitous and not-so-fortuitous reunions with old friends and enemies. And multiple intrigues and double-crosses ensue as some plot to save the world while others scheme to destroy it.",
       release_date: "December 22nd 2007",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1047.jpg"},
+
+      [genres[0], genres[1], genres[4], genres[9], genres[10]]
+      ],
+      [
+{
+      title: "Saiyuki Reload Volume 7",
+      author: "Kazuya Minekura",
+      synopsis: "Book by Kazuya Minekura",
+      release_date: "August 15th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1048.jpg"},
+
+{
+      title: "Saiyuki Reload, Volume 9",
+      author: "Kazuya Minekura",
+      synopsis: "Ukoku is back and creepier than ever, and it's going to be the Seiten sutra vs. the Muten sutra if Sanzo has his way. Meanwhile, Hazel's past is revealed, along with his own knowledge of Ukoku and the Muten sutra.",
+      release_date: "January 1st 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1049.jpg"},
+
+{
+      title: "Saiyuki, Vol. 3",
+      author: "Kazuya Minekura",
+      synopsis: "In the midst of battle with Sanzo and his team, a cursed human by the name of Rikudo impales the human leader, as he tries to protect Goku. In the melee, Goku's Youkai power limiter, the device that keeps his Youkai madness from taking over his soul, shatters, sending Goku into a violent rampage that yields for neither friend nor foe.",
+      release_date: "January 1st 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1050.jpg"},
+
+{
+      title: "Saiyuki Reload, Volume 4",
+      author: "Kazuya Minekura",
+      synopsis: "New troubles and new characters are introduced in this exciting installment of "Saiyuki Reload." As the fearsome foursome continue on their latest adventure, what will happen when they are faced with a new kind of enemy? Rated for older teens.",
+      release_date: "June 13th, 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1051.jpg"},
+
+{
+      title: "Saiyuki, Vol. 6",
+      author: "Kazuya Minekura",
+      synopsis: "With poison coursing through his veins, Sanzo's life dwindles as Goku and the others fight to discover a way out of their desert prison. Although Kougaiji offers a solution, there's a catch - Goku must first defeat him in combat! Goku's desperation grows as Sanzo's health rapidly fails, but there's no divine intervention if Goku loses control this time. Will Goku put Sanzo's life above everything...and everyone?",
+      release_date: "April 27th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1052.jpg"},
+
+{
+      title: "Saiyuki, Vol. 5",
+      author: "Kazuya Minekura",
+      synopsis: "Violence drew them close, but something far more powerful kept them together. The story of how Sanzo, Goku, Gojyo, and Hakkai met is revealed at last.",
+      release_date: "October 27th 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1053.jpg"},
+
+{
+      title: "Saiyuki, Vol. 8",
+      author: "Kazuya Minekura",
+      synopsis: "Sanzo, Goku and Hakkai are out to find "God"--and Gojyo. At the same time, Gojyo climbs a seemingly endless stairway to heaven and is assailed by a very maternal monster. The gang finally catches up to Gojyo, and as luck would have it, they've also found "God." But this dangerous deity is no ordinary opponent, and the quartet must get serious before they get crushed.",
+      release_date: "2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1054.jpg"},
+
+{
+      title: "Saiyuki Reload Volume 1",
+      author: "Kazuya Minekura",
+      synopsis: "Book by Kazuya Minekura",
+      release_date: "July 25th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1055.jpg"},
+
+{
+      title: "Saiyuki, Vol. 2",
+      author: "Kazuya Minekura",
+      synopsis: "Continuing their journey west and leaving a trail of dead Youkai in their wake, Genjyo Sanzo and company come upon a young woman who has quite a tale to tell.",
+      release_date: "July 1st 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1056.jpg"},
+
+{
+      title: "Saiyuki Reload, Volume 3",
+      author: "Kazuya Minekura",
+      synopsis: "In this action-adventure manga, readers see the explanation of many of the characters past as Sanzo and company celebrate the one-year anniversary of their journey west. Includes four full-color bonus inserts. Rated for older teens. (Graphic Novels)",
+      release_date: "December 31st 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1057.jpg"},
+
+{
+      title: "Saiyuki, Vol. 7",
+      author: "Kazuya Minekura",
+      synopsis: "A set of twins barge in our heroes, one which is transformed into a monster. While Goku and Hakkai are sucked into the twin's magical gourd, Sanzou and Gojyo set off a hunt for the twin. They find that the demon twins escaped from their village and were taken under the wing of God, a mysterious figure who granted them whatever they wanted.",
+      release_date: "January 1st 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1058.jpg"},
+
+{
+      title: "Saiyuki Reload, Volume 6",
+      author: "Kazuya Minekura",
+      synopsis: "Ukoku/Ni Jianyi returns! The renegade Sanzo priest tells Hazel of the Great Sage Equalling Heaven, how he is the most dangerous youkai in the land, and that the Sage is traveling with the Sanzo party. Hazel now has to make a new decision: Is his personal quest worth sacrificing a new friend? Meanwhile, the Sanzo party ends up in a mysteriously prosperous and youkai-free village. What kind of deal has the village headman made to maintain their safety? And what will happen when the fearsome foursome get involved?!",
+      release_date: "February 15th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1059.jpg"},
+
+{
+      title: "Saiyuki Reload, Volume 5",
+      author: "Kazuya Minekura",
+      synopsis: "A group of youkai advance upon Goku, Hakkai, and Gojyo. To stop the onslaught against Sanzo and company, Hazel and Gat show up to exterminate the attackers. Our heroes start to disagree with one another when youkai children join the fray Is it morally wrong to slay those that are trying to kill you, even if they are children?",
+      release_date: "January 1st 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1060.jpg"},
+
+{
+      title: "Saiyuki Reload #10",
+      author: "Kazuya Minekura",
+      synopsis: "Goku, Gojyo, and Hakkai arrive in time to rescue Sanzo from the darkness unleashed from the Maten Scripture, but the battle with Ukoku is far from over, as the 'Black Sanzo' still has another trick hidden up his sleeve - a pawn he has groomed from young, lured by the powers of resurrection. Whereabouts is the monster responsible for exorcist Filbert's death, and which side will Hazel stand on when the truth comes to light? For some the journey will continue on, but for some it has come to an end...",
+      release_date: "May 28th, 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1061.jpg"},
+
+{
+      title: "Saiyuki, Vol. 9",
+      author: "Kazuya Minekura",
+      synopsis: "Feeling down in the dumps about losing in the battle against "God", Goku attempts to raise everyone's spirits with a game of Mahjung (sp?). He wins match after match until he scolds them all to snap out of it and shape up, leading to them playing a whole day straight of the game. Ready for another round, the gang approaches "The God's Castle", where they run into a bit of trouble with talking toys, before finally reaching "God". They kick major ass and succeed in beating him in the end. There is a flashback of when Sanzou was younger and had a run-in with a young "God", who was a disciple to Ukoku Sanzou Houshi, a very powerful and wise monk. With the "game" over, the castle around them collapses, but they manage to escape. Amongst the ruins, Ugoku appears and picks up "God"s (I think his name is actually Kouryuu) fallen monk hat and announces that he's ready for another "game". Our heroes drive off into the distance, back to their usual bickering selves, but the story is far from over...",
+      release_date: "March 27th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1062.jpg"},
+
+{
+      title: "Saiyuki Reload, Volume 8",
+      author: "Kazuya Minekura",
+      synopsis: "The bestselling series that has inspired the hit anime from Geneon continues with this eighth volume.",
+      release_date: "June 15th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1063.jpg"},
+
+{
+      title: "Saiyuki Reload, Volume 2",
+      author: "Kazuya Minekura",
+      synopsis: "Sanzo faces off against his evil doppelganger. The progress westward is held up continually as new villains surface, and an old foe makes an appearance. While his companions wrestle with corporeal demons, Sanzo must face his inner fears.",
+      release_date: "March 26th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1064.jpg"},
+
+{
+      title: "Saiyuki, Vol. 4",
+      author: "Kazuya Minekura",
+      synopsis: "The mysterious fortune-teller Chin Yisou takes great pleasure in pushing Hakkai's psychological boundaries, and Hakkai is frightened to find his bloody past nipping at his heels. When Chin Yisou starts targeting Sanzo and the others, our heroes find themselves not only fighting against him, but against each other.",
+      release_date: "April 27th 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1065.jpg"},
+
+{
+      title: "Saiyuki, Vol. 1",
+      author: "Kazuya Minekura",
+      synopsis: "It was a time of chaos, when Heaven and Earth were as one, and humans and demons - the youkai - lived together in peace. The foundations of civilization and religion were raised and reinforced in this land of Togenkyo, the paradise known as Shangri-la.But now, a great evil threatens harmony in this great land. Far to the West, in India, someone is attempting to resurrect the youkai lord Gyumaoh by mixing human science with youkai magic. This forbidden practice has created a Minus Wave of negative energy that is spreading across Shangri-la, poisoning the souls of the youkai and turning them into mindless monsters. The only hope lies in four legendary heroes: Genjyo Sanzo, a high priest with low morals; Son Goku, the hungry and mischievous Monkey King, just released from 500 years imprisonment; Sha Gojyo, a water sprite with an addiction for good smokes and bad women; Cho Hakkai, the legendary demon slayer, and his transforming dragon Hakuryu. To save Shangri-la, these unlikely companions, united by fate, must travel together ... INTO THE WEST! Having been assigned by the human elders the mission of stopping a mystical plague that has afflicted the Youkai with madness, Genjyo Sanzo assembles his team of Youkai warriors, desperately hoping that the disease will not affect them. He sets up qualifying tests that will help him determine the loyalty and worth of Cho Hakkai, Son Goku and Sha Gojyo. The team then journeys west to rid the land of madness.",
+      release_date: "January 1st 1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1066.jpg"},
+
+      [genres[0], genres[1], genres[4]]
+      ],
