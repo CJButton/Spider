@@ -6,9 +6,8 @@ Check for "" and add data if needed
 Add appropriate genres
 
 
-Action, Fantasy
-Themes: Adventure, Battles, Supernatural
-[genres[0], genres[4], genres[1], genres[10], genres[18]]
+Action, Science Fiction
+[genres[0], genres[5], genres[1], genres[10], genres[18]]
 Add ], to close series array
 
 Fantasy
@@ -2543,4 +2542,50 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1334.jpg"},
 
       [genres[0], genres[4], genres[1], genres[10], genres[18]]
+      ],
+      [
+
+{
+      title: "Dogs: Bullets & Carnage, Volume 2",
+      author: "Shirow Miwa",
+      synopsis: "A stylish, intense action series - with the emphasis on the action. R to L (Japanese Style). In her search for the assassin who 'stole her past,' Naoto follows Heine and Badou to go see the head of one of the Underground's gangs. But what starts out as a simple quest for information ends up as a rampageous firefight. And just when it seems things couldn't get worse, the Hardcore Twins, Luki and Noki, show up to 'play.' Which is when things really get interestingâ�¦ Boasting furious action, switchback plotting, magnetic characters and dazzling art,  tells the story of four people struggling to survive a dystopian urban future by gun and sword and courage and luck. Driven by their ghosts--both dead and alive--and a desire for truth, their paths converge in the dark, labyrinthine heart of the city streets.",
+      release_date: "January 1st 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1335.jpg"},
+
+{
+      title: "Dogs: Bullets & Carnage, Volume 3",
+      author: "Shirow Miwa",
+      synopsis: "Dogs: v. 3 The third volume in a new series Dogs, boasting furious action, switchback plotting, magnetic characters and dazzling art. Full description",
+      release_date: "January 1st 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1336.jpg"},
+
+{
+      title: "Dogs: Bullets & Carnage, Volume 4",
+      author: "Shirow Miwa",
+      synopsis: "Reads R to L (Japanese Style). Stray dogs howling in the dark. ",
+      release_date: "January 1st 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1337.jpg"},
+
+{
+      title: "Dogs: Bullets & Carnage, Volume 5",
+      author: "Shirow Miwa",
+      synopsis: "Reads R to L (Japanese Style) M audience. ",
+      release_date: "January 1st 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1338.jpg"},
+
+{
+      title: "Dogs: Bullets & Carnage, Volume 8",
+      author: "Shirow Miwa",
+      synopsis: "An action-packed, stylish shoot-’em-up.Boasting furious action, switchback plotting, magnetic characters and dazzling art, Dogs tells the story of four individuals struggling to survive a dystopian urban future by gun and sword and courage and luck. The devastating assault launched from the Below creates unrest among the residents of the Underground. When Miss Liza learns the truth behind the kidnapping of the Lost Children, the mutual distrust and anger only grow, with potentially fatal results. Heine’s partnership with Badou is also badly strained, but his biggest problem by far lies in Naoto’s hands: the black sword made to fight against his kind, the one weapon that can kill him. When figures from Heine’s past return to confront him, will Naoto act as his ally…or his enemy?Reads R to L (Japanese Style) for mature audiences.",
+      release_date: "December 19th 2012",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1339.jpg"},
+
+{
+      title: "Dogs: Bullets & Carnage, Volume 6",
+      author: "Shirow Miwa",
+      synopsis: "Boasting furious action, switch-back plotting, magnetic characters, and dazzling art, 'Dogs' tells the story of four individuals struggling to survive a dystopian urban future by gun and sword--and courage and luck.",
+      release_date: "February 18th 2011",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1340.jpg"},
+
+      [genres[0], genres[5]]
       ],
