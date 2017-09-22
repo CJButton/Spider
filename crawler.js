@@ -91,8 +91,10 @@ function grabComic(url) {
     });
 
     {/* releaseDate  */}
-    let releaseDate = $('nobr.greyText').text().trim();
-    console.log(releaseDate.replace(/[()]/g, ''));
+    let date = $('nobr.greyText').text().trim();
+    let noBrackets = date.replace(/[()]/g, '');
+    let releaseDate = noBrackets.replace(/first published /g, '');
+    console.log(releaseDate);
 
     {/* synopsis  */}
     {/* removes double quotes if there are any, and replaces them with ''; this is to prevent
