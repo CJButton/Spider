@@ -5,9 +5,9 @@ Check if box sets and remove
 Check for "" and add data if needed
 Add appropriate genres
 
-Drama, Romance
-Themes: School Life, Supernatural
-[genres[7], genres[13], genres[15], genres[18]]
+Action, Romance
+Themes: Adventure, Battles, Historical
+[genres[1], genres[13], genres[1], genres[10], genres[9]]
 Add ], to close series array
 
 Fantasy
@@ -1363,3 +1363,6 @@ allComics = [
       synopsis: "As the feared assassin of the Bakumatsu, Himura Kenshin killed in the name of the new era. As the rurouni of Meiji, he wielded a sakabatô to protect those who couldn't protect themselves, all along holding true to his vow to never take another life. Now Kenshin's fight with Enishi has entered its final stage, as has his quest for atonement. Will another life be required to complete the circle? The road of redemption has been a long one for the world-weary swordsman, but now that Kenshin has found the will to live, can he muster the strength to survive?Find out in the final, unforgettable volume of Nobuhiro Watsuki's international manga sensation, Rurouni Kenshin.",
       release_date: "November 4th 1999",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1185.jpg"},
+
+      [genres[1], genres[13], genres[1], genres[10], genres[9]]
+      ],
