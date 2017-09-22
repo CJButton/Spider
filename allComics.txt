@@ -6,9 +6,9 @@ Check for "" and add data if needed
 Add appropriate genres
 
 
-Action, Fantasy
-Themes: Adventure, Battles, Powers
-[genres[0], genres[4], genres[1], genres[10], genres[20]]
+Comedy
+Themes: Sports
+[genres[14], genres[19], genres[1], genres[10], genres[20]]
 Add ], to close series array
 
 Fantasy
@@ -2825,4 +2825,260 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1373.jpg"},
 
       [genres[0], genres[4], genres[1], genres[10], genres[20]]
+      ],
+      [
+
+{
+      title: "Ranma 1/2, Vol. 22",
+      author: "Rumiko Takahashi",
+      synopsis: "Ranma's latest nemesis is Herb of the legendary Musk Dynasty, a Chinese warrior tribe with the powers of animals. Herb, and his companions Lime and Mint, have come to Japan in search of a particular treasure - but they have to go through Ranma, Ryoga, and Mousse first!",
+      release_date: "1993",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1374.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 23",
+      author: "Rumiko Takahashi",
+      synopsis: "Series Description: From the best-selling manga author of Inu-Yasha, Ranma features a martial artist with a curse: When he gets doused with cold water, he turns into a voluptuous girl! And his friends -- and enemies -- turn into various cute animals! Ranma 1/2, a heady blend of action, adventure, and romantic comedy, is the longest-running manga in the United States. In this installment of the enduring series, Ranma's fight against Herb, Mint, and Lime continues. Does he have a chance of defeating Herb when even his ultimate move has failed against this Chinese warrior? Then a new teacher comes to Furinkan High with a rep for dealing harshly with delinquents! Unfortunately for Ranma, she also has martial arts skills so deadly even Happosai is scared of her! Finally, Akane tries to recover a memory from her past, only to find that the mysterious boy she recalls from childhood has no idea who she is...",
+      release_date: "1993",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1375.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 32",
+      author: "Rumiko Takahashi",
+      synopsis: "When a well-meaning, yet eternally clueless Ranma suggests that Akane's chest size may be shrinking, Akane is hard-pressed to decide how to best use barbells: to pump up her chest or bust Ranma's face! Rated for older teens.",
+      release_date: "August 1st 1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1376.jpg"},
+
+{
+      title: "Ranma ½, Vol. 20",
+      author: "Rumiko Takahashi",
+      synopsis: "When Genma took baby Ranma away from his mother, he made her a solemn promise - he would see to it that the boy would grow up manly, or he would see them both dead by ritual seppuku! Well, Nodoka 'Missus' Saotome has finally shown up at the Tendo Dojo doorstep, and she can't wait to catch a glimpse of her dearly beloveds. But will the sight of her 'son' in girls' clothes and her 'husband' as a panda possess Nodoka to perform the seppuku on them herself...?",
+      release_date: "June 1st 1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1377.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 24",
+      author: "Rumiko Takahashi",
+      synopsis: "Series Description: From the best-selling manga author of Inu-Yasha, Ranma features a martial artist with a curse: When he gets doused with cold water, he turns into a voluptuous girl! And his friends--and enemies--turn into various cute animals! Ranma 1/2, which features action, adventure, and romantic comedy, is the longest-running manga in the United States. Akane's encounter with the mysterious boy Shinnosuke from her childhood brings new and pressing problems--he's only kept alive by the magical water of Ryugenzawa, the same water that makes animals grow into giants! Worse yet, when Ranma tries to bring Akane home, he suspects she may have fallen in love with poor, doomed Shinnosuke. Will he risk everything to help his rival, even if it means losing Akane?",
+      release_date: "1993",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1378.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 15",
+      author: "Rumiko Takahashi",
+      synopsis: "Author and artist Takahashi, the world's most popular and prolific female manga creator, continues her series about a teenage martial artist named Ranma Saotome. Also an anime series, all seven TV seasons (over 150 episodes) are now available on DVD from Viz.",
+      release_date: "1991",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1379.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 36",
+      author: "Rumiko Takahashi",
+      synopsis: "",
+      release_date: "1996",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1380.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 35",
+      author: "Rumiko Takahashi",
+      synopsis: "Ranma Saotome never thought a martial arts training mission to China would turn out like this! An accidental dunk in a cursed spring changes boy Ranma into a young girl, every time he is splashed with cold water. Hot water reverses the effect - but only until next time! Ranma rescues a hapless child being attacked by a flock of evil birdmen. The little kid turns out to be none other than the daughter of the infamous cursed springs' guide! She tells Ranma that the secret map of the springs must be protected from the bird-brained bandits or the very springs themselves will dry up! Ranma and friends are thrust into battle when Shampoo is taken over by the leader of the bird people. Can Ranma beat the birds and save the springs, or will the feathered fiends get the best of him/her?",
+      release_date: "1996",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1381.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 14",
+      author: "Rumiko Takahashi",
+      synopsis: "The legendary Dragon's Whisker! Described by a reluctant Ranma as the seal that keeps something terrible from happening, four steamed little buns have come all the way from Qinghai Province, China, in search of it. But what can it be? Ranma wants it...the martial-artist burns want it...Genma wants it. It looks like a simple pigtail-holder, but it's got to be more than that. According to Cologne, once hair kept bound by the Dragon's Whisker is gone, it's gone for good. Ranma's really cutting it close, this time...",
+      release_date: "1991",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1382.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 17",
+      author: "Rumiko Takahashi",
+      synopsis: "Sure, the only one who recognizes the engagement between Ukyo and Ranma may be Ukyo herself, but that still counts for something, doesn't it? Ten years ago, Ukyo made a special okonomiyaki sauce - which Ranma secretly ruined. Unaware of what Ranma had done, Ukyo to this day can't quite understand why Ranma's being extra nice to her despite the phenomenal failure of her special sauce. Akane's onto Ranma, though, and one way or another, he's going to pay. Which will it be, Ranma? The okonomiyaki frying pan, or the fire that comes from slurping down that nasty sauce itself...?",
+      release_date: "1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1383.jpg"},
+
+{
+      title: "Ranma 1/2, Volume 29",
+      author: "Rumiko Takahashi",
+      synopsis: "Ranma Saotome never thought a martial arts training mission to China would turn out like this! An accidental dunk in a cursed spring changes boy Ranma into a young girl, every time he is splashed with cold water. Hot water reverses the effect - but only until next time!",
+      release_date: "April 1st 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1384.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 28",
+      author: "Rumiko Takahashi",
+      synopsis: "For Ryoga, whose alter ego is of course P-chan, Akane's cute widdle pet pig, what could possibly be a better love connection than someone who breeds pigs for a living? Latest in a line of sumo-wrestling pig breeders, the passionate-about-porkers Akari is impressed when Ryoga easily bests a 14th generation Yokozuna champion. Does an ever-hopeful Ryoga dare take her professions of undying love at face value, or will his transformation into P-chan be the cause of some terrible misunderstanding...?",
+      release_date: "1994",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1385.jpg"},
+
+{
+      title: "Ranma ½, Vol. 4",
+      author: "Rumiko Takahashi",
+      synopsis: "Series Description: From the best-selling manga author of Inu-Yasha, Ranma features a martial artist with a curse: When he gets doused with cold water, he turns into a voluptuous girl And his friends--and enemies--turn into various cute animals Ranma 1/2, which features action, adventure, and romantic comedy, is the longest-running manga in the United States. Ryoga appears in human form to take Ranma out of the duel and pair up with Akane The female Ranma and Ryoga end up together and turn the duel into a brawl. In the process, Akane falls into an ice pool and the duo jump in to save her, with Ryoga turning into a pig on contact Next, a strange Chinese girl named Shampoo is under a village edict to kill any stranger of the same sex who defeats her--even if that stranger turns out to be Ranma",
+      release_date: "1988",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1386.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 13",
+      author: "Rumiko Takahashi",
+      synopsis: "You're the only man I consider my rival, Ryoga... The Mark of the Gods (actually a doodle representing a school of martial-arts calligraphy) is now upon Ryoga, and the only way he can lose the doodle is to lose a fight -- hopefully to Ranma! Fox Fu, Feline Fu, Flat-Frog Fu - not one of Ranma's ultimate desperation strikes seems to be working! For Akane, it's just too crazy to believe that P-chan may secretly be Ryoga! Better use some extra-hot water to wash that doodle off P-chan, though, just in case...",
+      release_date: "1990",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1387.jpg"},
+
+{
+      title: "Ranma ½, Vol. 3",
+      author: "Rumiko Takahashi",
+      synopsis: "From the best-selling manga author of InuYasha, Ranma 1/2 features a martial artist with a curse: When he gets doused with cold water, he turns into a voluptuous girl. His friends--and enemies--turn into various cute animals due to a curse similar to Ranma's. Ranma 1/2, which features action, adventure, and romantic comedy, is the longest-running manga in the United States. In this entry, Ranma in female form engages in a gymnastic duel with the duplicitous Kodachi, Kunou's younger sister, who has fallen in love with the male Ranma. Like her brother, she refuses to see that the two Ranmas are the same person. Next up is an ice-skating duel. Skater Azusa, who collects 'cute' things, wants to wrest P-chan away from Akane, who won't give him up. Worse still, Azusa's male partner Sanzenin kisses female Ranma--which aggravates Ranma no end since it's his first kiss. When the Ranma and Akane team up against Azusa and Sanzenin, the prize is P-chan",
+      release_date: "1988",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1388.jpg"},
+
+{
+      title: "Ranma ½, Vol. 6",
+      author: "Rumiko Takahashi",
+      synopsis: "Series Description: From the best-selling manga author of Inu-Yasha, Ranma features a martial artist with a curse. When he gets doused with cold water, he turns into a voluptuous girl And his friends--and enemies--turn into various cute animals Ranma 1/2, which features action, adventure, and romantic comedy, is the longest-running manga in the United States. Extensive training helps Ranma defeat Shampoo's grandmother by assuming his invincible-cat mode. Akane in turn tames 'cat Ranma, ' in the process gaining the antidote to Ranma's inability to tolerate hot water. Just as Ranma returns to male form, Ryoga arrives, only to be tied into knots by Ranma. Ryoga turns to the old woman for more training, and learns Bakusaitenketsu, a technique that teaches how to explode a rock through pressure points. Soon Ranma must face a more powerful Ryoga, and the outcome isn't at all certain",
+      release_date: "1989",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1389.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 8",
+      author: "Rumiko Takahashi",
+      synopsis: "In this volume, Ryoga teams up with Ukyo, goes on a date with Akane, and meets his long-lost fiancé e. Meanwhile, Ranma and Akane both swallow 'love pills' supposed to make them fall for the first person they see.",
+      release_date: "1989",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1390.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 19",
+      author: "Rumiko Takahashi",
+      synopsis: "'Father knows best.' Then you grow up, and suddenly you're challenging everything he says. Pity poor Genma Saotome, who once took treats from baby son Ranma with impunity, but now he gets pummeled instead. Will the dreaded 'Cradle From Hell' technique teach the boy to respect his old man? Next, Akane makes some magic mochi. Do the marks that appear on the faces of those who eat it portend true fortune-telling ability, or just (as Ranma says) a 'dagger of agony through (the) skull?' Finally, it's the dawn of the 'Mariko Konjo, Cheerleader of L-O-V-E' storyline. One, two, three, four! Buy this book and read some more!",
+      release_date: "1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1391.jpg"},
+
+{
+      title: "Ranma ½, Vol. 2",
+      author: "Rumiko Takahashi",
+      synopsis: "Follows the adventures of half-boy, half-girl martial artist Ranma, whose transforming gender problems began at the Accursed Springs in China when he became cursed to turn into a girl when splashed with cold water, and back into a boy with hot water.",
+      release_date: "1988",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1392.jpg"},
+
+{
+      title: "Ranma 1/2, Volume 11",
+      author: "Rumiko Takahashi",
+      synopsis: "Whenever male martial artist Ranma gets splashed with cold water he becomes a buxom young girl! Now, Ranma's arch-rival Ryoga has discovered how to reverse the transformation. But before Ranma can learn the secret, his strength is sapped by evil 'sensei' Happosai. Is he doomed to spend his life being beaten up by infants and little old ladies?",
+      release_date: "February 5th 1990",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1393.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 12",
+      author: "Rumiko Takahashi",
+      synopsis: "Ranma's recent weakness has convinced him he needs a new technique, and he's gone to the wilds of Japan to train. Cologne shares her knowledge of Hiryû Shôten Ha, the 'Heaven Blast of the Dragon,' a technique that harnesses a combatant's battle aura and unleashes it into a powerful blast...but the learning curve is more challenging than he ever expected. Then, the sound of a bell brings Shampoo a new suitor, Akane takes swimming lessons, and Genma gains a new friend.",
+      release_date: "1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1394.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 26",
+      author: "Rumiko Takahashi",
+      synopsis: "Ranma's mother Nadoka Saotome hasn't seen her son since her husband Genma took him away for a training mission over a decade ago. So, is it any wonder that when a mysterious young stranger drops a scroll with the word 'Ranma' scrawled on it, she assumes it's her long-lost boy? Soon, this stranger takes up residence in the Tendo Dojo and starts passing himself off as his mother's son! It doesn't take long for these two 'Ranmas' to begin fighting over their legacies, a special scroll, and a secret martial arts technique...",
+      release_date: "1994",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1395.jpg"},
+
+{
+      title: "Ranma ½, Vol. 5",
+      author: "Rumiko Takahashi",
+      synopsis: "First Ranma & Co. enjoy a trip to the beach, despite all the COLD WATER. Then, camping out in the woods turns out to have a lot of hazards, not the least of which is the toxic cooking of Akane, Ranma's reluctant fiancee.... Finally, Ranma competes in two bizarre tests of skill. Who will triumph in the Anything Goes Martial Arts Tea Ceremony and the no-holds-barred Martial Arts Fast Food Restaurant Takeout Race?",
+      release_date: "1988",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1396.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 7",
+      author: "Rumiko Takahashi",
+      synopsis: "Akane gets the lead in the school play and Ranma learns that kissing is such sweet sorrow. Ryoga and Ranma try to find the legendary 'Spring of Drowned Man,' and twisted sister Kodachi Kuno concocts poisoned treats to snare Mister Saotome.",
+      release_date: "1989",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1397.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 33",
+      author: "Rumiko Takahashi",
+      synopsis: "While traveling, the Tendo and Saotome families are forced to take shelter from the rain in a spooky old mansion. Whilst here, girl-type Ranma slips on a banana peel and accidentally uncovers a cursed mirror that makes a love-hungry copy of her. This crazy cope is actually the spirit of a girl who died right before going on a date. From there, wackiness ensues as this kooky copy kisses everyone she can get her hands on, including boy type Ranma! The caretaker of the estate, an old butler, drops off a magical compact that can be used to capture the copy. But hings take an unexpected turn as Ranma and Akane get trapped inside the compact! How will they ever escape and capture the boy-crazy Ranma copy?",
+      release_date: "November 1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1398.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 9",
+      author: "Rumiko Takahashi",
+      synopsis: "Shampoo's spurned suitor Mousse wants revenge on Ranma for stealing the object of his affection. He's kidnapped Akane, and made her the star attraction of a circus act where she turns into a duck.",
+      release_date: "1989",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1399.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 25",
+      author: "Rumiko Takahashi",
+      synopsis: "Can Ranma prevent his teacher, Miss Hinako, from stealing his 'ki' and transforming into her grown-up, more dangerous form? More summer silliness comes when scheming Ukyo invites not just Ranma but Akane as well to a haunted seaside cave.",
+      release_date: "1994",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1400.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 18",
+      author: "Rumiko Takahashi",
+      synopsis: "It's the same old song. Ryoga-confronts-Ranma-and-Ranma-defeats-Ryoga (pause) Ryoga-confronts-Ranma-again-and-Ranma-defeats-Ryoga-again (fade out). Powerful martial artist though he may be, Ryoga has yet to defeat Ranma, and how depressing is that? Not every technique is suited to every martial artist (at least that's what Ranma's dad Genma says). What Ryoga needs is a technique suited to his own unique strengths - to his depression, that is! Sure, asking Akane to say 'I hate you!' may be the quickest way for Ryoga to power up, but even if Ryoga's body survives his new technique's blast, will his heart be able to withstand the blow?",
+      release_date: "1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1401.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 21",
+      author: "Rumiko Takahashi",
+      synopsis: "Pantyhose Taro's back, and so is his thirst for vengeance--a thirst he plans to quench by dunking Happosai, the one responsible for the ridiculous name, in water from the Spring of the Drowned Pious Man--in order to get his name back.",
+      release_date: "January 1st 1993",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1402.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 16",
+      author: "Rumiko Takahashi",
+      synopsis: "When Ranma finds his fellow cursed martial artists unconscious in pantyhose, he discovers a demon is tracking down everyone on the Jusenkyo visitors’ registry. Worse yet, the ox-headed, crane-winged monster has kidnapped Akane! Ryoga, Ranma, Mousse, and Shampoo must set aside their differences to save her.",
+      release_date: "1991",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1403.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 27",
+      author: "Rumiko Takahashi",
+      synopsis: "The Egg of the Phoenix - legendary treasure and pounding headache for Ranma. Unless Ranma can force-feed the bird into maturity (and thus free himself from its attacks), he'll be on the bottom of the pecking order for the next 100 years. Will the bird ahve teh final word? Elsewhere, a pair of poisonous twins are making life difficult for Shampoo. Can Ranma rescue her? Then, a body-jumping demon causes chaos, while a penny-pinching Nabiki takes on her greatest challenge yet. Will she reign supreme as the Queen of Schemes?...",
+      release_date: "1994",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1404.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 10",
+      author: "Rumiko Takahashi",
+      synopsis: "Akane gets all sorts of magical power-ups, first when Shampoo feeds her some magical Chinese steamed treats, then from some soba noodles that give her super strength. What she didn't count on were the disastrous after-effects.",
+      release_date: "1990",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1405.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 31",
+      author: "Rumiko Takahashi",
+      synopsis: "Ah, to be little boys again! Ryoga and Ranma will stay forever young unless they eat a special mushroom at the perfect time. Eat the right mushroom size, and your age adds up accordingly! Five centimeter? You're five years old! Ten centimeters? Ten years old! Can the two 'boys' survive their squabbling over not wanting to share, being naughty, getting spanked by Akane, and the terror that is 'Uncle' Soun's whiskers until the mushrooms are 16 centimeters tall? Grow, mushrooms, grow! Grow before everyone's childhood memories turn into rancid shiitakes!",
+      release_date: "1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1406.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 34",
+      author: "Rumiko Takahashi",
+      synopsis: "Ranma Saotome never thought a martial arts training mission to China would turn out like this An accidental dunk in a cursed spring changes boy Ranma into a young girl, every time he is splashed with cold water. Hot water reverses the effect - but only until next time. Akane Tendo is shocked when she wins a contest by being the 10,000th girl at the beach who isn't able to swim! The locals reward her with an enchanted jellyfish bathing suit that has the uncanny power to enable its wearer to swim. In return for this prize she must enter a long-distance swimming competition against a group of girls all wearing the same magical bathing suit. Akane takes the lead, but a dangerous surprise awaits her at the finish line! Will Ranma dive in and save her in time?",
+      release_date: "1996",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1407.jpg"},
+
+{
+      title: "Ranma 1/2, Vol. 30",
+      author: "Rumiko Takahashi",
+      synopsis: "When the monk-in-residence of a faraway temple is only too eager to 'give' Ranma, Genma, and Soun a legendary martial arts outfit said to endow its wearer with ultimate power, you'd think they would know something was up. But then again, the monk throws in such other lovely gifts...Back at the Tendo Dojo, the true nature of the outfit is revealed: the dôgi chooses its own wearer! The outfit picks Akane - much to Ranma's chagrin - and what once was a minor annoyance turns into an issue of pride when Ranma is unable to defeat Akane in battle. Will he have to confess his true feelings to get through to her...?",
+      release_date: "1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1408.jpg"},
+
+{
+      title: "Ranma ½, Vol. 1",
+      author: "Rumiko Takahashi",
+      synopsis: "Ranma Saotome never thought a martial arts training mission to China would turn out like this! An accidental dunk in a cursed spring changes boy Ranma into a young girl, every time he is splashed with cold water. Hot water reverses the effect - but only until next time!",
+      release_date: "May 1988",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1409.jpg"},
+
+      [genres[14], genres[19]]
       ],
