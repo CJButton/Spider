@@ -56,7 +56,7 @@ const mangaList = require('./comicList');
 
 {/* Counter Closure */}
 const comicUpdater = () => {
-  let total = 1149;
+  let total = 1198;
 
   return(
     adder = () => {
@@ -94,7 +94,7 @@ function grabComic(url) {
     let date = $('nobr.greyText').text().trim();
     let noBrackets = date.replace(/[()]/g, '');
     let releaseDate = noBrackets.replace(/first published /g, '');
-    if (releaseDate !== '') return;
+    if (releaseDate === '') return;
 
     {/* synopsis  */}
     {/* removes double quotes if there are any, and replaces them with ''; this is to prevent

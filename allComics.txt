@@ -5,10 +5,11 @@ Check if box sets and remove
 Check for "" and add data if needed
 Add appropriate genres
 
-Action, Romance
-Themes: Adventure, Battles, Historical
-[genres[1], genres[13], genres[1], genres[10], genres[9]]
+Comedy
+Themes: Magical Girl, School Life
+[genres[14], genres[17], genres[15], genres[10], genres[9]]
 Add ], to close series array
+[genres[14], genres[17], genres[15]]
 
 Fantasy
 Themes: Adventure, Magical Girl, Supernatural
@@ -1364,5 +1365,172 @@ allComics = [
       release_date: "November 4th 1999",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1185.jpg"},
 
-      [genres[1], genres[13], genres[1], genres[10], genres[9]]
+      [genres[1], genres[13], genres[10], genres[9]]
+      ],
+      [
+{
+      title: "High School Debut, Vol. 12",
+      author: "Kazune Kawahara",
+      synopsis: "Can a junior high jock turn high school sweetheart overnight? When Haruna hits 9th grade suddenly boys seem much more interesting than softball! Will Haruna’s high school debut end up in heartbreak hotel?For Yoh's birthday, Haruna makes plans for the two of them to go on an overnight trip. Wait a minute...overnight means...they'll be sharing a room?! Close quarters create an intimate setting for romance, but will that be the case for Haruna and Yoh?",
+      release_date: "August 25th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1186.jpg"},
+
+{
+      title: "High School Debut, Vol. 06",
+      author: "Kazune Kawahara",
+      synopsis: "Can a junior high jock turn high school sweetheart overnight? When Haruna hits ninth grade suddenly boys seem much more interesting than softball! Will Haruna's high school debut end up in heartbreak hotel?A chance encounter on the train brings Haruna face-to-face with Yoh's ex-girlfriend. (Yes, the ex-girlfriend of 'the beads incident' fame!) Yoh reassures Haruna that he doesn't want to get back together with his ex, but is that how he truly feels?",
+      release_date: "April 25th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1187.jpg"},
+
+{
+      title: "High School Debut, Vol. 10",
+      author: "Kazune Kawahara",
+      synopsis: "Can a junior high jock turn high school sweetheart overnight? When Haruna hits 9th grade suddenly boys seem much more interesting than softball! Will Haruna’s high school debut end up in heartbreak hotel?Friendship and love are put to the test when Asaoka reveals to Yoh that he likes Haruna. To settle things once and for all, Yoh and Asaoka strike a deal--whoever loses the school sports meet will give up his feelings for her! Who will win the meet  Haruna's heart?",
+      release_date: "December 25th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1188.jpg"},
+
+{
+      title: "High School Debut, Vol. 05",
+      author: "Kazune Kawahara",
+      synopsis: "Hapless Haruna needs help finding a boyfriend! After failing to win the eye of any guy in high school, Haruna enlists the help of cute upperclassman Yoh to coach her on how to make herself more appealing to the male species. Yoh agress, with one catch: Haruna had better not fall for him! Just when things are going well for Haruna, in walks transfer student Leone Matsuzaka. Beautiful Leona's got only one thing in mind--to destroy Haruna's happiness! Who is this vengeful girl and why does she want to hurt Haruna so badly?",
+      release_date: "January 25th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1189.jpg"},
+
+{
+      title: "High School Debut, Vol. 07",
+      author: "Kazune Kawahara",
+      synopsis: "Can a junior high jock turn high school sweetheart overnight? When Haruna hits ninth grade suddenly boys seem much more interesting than softball! Will Haruna’s high school debut end up in heartbreak hotel?With Yoh's parents out of town, it's up to Haruna to take care of Yoh when he becomes sick. No parents around, huh? Hmm...but Haruna wouldn't dream of taking advantage of this convenient situation...or would she?",
+      release_date: "November 24th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1190.jpg"},
+
+{
+      title: "High School Debut, Vol. 08",
+      author: "Kazune Kawahara",
+      synopsis: "Back in junior high, Haruna Nagashima was only interested in two things: softball and manga. Now that she's starting high school, Haruna's focus has changed--she wants to snag a boyfriend and have the romance of her dreams!Yoh's worried that a freshman seems to have the hots for Haruna, but Haruna is as oblivious as ever. So when the boy in question makes a move on Haruna, how will Haruna respond? More importantly, how will Yoh react?",
+      release_date: "March 23rd 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1191.jpg"},
+
+{
+      title: "High School Debut, Vol. 09",
+      author: "Kazune Kawahara",
+      synopsis: "Can a junior high jock turn high school sweetheart overnight? When Haruna hits 9th grade suddenly boys seem much more interesting than softball! Will Haruna’s high school debut end up in heartbreak hotel?The school sports meet is coming up, so everyone's gearing up for some fierce competition! Even affairs of the heart become a competitive event when Yoh suspects his friend Asaoka may truly have feelings for Haruna...",
+      release_date: "July 25th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1192.jpg"},
+
+{
+      title: "High School Debut, Vol. 11",
+      author: "Kazune Kawahara",
+      synopsis: "Can a junior high jock turn high school sweetheart overnight? When Haruna hits 9th grade suddenly boys seem much more interesting than softball! Will Haruna’s high school debut end up in heartbreak hotel?Haruna becomes worried when she sees Yoh hanging out with an unattractive classmate. (Yoh does seem to have strange taste in women after all...) She has good reason for feeling uneasy--it looks like this girl really does want to sabotage their relationship!",
+      release_date: "April 25th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1193.jpg"},
+
+{
+      title: "High School Debut, Vol. 03",
+      author: "Kazune Kawahara",
+      synopsis: "Hopeless Haruna needs help finding a boyfriend! After failing to win the eye of any guy in high school, Haruna enlists the help of cute upperclassman Yoh to coach her on how to make herself more appealing to the male species. Yoh agrees, with one catch: Haruna had better not fall for him!But what does Haruna do when she  find herself liking Yoh? She starts acting weird and avoiding him, that's what! When he confronts her about her strange behaviour and encourages her to be honest with him, will she quash her feelings or confess her love?",
+      release_date: "November 23rd 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1194.jpg"},
+
+{
+      title: "High School Debut, Vol. 04",
+      author: "Kazune Kawahara",
+      synopsis: "Can a junior high jock turn high school sweetheart overnight? When Haruna hits ninth grade suddenly boys seem much more interesting than softball! Will Haruna’s high school debut end up in heartbreak hotel?Haruna jumps to the conclusion that Yoh is interested in her friend Mami when she sees the two of them together. Instead of confronting him about it, she runs away! Will Haruna's insecurities end her relationship with Yoh?",
+      release_date: "May 25th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1195.jpg"},
+
+{
+      title: "High School Debut, Vol. 02",
+      author: "Kazune Kawahara",
+      synopsis: "Hopeless Haruna needs help finding a boyfriend! After failing to win the eye of any guy in high school, Haruna enlists the help of cute upperclassman Yoh to coach her on how to make herself more appealing to the male species. Yoh agrees, with one catch: Haruna had better not fall for him!Haruna begins to develop feelings for Fumiya, Yoh's friend. Yoh talks her through her first-date jitters, but is Fumiya the right guy for Haruna? Especially when they walk in on Fuyima and Yoh's sister Asami...kissing?!",
+      release_date: "July 23rd 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1196.jpg"},
+
+{
+      title: "High School Debut, Vol. 13",
+      author: "Kazune Kawahara",
+      synopsis: "Can a junior high jock turn high school sweetheart overnight? When Haruna hits 9th grade suddenly boys seem much more interesting than softball! Will Haruna’s high school debut end up in heartbreak hotel?Yoh faces a difficult choice: should he go to university all the way in Tokyo or stay near Haruna? Haruna wants to support Yoh's decision no matter what, but will her high school romance end with his graduation?",
+      release_date: "December 25th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1197.jpg"},
+
+{
+      title: "High School Debut, Vol. 01",
+      author: "Kazune Kawahara",
+      synopsis: "When Haruna Nagashima was in junior high her life consisted of playing softball and reading comics. But now that she's going to high school, Haruna decides to put all of her energy towards getting a boyfriend and having the high school romance of a lifetime. To help in her quest, she enlists cute upperclassman Yoh Komiyama to coach her as she eschews her jock tendencies and turns herself into the kind of girl who can catch a guy. Yoh agrees, with one catch: Haruna had better not fall for him!",
+      release_date: "March 25th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1198.jpg"},
+
+      [genres[14], genres[13], genres[15]]
+      ],
+      [
+{
+      title: "Shugo Chara!, Vol. 6: Betrayal",
+      author: "Peach-Pit",
+      synopsis: "BETRAYAL Amu has three Guardian Characters who represent different sides of her ideal self-and a fourth who has gone over to work for the evil Easter Corporation! Amu must now face her renegade character while the Guardians try to foil Easter's sinister new scheme-all while dealing with a surprise traitor in their midst! Includes special extras after the story!",
+      release_date: "January 1st 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1199.jpg"},
+
+{
+      title: "Shugo Chara!, Vol. 2: Friends in Need",
+      author: "Peach-Pit",
+      synopsis: "FRIENDS IN NEED Cute schoolgirl Amu has a secret: She has three magical companions. Only these enchanted Guardians know who Amu’s true self is, and they’ll do anything to help her unlock her heart! They’re searching for a magic egg, a powerful weapon that could mean trouble in the wrong hands. To find this egg, Amu will have to change her life–and finally learn to be true to herself. Includes special extras after the story![Rating logo:] Ages 13+",
+      release_date: "January 6th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1200.jpg"},
+
+{
+      title: "Shugo Chara!, Vol. 5: The New Kids",
+      author: "Peach-Pit",
+      synopsis: "THE NEW KIDS! Amu and her Guardian Characters have found a home at an elite school. But now two new Guardians have been chosen, and each has a secret. One is more complex than Amu thought, and the other may be out to betray the Guardians to the evil Easter Corporation!",
+      release_date: "November 20th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1201.jpg"},
+
+{
+      title: "Shugo Chara!, Vol. 1: Who Do You Want to Be?",
+      author: "Peach-Pit",
+      synopsis: "WHO DO YOU WANT TO BE? Everybody at Seiyo Elementary thinks that stylish and super cool Amu has it all: But nobody knows the real Amu, a shy girl who wishes she had the courage to truly be herself. Changing Amu’s life is going to take more than wishes and dreams–it’s going to take a little magic! One morning, Amu finds a surprise in her bed: three strange little eggs. Each egg contains a Guardian Character, an angel-like being who can give her the power to be someone new. With the help of her Guardian Characters, Amu is about to discover that her true self is even more amazing than she ever dreamed.",
+      release_date: "January 1st 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1202.jpg"},
+
+{
+      title: "Shugo Chara!, Vol. 7: Black Cat",
+      author: "Peach-Pit",
+      synopsis: "BLACK CATAll The time they’ve been battling the Easter Corporation, Amu and her friends have never known which side mysterious bad boy Ikuto has been on. Now Ikuto is in trouble and has only one place to hide: Amu’s house! Will Amu finally learn Ikuto’s secret?",
+      release_date: "July 6th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1203.jpg"},
+
+{
+      title: "Shugo Chara!, Vol. 4: Character Swap!",
+      author: "Peach-Pit",
+      synopsis: "CHARACTER SWAP! Amu has three Guardian Characters, reflections of her true self. But now a fourth egg has shown up at the start of a new school year. Everything has gone wrong, and Amu has no idea who she truly wants to be. Meanwhile, her rival Utau has rejected one of her own Guardian Characters. Is it time for the two to trade Guardians? Is that even possible?",
+      release_date: "January 1st 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1204.jpg"},
+
+{
+      title: "Shugo Chara!, Vol. 8: With a Little Help From Their Friends",
+      author: "Peach-Pit",
+      synopsis: "WITH A LITTLE HELP FROM THEIR FRIENDS Ikuto has disappeared, and it’s up to Amu and her fellow Guardians to save him. But what about Tadase’s mysterious past with Ikuto? And what does that mean for Amu and Tadase’s relationship? Plus, Rima learns the truth about Nagihiko’s double life! Includes special extras after the story!",
+      release_date: "December 5th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1205.jpg"},
+
+{
+      title: "Shugo Chara!, Vol. 9: A Big Discovery",
+      author: "Peach-Pit",
+      synopsis: "A BIG DISCOVERY Amu and the Guardians are battling the Easter Corporation in order to save Ikuto. But during the fight, two surprising things happen: Ikuto’s troubled past is revealed, and the powerful Embryo appears! Who will catch the egg that makes dreams come true?",
+      release_date: "January 1st 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1206.jpg"},
+
+{
+      title: "Shugo Chara!, Vol. 3: Can a Bad Guy Turn Good?",
+      author: "Peach-Pit",
+      synopsis: "CAN A BAD GUY TURN GOOD? Amu's Guardian Characters have been stolen by her teacher, a bitter man whose dreams died when his own egg was smashed. When Amu goes to reclaim her Characters, the School Guardians are there to help. But can they get Amu's eggs back and put the evil teacher's egg together again?",
+      release_date: "January 1st 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1207.jpg"},
+
+{
+      title: "Shugo Chara!, Vol. 10: A Heart's Desire...",
+      author: "Peach-Pit",
+      synopsis: "As Amu and Ikuto get to the heart of the Easter Corporation, the Embryo’s true owner is found, and the egg from Ikuto’s violin resurfaces! Later, as graduation approaches, relationships complicate. Who will prove the victor in this game of hearts?",
+      release_date: "January 1st 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1208.jpg"},
+
+      [genres[14], genres[17], genres[15]]
       ],
