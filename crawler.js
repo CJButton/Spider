@@ -98,9 +98,10 @@ function grabComic(url) {
     {/* synopsis  */}
     {/* removes double quotes if there are any, and replaces them with ''; this is to prevent
         issues with the seed file later  */}
-    let descrip = $('div#description > span').last().contents().filter(function() {
+    let description = $('div#description > span').last().contents().filter(function() {
       return this.type === 'text';
     }).text();
+    let descrip = description.replace(/"/g, '\'');
 
     let imgTitle = comicCounter();
 
@@ -119,7 +120,6 @@ function grabComic(url) {
     {/* cover image  */}
     const cover = $('div.editionCover > img').attr('src');
 
-    // updated for tests
     options = {
       url: cover,
       dest: `./newImages/${imgTitle}.jpg`

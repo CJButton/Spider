@@ -7,10 +7,14 @@ Add appropriate genres
 
 Drama, Mystery, Science Fiction
 [genres[7], genres[8], genres[5]]
-Add ] to close series array
+Add ], to close series array
 
-["Dark fantasy", "Post-Apocalpytic"]
-[genres[11], genres[12], genres[5]]
+Fantasy, Romance
+Themes: Adventure,
+
+[genres[4], genres[13], genres[1]]
+],
+
  */}
 This array allows us to keep the naming more consistent
  const genres = [
@@ -27,6 +31,7 @@ This array allows us to keep the naming more consistent
   10'Battles',
   11'Dark Fantasy',
   12'Post-Apocalpytic'
+  13'Romance'
  ]
 ///
 // remember to add the ending bracket for allComics!!!
@@ -182,7 +187,7 @@ allComics = [
 {
       title: "Fullmetal Alchemist, Vol. 14",
       author: "Hiromu Arakawa",
-      synopsis: "Ed and Al come face to face with the "father" of the homunculi, who just so happens to be a dead ringer for their own father, Van Hohenheim--a resemblance too uncanny for coincidence. And later, when the allure of immortality proves to be too much for Prince Lin of Xin, he lets Greed take over...literally!",
+      synopsis: "Ed and Al come face to face with the 'father' of the homunculi, who just so happens to be a dead ringer for their own father, Van Hohenheim--a resemblance too uncanny for coincidence. And later, when the allure of immortality proves to be too much for Prince Lin of Xin, he lets Greed take over...literally!",
       release_date: "July 22nd 2006",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1021.jpg"},
 
@@ -217,7 +222,7 @@ allComics = [
 {
       title: "Fullmetal Alchemist, Vol. 24",
       author: "Hiromu Arakawa",
-      synopsis: "Hohenheim finally gets his chance to stop the mysterious homunculus "father" who rules over Central City. Will Hohenheim's surprise be enough to defeat the most powerful homunculus of them all? And when King Bradley makes a triumphant return, will the battle turn in the military's favor...?",
+      synopsis: "Hohenheim finally gets his chance to stop the mysterious homunculus 'father' who rules over Central City. Will Hohenheim's surprise be enough to defeat the most powerful homunculus of them all? And when King Bradley makes a triumphant return, will the battle turn in the military's favor...?",
       release_date: "December 22nd 2009",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1027.jpg"},
 
@@ -266,7 +271,7 @@ allComics = [
 {
       title: "Fullmetal Alchemist, Vol. 26",
       author: "Hiromu Arakawa",
-      synopsis: "With all the pieces now in his possession, the homunculus "father" executes his master plan as Edward and the others watch in horror. When the dust settles, the entire world has been reshaped. With the help of Hohenheim, the Elric brothers lauch a desperate final attack, but is it all too late...?",
+      synopsis: "With all the pieces now in his possession, the homunculus 'father' executes his master plan as Edward and the others watch in horror. When the dust settles, the entire world has been reshaped. With the help of Hohenheim, the Elric brothers lauch a desperate final attack, but is it all too late...?",
       release_date: "January 1st 2010",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1034.jpg"},
 
@@ -315,7 +320,7 @@ allComics = [
 {
       title: "Fullmetal Alchemist, Vol. 25",
       author: "Hiromu Arakawa",
-      synopsis: "As Greed and King Bradley continue their battle, the mysterious homunculus "father" makes his move under Central City. In order to achieve his objectives, he will need to force Mustang to make an unthinkable choice. Meanwhile, Alphonse has the chance to regain his own body, but the sacrifice to do so may be too much.",
+      synopsis: "As Greed and King Bradley continue their battle, the mysterious homunculus 'father' makes his move under Central City. In order to achieve his objectives, he will need to force Mustang to make an unthinkable choice. Meanwhile, Alphonse has the chance to regain his own body, but the sacrifice to do so may be too much.",
       release_date: "January 1st 2010",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1041.jpg"},
 
@@ -388,7 +393,7 @@ allComics = [
 {
       title: "Saiyuki Reload, Volume 4",
       author: "Kazuya Minekura",
-      synopsis: "New troubles and new characters are introduced in this exciting installment of "Saiyuki Reload." As the fearsome foursome continue on their latest adventure, what will happen when they are faced with a new kind of enemy? Rated for older teens.",
+      synopsis: "New troubles and new characters are introduced in this exciting installment of 'Saiyuki Reload.' As the fearsome foursome continue on their latest adventure, what will happen when they are faced with a new kind of enemy? Rated for older teens.",
       release_date: "June 13th, 2006",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1051.jpg"},
 
@@ -557,7 +562,7 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1074.jpg"},
 
      [genres[7], genres[8], genres[5]]
-     ]
+     ],
      [
 
 {
@@ -686,4 +691,77 @@ allComics = [
       img_url: "https://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/attack18_rjbrip.jpg"},
 
       [genres[11], genres[12]],
-      ]
+      ],
+
+
+      ///////////////
+      Pick up from here
+      ///////////////
+
+
+      [
+{
+      title: "Alice in the Country of Hearts, Vol. 03",
+      author: "QuinRose",
+      synopsis: "The hilarious--and dangerous--tale of Alice's adventures in wonderful Wonderland continues.",
+      release_date: "June 10th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1075.jpg"},
+
+{
+      title: "Alice in the Country of Hearts, Vol. 01",
+      author: "QuinRose",
+      synopsis: "A clever retelling of the 'Alice in Wonderland' tale--manga-style--this title is releasing in time for the major motion picture directed by Tim Burton and starring Johnny Depp.",
+      release_date: "July 10th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1076.jpg"},
+
+{
+      title: "Alice in the Country of Hearts, Vol. 2",
+      author: "QuinRose",
+      synopsis: "Kidnapped by a handsome man with rabbit ears, Alice Liddell finds herself abandoned in an odd place called Wonderland and thrust into a 'game,' the rules of which she has yet to learn. Alice, ever the plucky tomboy, sets off to explore and get the lay of this strange land, intent on finding her rude kidnapper and giving him a piece of her mind (and her fist). But little does she know that she's wandered right into the middle of a dangerous power struggle involving just about all of Wonderland's attractive, weapon-happy denizens. And the only way for Alice to return home is to get acquainted with the lot of them?! How in the world will she manage that and still manage to stay alive?!",
+      release_date: "December 10th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1077.jpg"},
+
+{
+      title: "Alice in the Country of Hearts, Vol. 1",
+      author: "QuinRose",
+      synopsis: "Kidnapped by a handsome man with rabbit ears, Alice Liddell finds herself abandoned in an odd place called Wonderland and thrust into a 'game,' the rules of which she has yet to learn. Alice, ever the plucky tomboy, sets off to explore and get the lay of this strange land, intent on finding her rude kidnapper and giving him a piece of her mind (and her fist). But little does she know that she's wandered right into the middle of a dangerous power struggle involving just about all of Wonderland's attractive, weapon-happy denizens. And the only way for Alice to return home is to get acquainted with the lot of them?! How in the world will she manage that and still manage to stay alive?!",
+      release_date: "January 10th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1078.jpg"},
+
+{
+      title: "Alice in the Country of Hearts, Vol. 04",
+      author: "QuinRose",
+      synopsis: "This is a clever retelling of the 'Alice in Wonderland' tale - manga-style! Sadness looms over Alice after Ace shows how life is treated in Wonderland. To cheer her up, Boris takes Alice to the amusement park, but when she comes home, Julius asks her if she wants to leave the clock tower. Where will Alice live now?",
+      release_date: "September 1, 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1079.jpg"},
+
+{
+      title: "Alice in the Country of Hearts, Vol. 06",
+      author: "QuinRose",
+      synopsis: "A clever retelling of the Alice in Wonderland tale - manga-style! Sadness looms over Alice after Ace shows how life is treated in Wonderland. To cheer her up, Boris takes Alice to the amusement park, but when she comes home, Julius asks her if she wants to leave the clock tower. Where will Alice live now?",
+      release_date: "December 15th 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1080.jpg"},
+
+{
+      title: "Alice in the Country of Hearts, Vol. 05",
+      author: "QuinRose",
+      synopsis: "The NEW YORK TIMES bestselling manga continues!",
+      release_date: "June 10th 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1081.jpg"},
+
+{
+      title: "Alice in the Country of Hearts, Vol. 02",
+      author: "QuinRose",
+      synopsis: "Alice is kidnapped and brought to the strange world of Wonderland, where a war is waging between the Queen of Hearts and the Hatter gang syndicate, and Alice must find her way home while escaping their wrath.",
+      release_date: "January 10th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1082.jpg"},
+
+{
+      title: "Alice in the Country of Hearts, Vol. 3",
+      author: "QuinRose",
+      synopsis: "Kidnapped by a handsome man with rabbit ears, Alice Liddell finds herself abandoned in an odd place called Wonderland and thrust into a 'game,' the rules of which she has yet to learn. Alice, ever the plucky tomboy, sets off to explore and get the lay of this strange land, intent on finding her rude kidnapper and giving him a piece of her mind (and her fist). But little does she know that she's wandered right into the middle of a dangerous power struggle involving just about all of Wonderland's attractive, weapon-happy denizens. And the only way for Alice to return home is to get acquainted with the lot of them?! How in the world will she manage that and still manage to stay alive?!",
+      release_date: "December 15th 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1083.jpg"},
+
+      [genres[4], genres[13], genres[1]]
+      ],
