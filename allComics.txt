@@ -6,9 +6,9 @@ Check for "" and add data if needed
 Add appropriate genres
 
 
-Comedy, Romance
-Themes: School Life
-[genres[14], genres[13], genres[15]]
+Action, Fantasy
+Themes: Adventure, Battles
+[genres[0], genres[4], genres[1], genres[10]]
 Add ], to close series array
 
 Fantasy
@@ -3209,4 +3209,294 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1426.jpg"},
 
       [genres[14], genres[13], genres[15]]
+      ],
+      [
+{
+      title: "Dragon Ball, Vol. 9: Test of the All-Seeing Crone",
+      author: "Akira Toriyama",
+      synopsis: "Having defeated the Red Ribbon Army single-handedly and taken their Dragon Balls, Goku finds that one is still missing! To locate it, he goes to the palace of the All-Seeing Crone, Baba Uranai, who can find anything in the world...for a price! The crone agrees to find the Dragon Ball for free if Goku and his friends--Yamcha, Pu'ar, Kuririn and Upa--can best her five supernatural champions in one-on-one combat. but even if they can beat Dracula, the Mummy, and the Devil, the final challenger just might give Goku the shock of his life!",
+      release_date: "September 10th 1987",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1427.jpg"},
+
+{
+      title: "Dragon Ball Z, Vol. 2: The Lord of Worlds",
+      author: "Akira Toriyama",
+      synopsis: "Goku is dead--but his journey is just beginning. Now he must travel through the afterlife along the million-kilometer Serpent Road to find Kaiô-sama, the Lord of Worlds, who will teach him martial arts techniques so powerful they're reserved for the gods! And he'd better hurry, too, because Earth has only nine months until the evil Saiyans, Vegeta and Nappa, will arive to wipe the planet clean of life. While the archdemon Piccolo trains Goku's son Gohan to reach his full power potential, the alien spaceships rocket ever closer...bearing a power so awesome that even Earth's six strongest heroes may not be a match for it!!!",
+      release_date: "July 10th 1989",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1428.jpg"},
+
+{
+      title: "Dragon Ball Z, Vol. 13: The Red Ribbon Androids",
+      author: "Akira Toriyama",
+      synopsis: "Three years ago, the time traveler Trunks came from the future to warn Earth's heroes about terrifying androids. Now, the future has become the present: Dr. Gero has unleashed his creations, Androids #19 and #20, to get revenge against Goku for defeating the Red Ribbon Army! But even three years of advance warning may not be enough to prepare the heroes to face robots more powerful than Super Saiyans! And when Trunks returns to join in the fight, they discover that time travel can be dangerous...because sometimes the future changes in ways you don't expect...",
+      release_date: "March 10th 1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1429.jpg"},
+
+{
+      title: "Dragon Ball Z, Vol. 17: The Cell Game",
+      author: "Akira Toriyama",
+      synopsis: "Now in his Perfect Form, Cell is stronger than any creature alive--even the muscled-out new form of the mighty Saiyans. Finding no competition on Earth, Cell invades a TV studio and gives the world an ultimatum: produce a fighter who can beat him in one-on-one combat, or he will methodically slaughter every living thing! But does the human race…or even the Saiyan race…have a champion who can go up against Cell? Plus the alternate-timeline story of Trunks' origin!",
+      release_date: "December 26th 1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1430.jpg"},
+
+{
+      title: "Dragon Ball Z, Vol. 22: Mark of the Warlock",
+      author: "Akira Toriyama",
+      synopsis: "The Lord of Lords, mightiest of the deities, has come to Earth--and he needs the help of Goku, Gohan and Vegeta! From across aeons of time, from across the stars, the evil wizard Bobbidi has returned, gathering chi energy to resurrect the imprisoned djinn Boo, the most powerful creature that ever existed. Beneath the ground in a buried spaceship, Bobbidi has assembled a menagerie of vicious beasts from across the galaxy, ready to defeat our heroes and feed their power to the djinn. But the most vicious enemy of all is already standing in the heroes' ranks...",
+      release_date: "August 4th 1994",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1431.jpg"},
+
+{
+      title: "Dragon Ball Z, Vol. 14: Rise of the Machines",
+      author: "Akira Toriyama",
+      synopsis: "Our heroes' worst fears have come true: androids #17 and #18,who in time traveler Trunks's future have already destroyed the world, have been activated! And along with them is #16, an android even Trunks doesn't know! With Goku almost dead from a virus, only Super Saiyan Vegeta has a chance against them--unless Piccolo's plan to merge with his ancient enemy Kami-sama will make him the new strongest being on Earth! But something even worse than androids has come back from the future...",
+      release_date: "June 10th 1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1432.jpg"},
+
+{
+      title: "Dragon Ball, Vol. 7: General Blue and the Pirate Treasure",
+      author: "Akira Toriyama",
+      synopsis: "Only Goku, Bulma and Kuririn stand between the Red Ribbon Army and the seven Dragon Balls which can grant any wish in the world! Using a submarine loaned by Kame-Sen'nin, the heroic trio explores a pirate's undersea cave in search of the next , but gun-toting bad guys are on their tail! Now they must face not only perilous pirate traps but the sinister General Blue, a martial artist with powers even Goku doesn't have! Can they escape the cave alive? As the battle continues, Goku and General Blue go to Penguin Village, the home of the weird scientist  and one of the strangest places on Earth!",
+      release_date: "May 8th 1987",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1433.jpg"},
+
+{
+      title: "Dragon Ball, Vol. 2: Wish Upon a Dragon",
+      author: "Akira Toriyama",
+      synopsis: "With the (reluctant) help of the shapeshifting pig Oolong, Goku and Bulma have found almost all the Dragon Balls they need to get their wish! To get the sixth Dragon Ball, the fearsome Ox King sends Goku on a mission: to find Kame-Sen'nin, the Turtle Hermit, whose mighty powers can put out the raging fires of Fry-Pan Mountain! But the sleazy old martial artist might just make it more trouble than it's worth! Then, with the bandits Yamcha and Pu'ar on their trail, our heroes continue their quest for the seventh and final Dragon Ball. But can they get it from little Emperor Pilaf, who wants to use his wish to rule the world?!!",
+      release_date: "January 10th 1986",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1434.jpg"},
+
+{
+      title: "Dragon Ball Z, Vol. 11: The Super Saiyan",
+      author: "Akira Toriyama",
+      synopsis: "With an entire planet for their battleground, Goku and Freeza continue their showdown to see who's strongest in the universe! But Goku's determination turns to horror as he realizes that his enemy has just been toying with him...and at just 50% of his full power, Freeza is more than strong enough to beat Goku! Gohan, Piccolo and Kuririn distract Freeza while Goku powers up for a gigantic genki-dama--the last-ditch 'energy sphere' technique. Soon, the heroes have no choice but to hope for a miracle...",
+      release_date: "August 7th 1991",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1435.jpg"},
+
+{
+      title: "Dragon Ball Z, Vol. 16: The Room of Spirit and Time",
+      author: "Akira Toriyama",
+      synopsis: "Cell has fused with android #17, becoming practically invincible--but not for long! Training in the Room of Spirit and Time, where a year passes for every day outside, Vegeta and Trunks have gone beyond the Super Saiyan, reaching a level of power even greater than second-stage Cell! Now Cell is the one who is outmatched--but Vegeta hates a boring fight. Succumbing to his pride, Vegeta agrees to help Cell fuse with android #18, the last element he needs to become 'perfect,' so he can have the honor of defeating the strongest being in the world!",
+      release_date: "November 2nd 1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1436.jpg"},
+
+{
+      title: "Dragon Ball, Vol. 11: The Eyes of Tenshinhan",
+      author: "Akira Toriyama",
+      synopsis: "The Tenka'ichi Budôkai is heating up, and there can only be one winner! Last tournament's champion Jackie Chun goes up against three-eyed 'Crane School' kung fu master Tenshinhan! Then, it's the long-awaited match between former classmates Goku and Kuririn--and guess who has some tricks up his sleeve! But Tenshinhan isn't just fighting to win, he's carrying out a deadly grudge--to avenge his master, the Crane Hermit, whose brother was killed by Goku. It all comes down to a final round so devastating the battlefield itself might not survive intact--let alone the spectators!",
+      release_date: "February 10th 1988",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1437.jpg"},
+
+{
+      title: "Dragon Ball Z, Vol. 24: Hercule to the Rescue",
+      author: "Akira Toriyama",
+      synopsis: "Breaking from his master Bobbidi, the rampaging Boo turns the entire world into his candy store! To fight back, Goku transforms into his most powerful form yet, but the world's only hope may lie in Trunks and Goten, the world's youngest and most promising fighters. Using an alien fusion technique, they attempt to merge together to form a single, even more powerful hero! Meanwhile, as Boo destroys city after city, the people of Earth call forth their secret weapon...the seemingly invincible (but actually incompetent) Hercule!",
+      release_date: "March 3rd 1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1438.jpg"},
+
+{
+      title: "Dragon Ball, Vol. 3: The Training of Kame-Sen'nin",
+      author: "Akira Toriyama",
+      synopsis: "With the Dragon Balls gone and Bulma's summer vacation over, Goku goes to the remote house of the Turtle Hermit, Kame-Sen'nin, to be trained in the martial arts. There, the girl-ogling old master promises to teach Goku everything he knows...and prepare him for the Tenka'ichi Budôkai, the great tournament to determine the Strongest Fighter in the World! But Goku's fellow student, the Shaolin monk Kuririn, isn't above cheating to be the best. Can the two of them get along as they undergo the strangest martial arts training ever?",
+      release_date: "June 10th 1986",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1439.jpg"},
+
+{
+      title: "Dragon Ball Z, Vol. 5: Dragon Ball in Space",
+      author: "Akira Toriyama",
+      synopsis: "In the aftermath of his battle with Goku, Vegeta retreats from Earth, vowing revenge. In search of a way to resurrect their dead friends, Kuririn, Gohan, and Bulma go into space in search of Namek--Piccolo's home planet where the Dragon Balls were originally made. But Namek has become a battleground, where evil emperor Freeza and his minions are slaughtering the peaceful Namekians to fulfill Freeza's wish for immortality! Stranded on a planet full of enemies, the three astronauts radio back to Earth...but 'help' comes from an unexpected source as Vegeta turns against his former master Freeza in order to get the Dragon Balls for himself!",
+      release_date: "April 10th 1990",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1440.jpg"},
+
+{
+      title: "Dragon Ball Z, Vol. 12: Enter Trunks",
+      author: "Akira Toriyama",
+      synopsis: "As the battle on Namek turns the entire planet into a fireball, Goku and Freeza fight it out to the end--and Goku makes a fateful decision. Awaiting Goku's return from outer space, Earth's heroes are shocked to find another, faster spaceship heading towards them--Freeza is back, stronger than ever, swearing to destroy the Earth before Goku can get there to defend it! But as the heroes prepare to make one last stand, another mysterious warrior appears out of nowhere. His name is Trunks, and he has come to warn the heroes about an enemy who makes Freeza look like a walk in the park...",
+      release_date: "November 8th 1991",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1441.jpg"},
+
+{
+      title: "Dragon Ball, Vol. 14: Heaven and Earth",
+      author: "Akira Toriyama",
+      synopsis: "Goku is the world's only hope--the only being on Earth capable of fighting Piccolo, the Great Demon King! But the city-demolishing battle ends with Piccolo birthing a younger, even tougher version of himself, who will return in three years time to finish the destruction wrought by his father! In search of a way to defeat the new Piccolo, Goku's gaze turns skyward--to the heavenly realm of Kami-sama, creator of the Dragon Balls, deity of the Dragon Ball world. But Piccolo and Kami-sama share a shocking secret...",
+      release_date: "August 10th 1988",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1442.jpg"},
+
+{
+      title: "Dragon Ball, Vol. 1: The Monkey King",
+      author: "Akira Toriyama",
+      synopsis: "Before there was , there was Akira Toriyama's action epic , starring the younger version of Son Goku and all the other  heroes! Meet a naive young monkey-tailed boy named Goku, whose quiet life changes when he meets Bulma, a girl who is on a quest to collect seven 'Dragon Balls.' If she gathers them all, an incredibly powerful dragon will appear and grant her one wish. But the precious orbs are scattered all over the world, and Bulma needs Goku's help (and his super-strength)! With a magic staff for a weapon and a flying cloud for a ride, Goku sets out on the adventure of a lifetime...",
+      release_date: "September 10th 1985",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1443.jpg"},
+
+{
+      title: "Dragon Ball, Vol. 12: The Demon King Piccolo",
+      author: "Akira Toriyama",
+      synopsis: "When Kuririn is killed by a lizard-like monster, Goku goes in search of the culprit and finds his most terrifying enemy yet: the evil Demon King Piccolo! Freed after centuries of imprisonment, Piccolo sends waves of monsters on a mission to find the Dragon Balls and destroy any martial artists who might oppose him. With his flying cloud destroyed, Goku finds himself lost in the jungle where he meets an unlikely new ally. Meanwhile, Kame-Sen'nin prepares a last-ditch plan to defeat Piccolo... but at what cost?",
+      release_date: "April 8th 1988",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1444.jpg"},
+
+{
+      title: "Dragon Ball, Vol. 16: Goku vs. Piccolo",
+      author: "Akira Toriyama",
+      synopsis: "As the 'Strongest Under the Heavens' martial arts tournament draws to a close, only Goku, Piccolo, and Shen--the disguised Kami-sama--remain! But even a god is no match for Piccolo's new powers, and soon Goku finds himself fighting...alone... in a battle which will decide not just who is strongest, but who or what will rule the world! The audience flees for their lives as the struggle shakes the heavens apart in the gripping conclusion of Akira Toriyama's !",
+      release_date: "February 10th 1989",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1445.jpg"},
+
+{
+      title: "Dragon Ball, Vol. 6: Bulma Returns!",
+      author: "Akira Toriyama",
+      synopsis: "In the frozen north, Goku's one-man fight against the Red Ribbon Army continues as he storms the perilous Muscle Tower! Can he defeat General White's squad of ninjas, cyborgs, and worse, and save the peaceful people of Jingle Village from their oppressors? Then, Goku travels to the City of the West to visit his old friend Bulma, who joins him on his quest, bringing her latest inventions. Their quest for the next  takes them around the world to a jungle island in the South Seas...but to get THIS  they'll have to go through General Blue!",
+      release_date: "March 10th 1987",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1446.jpg"},
+
+{
+      title: "Dragon Ball Z, Vol. 4: Goku vs. Vegeta",
+      author: "Akira Toriyama",
+      synopsis: "With the mighty Kaiô-ken amplifying his strength, Goku fights Vegeta in a desperate battle to save the world--only to find that the elite Saiyan warrior is even stronger than his new techniques! In desperation, Goku calls upon the Genki-dama, the 'spirit ball,' drawing power from the Earth, its people, plants, and animals. But alone, even Goku is not enough. The last worn-out survivors, Gohan, Kuririn, and Yajirobe, must rush back into the fray to beat the unbeatable Vegeta...as their enraged foe vows to not only wipe out the human race, but destroy the planet Earth itself!",
+      release_date: "January 10th 1990",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1447.jpg"},
+
+{
+      title: "Dragon Ball Z, Vol. 9: The Wrath of Freeza",
+      author: "Akira Toriyama",
+      synopsis: "Goku and Captain Ginyu fight it out to the end--in each other's bodies! With Goku's life hanging by a thread, Gohan and Kuririn must use the seven Dragon Balls of Namek to summon the mighty Dragon Lord, who can grant any three wishes! But they'd better wish fast, because converging on them are Freeza, lord of the universe, and Vegeta, their evil ally--both seeking the Dragon Balls to wish for eternal life for themselves. Soon, all our heroes are forced to fight together against Freeza--and their salvation may come in the form of not Goku, but Piccolo, now stronger than ever!",
+      release_date: "March 8th 1991",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1448.jpg"},
+
+{
+      title: "Dragon Ball Z, Vol. 23: Boo Unleashed!",
+      author: "Akira Toriyama",
+      synopsis: "The mighty djinn Boo has awakened from his aeons-old slumber! As Boo's reign of terror begins, even the mad wizard Bobbidi and his allies question whether such an uncontrollable being should have been set free. With all the universe's greatest champions dead, petrified, or beaten into unconsciousness, only one hero remains to put up a fight...Vegeta. Will he win...or will Boo be free to turn the entire population of the world into sweets and gobble them up?",
+      release_date: "December 2nd 1994",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1449.jpg"},
+
+{
+      title: "Dragon Ball, Vol. 4: Strongest Under the Heavens",
+      author: "Akira Toriyama",
+      synopsis: "Goku has made it to the Tenka'ichi Budôkai, the world's #1 martial arts tournament...but even the training of the martial arts master Kame-Sen'nin hasn't prepared him for this! Only seven finalists remain. Will the champion be Goku? His fellow student Kuririn? Yamcha, master of the 'Fist of the Wolf Fang'? Fighting woman Ran Fuan? Giran, a rubbery monster who's part dinasaur? Namu, an Indian mystic? Or Jackie Chun, the mysterious old man who may be the toughest fighter of all? There can be only one winner in the wildest, craziest battle ever!",
+      release_date: "October 9th 1986",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1450.jpg"},
+
+{
+      title: "Dragon Ball Z, Vol. 1: The World's Greatest Team",
+      author: "Akira Toriyama",
+      synopsis: "Son Goku is the greatest hero on Earth. Five years after defeating the demon king Piccolo, he's grown up and had a family--he's married, and he has a child, Son Gohan. But what is the real reason for Goku's incredible strength? A visitor from outer space arrives bearing terrible news--Goku is an alien, and the visitor, Raditz, is Goku's brother! When Raditz turns out to be a ruthless killer, Goku must fight his incredibly strong brother to save his family and the entire human race. A surprising alliance may be Earth's last hope: Goku will team up with his old enemy Piccolo...archenemies united to save the world!",
+      release_date: "May 10th 1989",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1451.jpg"},
+
+{
+      title: "Dragon Ball Z, Vol. 25: Last Hero Standing!",
+      author: "Akira Toriyama",
+      synopsis: "Shorn of his last vestiges of goodness, the djinn Boo is now pure, undiluted evil! With a single wave of his hand he kills six billion people, leaving only the heroes in Kami-sama's sky palace alive...but for how long? Inside the palace, Goten and Trunks merge into Gotenks, the only being in the world who might match Boo in raw power. But luckily there's more than one world. On a faraway planet, Gohan and Goku are preparing for their turn to fight...to save the devastated earth before the planet itself is blown away!",
+      release_date: "June 2nd 1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1452.jpg"},
+
+{
+      title: "Dragon Ball, Vol. 10: Return to the Tournament",
+      author: "Akira Toriyama",
+      synopsis: "Goku needs just one more Dragon Ball to wish Upa's father back to life...but the Ball is in the hands of an old enemy! Then, Goku and his friends part ways, promising to meet again in three years at the Tenka'ichi Budôkai, the 'Strongest-Under-the-Heavens' Martial Arts Tournament. But this time the competition is stronger than ever: Tenshinhan and Chaozu, the deadly disciples of Tsuru-Sen'nin, the Crane Hermit! Will Kame-Sen'nin's turtle-style kung fu beat crane style? Or will their strange new opponents be triumphant?",
+      release_date: "November 10th 1987",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1453.jpg"},
+
+{
+      title: "Dragon Ball Z, Vol. 7: The Ginyu Force",
+      author: "Akira Toriyama",
+      synopsis: "Trapped on war-torn Planet Namek, Earth's heroes Gohan, Kuririn and Bulma struggle to keep the Dragon Balls out of the hands of both Vegeta and the planet-destroying Emperor Freeza. But even a power-up courtesy of the Great Elder of Namek may not be enough to save them from Freeza's reinforcements: the Ginyu Force, the five strongest fighters in outer space, led by the supervillain Captain Ginyu! Desperate times call for desperate measures, and Gohan and Kuririn find themselves with an unlikely ally as their theatrical enemies ro-sham-bo for the honor of who gets to kill them first!",
+      release_date: "October 8th 1990",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1454.jpg"},
+
+{
+      title: "Dragon Ball, Vol. 5: The Red Ribbon Army",
+      author: "Akira Toriyama",
+      synopsis: "In the final round of the 'Strongest under the Heavens' martial arts competition, it's down to Goku vs. Jackie Chun, the mysterious old man who's as powerful as Kame-Sen'nin himself! Will the audience survive the confrontation? After the smoke clears, Goku jumps on his flying cloud and returns to his quest to find the seven Dragon Balls, but now he's not the only one looking for them. The evil Red Ribbon Army wants the Dragon Balls for themselves, and to stop their plans, Goku must go around the world—and survive the six deadly floors of Colonel White's fortress, Muscle Tower!",
+      release_date: "January 9th 1987",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1455.jpg"},
+
+{
+      title: "Dragon Ball Z, Vol. 20: The New Generation",
+      author: "Akira Toriyama",
+      synopsis: "Dragon Ball Z fast-forwards into the future! Years after the battle with Cell, the Earth has forgotten about the existence of the super warriors, and Gohan is living the life of a mild- mannered high school student. Mild-mannered until evil strikes,that is...and the world needs the power of the Great Saiyaman! As Gohan's high school classmates ponder the similarity between their classmate and the masked crimefighter, two even stronger warriors prepare to make their names known. Their names are Goten and Trunks, and though they're not even out of elementary school, they may be the toughest things on the planet.",
+      release_date: "November 4th 1993",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1456.jpg"},
+
+{
+      title: "Dragon Ball Z, Vol. 15: The Terror of Cell",
+      author: "Akira Toriyama",
+      synopsis: "Cell has been awakened--a bioengineered monstrosity designed to become the ultimate weapon, a being that eats whole cities to grow stronger. To stop its rampage, Piccolo challenges Cell while the Super Saiyans undergo unimaginable training in a room where one year passes for every day outside. But Cell's true goal is to merge with Androids #17 and #18, which will increase its strength exponentially. As Cell becomes even stronger, Piccolo has only one chance: destroy #17 and #18 before Cell can merge with them, or no force on earth will stand a chance!",
+      release_date: "August 4th 1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1457.jpg"},
+
+{
+      title: "Dragon Ball Z, Vol. 19: Death of a Warrior",
+      author: "Akira Toriyama",
+      synopsis: "Awakening to his true power, the once meek Gohan pummels Cell, the former strongest being alive! But rather than suffer the indignity of defeat, Cell has a last desperate option--self-destruct and take the planet with him! Can the Saiyans and their allies save the world from being turned to ashes? With the death of six billion people only seconds away, Goku and Gohan--father and son--must fight together for the final blow...",
+      release_date: "September 3rd 1993",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1458.jpg"},
+
+{
+      title: "Dragon Ball Z, Vol. 6: Battlefield Namek",
+      author: "Akira Toriyama",
+      synopsis: "On the green skies and blue plains of Planet Namek, a war rages between two equally evil forces: Emperor Freeza, who wants to use Namek's Dragon Balls to become immortal, and Vegeta, last prince of the Saiyans, who has betrayed his former master in search of the same prize. Trapped between these two mighty enemies are the peaceful Namekians and Earth's heroes Kuririn, Gohan and Bulma! As Freeza's henchmen Dodoria and Zarbon trade blows with the ever-stronger Vegeta, the Earthlings put their own lives at risk to protect the Namekians until Son Goku's spaceship arrives. But can even Goku's new training regimen--under 20 times Earth's gravity--prepare him for what awaits on this alien world?",
+      release_date: "July 10th 1990",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1459.jpg"},
+
+{
+      title: "Dragon Ball Z, Vol. 8: Goku vs. Ginyu",
+      author: "Akira Toriyama",
+      synopsis: "Forced to ally with Vegeta against their common enemy, Gohan and Kuririn fight desperately against Freeza's elite troops, the seemingly unstoppable Ginyu Force! But the tables may be turning as Son Goku finally arrives on Planet Namek, his strength and speed increased ten-fold by training under 100 times Earth's gravity! Could Goku have become the legendary 'Super Saiyan'!? And even if they defeat Captain Ginyu, can they prevent Freeza from wishing for immortality on the Dragon Balls--and Vegeta from betraying them and doing the same?",
+      release_date: "January 10th 1991",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1460.jpg"},
+
+{
+      title: "Dragon Ball, Vol. 13: Piccolo Conquers the World",
+      author: "Akira Toriyama",
+      synopsis: "With a wish on the Dragon Balls, Piccolo restores his youth, becoming more powerful than ever! Flying to the palace of the King of the World, he announces that he is the new King, and broadcasts his reign of terror on international TV! Only Tenshinhan and Goku have a chance to stop Piccolo: Tenshinhan by mastering a martial arts move that can kill the one who uses it, and Goku by drinking a magic potion that might make him stronger--or kill him too! Two heroes risk death to save the planet--and meanwhile, Yajirobe eats too much and gets sick!",
+      release_date: "June 10th 1988",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1461.jpg"},
+
+{
+      title: "Dragon Ball Z, Vol. 18: Gohan vs. Cell",
+      author: "Akira Toriyama",
+      synopsis: "The day of the Cell Game has come - the day when Earth's champions must compete to save the entire human race from destruction. All along, Cell has longed for a match with Goku, to crush the world's mightiest hero and establish its supremacy over all creation. Both of them have enough power flowing through their bodies to destroy the earth. But Goku knows something that Cell doesn't...he isn't the world's mightiest hero. That hero is Gohan, Goku's son...",
+      release_date: "June 4th 1993",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1462.jpg"},
+
+{
+      title: "Dragon Ball, Vol. 8: Taopaipai and Master Karin",
+      author: "Akira Toriyama",
+      synopsis: "Tired of losing their best operatives to Son Goku, the commanders of the Red Ribbon Army hire Taopaipai, the world's greatest assassin, to 'take care' of him permanently! To have a chance of defeating this new opponent, Goku must climb the miles-high Karin Tower, where a mysterious hermit guards a jug of magic water which will grant the one who drinks it super strength. And while Goku struggles to get the magic water, time is running out...because Commander Red only needs two more Dragon Balls to make his deepest, darkest wishes come true!",
+      release_date: "July 10th 1987",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1463.jpg"},
+
+{
+      title: "Dragon Ball, Vol. 15: The Titanic Tournament",
+      author: "Akira Toriyama",
+      synopsis: "It's the 'Strongest Under the Heavens' martial arts tournament, and the world's greatest fighters have gathered! But Kuririn, Goku, Tenshinhan and Yamcha face mighty enemies. Taopaipai the assassin has returned as a cyborg--and Goku and Tenshinhan are on his hit list! A mysterious young woman has a grudge against Goku. The only 'mystery' about bumbling salaryman Shen is how he made it to the final rounds. And the last contestant is the new and improved Piccolo, for whom the championship is just a stepping stone to take over the world...",
+      release_date: "December 6th 1988",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1464.jpg"},
+
+{
+      title: "Dragon Ball Z, Vol. 10: Goku vs. Freeza",
+      author: "Akira Toriyama",
+      synopsis: "As Freeza changes into new forms, each more powerful than the last, the desperate heroes--Gohan, Kuririn, Piccolo and the self-serving Vegeta--find themselves struggling merely to stay alive. Desperate for a trump card, Vegeta asks Kuririn to mortally wound him, so that his auto-evolving mechanism will turn him into the legendary strongest fighter in the universe--the Super Saiyan! On the other side of the planet, Goku awakens from within his healing capsule and streaks to the battlefield to turn the tide. But even in his final, supposedly deadliest form, Freeza has an ace up his sleeve...",
+      release_date: "June 10th 1991",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1465.jpg"},
+
+{
+      title: "Dragon Ball Z, Vol. 26: Goodbye Dragon World!",
+      author: "Akira Toriyama",
+      synopsis: "The world's greatest heroes have fallen, absorbed by the ever more powerful Boo, who has slaughtered everyone on the planet. Only Goku remains alive to fight...but even his strength will not be enough, unless he uses the Fusion Earrings to permanently merge with another warrior! Who will he choose...and when the dust has cleared, who or what will he become? On earth, among the stars, and in Boo's body, the last battle rages!",
+      release_date: "August 4th 1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1466.jpg"},
+
+{
+      title: "Dragon Ball Z, Vol. 21: Tournament of the Heavens",
+      author: "Akira Toriyama",
+      synopsis: "Earth's heroes have come out of retirement, and the audience at the Tenka'ichi Budokai - 'Strongest Under the Heavens' martial arts tournament - is about to see what real martial artists can do! While Trunks and Gohan tear up the Junior Division, Videl, the daughter of Earth's 'champion' Hercule, prepares to test her newfound kung fu skills (like flying). Meanwhile, the experienced heroes prepare for their turn to fight Goku, who has come back from the dead just for this one match! But Goku isn't the only otherworldly visitor. Two mysterious contestants have entered the tournament, wielding the power of the heavens...and they have a special mission in this world...",
+      release_date: "April 4th 1994",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1467.jpg"},
+
+      [genres[0], genres[4], genres[1], genres[10]]
       ],
