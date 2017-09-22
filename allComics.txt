@@ -9,10 +9,10 @@ Drama, Mystery, Science Fiction
 [genres[7], genres[8], genres[5]]
 Add ], to close series array
 
-Comedy, Drama
-Themes: School Life, Slice of Life
+Fantasy
+Themes: Adventure, Magical Girl, Supernatural
 
-[genres[14], genres[15], genres[16]]
+[genres[4], genres[17]]
 ],
 
  */}
@@ -34,7 +34,8 @@ This array allows us to keep the naming more consistent
   13'Romance',
   14'Comedy',
   15'School Life',
-  16'Slice of Life'
+  16'Slice of Life',
+  17'Magical Girl',
  ]
 ///
 // remember to add the ending bracket for allComics!!!
@@ -911,4 +912,148 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1104.jpg"},
 
       [genres[14], genres[15], genres[16]]
+      ],
+      [
+{
+      title: "Cardcaptor Sakura, Vol. 6",
+      author: "CLAMP",
+      synopsis: "Sakura has collected all of the Clow Cards, but her quest is not over yet. Unless she can pass the final trial, the cards will unleash a terrible curse. Yue, the Judge, doesn't think she has what it takes to become master of the cards. With everything she's ever held dear on the line, Sakura needs to give the performance of her lifetime.",
+      release_date: "July 6th 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1105.jpg"},
+
+
+{
+      title: "Cardcaptor Sakura, Vol. 1",
+      author: "CLAMP",
+      synopsis: "From Clamp comes the thrilling adventures of Sakura, a fourth-grader who accidentally finds an enchanted book called . The book once contained a set of magical Clow Cards, but they all escaped while the guardian of the book fell asleep. Now, Sakura is thrust into a mystical journey to capture all the cards before they wreak chaos and destruction!",
+      release_date: "May 1996",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1109.jpg"},
+
+{
+      title: "Cardcaptor Sakura, Omnibus 2",
+      author: "CLAMP",
+      synopsis: "The beautiful new teacher in Sakura's class, Kaho Mizuki, soon reveals that she's a shrine maiden with magic powers of her own. But as always, the struggle to capture the Clow cards is woven together with the mysterious - and complicated - threads of love and affection between Sakura and all the people in her life. Will her heart be strong enough as she faces the one who will judge her worthiness to master the cards at last?",
+      release_date: "1996",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1110.jpg"},
+
+{
+      title: "Cardcaptor Sakura: Master of the Clow, Vol. 1",
+      author: "CLAMP",
+      synopsis: "Capturing Cards was only the beginning...Once upon a magic night, an English sorcerer mixed Western wizardry with Eastern enchantments to create a magical deck of cards called the Clow Cards. These cards were hidden inside a dusty old book for decades, their powers virtually wasted. Then one fateful day, a young girl named Sakura Kinomoto discovered the book in her father's library. When she opened it, however, the Clow Cards were gone—and so was life as she knew it. The book's magical guardian, a diminutive winged lion, named Sakura the Cardcaptor, and after many exciting adventures, she finally retrieved all of the cards. Now Sakura has earned the title Master of the Clow.An ominous force is brewing in Tomoeda. New enchantments are popping up all over the city, and Sakura's Clow Cards seem completely unable to stop them. But when Sakura taps into her inner power to fuel the Clow Cards, she unlocks a new magic of her own creation. Thus begins this 10-year-old's quest to become the greatest magician in the world!",
+      release_date: "November 13th 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1111.jpg"},
+
+{
+      title: "Cardcaptor Sakura, Vol. 5",
+      author: "CLAMP",
+      synopsis: "It's time for the school talent show and Sakura's class is putting on . Sakura is cast as the prince and you won't believe who the princess is! All seems to be going well with the performance until a Clow Card makes an unexpected entrance between acts! Can our prince break the spell, capture the card and save the day?",
+      release_date: "April 1st 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1112.jpg"},
+
+{
+      title: "Cardcaptor Sakura, Vol. 3",
+      author: "CLAMP",
+      synopsis: "When missing Clow Cards begin turning up alarmingly close to Sakura's home, catching the cards isn't just a matter of responsibility--it's a matter of protecting the ones she loves! Meanwhile, the new teacher at school has taken a particular interest in Sakura and her friends. Could she be looking for the Clow Cards too?",
+      release_date: "August 1st 1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1115.jpg"},
+
+{
+      title: "Cardcaptor Sakura, Vol. 4",
+      author: "CLAMP",
+      synopsis: "The school field trip is the perfect getaway for Sakura. She loves the sea, making dinner with her friends, having no homework, telling ghost stories—and best of all, no worrying about Clow Cards! It's all a blast... until the students start disappearing, one by one! Sakura and company have fallen into a Clow Card trap! Can she defeat the unknown card to get her friends back?!",
+      release_date: "December 1st 1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1116.jpg"},
+
+{
+      title: "Cardcaptor Sakura: Master of the Clow, Vol. 4",
+      author: "CLAMP",
+      synopsis: "Capturing Cards was only the beginning...Once upon a magic night, an English sorcerer mixed Western wizardry with Eastern enchantments to create a magical deck of cards called the Clow Cards. These cards were hidden inside a dusty old book for decades, their powers virtually forgotten. Then one fateful day, a young girl named Sakura Kinomoto discovered the book in her father's library. When she opened it, however, the Clow Cards were gone--and so was life as she knew it. The book's magical guardian, Cerberus, declared Sakura the Cardcaptor, and after many exciting adventures, she finally retrieved all of the cards. Now Sakura has earned the title Master of the Clow.After defeating Clow Reed's latest batch of magical tests, Sakura must tackle her greatest challenge yet. No, not another enchantment, but the feelings in her heart. Young Sakura has long fostered deep feelings for the older boy, Yukito, and even though it's unlikely that he feels the same way about her, she cannot continue to keep her feelings secret. But even as Sakura prepares to pour out her heart, Eriol, the mysterious transfer student with an unknown link to Clow Reed, plots another dangerous trap for the new Master of the Clow.",
+      release_date: "December 1st 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1117.jpg"},
+
+{
+      title: "The Art of Cardcaptor Sakura, Vol. 2",
+      author: "CLAMP",
+      synopsis: "Cardcaptor Sakura was the top-selling girls manga in Japan, and it's become the top-selling girls manga in America, too Now fans can collect all of the full-color artwork from Clamp featuring their favorite characters. Each volume of the Art of Cardcaptor Sakura contains over 100 full color pictures from the series, most of which have never before been seen in America.",
+      release_date: "April 26th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1118.jpg"},
+
+{
+      title: "Cardcaptor Sakura: Master of the Clow, Vol. 3",
+      author: "CLAMP",
+      synopsis: "Capturing Cards was only the beginning...Once upon a magic night, an English sorcerer mixed Western wizardry with Eastern enchantments to create a magical deck of cards called the Clow Cards. These cards were hidden inside a dusty old book for decades, their powers virtually wasted. Then one fateful day, a young girl named Sakura Kinomoto discovered the book in her father's library. When she opened it, however, the Clow Cards were gone--and so was life as she knew it. The book's magical guardian, Cerberus, declared Sakura the Cardcaptor, and after many exciting adventures, she finally retrieved all of the cards. Now Sakura has earned the title Master of the Clow.The mysterious presence of Clow Reed continues to test Sakura with new dangers that require all of her energy to defeat. And this means that she no longer has the energy to support Yue, the Guardian of the Moon, and now he could disappear forever! Most of the time, Yue stays in his human form as Yukito, the boy Sakura has a crush on, but now that Yue is weakening, Yukito is deathly ill. If Sakura can't find a way to help him, boy and guardian will disappear forever!",
+      release_date: "July 15th 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1119.jpg"},
+
+{
+      title: "クロウカードフォーチュンブック―カードキャプターさくら [Clow Card Fortune Book - Cardcaptor Sakura]",
+      author: "CLAMP",
+      synopsis: "・「クロウカード」と「フォーチュンブック」・カードの意味・クロウカード・ワンポイントアドバイス・シャッフルとカットの方法・占い方法　ほか",
+      release_date: "",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1120.jpg"},
+
+{
+      title: "Cardcaptor Sakura, Omnibus 4",
+      author: "CLAMP",
+      synopsis: "The conclusion of the Cardcaptor Sakura saga Now is the time for people to admit the feelings for other people they've held secret . . . but there are so many feelings, running in so many directions What are the true desires of Eriol, the powerful young boy who is the reincarnation of Clow Reed . . . and why did he wish that Sakura would replace him as Master of the Clow?",
+      release_date: "",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1122.jpg"},
+
+{
+      title: "Cardcaptor Sakura, Vol. 2",
+      author: "CLAMP",
+      synopsis: "Sakura Kinomoto seems like your average fourth grader--loves P.E., hates math--but there's something about her that's not so normal... she can use magic! As the Cardcaptor, it is Sakura's job to use her powers to track down the missing Clow Cards before disaster befalls the Earth. But there's a new boy in town, Syaoran Li, who claims that the cards are his birthright. According to the Covenant, there can only be one Cardcaptor--did Kero-chan pick the wrong person?",
+      release_date: "April 1st 1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1124.jpg"},
+
+{
+      title: "Cardcaptor Sakura: Master of the Clow, Vol. 2",
+      author: "CLAMP",
+      synopsis: "Capturing Cards was only the beginning...Once upon a magic night, an English sorcerer mixed Western wizardry with Eastern enchantments to create a magical deck of cards called the Clow Cards. These cards were hidden inside a dusty old book for decades, their powers virtually wasted. Then one fateful day, a young girl named Sakura Kinomoto discovered the book in her father's library. When she opened it, however, the Clow Cards were gone--and so was life as she knew it. The book's magical guardian, Cerberus, declared Sakura the Cardcaptor, and after many exciting adventures, she finally retrieved all of the cards. Now Sakura has earned the title Master of the Clow.Sakura is quickly learning that not all mysteries come from magic cards. In fact, the greatest mysteries of all come from the heart. One person who is close to the hearts of many is the charismatic Yukito. Most of the time, he's a mild-mannered high school student with a big appetite, but Sakura knows that his true form is that of the majestic winged guardian, Yue. As Sakura struggles to reconcile her feelings for this mysterious older boy, she finds that she has two suitors of her own: Li Syaoran, her one-time rival, now a close friend, and Eriol Hiiragizawa, the enigmatic new transfer student. But in this world of enchantment, not everyone's intentions are what they appear to be...",
+      release_date: "March 5th 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1125.jpg"},
+
+{
+      title: "カードキャプターさくらイラスト集 [Cardcaptor Sakura Irasutoshū]",
+      author: "CLAMP",
+      synopsis: "1998年発行の「カードキャプターさくらイラスト集」第１弾。60点以上のカラーイラストを収録し、巻末には漫画も掲載。",
+      release_date: "",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1126.jpg"},
+
+{
+      title: "Cardcaptor Sakura: Master of the Clow, Vol. 5",
+      author: "CLAMP",
+      synopsis: "Capturing Cards was only the beginning...Once upon a magic night, an English sorcerer mixed Western wizardry with Eastern enchantments to create a magical deck of cards called the Clow Cards. These cards were hidden inside a dusty old book for decades, their powers virtually wasted. Then one fateful day, a young girl named Sakura Kinomoto discovered the book in her father's library. When she opened it, however, the Clow Cards were gone--and so was life as she knew it. The book's magical guardian, Cerberus, declared Sakura the Cardcaptor, and after many exciting adventures, she finally retrieved all of the cards. Now Sakura has earned the title Master of the Clow.The dreams come stronger now to young Sakura. Tokyo Tower... a city asleep... the sun eclipsed by the moon... Kero says it's a premonition, but what does it all mean? It must have something to with Clow Reed—it seems like everything is connected to him these days. He supposedly died many years ago, but his spirit has been present at all of the magical challenges Sakura's faced of late. Why would Clow attack Sakura? Kero chose her to be the new Master of the Clow! Unless that means... Kero chose the wrong heir? It's time for Sakura to face her mysterious opponent and find out once and for all.",
+      release_date: "February 18th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1127.jpg"},
+
+{
+      title: "Cardcaptor Sakura: Master of the Clow, Vol. 6",
+      author: "CLAMP",
+      synopsis: "Capturing Cards was only the beginning...Once upon a magic night, an English sorcerer mixed Western wizardry with Eastern enchantments to create a magical deck of cards called the Clow Cards. These cards were hidden inside a dusty old book for decades, their powers virtually wasted. Then one fateful day, a young girl named Sakura Kinomoto discovered the book in her father's library. When she opened it, however, the Clow Cards were gone--and so was life as she knew it. The book's magical guardian, Cerberus, declared Sakura the Cardcaptor, and after many exciting adventures, she finally retrieved all of the cards. Now Sakura has earned the title Master of the Clow.Eriol Hiiragazawa, the source of power behind Sakura's recent trials, is returning to England. The ordeals that Sakura had to endure since capturing the Clow Cards enabled her to fully realize her magical potential, and now that Clow's mystery has been revealed and his heir determined, the Cardcaptor's journey is over. So why is it that Sakura still feels empty? When Li Syaoran announces that he must return to Hong Kong, Sakura must come to terms with her feelings before she loses her friend forever. Up until now, Sakura relied on the power of her star to guide her. For this, her final adventure, she must trust in the power of her heart.",
+      release_date: "July 26th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1128.jpg"},
+
+{
+      title: "Cardcaptor Sakura, Omnibus 1",
+      author: "CLAMP",
+      synopsis: "Fourth grader Sakura Kinomoto finds a strange book in her father's library -- a book made by the wizard Clow to store dangerous spirits sealed within a set of magical cards. But when Sakura opens it up, there is nothing left inside but Kero-chan, the book's cute little guardian beast . . . who informs Sakura that since the Clow cards seem to have escaped while he was asleep, it's now her job to capture them!",
+      release_date: "October 7th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1129.jpg"},
+
+{
+      title: "Cardcaptor Sakura, Omnibus 3",
+      author: "CLAMP",
+      synopsis: "Now that Sakura has proven herself as a magician, she finds that there are other unnatural forces threatening her town... forces linked, somehow, to two mysterious transfer students who''ve just arrived - one attracted to her brother, the other attracted to her Li and Sakura may be friends now instead of rivals, but if there''s a rival for Sakura''s affections, is he going back to Hong Kong?",
+      release_date: "February 1st 2012",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1130.jpg"},
+
+{
+      title: "The Art of Cardcaptor Sakura, Vol. 3",
+      author: "CLAMP",
+      synopsis: "Cardcaptor Sakura was the top-selling girls manga in Japan, and it's become the top-selling girls manga in America, too Now fans can collect all of the full-color artwork from Clamp featuring their favorite characters. Each volume of the Art of Cardcaptor Sakura contains over 100 full color pictures from the series, most of which have never before been seen in America.",
+      release_date: "December 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1131.jpg"},
+
+      [genres[4], genres[17]]
       ],
