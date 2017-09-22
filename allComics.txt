@@ -2337,3 +2337,207 @@ allComics = [
 
       [genres[0], genres[7], genres[9]]
       ],
+      [
+
+{
+      title: "Bleach, Volume 25",
+      author: "Tite Kubo",
+      synopsis: "No Shaking Throne: Ichigo's recent battles with the Arrancars have proven that if he wants to protect his friends he must get stronger, and the only way to do that is to control his inner Hollow. Ichigo turns to the Visoreds, ex-Soul Reapers who have been Hollowfied, to teach him. But before his training begins, Ichigo must do battle against his Hollow self—winner takes his soul!",
+      release_date: "December 4th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1306.jpg"},
+
+{
+      title: "Bleach, Volume 14",
+      author: "Tite Kubo",
+      synopsis: "White Tower Rocks: Ichigo and Yoruichi race to save Ichigo's friends from Rukia's cold-blooded brother, Byakuya Kukichi. They arrive to find Ganju in tatters, and Rukia with him. Ichigo is bent on defeating her brother this time, but he is nowhere near prepared. Can he learn decades' worth of skill in just a matter of days?",
+      release_date: "September 3rd 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1307.jpg"},
+
+{
+      title: "Bleach, Volume 26",
+      author: "Tite Kubo",
+      synopsis: "The Mascaron Drive: Ichigo and all his friends are training like mad, spurred on by the looming threat of Aizen's wicked plans. But while Uryū and Chad increase their powers, Orihime finds out that she has to sit out the coming fight, leaving her friends without her protection. And Ichigo, despite his intensive training with the Vizards, can't control his Hollowfied self long enough to battle. With the war against the Arrancars ramping up, can the team afford to have two fighters on the sidelines?",
+      release_date: "February 2nd 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1308.jpg"},
+
+{
+      title: "Bleach, Volume 03",
+      author: "Tite Kubo",
+      synopsis: "Memories in the Rain: Ichigo Kurosaki was a little boy when his mother passed away. One rainy day, Ichigo, whose ability top see the undead is a blessing and curse, tried to stop young girl from drowning in a nearby river. His mother, Masaki, ran after them, frantically trying to rescue her only son. Then everything went black, and Ichigo awoke only to discover his mother dead and the little girl gone. It's the anniversary of Masaki's death, and the entire Kurosaki clan, along with former Soul Reaper Rukia Kuchiki, head to the cemetary to pay their respects. Sleeping demons rarely ever stay still and pretty soon Ichigo confronts the Grand Fisher, the Hollow that may be responsible for his mother's demise.",
+      release_date: "June 4th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1309.jpg"},
+
+{
+      title: "Bleach, Volume 29",
+      author: "Tite Kubo",
+      synopsis: "The Slashing Opera: Ichigo and his friends knew invading Hueco Mundo wouldn't be easy, but even the lesser Arrancars are pushing them to their limits! Can Ichigo, Uryū and Chad find the inner strength to overcome the first line of attack, or will Orihime be stuck in Hueco Mundo forever?!",
+      release_date: "August 3rd 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1310.jpg"},
+
+{
+      title: "Bleach, Volume 04",
+      author: "Tite Kubo",
+      synopsis: "Quincy Archer Hates You: A new reality-show craze is sweeping the nation, garnering legions of screaming fans (the majority of them being teenaged girls). But this program comes with a supernatural twist - the host, a media-savvy spiritualist, travels to local hotspots and performs exorcisms, live on national TV! Surly Soul Reaper Ichigo Kurosaki has his doubts about this primetime prima donna, and his assumptions are about to be put to the test - the show is heading straight for his neighborhood. what effect will this unprovoked media presence have on the fragile balance between Earth and the spirit world?",
+      release_date: "September 4th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1311.jpg"},
+
+{
+      title: "Bleach, Volume 19",
+      author: "Tite Kubo",
+      synopsis: "The Black Moon Rising: The long-awaited showdown between Ichigo and Byakuya Kuchiki has finally begun. Has Ichigo succeeded in mastering , the highest level of power that a Soul Reaper can attain, to face Byakuya as an equal?In the aftermath of Rukia's last-minute rescue, Yoruichi faces her former subordinate Soi Fun in mortal combat, while the 13 Court Guard Companies teeter on the brink of civil war. Meanwhile, Ichigo and Byakuya Kuchiki square off in the final bloody duel that will decide Rukia's fate - and their own!",
+      release_date: "October 4th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1312.jpg"},
+
+{
+      title: "Bleach, Volume 01",
+      author: "Tite Kubo",
+      synopsis: "Hot-tempered 15-year-old Ichigo Kurosaki, the hero of the popular fantasy-adventure , has the unsettling ability to see spirits who are unable to rest in peace. His sixth sense leads him to Rukia, a Soul Reaper who destroys  (soul-devouring monsters) and ensures the deceased find repose with the Soul Society. When she's injured in battle, Rukia transfers her sword and much of her power to Ichigo, whose spiritual energy makes him a formidable substitute Soul Reaper. But the orange-haired teenager isn't sure he wants the job: too many risks and moral dilemmas.",
+      release_date: "January 5th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1313.jpg"},
+
+{
+      title: "Bleach, Volume 24",
+      author: "Tite Kubo",
+      synopsis: "Immanent God Blues: Ichigo and the Soul Reapers wage a furious battle against the Arrancars who are attacking Karakura Town. But this enemy is unlike anything they have ever fought before, and these aren't even the strongest of the Arrancars! If Ichigo and his friends can barely face them, how can they hope to fight off the elite Arrancar warriors, the dreaded Espada?",
+      release_date: "October 4th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1314.jpg"},
+
+{
+      title: "Bleach, Volume 05",
+      author: "Tite Kubo",
+      synopsis: "Right Arm of the Giant: Ichigo Kurosaki thought that Soul Reapers were the only ones hunting Hollows, but he was wrong. Enter Uryū Ishida, a Quincy, and possibly the last member of a powerful clan that died out over 200 years ago. Unlike Soul Reapers who strive to cleanse Hollows of their sins and send them to the Soul Society, Quincies adopt a more direct approach - they kill Hollows without hesitation. To demonstrate the supremacy of the Quincies' ways, Uryū challenges Ichigo to a contest - bait is spread around the city, attracting a large number of unstable Hollows. Whoever defeats the most wins, regardless of the danger. Also, Orihime and Chad, confronted with a host of Hollows terrorizing their friends, awaken to their own psychic abilities. Who is the strongest? Find this out and more in the action-packed fifth volume of Tite Kubo's !",
+      release_date: "November 1st 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1315.jpg"},
+
+{
+      title: "Bleach, Volume 13",
+      author: "Tite Kubo",
+      synopsis: "The Undead: Chad has stormed his way into the heart of the Soul Society, the Seireitei, only to meet his match in the devastatingly efficient Captain Kyôraku. Meanwhile, Ichigo struggles in his battle against Kenpachi Zaraki, the captain of the 11th company. Although Ichigo succeeds in drawing blood, the secret of Kenpachi's zanpaku-tô may be his undoing. Before Ichigo realizes it, Kenpachi's blade has pierced his heart!",
+      release_date: "June 4th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1316.jpg"},
+
+{
+      title: "Bleach, Volume 11",
+      author: "Tite Kubo",
+      synopsis: "A Star and a Stray Dog: Ichigo successfully defeats Ikkaku of the Eleventh Company and is rewarded with a valuable piece of information - the location of where Rukia is being detained as she awaits execution. However, Ichigo's companion, the pyrotechnics-wielding Ganju, is having a much harder time with his Soul Reaper opponent. Meanwhile, Orihime and Uryū confront the younger brother of the gargantuan gatekeeper whom Ichigo defeated a little while ago. It's time for Uryū to put all his training to the test and prove to everyone (and himself) how much more powerful he has become.",
+      release_date: "December 19th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1317.jpg"},
+
+{
+      title: "Bleach, Volume 09",
+      author: "Tite Kubo",
+      synopsis: "Fourteen Days For Conspiracy: The race to save Rukia from the Soul Society is officially on, and Ichigo and company have come to their first roadblock, a very, very big roadblock. Jindanbô, the monstrous, fez-sporting gatekeeper hasn't let a single soul enter the Western Gate he guards in over 300 years, and he isn't about to change his mind about it just because Ichigo's crew wants to go through either. But, in a where-the-rubber-meets-the-road kind of way, Ichigo wasn't expecting his assault on the Soul Society to be a piece of cake either. After all, that'd just be boring.",
+      release_date: "August 4th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1318.jpg"},
+
+{
+      title: "Bleach, Volume 23",
+      author: "Tite Kubo",
+      synopsis: "The Arrancars: Hollows that have attained Soul Reaper-like powers, have descended on Karakura Town. Led by Grimmjow Jaegerjaques, they plan to eliminate anyone who poses a threat to them. And their deadly hunt doesn't stop with Ichigo and the Soul Reapers--the Arrancars are after anyone with even a trace of spiritual powers!",
+      release_date: "August 4th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1319.jpg"},
+
+{
+      title: "Bleach, Volume 06",
+      author: "Tite Kubo",
+      synopsis: "The Death Trilogy Overture: Now Ichigo finds himself in a deadly contest with Uryū Ishida, a 'Quincy' who hates Soul Reapers - whoever defeats the most Hollows wins! But in no time the neighborhood of Karakura is swarming with ravenous Hollows!!",
+      release_date: "December 20th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1320.jpg"},
+
+{
+      title: "Bleach, Volume 12",
+      author: "Tite Kubo",
+      synopsis: "Flower on the Precipice: With reports of powerful intruders defeating a number of assistant captains, the inner sanctum of the Soul Society - the Seireitei, the home of the Soul Reapers - is put on a state of high alert. Matters are further compounded by the mysterious death of a prominent captain. Is his death a cover-up to prevent a valuable secret from being exposed? Meanwhile, Ichigo confronts Kenpachi Zaraki, captain of the eleventh company, and by far the most brutal fighter in the Seireitei!",
+      release_date: "March 4th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1321.jpg"},
+
+{
+      title: "Bleach, Volume 15",
+      author: "Tite Kubo",
+      synopsis: "Beginning of the Death of Tomorrow: During a bloody confrontation with a sadistic Soul Reaper, Uryu chooses a path that will temporarily grant him enormous power, at great personal cost. Meanwhile, Ichigo races to master a powerful technique that will help him fight Byakuya and, hopefully, save Rukia from execution.",
+      release_date: "December 3rd 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1322.jpg"},
+
+{
+      title: "Bleach, Volume 07",
+      author: "Tite Kubo",
+      synopsis: "The Broken Coda: Rukia Kuchiki, the ex-Soul Reaper responsible for Ichigo's transformation, is on the lam. Her brethren at the Soul Society are quite displeased with the fact that she transferred the powers of a Soul Reaper to a human and have dispatched two of their strongest agents to neutralize the situation. Their mission is twofold: to return Rukia to the Soul Society so that she may pay for her crime and to deal with Ichigo - permanently. But an unlikely third party is standing in their way: Uryū Ishida, the Quincy!",
+      release_date: "March 4th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1323.jpg"},
+
+{
+      title: "Bleach, Volume 08",
+      author: "Tite Kubo",
+      synopsis: "The Blade and Me: Ichigo knows that to retrieve Rukia from the Soul Society, he'll have to enter that world himself. But his fight with Rukia's brother Byakuya showed, in no uncertain terms, that Ichigo still has a great deal of rigorous study and training ahead of him. Deep beneath Kisuke's Urahara Shoten, Ichigo practices his fighting and hones his spiritual energies, and now he must face the most daunting challenge of all: prevent his Chain of Fate from consuming itself, or be forever transformed into a soul-devouring Hollow!",
+      release_date: "June 4th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1324.jpg"},
+
+{
+      title: "Bleach, Volume 18",
+      author: "Tite Kubo",
+      synopsis: "The Deathberry Returns: The execution of Ichigo's friend Rukia has begun, yet Ichigo himself is nowhere in sight. In a matter of seconds, the power of one million zanpaku-to will slice through Rukia as punishment for sharing her Soul Reaper powers with Ichigo. Is this really how things are going to end?!",
+      release_date: "August 4th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1325.jpg"},
+
+{
+      title: "Bleach, Volume 22",
+      author: "Tite Kubo",
+      synopsis: "Conquistadores: The noose is tightening around Ichigo. His inner Hollow can't wait to consume him, the sinister transfer student has him tapped for a mysterious job, and now powerful new enemies have landed in his hometown to destroy him.After a fateful encounter with Soul Reaper, Rukia Kuchiki, Ichigo becomes a Soul Reaper himself. So, when Rukia is arrested and sentenced to death, Ichigo travels to the Soul Society to rescue her; and in the process uncovers a fiendish plot. But the conspirators escape and Ichigo returns to the world of the the living.Now a Deputy Soul Reaper, Ichigo spends his days fighting Hollows. But his life soon gets even more bizarre with the appearance of a new menace, the Arrancar; and the discovery that his own father is a Soul Reaper! And still more disturbing, Ichigo is confronted with the possibility that his own inner demon may be far more terrible than he ever imagined.",
+      release_date: "May 2nd 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1326.jpg"},
+
+{
+      title: "Bleach, Volume 16",
+      author: "Tite Kubo",
+      synopsis: "Night of Wijnruit: The scheduled execution of former Soul Reaper Rukia Kuchiki has been moved up and is now just hours away. Meanwhile, the Soul Society is in chaos, with Soul Reapers drawing swords against one another. Something is rotting at the core of the Soul Society, but who, or what, could be behind it?",
+      release_date: "March 4th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1327.jpg"},
+
+{
+      title: "Bleach, Volume 10",
+      author: "Tite Kubo",
+      synopsis: "Tattoo on the Sky: With the help of Kūkaku - a one-armed explosives expert and old friend of the mysterious talking cat Yoruichi - Ichigo and crew are one step closer to infiltrating the Soul Society and rescuing their friend Rukia before she is executed. For Kūkaku's plan to work, Ichigo must control his enormous reservoir of spiritual energy - and there's no telling how much collateral damage this will cause. Meanwhile, the Soul Society hasn't been twiddling their collective thumbs, and quickly dispatches a delegation of captains to give the unwanted visitors the rudest of welcomings imaginable.",
+      release_date: "November 4th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1328.jpg"},
+
+{
+      title: "Bleach, Volume 02",
+      author: "Tite Kubo",
+      synopsis: "Goodbye Parakeet, Good Night My Sister: Immediately after checking into the Kurosaki Clinic with a mysterious scar on his back, the muscle-bound Chad goes AWOL. Accompanying Chad is a talking parakeet imbued with the soul of a young boy named Yūichi. It doesn't take newbie Soul Reaper Ichigo Kurosaki long to surmise that a Hollow must be involved. By far the strongest spirit he's faced to date, Ichigo is about to discover that not every soul is bound for the Soul Society, especially if it's tainted with innocent blood.",
+      release_date: "March 4th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1329.jpg"},
+
+{
+      title: "Bleach, Volume 28",
+      author: "Tite Kubo",
+      synopsis: "Baron's Lecture Full-Course: Ichigo, Chad and Uryū are determined to rescue Orihime from Aizen's vile machinations. But though the Arrancars' fortress is in sight, the would-be heroes must first pass Tres Cifras--the land of the disgraced Arrancars, who see destroying Ichigo and his friends as a way to redeem their honor!",
+      release_date: "June 4th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1330.jpg"},
+
+{
+      title: "Bleach, Volume 17",
+      author: "Tite Kubo",
+      synopsis: "Rosa Rubicundior, Lilio Candidior: The rebellion within the Soul Society grows as doubts spread about the death sentence of ex-Soul Reaper Rukia Kuchiki. Determined to save her, Rukia's childhood friend Renji vows to cut down the captain of his own squad, unaware of the terrifying fate that awaits him.",
+      release_date: "June 3rd 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1331.jpg"},
+
+{
+      title: "Bleach, Volume 20",
+      author: "Tite Kubo",
+      synopsis: "End of Hypnosis: The shocking truth behind the collapse of the Soul Society is finally revealed! The magnitude of the conspiracy is far-reaching, and the perpetrators wield staggering power. Is this the end of the Soul Society?Having achieved Bankai, Ichigo rescues Rukia in the nick of time and defeats the fearsome Byakuya Kuchiki!Meanwhile, Soul Reaper Tōshirō Hitsugaya discovers the corpses of the Council of 46 and hurries to get to Momo before the murderer does! And as Rukia and Renji race for safety, they find themselves facing a foe far worse than those they have fled ...",
+      release_date: "December 2nd 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1332.jpg"},
+
+{
+      title: "Bleach, Volume 60",
+      author: "Tite Kubo",
+      synopsis: "Everything But the Rain: As the rain falls in Karakura Town, Isshin faces off against a mysterious Black Hollow. But when a familiar face joins the fight, Isshin will need all the help he can get. Ichigo's dark past is revealed, but can he recover from the shock of finally learning the truth?!",
+      release_date: "August 2nd 2013",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1333.jpg"},
+
+{
+      title: "Bleach, Volume 21",
+      author: "Tite Kubo",
+      synopsis: "Be My Family or Not: Ichigo and his friends return to the World of the Living, where life goes on as usual. But the arrival of a new transfer student raises disturbing questions, for outside school he carries a zanpaku-tô and wears the mask of a Hollow...  ",
+      release_date: "March 3rd 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1334.jpg"},
