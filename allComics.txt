@@ -7,8 +7,8 @@ Add appropriate genres
 
 
 Comedy, Romance
-Themes: School Life
-[genres[13], genres[14], genres[15]]
+Themes: Fan Service, Harem, School Life, Supernatural
+[genres[13], genres[14], genres[15], genres[18]]
 Add ], to close series array
 
 Fantasy
@@ -46,7 +46,8 @@ This array allows us to keep the naming more consistent
   18'Supernatural',
   19'Sports',
   20'Powers',
-  21'Horror'
+  21'Horror',
+  22'Harem'
  ]
 ///
 // remember to add the ending bracket for allComics!!!
@@ -3606,4 +3607,71 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1481.jpg"},
 
       [genres[13], genres[14], genres[15]]
+      ],
+      [
+
+{
+      title: "Rosario+Vampire, Vol. 10",
+      author: "Akihisa Ikeda",
+      synopsis: "All-around average teenager Tsukune can't get accepted to any high school save one...but on his first day, he finds the  of the student body doesn't appear average in the least. Best of all, the cutest girl on campus can't wait to fling her arms around his neck! Wait a sec'--are those her teeth around his neck too...? Tsukune's going to have one heck of a hickey when he gets home from Monster High! But does he have a chance in H-E-double-hockey-sticks of raising his grades at a school where the turf war isn't between the jocks and the nerds but the vampires and the werewolves?",
+      release_date: "October 4th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1482.jpg"},
+
+{
+      title: "Rosario+Vampire, Vol. 7",
+      author: "Akihisa Ikeda",
+      synopsis: "All-around average teenager Tsukune can't get accepted to any high school save one...but on his first day he finds the rest of the student body doesn't appear average in the least. Best of all, the cutest girl on campus can't wait to fling her arms around his neck! Wait a sec'--are those her teeth around his neck too...? Tsukune's going to have one heck of a hickey when he gets home from Monster High! But does he have a chance in H E double hockey sticks of raising his grades at a school where the turf war isn't between the jocks and the nerds but the vampires and the werewolves?",
+      release_date: "October 4th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1483.jpg"},
+
+{
+      title: "Rosario+Vampire, Vol. 6",
+      author: "Akihisa Ikeda",
+      synopsis: "All-around average teenager Tsukune can't get accepted to any high school save one...but on his first day he finds the rest of the student body doesn't appear average in the least. Best of all, the cutest girl on campus can't wait to fling her arms around his neck! Wait a sec'--are those her teeth around his neck too...? Tsukune's going to have one heck of a hickey when he gets home from Monster High! But does he have a chance in H E double hockey sticks of raising his grades at a school where the turf war isn't between the jocks and the nerds but the vampires and the werewolves?",
+      release_date: "June 2nd 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1484.jpg"},
+
+{
+      title: "Rosario+Vampire, Vol. 3",
+      author: "Akihisa Ikeda",
+      synopsis: "All-around average teenager Tsukune can't get accepted to any high school save one...but on his first day he finds the rest of the student body doesn't appear average in the least. Best of all, the cutest girl on campus can't wait to fling her arms around his neck! Wait a sec'--are those her teeth around his neck too...? Tsukune's going to have one heck of a hickey when he gets home from Monster High! But does he have a chance in H E double hockey sticks of raising his grades at a school where the turf war isn't between the jocks and the nerds but the vampires and the werewolves?",
+      release_date: "June 3rd 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1485.jpg"},
+
+{
+      title: "Rosario+Vampire, Vol. 2",
+      author: "Akihisa Ikeda",
+      synopsis: "All-around average teenager Tsukune can't get accepted to any high school save one...but on his first day, he finds the rest of the student body doesn't appear average in the least. Best of all, the cutest girl on campus can't wait to fling her arms around his neck! Wait a sec'--are those her teeth around his neck too...? Tsukune's going to have one heck of a hickey when he gets home from Monster High! But does he have a chance in H-E-double-hockey-sticks of raising his grades at a school where the turf war isn't between the jocks and the nerds but the vampires and the werewolves?",
+      release_date: "February 4th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1486.jpg"},
+
+{
+      title: "Rosario+Vampire, Vol. 5",
+      author: "Akihisa Ikeda",
+      synopsis: "All-around average teenager Tsukune can't get accepted to any high school save one...but on his first day he finds the rest of the student body doesn't appear average in the least. Best of all, the cutest girl on campus can't wait to fling her arms around his neck! Wait a sec'--are those her teeth around his neck too...? Tsukune's going to have one heck of a hickey when he gets home from Monster High! But does he have a chance in H E double hockey sticks of raising his grades at a school where the turf war isn't between the jocks and the nerds but the vampires and the werewolves?",
+      release_date: "February 3rd 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1487.jpg"},
+
+{
+      title: "Rosario+Vampire, Vol. 1",
+      author: "Akihisa Ikeda",
+      synopsis: "All-around average teenager Tsukune can't get accepted to any high school save one...but on his first day, he finds the rest of the student body doesn't appear average in the least. Best of all, the cutest girl on campus can't wait to fling her arms around his neck! Wait a sec'--are those her teeth around his neck too...? Tsukune's going to have one heck of a hickey when he gets home from Monster High! But does he have a chance in H-E-double-hockey-sticks of raising his grades at a school where the turf war isn't between the jocks and the nerds but the vampires and the werewolves?",
+      release_date: "October 4th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1488.jpg"},
+
+{
+      title: "Rosario+Vampire, Vol. 8",
+      author: "Akihisa Ikeda",
+      synopsis: "All-around average teenager Tsukune can't get accepted to any high school save one...but on his first day he finds the rest of the student body doesn't appear average in the least. Best of all, the cutest girl on campus can't wait to fling her arms around his neck! Wait a sec'--are those her teeth around his neck too...? Tsukune's going to have one heck of a hickey when he gets home from Monster High! But does he have a chance in H E double hockey sticks of raising his grades at a school where the turf war isn't between the jocks and the nerds but the vampires and the werewolves?",
+      release_date: "February 2nd 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1489.jpg"},
+
+{
+      title: "Rosario+Vampire, Vol. 4",
+      author: "Akihisa Ikeda",
+      synopsis: "All-around average teenager Tsukune can't get accepted to any high school save one...but on his first day he finds the rest of the student body doesn't appear average in the least. Best of all, the cutest girl on campus can't wait to fling her arms around his neck! Wait a sec'--are those her teeth around his neck too...? Tsukune's going to have one heck of a hickey when he gets home from Monster High! But does he have a chance in H E double hockey sticks of raising his grades at a school where the turf war isn't between the jocks and the nerds but the vampires and the werewolves?",
+      release_date: "October 4th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1490.jpg"},
+
+      [genres[13], genres[14], genres[15], genres[18], genres[22]]
       ],
