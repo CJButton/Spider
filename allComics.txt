@@ -8,7 +8,6 @@ allComics = [
 }
 
  */}
-
 This array allows us to keep the naming more consistent
  const genres = [
   0'Action',
@@ -21,7 +20,157 @@ This array allows us to keep the naming more consistent
   7'Drama',
   8'Mystery'
  ]
-
+///
 // remember to add the ending bracket for allComics!!!
+///
+[genres[0], genres[5], genres[6]]
+],
 
-const allComics = [
+allComics = [
+      [
+{
+      title: "Neon Genesis Evangelion, Vol. 13",
+      author: "Yoshiyuki Sadamoto",
+      synopsis: "Japan's most controversial anime series is over...but not the manga version of Neon Genesis Evangelion! Series co-creator Yoshiyuki Sadamoto's personal interpretation of the Evangelion characters and story is sure to intrigue new and old fans alike. In 2015, the 'Angels' have returned, and Shinji Ikari, a fourteen year-old child of the new Earth, is forced by his father Gendo--commander of the secret organization NERV--to pilot the monstrous biomechanical weapon called 'Evangelion' to match the Angels' fearsome power...",
+      release_date: "(first published November 2nd 2012)",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1001.jpg"},
+
+{
+      title: "Neon Genesis Evangelion: 3-in-1 Edition, Vol. 4",
+      author: "Yoshiyuki Sadamoto",
+      synopsis: "The classic series, now available in a deluxe omnibus edition!The manga adaptation of the landmark animated series that changed the mecha genre. Each volume contains three of the original graphic novels and includes pages of stunning, full-color art.  Once Shinji didn’t care about anything; then he found people to fight for—only to learn that he couldn’t protect them, or keep those he let into his heart from going away. As mankind tilts on the brink of the apocalyptic Third Impact, human feelings are fault lines leading to destruction and just maybe, redemption and rebirth.",
+      release_date: "8/13/2013",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1002.jpg"},
+
+{
+      title: "Neon Genesis Evangelion, Vol. 9",
+      author: "Yoshiyuki Sadamoto",
+      synopsis: " Japan's most controversial anime series is over...but not the manga version of Neon Genesis Evangelion! Series co-creator Yoshiyuki Sadamoto's personal interpretation of the Evangelion characters and story is sure to intrigue new and old fans alike. In 2015, the ''Angels'' have returned, and Shinji Ikari, a fourteen year-old child of the new Earth, is forced by his father Gendo--commander of the secret organization NERV--to pilot the monstrous biomechanical weapon called ''Evangelion'' to match the Angels' fearsome power...",
+      release_date: "(first published April 3rd 2004)",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1003.jpg"},
+
+{
+      title: "Neon Genesis Evangelion, Vol. 14",
+      author: "Yoshiyuki Sadamoto",
+      synopsis: "Japan's most controversial anime series is over...but not the manga version of Neon Genesis Evangelion! Series co-creator Yoshiyuki Sadamoto's personal interpretation of the Evangelion characters and story is sure to intrigue new and old fans alike. In 2015, the 'Angels' have returned, and Shinji Ikari, a fourteen year-old child of the new Earth, is forced by his father Gendo--commander of the secret organization NERV--to pilot the monstrous biomechanical weapon called 'Evangelion' to match the Angels' fearsome power... The Third Impact has come. As the unbelievably massive form of Ayanami towers over the Earth, the Instrumentality Project enters its last stages. While the world shudders in terror as it is engulfed in a sea of LCL, Shinji's consciousness merges with Lilith';s, and he searches his memories for a final understanding of himself and the fate of humanity.",
+      release_date: "(first published November 1st 2014)",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1004.jpg"},
+
+{
+      title: "Neon Genesis Evangelion: 3-in-1 Edition, Vol. 3",
+      author: "Yoshiyuki Sadamoto",
+      synopsis: "The manga adaptation of the landmark animated series that changed the mecha genre. Each volume contains three of the original graphic novels and includes pages of stunning, full-color art.  Once Shinji didn’t care about anything; then he found people to fight for—only to learn that he couldn’t protect them or keep those he let into his heart from going away. As mankind tilts on the brink of the apocalyptic Third Impact, human feelings are fault lines leading to destruction and just maybe, redemption and rebirth.",
+      release_date: "5/14/2013",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1005.jpg"},
+
+{
+      title: "Neon Genesis Evangelion, Vol. 5",
+      author: "Yoshiyuki Sadamoto",
+      synopsis: "With half the human race dead, a handful of teenagers pilot the colossal superentities known as Evangelions and battle the mysterious giant Angels. But even they are not prepared for the appearance of a giant eye in the heavens that heralds the Angels latest and deadliest assault.",
+      release_date: "(first published December 17th 1999)",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1006.jpg"},
+
+{
+      title: "Neon Genesis Evangelion, Vol. 12",
+      author: "Yoshiyuki Sadamoto",
+      synopsis: "Japan's most controversial anime series is over...but not the manga version of Neon Genesis Evangelion! Series co-creator Yoshiyuki Sadamoto's personal interpretation of the Evangelion characters and story is sure to intrigue new and old fans alike. In 2015, the ''Angels'' have returned, and Shinji Ikari, a fourteen year-old child of the new Earth, is forced by his father Gendo--commander of the secret organization NERV--to pilot the monstrous biomechanical weapon called ''Evangelion'' to match the Angels' fearsome power...",
+      release_date: "(first published March 31st 2010)",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1007.jpg"},
+
+{
+      title: "Neon Genesis Evangelion, Vol. 6",
+      author: "Yoshiyuki Sadamoto",
+      synopsis: "It's NERV against the Angels in the battle to control Earth in 2015. During a lull in the fighting, Commander Ikari and Ritsuko prepare for the delivery of Unit-03. But no one is prepared when Unit-03 reveals itself as the next Angel.",
+      release_date: "(first published December 15th 2000)",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1008.jpg"},
+
+{
+      title: "Neon Genesis Evangelion 2-in-1 Edition, Vol. 5: Includes vols. 13  14",
+      author: "Yoshiyuki Sadamoto",
+      synopsis: "The manga adaptation of the landmark animated series that changed the mecha genre. This volume contains two of the original graphic novels and includes pages of stunning, full-color art. The Instrumentality Project comes to its apocalyptic conclusion. With the earth now covered in a sea of LCL, every human consciousness in the world has become one—a combined entity waiting to be reborn. Deep within Lilith, Shinji comes face-to-face with everything he ever knew, loved and feared. The fate of the world is in his hands, and the choice he makes will doom or redeem humanity. Everything ends here. Everything begins here. This is the epic finale of !",
+      release_date: "6/14/2016",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1009.jpg"},
+
+{
+      title: "Der Mond: The Art of Neon Genesis Evangelion",
+      author: "Yoshiyuki Sadamoto",
+      synopsis: "New look, a hard cover version for Der Mond!",
+      release_date: "(first published September 1999)",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1010.jpg"},
+
+{
+      title: "Neon Genesis Evangelion, Vol. 10",
+      author: "Yoshiyuki Sadamoto",
+      synopsis: "Japan's most controversial anime series is over...but not the manga version of Neon Genesis Evangelion! Series co-creator Yoshiyuki Sadamoto's personal interpretation of the Evangelion characters and story is sure to intrigue new and old fans alike.In 2015, the 'Angels' have returned, and Shinji Ikari, a fourteen year-old child of the new Earth, is forced by his father Gendo--commander of the secret organization NERV--to pilot the monstrous biomechanical weapon called 'Evangelion' to match the Angels' fearsome power...",
+      release_date: "(first published February 25th 2006)",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1011.jpg"},
+
+{
+      title: "Neon Genesis Evangelion, Vol. 11",
+      author: "Yoshiyuki Sadamoto",
+      synopsis: "In 2015, the 'Angels' have returned, and Shinji Ikari, a fourteen year-old child of the new Earth, is forced by his father Gendo--commander of the secret organization NERV--to pilot the monstrous biomechanical weapon called 'Evangelion' to match the Angels' fearsome power...",
+      release_date: "(first published June 19th 2007)",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1012.jpg"},
+
+{
+      title: "Neon Genesis Evangelion: 3-in-1 Edition, Vol. 1",
+      author: "Yoshiyuki Sadamoto",
+      synopsis: "The classic series, now available in a deluxe omnibus edition!The manga adaptation of the landmark animated series that changed the mecha genre. Each volume contains three of the original graphic novels and includes pages of stunning, full-color art. Once Shinji didn't care about anything; then he found people to fight for--only to learn that he couldn't protect them, or keep those he let into his heart from going away. As mankind tilts on the brink of the apocalyptic Third Impact, human feelings are fault lines leading to destruction and just maybe, redemption and rebirth.",
+      release_date: "(first published November 6th 2012)",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1013.jpg"},
+
+{
+      title: "Neon Genesis Evangelion, Vol. 4",
+      author: "Yoshiyuki Sadamoto",
+      synopsis: "Japan's most controversial anime series is over...but not the manga version of Neon Genesis Evangelion! Series co-creator Yoshiyuki Sadamoto's personal interpretation of the Evangelion characters and story is sure to intrigue new and old fans alike. In 2015, the 'Angels' have returned, and Shinji Ikari, a fourteen year-old child of the new Earth, is forced by his father Gendo-commander of the secret organization NERV-to pilot the monstrous biomechanical weapon called 'Evangelion' to match the Angels' fearsome power. As a carrier fleet steams towards Japan carrying a mysterious embryonic form linked to the true origins of the human race, a hurricane is about to blow down Shinji's momentary peace: the wind through the red hair of Asuka Langley Soryu, the new Eva pilot arriving in Tokyo-3...One of the founding members of Gainax, Japan's most progressive anime studio, Evangelion's Yoshiyuki Sadamoto was also the character designer for their recent Adult Swim smash FLCL. EVA Vol. 4 contains a Japanese sound FX glossary plus a special bonus interview with the voice of Asuka, Battle Royale's Yuko Miyamura!",
+      release_date: "(first published October 1st 1997)",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1014.jpg"},
+
+{
+      title: "Neon Genesis Evangelion, Vol. 2",
+      author: "Yoshiyuki Sadamoto",
+      synopsis: "Neon Genesis Evangelion is the most controversial -- and some say the best -- anime of the decade. Set in the year 2015 when humanity faces a terrifying last judgment from mysterious giant 'Angels, ' the series has been acclaimed for its original story line, direct psychological content, and self-referential examination of the genre.",
+      release_date: "(first published October 29th 1995)",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1015.jpg"},
+
+{
+      title: "Neon Genesis Evangelion, Vol. 7",
+      author: "Yoshiyuki Sadamoto",
+      synopsis: "- From the character designer of the recent Adult Swim smash FLCL.- Part of the Neon Genesis Evangelion phenomenon - the most talked about anime show of the last ten years!- Broadcasted nationwide in Japan by TV Tokyo in 1995-96 and re-run seven times. Final episode had audience of 10 million!- Video sales of US $80MM, merchandise sales US$400MM -- video and soundtrack CDs available in the US.- The film The End Of Evangelion won Japanese Academy Award in 1997.",
+      release_date: "(first published December 1st 2001)",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1016.jpg"},
+
+{
+      title: "Neon Genesis Evangelion: 3-in-1 Edition, Vol. 2",
+      author: "Yoshiyuki Sadamoto",
+      synopsis: "The manga adaptation of the landmark animated series that changed the mecha genre. Each volume contains three of the original graphic novels and includes pages of stunning, full-color art.  Once Shinji didn’t care about anything; then he found people to fight for—only to learn that he couldn’t protect them, or keep those he let into his heart from going away. As mankind tilts on the brink of the apocalyptic Third Impact, human feelings are fault lines leading to destruction and just maybe, redemption and rebirth.",
+      release_date: " 3/12/2013",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1017.jpg"},
+
+{
+      title: "Neon Genesis Evangelion, Vol. 1",
+      author: "Yoshiyuki Sadamoto",
+      synopsis: "Evangelion, Vol. 1, contains a Japanese sound FX glossary plus special bonus commentary by series mecha designer Ikuto Yamashita, as well as the famous 'confession letter' written by director Hideaki Anno in the months before the original TV series premiere that laid out his deeply personal motivations to make Evangelion.",
+      release_date: "(first published August 29th 1995)",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1018.jpg"},
+
+{
+      title: "Neon Genesis Evangelion, Vol. 3",
+      author: "Yoshiyuki Sadamoto",
+      synopsis: "In the year 2015, humanity faces terrifying last judgement by a mysterious race of giants, and a handful of teenagers must pilot the colossal superentities known as 'evangelions' in the fight for survival. With Volume 3, this controversial science fiction series continues to push the limits of the genre.",
+      release_date: "(first published October 29th 1996)",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1019.jpg"},
+
+{
+      title: "Neon Genesis Evangelion, Vol. 8",
+      author: "Yoshiyuki Sadamoto",
+      synopsis: "Japan's most controversial anime series is over...but not the manga version of Neon Genesis Evangelion Series co-creator Yoshiyuki Sadamoto's personal interpretation of the Evangelion characters and story is sure to intrigue new and old fans alike. In 2015, the 'Angels' have returned, and Shinji Ikari, a fourteen year-old child of the new Earth, is forced by his father Gendo-commander of the secret organization NERV-to pilot the monstrous biomechanical weapon called 'Evangelion' to match the Angels' fearsome power. As a disembodied Shinji drifts in visions, merged with the esoteric fluids of the Evangelion, his father's long-serving lieutenant, Fuyutsuki, is kidnapped for interrogation by SEELE-in German, the 'Soul'-the council of superiors whom NERV has been double-crossing for some time now...One of the founding members of Gainax, Japan's most progressive anime studio, Evangelion's Yoshiyuki Sadamoto was also the character designer for their recent Adult Swim smash FLCL. EVA Vol. 8 contains a Japanese sound FX glossary plus a special bonus guide to help U.S. fans discover the best of the many import books available on Evangelion",
+      release_date: "(first published December 19th 2002)",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1020.jpg"},
+
+      [genres[0], genres[5], genres[6]]
+      ],
+[
+[
+[
+[
