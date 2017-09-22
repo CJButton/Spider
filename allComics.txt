@@ -8,7 +8,7 @@ Add appropriate genres
 
 Action, Drama, Fantasy
 Themes: Historical, Supernatural
-[genres[0], genres[7], genres[4], genres[9], genres[18]]
+[genres[0], genres[21], genres[4], genres[9], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -3880,4 +3880,36 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1521.jpg"},
 
       [genres[0], genres[7], genres[4], genres[9], genres[18]]
+      ],
+      [
+
+{
+      title: "Highschool of the Dead, Vol. 5",
+      author: "Daisuke Sato",
+      synopsis: "Takashi and his fellow students join up with a band of survivors who have barricaded themselves inside a local mall. Though the shopping center seems a well-stocked place to hide from the undead lurking outside, the policewoman in charge is having a hard time maintaining peace within. The group from Fujimi High would rather not get involved in a power struggle and tries to stay under the radar until they are ready to set off again. But with so many attractive, buxom girls among the students, it may be nearly impossible to avoid unwanted attention of the worst kind...",
+      release_date: "January 1st 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1522.jpg"},
+
+{
+      title: "Highschool of the Dead, Vol. 7",
+      author: "Daisuke Sato",
+      synopsis: "Once again, Takashi and his friends are without shelter and on the run. The group gradually makes their way to the local police station, where the hungry officers within give a whole new meaning to the phrase 'police brutality.' After tidying up, the team reloads and begins their search of the station: Rei for news of her father, and Saya for information. There may be one last chance for them to get out of town, but with Rei and Takashi's parents still unaccounted for and a throng of undead standing between them and freedom, will the friends be able to make it in time?!",
+      release_date: "May 6th 2011",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1523.jpg"},
+
+{
+      title: "Highschool of the Dead, Vol. 6",
+      author: "Daisuke Sato",
+      synopsis: "As the mall refugees grow restless, Takashi and his comrades make plans to leave before Officer Asami's authority slides further and the group's order is completely undone. Unfortunately, just as final preparations for their departure are nearly complete, the mall's defenses are breached, and 'they' come streaming in. Asami joins the Fujimi High students as they battle their way toward the exit, while the rest of the group seeks refuge on the roof. Their fortress has become a trap - can anyone hope to escape the mall of the dead?!",
+      release_date: "January 1st 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1524.jpg"},
+
+{
+      title: "Highschool of the Dead, Vol. 4",
+      author: "Daisuke Sato",
+      synopsis: "As fear becomes the norm and people begin to process what has happened, questions of authority and outcries against violence toward 'them' - the zombie-like victims of the 'Murder Syndrome' - cause dissent among those not affected. However, trapped in the airport with thousands of flesh-hungry undead, Rika and her partner have no choice but to use every weapon in their arsenal if they want to make it to safety. But with neighbor turning on neighbor, nation turning against nation, is anywhere really safe anymore?",
+      release_date: "January 1st 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1525.jpg"},
+
+      [genres[0], genres[21]]
       ],
