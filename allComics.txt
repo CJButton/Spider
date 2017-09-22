@@ -6,9 +6,9 @@ Check for "" and add data if needed
 Add appropriate genres
 
 
-Comedy, Romance
-Themes: Fan Service, Harem, School Life, Supernatural
-[genres[13], genres[14], genres[15], genres[18]]
+Comedy, Drama, Romance
+Themes: School Life, Supernatural
+[genres[14], genres[7], genres[13], genres[15], genres[18]]
 Add ], to close series array
 
 Fantasy
@@ -3674,4 +3674,169 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1490.jpg"},
 
       [genres[13], genres[14], genres[15], genres[18], genres[22]]
+      ],
+      [
+
+{
+      title: "Fruits Basket, Vol. 19",
+      author: "Natsuki Takaya",
+      synopsis: "As the  saga continues, the relationship between Tohru and Kyo becomes increasingly complicated, especially since most of the members of the Zodiac seem to look down on him. Tohru comes to the realization that if she wants to save Kyo, she'll have to create some sort of trigger to break his curse. But what, if anything, can cure Kyo? The answer is right inside this next volume of the super-popular !",
+      release_date: "January 1st 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1491.jpg"},
+
+{
+      title: "Fruits Basket, Vol. 14",
+      author: "Natsuki Takaya",
+      synopsis: "Isuzu loves snooping through Shigure's life, especially when she's totally convinced that he is hiding something. But when Tohru finds a passed-out Isuzu in the house, she tries to drag Isuzu to the hospital. Meanwhile, Yuki goes to the ASB student council room only to find it trashed again! But as the secrets of who vandalized the room come out of the closet, Yuki accidentally gets locked in one. Who will be the one to help him get out? The answer is right inside this next volume of the super-popular , the world's most popular shojo manga!",
+      release_date: "April 19th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1492.jpg"},
+
+{
+      title: "Fruits Basket, Vol. 20",
+      author: "Natsuki Takaya",
+      synopsis: "Kagura and Kazuma hotly discuss Tohru liking Kyo. With Kagura's forceful encouragement, will Tohru be able to muster up the courage to tell Kyo how she feels? Meanwhile, Ren is determined to get her hands on Akito's mystery box--even if it means killing for it!",
+      release_date: "2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1493.jpg"},
+
+{
+      title: "Fruits Basket, Vol. 3",
+      author: "Natsuki Takaya",
+      synopsis: "A family with an ancient curse...And the girl who will change their lives forever...It's Valentines Day and you know what that means - lots of chocolates for the cutest boys at school! In this case, it's a pretty close tie between hot-headed Kyo Sohma and 'Prince Charming' Yuki Sohma. Of course the kind-hearted Tohru, guest of the Sohma family, has chocolates for everyone! But when White Day comes around, what will the Sohma family give her in return?",
+      release_date: "September 17th 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1494.jpg"},
+
+{
+      title: "Fruits Basket, Vol. 7",
+      author: "Natsuki Takaya",
+      synopsis: "Tohru and company have been having a lot more fun ever since Kisa came to visit. Now it's time for Tohru to meet another member of the Zodiac - the skillfully sarcastic grade-school student, Hiro! One way or another, this tyke will have to deal with his resentment of Tohru and his affection for Kisa. Where will he find the answers? In the fabulous 7th volume of the super-popular Fruits Basket, of course!",
+      release_date: "August 17th 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1495.jpg"},
+
+{
+      title: "Fruits Basket, Vol. 17",
+      author: "Natsuki Takaya",
+      synopsis: "Akito has more than skeletons hiding in the closet--the curse, dear reader, is not the only reason Kureno won't leave Akito. And who can make Arisa understand Kureno's devotion to Akito? Graduation is approaching, so everyone needs answers!",
+      release_date: "May 19th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1496.jpg"},
+
+{
+      title: "Fruits Basket, Vol. 21",
+      author: "Natsuki Takaya",
+      synopsis: "Kyo finishes telling Tohru about his role in her mother's death and how the reason he disappeared for so long was because he felt so guilty about it. He explains that he overcame his guilt by blaming everything on Yuki, but he now realizes that he was only running away from his own feelings. But how will he feel when Tohru says that she still loves him anyway?",
+      release_date: "September 19th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1497.jpg"},
+
+{
+      title: "Fruits Basket, Vol. 2",
+      author: "Natsuki Takaya",
+      synopsis: "A family with an ancient curse...And the girl who will change their lives forever...Ever since Tohru Honda discovered the Zodiac secret of the Sohma clan, her eyes have opened to a world of magic and wonder. But with such a great secret comes great responsibility. When her best friends Hana-chan and Uo-chan come to the Sohma home for a sleepover, Tohru has her work cut out for her keeping the 'Cat' in the bag and the 'Dog' on a leash.",
+      release_date: "June 18th 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1498.jpg"},
+
+{
+      title: "Fruits Basket, Vol. 4",
+      author: "Natsuki Takaya",
+      synopsis: "When the infamous Akito makes an in-class appearance at the start of the school year, the Sohma family worries that his arrival will be an uncensored exercise of show-and-tell about Yuki's past. Meanwhile, when Ayame vows to rekindle his brother's lost friendship, he begins to realize that you can choose your friends but you can't choose your family - especially when they're acting like animals!",
+      release_date: "January 19th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1500.jpg"},
+
+{
+      title: "Fruits Basket, Vol. 16",
+      author: "Natsuki Takaya",
+      synopsis: "A new chapter is opened in the Sohma family's story--and the rumors are true! Kyo has indeed met Kyoko in the past...and when he did, she told him the story of how she met Tohru's father, which he then tells to us: Tohru's birth...the truth about her mother and father...Yuki's declaration of independence...Grab your best friend and get ready for the New Year's Eve Ball--everything you've been waiting to know is right inside the next volume of the super-popular , the world's #1 shojo manga!",
+      release_date: "January 1st 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1501.jpg"},
+
+{
+      title: "Fruits Basket, Vol. 11",
+      author: "Natsuki Takaya",
+      synopsis: "The world's most popular shojo manga continues! While at the Sohma vacation home, Tohru is caught in a whirlwind of family strife. Can she relax and put the 'fun' in dysfunctional? None of the Sohmas are going to make it easy, including an angry horse that attacks Tohru. Could this be a new member of the Zodiac? Meanwhile, in a fierce argument with Akito, Kyo reveals his true feelings for Tohru. Will Akito tell Tohru about Kyo's secret crush? And speaking of secrets, Akito makes a major announcement--one that will reveal his true identity and change the Sohma family forever!",
+      release_date: "February 19th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1502.jpg"},
+
+{
+      title: "Fruits Basket, Vol. 1",
+      author: "Natsuki Takaya",
+      synopsis: "A family with an ancient curse...And the girl who will change their lives forever...Tohru Honda was an orphan with no place to go until the mysterious Sohma family offered her a place to call home. Now her ordinary high school life is turned upside down as she's introduced to the Sohma's world of magical curses and family secrets.",
+      release_date: "January 1st 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1503.jpg"},
+
+{
+      title: "Fruits Basket, Vol. 9",
+      author: "Natsuki Takaya",
+      synopsis: "Finally--summer has arrived! While Tohru struggles through bipolar days of hope and anxiety, what will happen when Yuki comes face-to-face with the new member of the student council? Meanwhile, who is that Uo-chan's hanging out with? Is she c-r-a-z-y in love? In a bonus feature, Hana-chan's past is finally disclosed!",
+      release_date: "June 19th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1504.jpg"},
+
+{
+      title: "Fruits Basket: Banquet",
+      author: "Natsuki Takaya",
+      synopsis: "Helps you to find out what you ever wanted to know about the world of Fruits Basket. This title features character profiles, color illustrations, quizzes, stickers, and behind-the-scenes with Takaya-sensei.",
+      release_date: "January 1st 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1505.jpg"},
+
+{
+      title: "Fruits Basket, Vol. 12",
+      author: "Natsuki Takaya",
+      synopsis: "With the beginning of the school year approaching, the gang returns from summer break--and what a vacation indeed! A new student council has been assembled, with two new secretaries: Naohito, who has declared himself Yuki's rival, and Kimi, who is known as a devil woman--and a thief of men's hearts. Later, when Tohru goes to see her grandfather, he brings up a part of Tohru's past that she had tried to shut away. And with a parent-teacher conference on the horizon, Mayuko gives Shigure some good advice.",
+      release_date: "June 19th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1506.jpg"},
+
+{
+      title: "Fruits Basket, Vol. 6",
+      author: "Natsuki Takaya",
+      synopsis: "Delving into the recesses of Kyo's past, we find the Sohma trio returning home on a rainy day. There, a mysterious man who has known Kyo for a long time meets them. Trust, loyalty and the bonds of family and friendship are tested, as Tohru must help Kyo deal with the 'monsters' that he's been trying to avoid.",
+      release_date: "August 18th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1507.jpg"},
+
+{
+      title: "Fruits Basket, Vol. 5",
+      author: "Natsuki Takaya",
+      synopsis: "For a springtime treat, Shigure arranges for Tohru and the gang to spend Golden Week at the Sohmas' vacation home. On a rainy day, as the holiday draws to a close, who should make a surprise visit but Hatsuharu! But what's that he's hiding in the bundle under his arm?",
+      release_date: "April 19th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1508.jpg"},
+
+{
+      title: "Fruits Basket, Vol. 15",
+      author: "Natsuki Takaya",
+      synopsis: "Yuki's past finally is revealed! But is it all too much to bear? His sickness takes a turn for the worse, and after Akito reminds Yuki how loathed he is, his will to live might finally be drained... Meanwhile, as Tohru is getting ready to perform in , the class decides that they have to rewrite the play. But no amount of revision will prevent Tohru from improvising her loving feelings for a certain someone. Just who is the mystery man? A little bird tells us that the answer is right inside this next volume of the super-popular , the world's #1 shojo manga!",
+      release_date: "September 17th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1509.jpg"},
+
+{
+      title: "Fruits Basket Fan Book -Cat-",
+      author: "Natsuki Takaya",
+      synopsis: "This is THE book for all Furuba fans!In this volume, find out everything you ever wanted to know about the world of ! Filled with character profiles, color illustrations, quizzes, stickers, behind-the-scenes with Takaya-sensei, and story recaps through volume 17, this must have collection also includes a short previously unpublished manga featuring Ritsu and Mitchan. Don't miss out on all the Furuba fun!",
+      release_date: "May 19th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1510.jpg"},
+
+{
+      title: "Fruits Basket, Vol. 13",
+      author: "Natsuki Takaya",
+      synopsis: "The number one manga in America continues!The time for Yuki's parent-teacher conference has finally arrived, and Yuki must learn how to make his own decisions if he wants to have a say about his future. Later, Tohru sets off on a quest to find out if Kureno Sohma is the same person Arisa has been in love with all this time. But along the way she will discover a tragic secret about Momiji's sister Momo...",
+      release_date: "November 19th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1511.jpg"},
+
+{
+      title: "Fruits Basket, Vol. 10",
+      author: "Natsuki Takaya",
+      synopsis: "The world's number one shojo manga continues, as Tohru and the Sohmas spend time at the Sohma's summerhouse. Alas, it's not all fun in the sun on this little trip. Akito pays a surprise visit, causing a commotion for the rest of the family. Shigure takes a stroll down memory lane with an old friend, remembering the days when Hatori wasn't so aloof. Meanwhile, Tohru begins to wonder: What must life be like for the loved ones of a cursed member of the Sohma family? Can life with this family truly be happy while bearing such a burden?",
+      release_date: "October 18th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1512.jpg"},
+
+{
+      title: "Fruits Basket, Vol. 18",
+      author: "Natsuki Takaya",
+      synopsis: "As rumors swirl about Machi trying to kill her little brother, Kakeru figures that the only person who can get the truth out of her is Yuki. But when the two of them visit her, they learn a shocking secret. Later, Motoko wants to tell Yuki her feelings before she graduates and leaves the school--and him--forever. But will their parting be such sweet sorrow?",
+      release_date: "September 16th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1513.jpg"},
+
+{
+      title: "Fruits Basket, Vol. 8",
+      author: "Natsuki Takaya",
+      synopsis: "Summer is on its way, so of course Tohru and friends are excited about the upcoming vacation and field trip. But what's that sound? It's Hatsuharu going beserk in the classroom... again! Black Haru is full of more rage than usual, so what will happen when Yuki intervenes? Meanwhile, Ritsu of the Sohma's hot spring resort shows up...but what's with her appearance?",
+      release_date: "January 18th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1514.jpg"},
+
+      [genres[14], genres[7], genres[13], genres[15], genres[18]]
       ],
