@@ -6,9 +6,9 @@ Check for "" and add data if needed
 Add appropriate genres
 
 
-Action, Drama, Horror, Science Fiction
-Themes: Adventure, Powers
-[genres[0], genres[7], genres[21], genres[5], genres[1], genres[20]]
+Comedy, Romance
+Themes: School Life
+[genres[13], genres[14], genres[15]]
 Add ], to close series array
 
 Fantasy
@@ -1128,7 +1128,7 @@ allComics = [
 {
       title: "Vampire Knight, Vol. 9",
       author: "Matsuri Hino",
-      synopsis: "R to L (Japanese Style). Cross over to the night. Meet your knights in shining darkness. Cross Adademy is attended by two groups of students: the Day Class and the Night Class. At twilight, when the students of the Day Class return to their dorm, they cross paths with the Night Class on their way to school. Yuki Cross and Zero Kiryu are the Guardians of the school, protecting the Day Class from the Academy's dark secret: the Night Class is full of vampires! A war among vampires has started at Cross Academy, and even Day Class students are being attacked. Kaname finally reveals his hidden plan to Zero, and Zero must choose on which side he will fight. But in order for Zero to defeat the enemy, he will have to take part in an atrocious act...",
+      synopsis: "Cross over to the night. Meet your knights in shining darkness. Cross Adademy is attended by two groups of students: the Day Class and the Night Class. At twilight, when the students of the Day Class return to their dorm, they cross paths with the Night Class on their way to school. Yuki Cross and Zero Kiryu are the Guardians of the school, protecting the Day Class from the Academy's dark secret: the Night Class is full of vampires! A war among vampires has started at Cross Academy, and even Day Class students are being attacked. Kaname finally reveals his hidden plan to Zero, and Zero must choose on which side he will fight. But in order for Zero to defeat the enemy, he will have to take part in an atrocious act...",
       release_date: "November 5th 2008",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1144.jpg"},
 
@@ -3546,4 +3546,64 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1473.jpg"},
 
       [genres[0], genres[7], genres[21], genres[5], genres[1], genres[20]]
+      ],
+      [
+
+{
+      title: "Monkey High!, Vol. 6",
+      author: "Shouko Akira",
+      synopsis: "A class trip to Kyoto brings fun and excitement for the Kita High gang--but mostly confusion for Haruna. Between getting separated from Macharu and dealing with Atsu's declaration of love for her, Haruna's heart is all aflutter. Is Atsu right about him being the better fit for her?",
+      release_date: "March 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1474.jpg"},
+
+{
+      title: "Monkey High!, Vol. 5",
+      author: "Shouko Akira",
+      synopsis: "Haruna Aizawa thinks that school life is just like a monkey mountain--all the monkeys form cliques, get into fights, and get back together again. The school that she just transferred to is no exception. There's even a boy called Macharu Yamashita who reminds her of a baby monkey!Haruna and Macharu take to the stage once again when their class decides to do a rendition of Romeo and Juliet. Haruna's uneasy about acting in front of the entire school, especially since her father might show up for the performance. Will the play bring Haruna and Macharu closer together or end in absolute disaster?",
+      release_date: "February 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1475.jpg"},
+
+{
+      title: "Monkey High!, Vol. 1",
+      author: "Shouko Akira",
+      synopsis: "After her political father is disgraced in scandal, Haruna Aizawa transfers to a new school...Haruna Aizawa thinks that school life is just like a monkey mountain - all the monkeys form cliques, get into fights, and get back together again. The school that she just transferred to is no exception. There's even a boy called Macharu(baby monkey) Yamashita [ actually named Masaru Yamashita ] who reminds her of a baby monkey!It's hard enough fitting in at a new school while dealing with family problems.... Will Haruna remain jaded and distance herself from everyone around her? Or will Macharu win her over with his monkey magic?",
+      release_date: "September 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1476.jpg"},
+
+{
+      title: "Monkey High!, Vol. 2",
+      author: "Shouko Akira",
+      synopsis: "Shouko Akira is also the author of Times Two (a collection of five love stories), published by VIZ Media.• Betsucomi style art (rosy cheeks, cute, clean art) will appeal to Betsucomi enthusiasts• Previewed and promoted in VIZ Media’s Shojo Beat magazine.• Parents will love this squeaky-clean romance story. Think Archie Digests, or Saved by the Bell meets Veronica Mars.• Published in TaiwanAfter her politician father is disgraced in scandal, Haruna Aizawa transfers to a new school. Haruna is convinced that school life is like a monkey mountain—all the monkeys form cliques, get into fights, and get back together again. She even meets a boy named Masaru who reminds her of a baby monkey! Haruna and Macharu head off to the amusement park for their official first date! But how romantic is the date going to turn out with scary roller coasters, guys hitting on Haruna, and even rowdy classmates popping up?",
+      release_date: "October 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1477.jpg"},
+
+{
+      title: "Monkey High!, Vol. 3",
+      author: "Shouko Akira",
+      synopsis: "Shouko Akira is also the author of Times Two (a collection of five love stories), published by VIZ Media.• Betsucomi style art (rosy cheeks, cute, clean art) will appeal to Betsucomi enthusiasts• Previewed and promoted in VIZ Media’s Shojo Beat magazine.• Parents will love this squeaky-clean romance story. Think Archie Digests, or Saved by the Bell meets Veronica Mars.• Published in TaiwanOn Valentine's Day, it's no surprise that playboy Atsu gets plenty of chocolates from fawning girls. But everyone's shocked when a heart-shaped box is found on Macharu's desk--especially since it's not from Haruna! Does Macharu have a secret admirer?",
+      release_date: "November 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1478.jpg"},
+
+{
+      title: "Monkey High!, Vol. 7",
+      author: "Shouko Akira",
+      synopsis: "Different classes, college preparations, and a disapproving father all make it hard for Macharu and Haruna to be together. So when they win tickets for an overnight stay at a resort, it seems like a great chance for them to take their relationship to the next level...",
+      release_date: "July 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1479.jpg"},
+
+{
+      title: "Monkey High!, Vol. 4",
+      author: "Shouko Akira",
+      synopsis: "Haruna is convinced that school life is like a monkey mountain—all the monkeys form cliques, get into fights, and get back together again.Macharu's best friend Atsu is really starting to fall for Haruna, especially since she's been working at the same place he works and they've been spending more and more time together. With a jealous Macharu waiting and a persistent Atsu pursuing, who is Haruna going to choose in this bizarre love triangle?After her politician father is disgraced in scandal, Haruna Aizawa transfers to a new school. Haruna is convinced that school life is just like a monkey mountain--all the monkeys form cliques, get into fights, and get back together again. She even meets a boy named Masaru who reminds her of a baby monkey!",
+      release_date: "January 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1480.jpg"},
+
+{
+      title: "Monkey High!, Vol. 8",
+      author: "Shouko Akira",
+      synopsis: "Going bananas for love!; like  meets   Talk of a future engagement between Haruna and her father's right-hand man puts a damper on Haruna and Macharu's relationship. Macharu fights back in a way only he knows how--by having Haruna live with him! Will monkey love conquer all? Haruna Aizawa thinks that school life is just like a monkey mountain--all the monkeys form cliques, get into fights, and get back together again. The school that she just transferred to is no exception. There's even a boy called Macharu Yamashita who reminds her of a baby monkey!",
+      release_date: "August 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1481.jpg"},
+
+      [genres[13], genres[14], genres[15]]
       ],
