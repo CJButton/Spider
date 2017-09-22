@@ -4,12 +4,11 @@
 Check if box sets and remove
 Check for "" and add data if needed
 Add appropriate genres
-[genres[0], genres[5], genres[6]]
+
+Drama, Mystery, Science Fiction
+[genres[7], genres[8], genres[5]]
 Add ] to close series array
 
-
-Action, Fantasy
-Themes: Adventure
 
  */}
 This array allows us to keep the naming more consistent
@@ -497,3 +496,62 @@ allComics = [
 
       [genres[0], genres[1], genres[4]]
       ],
+      [
+{
+      title: "PLUTO: Urasawa x Tezuka, Volume 005",
+      author: "Naoki Urasawa",
+      synopsis: "A robot may not harm or kill a human being. Article 13 of the Robot LawsAdolph, a member of a robot hate group, is being used as a pawn and hunted down by the members of his own brotherhood. He must now turn to his worst enemy for protection--Gesicht, the robot who he believes killed his own brother.Contains Chapters 32 to 39.",
+      release_date: "September 15th, 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1067.jpg"},
+
+{
+      title: "PLUTO: Urasawa x Tezuka, Volume 007",
+      author: "Naoki Urasawa",
+      synopsis: "Who Killed Astro Boy? No Robots; Human vs. humanoid!Pluto has destroyed six out of the seven great robots of the world, and the pacifist robot Epsilon is the only one that remains. Will Epsilon, who refused to participate in the 39th Central Asian War, leave behind his war-orphaned charges to step onto the battlefield? It just might be that kindly Epsilon, who wields the power of photon energy, will be Pluto's greatest opponent of all!Contains Chapters 48 to 55.",
+      release_date: "February 21st 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1068.jpg"},
+
+{
+      title: "PLUTO: Urasawa x Tezuka, Volume 002",
+      author: "Naoki Urasawa",
+      synopsis: "In a distant future where sentient humanoid robots pass for human, someone or some thing is out to destroy the seven great robots of the world. Europol’s top detective Gesicht is assigned to investigate these mysterious robot serial murders—the only catch is that he himself is one of the seven targets. Atom, a boy robot whose sophisticated AI programming seamlessly blurs the distinction between man and machine, starts his own investigation into the serial murders of the great robots of the world. When he discovers that the killer’s motives may be connected with the geopolitical events of the recent past, he realizes that the case is far larger than anyone could have ever imagined.Contains Chapters 8 to 15.",
+      release_date: "April 26th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1069.jpg"},
+
+{
+      title: "PLUTO: Urasawa x Tezuka, Volume 006",
+      author: "Naoki Urasawa",
+      synopsis: "A new vision based on Astro Boy - "The Greatest Robot On Earth" Pluto… Sahad… Goji… Abullah… Mysterious figures somehow involved with the serial murders of the great robots of the world. Europol's top robot detective Gesicht has been put on the case, and he's mere steps away from discovering the horrifying truth behind the killer and his motives… Little does he realize that he's also steps away from discovering a horrifying truth of his own… Masterfully crafted science fiction and suspense at its best! In an ideal world where man and robots coexist, someone or some has destroyed the powerful Swiss robot Mont Blanc. Elsewhere a key figure in a robot rights group is murdered. The two incidents appear to be unrelated...except for one very conspicuous clue - the bodies of both victims have been fashioned into some sort of bizarre collage complete with makeshift horns placed by the victims' heads. Interpol assigns robot detective Gesicht to this most strange and complex case - and he eventually discovers that he too, as one of the seven great robots of the world, is one of the targets.Contains Chapters 40 to 47.",
+      release_date: "July 18th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1070.jpg"},
+
+{
+      title: "PLUTO: Urasawa x Tezuka, Volume 008",
+      author: "Naoki Urasawa",
+      synopsis: "A new vision based on Astroboy - "The greatest robot on earth". Contains Chapters 56 to 65.",
+      release_date: "June 30th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1071.jpg"},
+
+{
+      title: "PLUTO: Urasawa x Tezuka, Volume 003",
+      author: "Naoki Urasawa",
+      synopsis: "In a distant future where sentient humanoid robots pass for human, someone or some thing is out to destroy the seven great robots of the world. Europol’s top detective Gesicht is assigned to investigate these mysterious robot serial murders—the only catch is that he himself is one of the seven targets. ",
+      release_date: "March 24th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1072.jpg"},
+
+{
+      title: "PLUTO: Urasawa x Tezuka, Volume 004",
+      author: "Naoki Urasawa",
+      synopsis: "A powerful, destructive force in the form of a tornado is killing the great robots of the world one by one. Who or what could be behind this whirlwind? Be it man or robot, it now has its sights set on Atom, the most advanced robot ever created--and Atom is ready to dive right into the eye of the storm.Contains Chapters 24 to 31.",
+      release_date: "December 26th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1073.jpg"},
+
+{
+      title: "PLUTO: Naoki Urasawa x Ozamu Tezuka, Band 001",
+      author: "Naoki Urasawa",
+      synopsis: "In a distant future where sentient humanoid robots pass for human, someone or some thing is out to destroy the seven great robots of the world. Europol's top detective Gesicht is assigned to investigate these mysterious robot serial murders; the only catch is that he himself is one of the seven targets.",
+      release_date: "September 30th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1074.jpg"},
+
+     [genres[7], genres[8], genres[5]]
+     ]
