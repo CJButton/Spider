@@ -6,22 +6,10 @@ Check for "" and add data if needed
 Add appropriate genres
 
 
-Comedy, Drama, Romance
-Themes: School Life, Supernatural
-[genres[14], genres[7], genres[13], genres[15], genres[18]]
+Action, Drama, Fantasy
+Themes: Historical, Supernatural
+[genres[0], genres[7], genres[4], genres[9], genres[18]]
 Add ], to close series array
-
-Fantasy
-Themes: Adventure, Magical Girl, Supernatural
-
-[genres[4], genres[17]]
-],
-
- */}
-
- R to L (Japanese Style)
-
-
 
 This array allows us to keep the naming more consistent
  const genres = [
@@ -3839,4 +3827,57 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1514.jpg"},
 
       [genres[14], genres[7], genres[13], genres[15], genres[18]]
+      ],
+      [
+
+{
+      title: "Yana Toboso Artworks Black Butler 2",
+      author: "Yana Toboso",
+      synopsis: "Black is a shade of many colors, and nowhere is this more apparent than in the work of New York Times-bestselling author Yana Toboso, whose Black Butler series has captured imaginations of fans all around the world! This second collection of her artwork contains over 120 illustrations, many of them key images in full colour, and covers everything from the Black Butler manga's Phantomhive Manor murder mystery and luxury liner arcs to game and anime adaptations of the series! And once again, this second artbook is presented as a deluxe beribboned hardcover to match Toboso's exquisite art within!",
+      release_date: "May 27th 2015",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1515.jpg"},
+
+{
+      title: "Yana Toboso Artworks: Black Butler 1",
+      author: "Yana Toboso",
+      synopsis: "In this first-ever full-color illustration collection by manga artist Yana Toboso, the New York Times bestselling manga series Black Butler comes to vivid life. Starting at the beginning of the tale of Earl Ciel Phantomhive and his inimitable butler, Sebastian, the collection focuses on the series through the immensely popular Circus Arc. In addition to these glorious color cuts are illustrations from her debut work, Rust Blaster, as well as promotional art from Black Butler and the artist's own tribute illustrations for other popular manga series. As anyone picking up this gorgeous beribboned hardcover tome will realise, black is a colour of many facets, indeed!",
+      release_date: "January 18th 2014",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1516.jpg"},
+
+{
+      title: "Black Butler, Vol. 4",
+      author: "Yana Toboso",
+      synopsis: "London - the capital of the Great Empire - is once again under siege, as a string of bizarre attacks on British citizens returned from India sends rumours flying and casts a pall upon Queen Victoria's rule. Sent in by Her Majesty, young Earl Phantomhive and his most capable butler, Sebastian, follow a trail that collides head-on with an Indian youth who claims to be a prince. And this prince possesses an extraordinary butler of his own! As an intense rivalry between the two butlers begins to form, will the kitchen be the dueling duo's final battleground?!",
+      release_date: "May 27th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1517.jpg"},
+
+{
+      title: "Black Butler, Vol. 19",
+      author: "Yana Toboso",
+      synopsis: "In accordance with the wishes of Queen Victoria, young Earl Ciel Phantomhive embarks on a jaunt to Germany with his elite butler, Sebastian, in tow. Gruesome and mysterious deaths are occurring on the continent, and along with the fear of contagion that permeates the air there are also rumors of witches and werewolves running amok. When Ciel's party heads right into the heart of a cursed forest where supernatural creatures are said to dwell, they run straight into a witch! In fact, several of them! And the village head is none other than a little girl who appears as though she's stepped out of a fairy tale?!",
+      release_date: "June 27th 2014",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1518.jpg"},
+
+{
+      title: "Black Butler, Vol. 16",
+      author: "Yana Toboso",
+      synopsis: "Earl Ciel Phantomhive and his invincible butler Sebastian may have succeeded in sneaking their way into the elite Weston College, but their investigation quickly hits a wall. To earn an audience with the headmaster, Ciel's only option is to attend the 'Midnight Tea Party,' an exclusive gathering hosted by the elusive head of the school. And the only way a lowly first-former like Ciel, earl or no, can land a seat at that table is by being elected the Most Valuable Player in the College's annual storied cricket tournament. Selected from each house, students in the springtime of youth battle it out among the wickets on the spring-green lawn. Will the usually unperturbed young earl be bowled over by this unexpected turn of events?!",
+      release_date: "March 27th 2013",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1519.jpg"},
+
+{
+      title: "Black Butler, Vol. 1",
+      author: "Yana Toboso",
+      synopsis: "In the Victorian ages of London The Earl of the Phantomhive house, Ciel Phantomhive, needs to get his revenge on those who had humiliated him and destroyed what he loved. Not being able to do it alone he sells his soul to a demon he names Sebastian Michaelis. Now working as his butler, Sebastian must help the Earl Phantomhive in this suspenseful, exciting, thriller manga.",
+      release_date: "February 27th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1520.jpg"},
+
+{
+      title: "Black Butler, Vol. 2",
+      author: "Yana Toboso",
+      synopsis: "As high society's social calendar opens up and the Season draws to a close, London is gripped by fear. Someone has taken to stalking women of the night and painting the town red...in their blood. The name on everyone's lips seems to be 'Jack the Ripper' - and as a result, the name on Queen Victoria's lips is Phantomhive. Summoned to London to clean up the mess created by this madman, Ciel Phantomhive arrives with Sebastian, his extraordinary butler, at his side to pour him tea, polish his silver, and...investigate a serial killer. And with the aid (and occasional interference) of a few of the Phantomhive house's numerous acquaintances, little stands in the way of the young earl getting to the bottom of this mystery. However, one question remains...can he handle the shattering truth behind it?",
+      release_date: "July 27th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1521.jpg"},
+
+      [genres[0], genres[7], genres[4], genres[9], genres[18]]
       ],
