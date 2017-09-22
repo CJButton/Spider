@@ -6,9 +6,9 @@ Check for "" and add data if needed
 Add appropriate genres
 
 
-Action, Fantasy
-Themes: Adventure, Battles
-[genres[0], genres[4], genres[1], genres[10]]
+Action, Drama, Horror, Science Fiction
+Themes: Adventure, Powers
+[genres[0], genres[7], genres[21], genres[5], genres[1], genres[20]]
 Add ], to close series array
 
 Fantasy
@@ -44,8 +44,9 @@ This array allows us to keep the naming more consistent
   16'Slice of Life',
   17'Magical Girl',
   18'Supernatural',
-  19'Sports'
-  20'Powers'
+  19'Sports',
+  20'Powers',
+  21'Horror'
  ]
 ///
 // remember to add the ending bracket for allComics!!!
@@ -3499,4 +3500,50 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1467.jpg"},
 
       [genres[0], genres[4], genres[1], genres[10]]
+      ],
+      [
+
+{
+      title: "Deadman Wonderland Volume 5",
+      author: "Jinsei Kataoka",
+      synopsis: "Ganta is about to be publicly executed by Rokuro when Senji intervenes and kills the Undertakers by attacking at supersonic speed. Meanwhile, Shiro is befriended by a mysterious boy named Toto. Ganta, tired of being helpless and weak, asks Senji to train him so he can help Karako and the Scar Chain as they decide to retry their escape plan after rescuing Nagi from Genkaku. Karako and the others escape, the data chip is delivered to their colleague in the inspection team, while Ganta decides to remain in Deadman Wonderland with Shiro.",
+      release_date: "April 25th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1468.jpg"},
+
+{
+      title: "Deadman Wonderland Volume 4",
+      author: "Jinsei Kataoka",
+      synopsis: "Ten years have passed since the Great Tokyo Earthquake, and the people's memories of the disaster have faded. Ganta Igarashi, a middle school evacuee, has finally begun to live a normal life with his classmates. That is until the Red Man appears at school and Ganta's fate is changed forever.",
+      release_date: "October 25th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1469.jpg"},
+
+{
+      title: "Deadman Wonderland Volume 7",
+      author: "Jinsei Kataoka",
+      synopsis: "Librarian Note: The English translation of this volume was cancelled due to Tokyopop closing its North American manga operations.",
+      release_date: "January 26th 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1470.jpg"},
+
+{
+      title: "Deadman Wonderland Volume 2",
+      author: "Jinsei Kataoka",
+      synopsis: "While on the hunt for the Red Man, Ganta is thrown into a battle exhibition called the Carnival of Corpses, in which he is matched up against the powerful Senji. The battle is intense, but even if Ganta wins, is he prepared for the consequences?",
+      release_date: "December 26th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1471.jpg"},
+
+{
+      title: "Deadman Wonderland, Volume 1",
+      author: "Jinsei Kataoka",
+      synopsis: "Ten years have passed since the Great Tokyo Earthquake, and the people's memories of the disaster have faded. Ganta Igarashi, a middle school evacuee, has finally begun to live a normal life... that is, until the day 'Red Man' appears at his school and Ganta's fate is changed forever.",
+      release_date: "September 26th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1472.jpg"},
+
+{
+      title: "Deadman Wonderland Volume 3",
+      author: "Jinsei Kataoka",
+      synopsis: "Ganta's desperate struggle for survival continues as the second round of the Carnival of Corpses kicks off, but when he is matched against Minatsuki, Ganta learns that his new friends are not what they seem - and it may cost him his life!",
+      release_date: "May 26th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1473.jpg"},
+
+      [genres[0], genres[7], genres[21], genres[5], genres[1], genres[20]]
       ],
