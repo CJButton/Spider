@@ -6,9 +6,9 @@ Check for "" and add data if needed
 Add appropriate genres
 
 
-Action, Drama
-Themes: Adventure, Historical
-[genres[0], genres[7], genres[1], genres[9]]
+Action, Comedy
+Themes: Battles, Sports
+[genres[0], genres[14], genres[10], genres[19]]
 Add ], to close series array
 
 Fantasy
@@ -38,7 +38,8 @@ This array allows us to keep the naming more consistent
   15'School Life',
   16'Slice of Life',
   17'Magical Girl',
-  18'Supernatural'
+  18'Supernatural',
+  19'Sports'
  ]
 ///
 // remember to add the ending bracket for allComics!!!
@@ -1879,4 +1880,281 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1241.jpg"},
 
       [genres[0], genres[7], genres[1], genres[9]]
+      ],
+      [
+
+{
+      title: "The Prince of Tennis, Volume 6: Sign of Strength",
+      author: "Takeshi Konomi",
+      synopsis: "As spies from rival schools continue to gather information about the Seishun players, Tezuka, the team captain, challenges Ryoma to a bitter duel to settle their differences. Which player will come out on top of the game? And what peril lurks behind the mask of St. Rudolph's manager and strategist Hajime Mizuki?",
+      release_date: "December 4th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1242.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 11: Premonition of a Storm",
+      author: "Takeshi Konomi",
+      synopsis: "Practice games soar to a new level as the Seishun Academy intra-squad games get underway. Meanwhile, the semifinal match between Fudomine and Yamabuki at the City Tournament is put on ice when word reaches Kippei that his teammates were involved in a car accident. But the real fun begins when Seishun's Momo steps onto the court to play Yamabuki's Kiyosumi Sengoku. Momo sure wasn't prepared to face a player who uses a racket with an unusually low string tension...!",
+      release_date: "December 4th 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1243.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 12: Invincible Man",
+      author: "Takeshi Konomi",
+      synopsis: "The next round of games are underway, and Seishun's Takeshi Momoshiro 'Momo' encounters Kiyosumi in the No. 3 Singles. Momo's in for a hard day's work, as Kiyosumi proves to be a intimidating opponent from the moment he launches his 'Kohou' (Tiger Cannon), or wallop serve. Meanwhile, the Prince of Tennis Ryoma Echizen faces Yamabuki's Jin in the No. 2 Singles. Discover the 'reason' why Jin can't possibly lose...",
+      release_date: "February 4th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1244.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 13: Akutsu's Pride/Ryoma's Courage",
+      author: "Takeshi Konomi",
+      synopsis: "Seishun Academy is in the finals of the District Preliminaries, and the only thing standing in their way is mean, violent, and ill-tempered Jin Akutsu of Yamabuki Junior High! Ryoma desperately needs to toughen up mentally, as Jin has figured out a way to punish him with his powerful shots. Meanwhile, Seishun holds more intra-squad games, and this time someone loses his spot on the starting team…!",
+      release_date: "April 4th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1245.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 1: Ryoma Echizen",
+      author: "Takeshi Konomi",
+      synopsis: "There is a rumor going around that a twelve-year-old boy is going to enter the sixteen-year-old and under tennis group. How can someone so young ever hope to compete with kids much older and more experienced than him? This is no ordinary kid: he is none other than Ryoma Echizen, the Prince of Tennis! Ryoma's father was destined for greatness until he injured himself during a match, ending his career forever. His talent was passed on to his son, who is determined to be the best tennis player in the world. Can the prince gain the respect of his fellow teammates despite his small size and young age? Find out in this intense sports manga!",
+      release_date: "January 7th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1246.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 17: Waltzing Toward Destruction",
+      author: "Takeshi Konomi",
+      synopsis: "Shusuke and Jiro's match continues! Both pull out all the stops, but it's the Hakugei, also known as the White Whale, that's the move to beat. Will it be enough? You gotta read to find out who the loser is in this one!",
+      release_date: "February 4th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1247.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 9: Take Aim!",
+      author: "Takeshi Konomi",
+      synopsis: "The much-anticipated match between Seishun Academy 's Ryoma Echizen and St. Rudolph's Yuta is underway, and neither of them is giving in to each other's intimidation techniques. Upon orders from Hajime, St. Rudolph's cunning team manager, Yuta must aim for Ryoma's left eye, which was accidentally injured during his previous match. Battling all odds to secure his team's victory--as well as his own on-court safety--can Ryoma formulate a strategy to tame Yuta's killer twist spin shot? And is Yuta really that evil?",
+      release_date: "July 4th 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1248.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 2: Adder's Fangs",
+      author: "Takeshi Konomi",
+      synopsis: "Ryoma Echizen, the Prince of Tennis, has just enrolled at Seishun Academy after spending several years in America winning 4 consecutive US Junior Tournaments. His cool confidence raises the hackles of a few older students on the tennis team, and they challenge him to a game--but none of them even comes close to his skill and level of play. Now intramural matches to determine the starting members of the team for the upcoming city tournament are about to begin, and even though the rules don't allow 7th graders to play in tournaments, the captain has arranged for Ryoma to enter the ranking matches. Does he have what it takes to truly deserve the title Prince of Tennis? Find out in this amazing tennis manga!",
+      release_date: "April 4th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1249.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 14: Seishun's Ultimate Man",
+      author: "Takeshi Konomi",
+      synopsis: "As more intra-squad games are played to determine the starting line-up, fellow Seishun Academy players Kunimitsu Tezuka and Sadaharu Inui duke it out for a slot. But the disparity in their skills becomes evident when everyone realizes that Kunimitsu has not budged since he delivered his serve. Meanwhile, Coach Banda of Yamabuki Junior High offers team captain Kunimitsu a chance to play overseas as an exchange student. Could this be the end of Kunimitsu's tour of duty at Seishun?",
+      release_date: "July 4th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1250.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 4: The Black Unit",
+      author: "Takeshi Konomi",
+      synopsis: "The quest continues for the gritty players at Seishun Academy. With their sights dead-set on making it all the way to the Nationals, they must outclass every team that stands in their way. Next up is Fudomine, a group of belligerent players who were disqualified from the rookie games last year due to a tournament fracas. Tempers flare and talents soar when the battle begins with the very first serve. It might take more than 'Tsubame Gaeshi' to secure this victory!",
+      release_date: "August 4th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1251.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 33: Kunimitsu in Kyushu",
+      author: "Takeshi Konomi",
+      synopsis: "The National Tournament quarterfinals against Hyotei continue, with Kunimitsu facing power player Munehiro Kabaji. During the match Seishun's captain flashes back to his time in Kyushu and the road that led him to the Nationals. Later, it's a battle of the Golden Pairs: Ryo Shishido and Chotaro Ohtori versus Oishi and Eiji!",
+      release_date: "May 2nd 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1252.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 36: A Heated Battle! Seishun vs. Shitenhoji",
+      author: "Takeshi Konomi",
+      synopsis: "The semifinals of the National Tournament begin! Seishun is pitted against powerhouse team Shitenhoji. The first match is No. 3 Singles, with Shusuke up against the Shitenhoji captain, Kuranosuke Shiraishi. Shusuke may be Seishun's resident 'genius,' but the mysterious Kuranosuke is rumored to play 'perfect tennis,' a game with no flaws.",
+      release_date: "January 1st 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1253.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 34: Synchro",
+      author: "Takeshi Konomi",
+      synopsis: "Shuichiro and Eiji are down 3-6 at tie break in their quarterfinal match against Hyotei's Ohtori and Shishido. With their backs against the wall, the Golden Pair unveil their final technique: Synchro. And then it's down to the No. 1 Singles match, with all of Seishun's hopes resting on Ryoma's shoulders as he struggles against Hyotei's captain, Keigo Atobe.",
+      release_date: "July 4th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1254.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 23: Rikkai's Law",
+      author: "Takeshi Konomi",
+      synopsis: "Seishun players spend sleepless nights anxiously awaiting the Kanto Tournament Finals against Rikkai. And they  be worried! Rikkai's diabolical doubles team of Bunta Marui and Jackal Kuwahara has some crazy moves that'll keep their opponents up for nights to come!",
+      release_date: "April 2nd 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1255.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 27: Until the Very Last Shot",
+      author: "Takeshi Konomi",
+      synopsis: "The Kanto Tournament reaches its electrifying conclusion!All eyes are riveted on center court, where Ryoma and Genichiro Sanada are locked in a furious contest of strength, skill and willpower. Will Ryoma find a way to contain the tremendous power of Genichiro's 'Furin Kazan' shot? Or will Genichiro lead Rikkai to yet another victory?",
+      release_date: "January 5th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1256.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 25: And Shusuke Smiles",
+      author: "Takeshi Konomi",
+      synopsis: "It's Seishun versus Rikkai in the Kanto Tournament Finals, and the action is heating up. Sadaharu must confront his childhood friend Renji Yanagi, while Shusuke faces off against Akaya Kirihara, Rikkai's brilliant--and ruthless--star player.",
+      release_date: "September 3rd 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1257.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 24: Reunited",
+      author: "Takeshi Konomi",
+      synopsis: "All hope for a Kanto Tournament Finals win comes down to Eiji and Shuichiro, the Golden Pair. Can they handle a face-off against Rikkai's Masaharu 'The Con Artist' Nio and Hiroshi 'The Gentleman' Yagiyu?! Injuries, surprise secret moves and the ultimate courtside con may mean disaster for Seishun!",
+      release_date: "July 2nd 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1258.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 35: Farewell, Hyotei Academy",
+      author: "Takeshi Konomi",
+      synopsis: "Ryoma and Keigo's incredible match turns into a battle of stamina and sheer will: whoever's left standing to make the last play will be the winner. Meanwhile, Fudomine's captain, Kippei Tachibana, plays his team's last quarterfinal match against Shitenhoji. His opponent is his ex-teammate, Senri Chitose. Can Kippei overcome the demons of his past and defeat his old friend?",
+      release_date: "September 4th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1259.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 3: Street Tennis",
+      author: "Takeshi Konomi",
+      synopsis: "The Nationals are coming and Seishun Academy has started training harder than ever! During practice, Rikkai Junior High School's 8th-grader ace Akaya Kirihara spies on Seishun Academy's team. Luckily, he is caught and escorted off the courts. But on the way out, he bumps into none other than Ryoma Echizen, the Prince of Tennis. Tension soars as these two ace players size each other up knowing that someday they will engage in battle to see who is the stronger player. Soon after, Ryoma and Momo get drawn into a doubles match--street tennis style! Can these two star players ever learn how to use their legendary skills to play good doubles?",
+      release_date: "June 2nd 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1260.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 37: The Terror of Comic Tennis",
+      author: "Takeshi Konomi",
+      synopsis: "Seishun's semifinal matches against Shitenhoji continue, and now it's Kaoru and Momo's turn in No. 2 Doubles. Their opponents, Koharu Konjiki and Yuji Hitoji, are highly skilled players but have a style that's a little...unusual. Next, two power players step onto the court for No. 2 Singles: Taka and Gin Ishida, the originator of Taka's Hadokyu shot. In this match of Hadokyu vs. Hadokyu, it's the last player standing who'll win!",
+      release_date: "January 1st 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1261.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 7: St. Rudolph's Best",
+      author: "Takeshi Konomi",
+      synopsis: "As the road to the Nationals narrows, Seishun Academy squares off with St. Rudolph. Through the maneuverings of Hajime, Saint Rudolph's cunning manager, Ryoma gets matched up with Yuta-known to many as 'Lefty Killer.' With an unorthodox game laced with reverse spins and angles, Yuta's game ignites against the seemingly inexperienced-against-lefties Ryoma. Meanwhile, the Seishun doubles tandem of Eiji and Shuichiro assume the Australian formation to break a tie. Is this a desperate attempt to win, or a well-calculated strategy?",
+      release_date: "February 2nd 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1262.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 8: Change the Script!",
+      author: "Takeshi Konomi",
+      synopsis: "As far as winning strategies go, no effective game plan can be carried out without one essential factor--stamina. And when Seishun Academy's Eiji succumbs to exhaustion, their chances of securing the crucial win over St. Rudolph's fades with each drop of their hard-earned sweat. Then, Seishun's setback turns into an even more daunting situation when their team equalizer, Ryoma Echizen, treads unfamiliar ground in his match against the infamous lefty killer Yuta. With Yuta's impressive win-loss record of 16-0 against left-handers, Ryoma's in for one tricky match….",
+      release_date: "May 1st 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1263.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 5: New Challenge",
+      author: "Takeshi Konomi",
+      synopsis: "With only one victory away from advancing to the city tournament, Seishun Academy fields the Prince of Tennis, Ryoma Echizen, to compete against the mysterious and mumbling Shinji of the Fudomine Team. As the punishing battle of skills unfolds, Ryoma develops a muscle paralysis called 'Spot,' which leaves him with barely enough strength to grip the racket, much less swing it. Refusing to go down without a fight, Ryoma unleashes a 'two-sword fighting style' technique that only talented, ambidextrous players are able to execute. Will Ryoma have the strength to pull himself out of the ditch and beat Shinji? And what awaits his ex-pro tennis player father, Nanjiro, when a reporter tracks him down? Find out in the next volume of this intense sports manga!",
+      release_date: "October 4th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1264.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 32: Two of a Cunning Kind",
+      author: "Takeshi Konomi",
+      synopsis: "The National Tournament moves into the quarterfinal stage, and the Seishun players find themselves pitted against their old rivals, Hyotei. Kicking things off is the No. 3 Singles match between Momoshiro and Hyotei's resident 'genius,' Yushi Oshitari. Will all of Momo's strength and cunning be enough to defeat the 'Player of a Thousand Techniques'?",
+      release_date: "February 3rd 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1265.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 38: Clash! One-Shot Battle",
+      author: "Takeshi Konomi",
+      synopsis: "Seishun's semifinal round against Shitenhoji continues with the No. 1 Doubles match, and now it's captain vs. captain as Kunimitsu and Senri square off for a fight. They're backed up by their partners Sadaharu and Hikaru... or are they?! Later Ryoma steps onto the clay against Shitenhoji's seventh-grade prodigy Kintaro, and this time neither of them are holding anything back.",
+      release_date: "January 1st 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1266.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 29: The Nationals Begin!",
+      author: "Takeshi Konomi",
+      synopsis: "After arriving at the Nationals, Seishun scouts their upcoming opponents: their old rivals Rokkaku and an unknown team from Okinawa, Higa Junior High. After watching Higa mow through their first-round match-ups, the Seishun players are taken aback by the team's dominance. But there's no time for doubt--the second round is starting, and it's Ryoma versus Higa's heavy hitter, the giant Kei Tanishi and his unreturnable 'Big Bang' serve.",
+      release_date: "January 1st 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1267.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 30: The Boys from Okinawa",
+      author: "Takeshi Konomi",
+      synopsis: "As the match between Ryoma and Higa's giant Kei Tanishi continues, it's apparent to everyone that Tanishi is in control of the game--to everyone except Ryoma, that is. Higa continues to dominate in No. 2 Doubles, with Taka and Shusuke paired up against Hiroshi Chinen and Rin Hirakoba. Now Seishun's hopes rest on whether Shusuke can figure out how to effectively counter Rin's lethal 'Habu' shot.",
+      release_date: "January 1st 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1268.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 10: Seize the Moment!",
+      author: "Takeshi Konomi",
+      synopsis: "In preparation for the City Tournament, Seishun Academy's team captain Kunimitsu Tezuka decides to hold intra-squad games. It's a routine way for the team players to get some much-needed practice matches, but it's all fun and games until someone's competitive nature surfaces. Ryoma is pitted against Shusuke, and Ryoma wastes no time in putting on the pressure against his teammate. But with his tenacious strategy known as 'Higuma Otoshi' (Bear Hunt), Shusuke's got a few tricks of his own....",
+      release_date: "September 4th 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1269.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 26: Ryoma Echizen vs. Genichiro Sanada",
+      author: "Takeshi Konomi",
+      synopsis: "The Kanto Tournament Finals are down to the last two matches, with the top players for the two best teams--Seishun and Rikkai--engaged in a fierce battle for dominance. As Shusuke and Akaya's match reaches its surprising end, the final showdown begins: Ryoma vs. 'Emperor' Genichiro Sanada.",
+      release_date: "December 3rd 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1270.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 39: Flare-up! Barbecue Battle!!",
+      author: "Takeshi Konomi",
+      synopsis: "Before the Seishun boys hit the courts for the final round of the Nationals, they hit the yakiniku table for an all-out barbecue blitz! When the time comes for Seishun to take on Rikkai at the tournament, Ryoma is stuck in Karuizawa! Help comes from an unexpected quarter to get Ryoma to that stadium. The first game is the long-awaited match that will ignite the perfect storm: Seishun captain Kunimitsu vs. Rikkai's Sanada!",
+      release_date: "January 1st 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1271.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 22: Ryoma, Awake!",
+      author: "Takeshi Konomi",
+      synopsis: "As if taking on a totally new personality, Ryoma plays an unpredictable match, switching to his left hand and winning point after point. Where does his intensity come from? A bonus story about an entirely different player may shed some light on the The Prince of Tennis's skills!",
+      release_date: "February 4th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1272.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 18: Ace in the Hole",
+      author: "Takeshi Konomi",
+      synopsis: "Seishun's chance at the Nationals all comes down to Kunimitsu. Will he have to forfeit to save his injured arm, or will he play to the end--and end his career?!",
+      release_date: "April 4th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1273.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 28: Hyotei Rhapsody",
+      author: "Takeshi Konomi",
+      synopsis: "After Tokyo is chosen as the site for the upcoming Nationals, Hyotei gets a shot at redemption by being given an invitational berth in the tournament. Meanwhile, a prodigy from Kansai is making his way toward Tokyo. Packing serious power--and a temper to match--in his small frame, this wild 7th-grader has talent and skill that could rival even Ryoma's.",
+      release_date: "April 4th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1274.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 16: Super Combo",
+      author: "Takeshi Konomi",
+      synopsis: "Takashi Kawamura battles the mysterious Kabaji of Hyotei Academy. Taka unleashes a brutal two-handed 'Hadokyu' (wave surge shot), which Kabaji dishes right back. Unbeknownst to Taka, Kabaji's special talent is his ability to mimic shots with accuracy and ease. Meanwhile, Sadaharu's honesty and keen eye for detail becomes Seishun's downfall when he volunteers that his winning smash was actually out. Can Seishun Academy afford another loss?",
+      release_date: "December 4th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1275.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 20: Seishun vs. Rokkaku",
+      author: "Takeshi Konomi",
+      synopsis: "It's the Kanto Tournament semifinals! And Shusuke's not playing his best--meaning the advantage may once again go to last year's winner, Rokkaku!",
+      release_date: "September 4th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1276.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 15: The Sadaharu-Kaoru Pair",
+      author: "Takeshi Konomi",
+      synopsis: "At the Kanto Tournament, the brillant play of Hyotei Academy's Gakuto and Yushi's drives Seishun's Momo and Eiji to assume the Australian formation, a technique they masterfully pulled off in a previous match. Meanwhile, the Seishun team of Kaoru and Sadaharu walk into a landmine filled with 'scud serves' and accurate, aggressive doubles play. But just when things look bleak, Sadaharu unleashes his well-planned counterattack...",
+      release_date: "September 4th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1277.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 31: A Surprise Strategy: Eiji Plays Singles",
+      author: "Takeshi Konomi",
+      synopsis: "With Shuichiro out of play, the other half of Seishun's Golden Pair faces off against Higa's Yujiro Kai in No. 2 Singles. Can Eiji bring Seishun a victory without his partner's support? The final match of the round, No. 1 Singles, pits captain against captain: Kunimitsu, in his first game back from injury, versus Eishiro 'Killer' Kite.",
+      release_date: "December 2nd 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1278.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 19: Tezuka's Departure",
+      author: "Takeshi Konomi",
+      synopsis: "Captain Kunimitsu is out! Now, without him, Seishun's up against a team coached by a four-time Japan Open winner. It's time for serious pressure, on and off the court!",
+      release_date: "July 4th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1279.jpg"},
+
+{
+      title: "The Prince of Tennis, Volume 21: Kikamaru's New Step",
+      author: "Takeshi Konomi",
+      synopsis: "Rokkaku's not going down without a fight. And Rikkai is better than expected. It's up to Eiji--and Ryoma--to pull out all the stops for Seishun! Can their new moves turn the tables?",
+      release_date: "December 4th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1280.jpg"},
+
+      [genres[0], genres[14], genres[10], genres[19]]
       ],
