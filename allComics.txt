@@ -4,9 +4,9 @@
 //**
 
 {/*
-Action, Drama, Fantasy, Horror
-Themes: Historical, Supernatural
-[genres[7], genres[0], genres[4], genres[21], genres[9], genres[18]]
+Action
+Themes: Adventure, Fan Service
+[genres[1], genres[0], genres[4], genres[21], genres[9], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -905,7 +905,7 @@ allComics = [
 {
       title: "Bakuman, Vol. 20",
       author: "Tsugumi Ohba",
-      synopsis: "The mystery behind manga-making revealed! Average student Moritaka Mashiro enjoys drawing for fun. When his classmate and aspiring writer Akito Takagi discovers his talent, he begs Moritaka to team up with him as a manga-creating duo. But what exactly does it take to make it in the manga-publishing world?Reads R to L (Japanese Style) for teen audiences.",
+      synopsis: "The mystery behind manga-making revealed! Average student Moritaka Mashiro enjoys drawing for fun. When his classmate and aspiring writer Akito Takagi discovers his talent, he begs Moritaka to team up with him as a manga-creating duo. But what exactly does it take to make it in the manga-publishing world?",
       release_date: "April 19th 2012",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1104.jpg"},
 
@@ -1087,7 +1087,7 @@ allComics = [
 {
       title: "Vampire Knight, Vol. 15",
       author: "Matsuri Hino",
-      synopsis: "With Kaname missing, Yuki must now step in as acting head of her clan to maintain the fragile peace between the human and vampire societies. Will she be able to regain the trust of the vampire aristocrats, much less Aido?Reads R to L (Japanese Style) for T+ audiences.",
+      synopsis: "With Kaname missing, Yuki must now step in as acting head of her clan to maintain the fragile peace between the human and vampire societies. Will she be able to regain the trust of the vampire aristocrats, much less Aido?",
       release_date: "December 5th 2011",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1138.jpg"},
 
@@ -1108,7 +1108,7 @@ allComics = [
 {
       title: "Vampire Knight, Vol. 17",
       author: "Matsuri Hino",
-      synopsis: "The #1 hit series from Shojo Beat—a tale of vampire romanceCross Academy is attended by two groups of students: the Day Class and the Night Class. At twilight, when the students of the Day Class return to their dorm, they cross paths with the Night Class on their way to school. Yuki Cross and Zero Kiryu are the Guardians of the school, protecting the Day Class from the Academy's dark secret: the Night Class is full of vampires!Reads R to L (Japanese Style) for teen plus audiences.",
+      synopsis: "The #1 hit series from Shojo Beat—a tale of vampire romanceCross Academy is attended by two groups of students: the Day Class and the Night Class. At twilight, when the students of the Day Class return to their dorm, they cross paths with the Night Class on their way to school. Yuki Cross and Zero Kiryu are the Guardians of the school, protecting the Day Class from the Academy's dark secret: the Night Class is full of vampires!",
       release_date: "December 5th 2012",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1143.jpg"},
 
@@ -2571,7 +2571,7 @@ allComics = [
 {
       title: "Dogs: Bullets & Carnage, Volume 8",
       author: "Shirow Miwa",
-      synopsis: "An action-packed, stylish shoot-’em-up.Boasting furious action, switchback plotting, magnetic characters and dazzling art, Dogs tells the story of four individuals struggling to survive a dystopian urban future by gun and sword and courage and luck. The devastating assault launched from the Below creates unrest among the residents of the Underground. When Miss Liza learns the truth behind the kidnapping of the Lost Children, the mutual distrust and anger only grow, with potentially fatal results. Heine’s partnership with Badou is also badly strained, but his biggest problem by far lies in Naoto’s hands: the black sword made to fight against his kind, the one weapon that can kill him. When figures from Heine’s past return to confront him, will Naoto act as his ally…or his enemy?Reads R to L (Japanese Style) for mature audiences.",
+      synopsis: "An action-packed, stylish shoot-’em-up.Boasting furious action, switchback plotting, magnetic characters and dazzling art, Dogs tells the story of four individuals struggling to survive a dystopian urban future by gun and sword and courage and luck. The devastating assault launched from the Below creates unrest among the residents of the Underground. When Miss Liza learns the truth behind the kidnapping of the Lost Children, the mutual distrust and anger only grow, with potentially fatal results. Heine’s partnership with Badou is also badly strained, but his biggest problem by far lies in Naoto’s hands: the black sword made to fight against his kind, the one weapon that can kill him. When figures from Heine’s past return to confront him, will Naoto act as his ally…or his enemy?",
       release_date: "December 19th 2012",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1339.jpg"},
 
@@ -3965,14 +3965,14 @@ allComics = [
 {
       title: "Skip Beat!, Vol. 24",
       author: "Yoshiki Nakamura",
-      synopsis: "Show biz is sweet, but revenge is sweeter!Reads R to L (Japanese Style), for audiences T  Valentine’s Day is on its way, but Kyoko won’t be able to celebrate love and friendship the normal way. She’s getting blackmailed into giving chocolate to guys she hates, she has her ongoing revenge to oblige, and to top it all off, it’s Ren’s birthday! How can Kyoko give him a meaningful present when she’s slinging meaningless chocolate left and right?",
+      synopsis: "Show biz is sweet, but revenge is sweeter! Valentine’s Day is on its way, but Kyoko won’t be able to celebrate love and friendship the normal way. She’s getting blackmailed into giving chocolate to guys she hates, she has her ongoing revenge to oblige, and to top it all off, it’s Ren’s birthday! How can Kyoko give him a meaningful present when she’s slinging meaningless chocolate left and right?",
       release_date: "February 19th 2010",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1532.jpg"},
 
 {
       title: "Skip Beat!, Vol. 21",
       author: "Yoshiki Nakamura",
-      synopsis: "Reads R to L (Japanese Style). Show biz is sweet, but revenge is sweeter! ",
+      synopsis: "Show biz is sweet, but revenge is sweeter! ",
       release_date: "February 19th 2009",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1533.jpg"},
 
@@ -4000,21 +4000,21 @@ allComics = [
 {
       title: "Skip Beat!, Vol. 23",
       author: "Yoshiki Nakamura",
-      synopsis: "Show biz is sweet, but revenge is sweeter!Reads R to L (Japanese Style) T audience. Kyoko Mogami followed her true love Sho to Tokyo to support him while he made it big as an idol. But he's casting her out now that he's famous! Kyoko won't suffer in silence--she's going to get her sweet revenge by beating Sho in show biz!Chiori’s rage threatens the whole production when she lashes out and hurts Kyoko. Kyoko is used to overcoming obstacles, and she uses her injury as an excuse to push Chiori into exploring her acting. But Chiori has a traumatic past. Will focusing on the dark side of her character bring it all rushing back?!",
+      synopsis: "Show biz is sweet, but revenge is sweeter! Kyoko Mogami followed her true love Sho to Tokyo to support him while he made it big as an idol. But he's casting her out now that he's famous! Kyoko won't suffer in silence--she's going to get her sweet revenge by beating Sho in show biz!Chiori’s rage threatens the whole production when she lashes out and hurts Kyoko. Kyoko is used to overcoming obstacles, and she uses her injury as an excuse to push Chiori into exploring her acting. But Chiori has a traumatic past. Will focusing on the dark side of her character bring it all rushing back?!",
       release_date: "October 19th 2009",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1537.jpg"},
 
 {
       title: "Skip Beat!, Vol. 28",
       author: "Yoshiki Nakamura",
-      synopsis: "Reads R to L (Japanese Style), for audiences T.Kyoko Mogami followed her true love Sho to Tokyo to support him while he made it big as an idol. But he's casting her out now that he's famous! Kyoko won't suffer in silence--she's going to get her sweet revenge by beating Sho in show biz!Kyoko’ s having trouble getting into the role of Cain’ s sister. But is it because she can’ t relate to a spoiled punk princess, or because she can’ t let go of the fact that Ren is playing Cain? And Ren faces his own challenge with the situation. Can he stand to have the woman he loves treat him like a brother?",
+      synopsis: "Kyoko Mogami followed her true love Sho to Tokyo to support him while he made it big as an idol. But he's casting her out now that he's famous! Kyoko won't suffer in silence--she's going to get her sweet revenge by beating Sho in show biz!Kyoko’ s having trouble getting into the role of Cain’ s sister. But is it because she can’ t relate to a spoiled punk princess, or because she can’ t let go of the fact that Ren is playing Cain? And Ren faces his own challenge with the situation. Can he stand to have the woman he loves treat him like a brother?",
       release_date: "June 20th 2011",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1538.jpg"},
 
 {
       title: "Skip Beat!, Vol. 26",
       author: "Yoshiki Nakamura",
-      synopsis: "Show biz is sweet, but revenge is sweeter!Reads R to L (Japanese Style). Kyoko thinks she's survived Valentine's Day, but that's just the kind of attitude that gets her in trouble with the president of LME. Lory is very disappointed in the girls of the Love Me Section and sets up special new assignments to teach them the power of love. But will the president's strange methods have any affect on the troubled souls of Chiori, Moko and Kyoko?",
+      synopsis: "Show biz is sweet, but revenge is sweeter! Kyoko thinks she's survived Valentine's Day, but that's just the kind of attitude that gets her in trouble with the president of LME. Lory is very disappointed in the girls of the Love Me Section and sets up special new assignments to teach them the power of love. But will the president's strange methods have any affect on the troubled souls of Chiori, Moko and Kyoko?",
       release_date: "October 19th 2010",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1539.jpg"},
 
@@ -4070,7 +4070,7 @@ allComics = [
 {
       title: "Skip Beat!, Vol. 22",
       author: "Yoshiki Nakamura",
-      synopsis: "Show biz is sweet, but revenge is sweeter!Reads R to L (Japanese Style), for T audiences. Is there such a thing as being too good? With Ren's help, Kyoko finally gets into her new character. But when she shows up on set and wows the crew with her new spin on the old bully role, it sends some of her costars over the edge! Kyoko's used to dealing with her own demons, but can she stand up to someone else's?!",
+      synopsis: "Show biz is sweet, but revenge is sweeter! Is there such a thing as being too good? With Ren's help, Kyoko finally gets into her new character. But when she shows up on set and wows the crew with her new spin on the old bully role, it sends some of her costars over the edge! Kyoko's used to dealing with her own demons, but can she stand up to someone else's?!",
       release_date: "June 19th 2009",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1547.jpg"},
 
@@ -4098,7 +4098,7 @@ allComics = [
 {
       title: "Skip Beat!, Vol. 25",
       author: "Yoshiki Nakamura",
-      synopsis: "Show biz is sweet, but revenge is sweeter!Reads R to L (Japanese Style). Kyoko's Valentine's battle with Reino has finally gained her Sho's attention—but now it's the last thing she wants! Sho is determined to make her obsessed with him, and shows up on set with an over-the-top gift to taunt her. But when Kyoko explains her true relationship with Reino, Sho makes an inexcusable move. Has he undone her years of healing in one fell swoop?!",
+      synopsis: "Show biz is sweet, but revenge is sweeter! Kyoko's Valentine's battle with Reino has finally gained her Sho's attention—but now it's the last thing she wants! Sho is determined to make her obsessed with him, and shows up on set with an over-the-top gift to taunt her. But when Kyoko explains her true relationship with Reino, Sho makes an inexcusable move. Has he undone her years of healing in one fell swoop?!",
       release_date: "June 18th 2010",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1551.jpg"},
 
@@ -4414,4 +4414,56 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1595.jpg"},
 
       [genres[7], genres[0], genres[4], genres[21], genres[9], genres[18]]
+      ],
+[
+{
+      title: "Black Lagoon, Vol. 8",
+      author: "Rei Hiroe",
+      synopsis: "Roberta's vendetta continues as Rock and Revy enlist some old acquaintances to try and catch up with the Killer Maid before it's too late. They're going to have to get in line since Roberta's got everyone from a U.S. military black ops unit to her ex-F.A.R.C. comrades gunning for her, not to mention the CIA and the NSA. When the turmoil becomes more than the city's criminal underworld can bear, Balalaika and Hotel Moscow enter the game. With so many players at the table, it's winner take all, and the stakes couldn't be higher!",
+      release_date: "January 1st 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1596.jpg"},
+
+{
+      title: "Black Lagoon, Vol. 4",
+      author: "Rei Hiroe",
+      synopsis: "The action shifts to chilly midwinter Tokyo, where Balalaika hires Rock as her interpreter, and Revy comes along as Rock's bodyguard. The Washimine-gumi, a Yakuza family on its way down, wants to make a deal with Hotel Moscow. Soon, however, the yakuza realize they might have been better off making a deal with the Devil himself! As the pressure builds, Rock faces the reality of his outlaw life, and Revy meets her match in the Washimine's number-one enforcer. The icy streets of Tokyo are about to burn red-hot!",
+      release_date: "July 19th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1597.jpg"},
+
+{
+      title: "Black Lagoon, Vol. 2",
+      author: "Rei Hiroe",
+      synopsis: "As the newest crewmember of the Black Lagoon, Rock is learning that life as a pirate is a lot more than just fun in the sun. After a salvage job on a sunken German U-Boat turns into a full-auto blowout with a gang of neo-Nazis, the crew of the Black Lagoon realizes they have more than a few issues with Revy's hair-trigger temper. But when the arrival of a pair of psychotic assassins in Roanapur nearly starts an all-out gang war, Rock is going to need all the friends he can get!",
+      release_date: "July 19th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1598.jpg"},
+
+{
+      title: "Black Lagoon, Vol. 3",
+      author: "Rei Hiroe",
+      synopsis: "Roanapur turns into a war zone when Balalaika and Hotel Moscow team up with the Triad to hunt down the psychotic Romanian killers Hansel and Gretel. The bloody climax leaves Rock scarred by the grim reality of the underworld he's become a part of, but there's no rest for the wicked. A terrorist organization makes a move against the Triad, and the crew of the Black Lagoon once again gets pulled into the line of fire as an echo of the past comes back to haunt the present. Cock the hammer, it's time for action!",
+      release_date: "April 19th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1599.jpg"},
+
+{
+      title: "Black Lagoon, Vol. 9",
+      author: "Rei Hiroe",
+      synopsis: "Roanapur explodes as Roberta's vendetta against a top secret U.S. Special Forces team brings out the city's heaviest hitters. Balalaika and the ex-Soviet military troops of Hotel Moscow face off with Major Caxton's Grey Fox unit as it tries to fight its way out of Roanapur. Meanwhile, Rock, Revy and Garcia Lovelace continue their pursuit of Roberta, hoping to catch up to her before the Killer Maid's own demons run her down. But if they do find her, Roberta's thirst for revenge may consume more than just those who wronged her…",
+      release_date: "October 19th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1600.jpg"},
+
+{
+      title: "Black Lagoon, Vol. 10",
+      author: "Rei Hiroe",
+      synopsis: "Benny’s tech-savvy girlfriend Jane has recruited Feng Yifei, a Chinese spy, to help her hack into a massive German defense company. But Jane’s real motive is to blackmail the Chinese government by exposing their operations and hang Feng out to dry as a scapegoat. The People’s Liberation Army isn’t going to let this slide, and it’s not long before they hire local mercenaries to wipe out Feng and anyone that gets in the way, including the crew of the Black Lagoon!",
+      release_date: "May 19th 2014",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1601.jpg"},
+
+{
+      title: "Black Lagoon, Vol. 5",
+      author: "Rei Hiroe",
+      synopsis: "Rock and Revy form an uneasy alliance with Ginji, the Washimine-gumi's top enforcer, to rescue Yukio from her kidnappers. Even if she can be freed, Rock finds Yukio's position as the new head of the Washimine-gumi hard to accept, especially when it calls his beliefs and loyalties into question. The conflict between Hotel Moscow and the Washimine spirals into greater violence, setting Rock and Revy on a collision course with Balalaika, and ultimately, a shocking climax that will change Rock forever.",
+      release_date: "March 17th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1602.jpg"},
+
+      [genres[1], genres[0]]
       ],
