@@ -4,9 +4,8 @@
 //**
 
 {/*
-Action, Fantasy
-Themes: Adventure, Battles, Powers
-[genres[0], genres[4], genres[1], genres[10], genres[20], genres[18]]
+Action, Drama, Horror
+[genres[0], genres[7], genres[21], genres[10], genres[20], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -4467,7 +4466,7 @@ allComics = [
 
       [genres[1], genres[0]]
       ],
-[
+      [
 {
       title: "xxxHolic, Vol. 6",
       author: "CLAMP",
@@ -4718,7 +4717,7 @@ allComics = [
 
       [genres[0], genres[7], genres[5], genres[1], genres[10]]
       ],
-[
+      [
 {
       title: "GTO: Great Teacher Onizuka, Vol. 4",
       author: "Tōru Fujisawa",
@@ -4875,7 +4874,7 @@ allComics = [
 
       [genres[14], genres[7], genres[8]]
       ],
-[
+      [
 {
       title: "Hunter x Hunter, Vol. 21",
       author: "Yoshihiro Togashi",
@@ -5052,4 +5051,112 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1684.jpg"},
 
       [genres[0], genres[4], genres[1], genres[10], genres[20]]
+      ],
+      [
+{
+      title: "Battle Royale, Vol. 09",
+      author: "Koushun Takami",
+      synopsis: "As Shuuya is nursed back to health, he discovers his saviour is a group of of girls with plans to defeat  and escape the island. But hope turns to despair when one girl's paranoia makes her believe thar Shuuya is the devil...and she will stop at nothing to cast him into darkness!Just when you thought that things couldn't get any more outrageous, this volume of  pulls no punches and packs a ton of heat...turns into a gruesome, over the top splatterfest filled of paranoia, corruption and bloody lies,The body count is rising! Are you still game?",
+      release_date: "March 1st 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1685.jpg"},
+
+{
+      title: "Battle Royale, Vol. 07",
+      author: "Koushun Takami",
+      synopsis: "Book by Koushun Takami, Masayuki Taguchi",
+      release_date: "August 1st 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1686.jpg"},
+
+{
+      title: "Battle Royale, Vol. 01",
+      author: "Koushun Takami",
+      synopsis: "Battle Royale, a high-octane thriller about senseless youth violence in a dystopian world, it is one of Japan's best-selling - and most controversial - novels. As part of a ruthless program by the totalitarian government, ninth-grade students are taken to a small isolated island with a map, food, and various weapons. Forced to wear special collars that explode when they break a rule, they must fight each other for three days until only one 'winner' remains. The elimination contest becomes the ultimate in must-see reality television. A Japanese pulp classic available in English for the first time, Battle Royale is a potent allegory of what it means to be young and survive in today's dog-eat-dog world. The first novel by small-town journalist Koushun Takami, it went on to become an even more notorious film by 70-year-old director Kinji Fukusaku.",
+      release_date: "May 1st 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1687.jpg"},
+
+{
+      title: "Battle Royale, Vol. 08",
+      author: "Koushun Takami",
+      synopsis: "The sun is setting on the first day of The Program, and the students of Class B are in for one hell of a night. With the failure of their initial plan to take down The Program, Shinji Mimura and Yutaka Sato are putting their backup plan in motion. Having located all the supplies necessary to create a bomb, the pair are all set to deliver their package right where it will do the most damage: the 'school' which serves as The Program control center. But with the school in a permanent danger zone, will it be their bomb that detonates first... or the explosive collars locked around their necks?",
+      release_date: "August 3rd 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1688.jpg"},
+
+{
+      title: "Battle Royale, Vol. 14",
+      author: "Koushun Takami",
+      synopsis: "The beginning of the end!Shuuya, Kawada, and Noriko fight for their lives against Kiriyama, the psychotic student who decimated most of their class. While Kiriyama strives to eradicate the other kids' futures, we get an insider's view of Kiriyama's past... and what forces shaped this bright, talented young man into the unfeeling killer he is today.",
+      release_date: "January 1st 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1689.jpg"},
+
+{
+      title: "Battle Royale, Vol. 05",
+      author: "Koushun Takami",
+      synopsis: "In the future, random Jr. High School classes are chosen to compete in a game called Battle Royale. The rules: only one student can survive after 3 days on an island or else they all perish. Weapons are handed out and each student is sent out into the field alone and unprepared for the horror that awaits them. The classmates turn upon themselves in a battle for survival, treaties are made and broken, and former friends become foes as the relentless countdown continues. Amid the betrayals and rising body count, two classmates confess their love for each other and swear to survive this deadly game together.",
+      release_date: "November 1st 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1690.jpg"},
+
+{
+      title: "Battle Royale, Vol. 11",
+      author: "Koushun Takami",
+      synopsis: "Sugimura meets up with Kotohiki. Sugimura's excitement leads him to forget what the situation was, and how dangerous it still is. Sugimura and Kotohiki exchange a few words, as they head toward Shuuya's group. He expresses his emotions and his feeling of powerlessness against Kiriyama. Unfortunately, Kiriyama catches up to them, and Sugimura has to fight him in order to protect Kotohiki. As he tries to fight him, he again feels it's meaningless to try to defeat the monster Kiriyama.",
+      release_date: "November 1st 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1691.jpg"},
+
+{
+      title: "Battle Royale, Vol. 04",
+      author: "Koushun Takami",
+      synopsis: "Book by Koushun Takami, Masayuki Taguchi",
+      release_date: "July 1st 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1692.jpg"},
+
+{
+      title: "Battle Royale, Vol. 03",
+      author: "Koushun Takami",
+      synopsis: "In the future, random Jr. High School classes are chosen to compete in a game called Battle Royale. The rules: only one student can survive after 3 days on an island or else they all perish. Weapons are handed out and each student is sent out into the field alone and unprepared for the horror that awaits them. The classmates turn upon themselves in a battle for survival, treaties are made and broken, and former friends become foes as the relentless countdown continues. Amid the betrayals and rising body count, two classmates confess their love for each other and swear to survive this deadly game together.",
+      release_date: "April 1st 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1693.jpg"},
+
+{
+      title: "Battle Royale, Vol. 12",
+      author: "Koushun Takami",
+      synopsis: "You cannot fight what you cannot see. You cannot kill someone who is dead on the inside. It is the defiantly human animal that is forced to kill without porpose...When Sugimura realizes that he can't beat Kiriyama, he turns to protecting Kotohiki at all costs. But Kiriyama might just beat him to the kill, because he has an ace up his sleeve: Oda's Kevlar vest!Meanwhile, Kawada and Shuuya discuss just how dangerous Kiriyama really may be. But how can you fight someone who is barely human?",
+      release_date: "2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1694.jpg"},
+
+{
+      title: "Battle Royale, Vol. 06",
+      author: "Koushun Takami",
+      synopsis: "In the future, random Jr. High School classes are chosen to compete in a game called Battle Royale. The rules: only one student can survive after 3 days on an island or else they all perish. Weapons are handed out and each student is sent out into the field alone and unprepared for the horror that awaits them. The classmates turn upon themselves in a battle for survival, treaties are made and broken, and former friends become foes as the relentless countdown continues. Amid the betrayals and rising body count, two classmates confess their love for each other and swear to survive this deadly game together.",
+      release_date: "April 1st 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1695.jpg"},
+
+{
+      title: "Battle Royale, Vol. 10",
+      author: "Koushun Takami",
+      synopsis: "Shuuya walks into the dining room to find all the girls except Yuko dead. The tragic deaths of her friends has sent Yuko further over the edge. She climbs to the top of the lighthouse as the madness takes over her mind, ignoring Shuuya's pleas. Realizing she was wrong about Shuuya, Yuko throws herself off of the lighthouse.",
+      release_date: "July 1st 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1696.jpg"},
+
+{
+      title: "Battle Royale, Vol. 15",
+      author: "Koushun Takami",
+      synopsis: "Brace yourself for the climactic conclusion to !Mere days ago, forty-two students were marooned on an island, given random weapons and ordered to kill or be killed. Now only four remain alive... but that's still three too many. As our heores are confronted with a grisly end, one wil be forced to betray the others in the ultimate sacrifice. Will anyone make it out of  alive?",
+      release_date: "April 1st 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1697.jpg"},
+
+{
+      title: "Battle Royale, Vol. 13",
+      author: "Koushun Takami",
+      synopsis: "Of the original 42 students forced to kill or be killed by ",
+      release_date: "July 1st 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1698.jpg"},
+
+{
+      title: "Battle Royale, Vol. 02",
+      author: "Koushun Takami",
+      synopsis: "As the violence begins to escalate, Shuuya continues searching for friends who would be willing to join his alliance. However, the search doesn't go as well as he would hope, resulting in the deaths of several more students. Childhood friends Yumiko Kusaka and Yukiko Kitano would be glad to join Shuuya, but will he reach him in time? The answer may lie with the mysterious Kawada. Will Shuuya be able to convince the transfer student to join him? Meanwhile, having also decided not to play the game, how long will devoted couple Sakura Ogawai and Kazuhiko Yamamoto survive? Finally, the deadly Kazuo must decide what to do about his gang. Will he allow them to join him? Or will Mitsuru Numai and the rest just slow him down?",
+      release_date: "November 1st 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1699.jpg"},
+
+      [genres[0], genres[7], genres[21]]
       ],
