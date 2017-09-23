@@ -1,7 +1,7 @@
 {/*
-Comedy, Romance
-Themes: School Life
-[genres[14], genres[13], genres[15], genres[8], genres[18], genres[18]]
+Drama
+Themes: School Life, Sports
+[genres[7], genres[15], genres[19], genres[8], genres[18], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -9138,4 +9138,63 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2248.jpg"},
 
       [genres[14], genres[13], genres[15]]
+      ],
+      [
+{
+      title: "Slam Dunk, Vol. 6",
+      author: "Takehiko Inoue",
+      synopsis: "He tried to slam her with love, but she dunked his heart. R to L (Japanese Style). With just a minute remaining on the game clock, Shohoku still trails Ryonan by four points. Hoping to put this match away for good, Ryonan hands the ball to their ace Sendoh, but they make the fatal error of overlooking the incredibly erratic (and at times phenomenally talented) Hanamichi. With a shot block that sets up a clinching basket for superstar Kaede Rukawa, Shohoku still has a chance for the win, but have they already chewed up too much time in the process? Winning isn't everything in the game of basketball, but who wants to come in second? It takes dedication and discipline to be the best, and the Shohoku High hoops team wants to be just that. They have one last year to make their captain's dream of reaching the finals come true--will they do it? Takehiko Inoue's legendary beloved basketball manga is finally here and the tale of a lifetime is in your hands.",
+      release_date: "December 3rd 1991",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2249.jpg"},
+
+{
+      title: "Slam Dunk, Vol. 2",
+      author: "Takehiko Inoue",
+      synopsis: "R to L (Japanese Style)One of the most popular manga in the history of manga! Winning isn't everything in basketball, but who wants to come in second? It takes dedication and discipline to be the best, and the Shohoku High hoops team wants to be just that--the best. They have one last year to make their captain's dream of reaching the finals come true--will they do it? Takehiko Inoue's legendary basketball manga is finally here, and the tale of a lifetime is in your hands!He may be a pain in the butt, but Hanamichi's athletic prowess and monstrous strength have not gone unnoticed by the captain of Shohoku's judo team. Hoping to take his troupe to a national title, the judo captain is willing to go to great lengths to lure Hanamichi away from the court and get him on the sparring mat. Will out-and-out bribery convince Hanamichi that judo's the way to go, or will he stay a basketball man to the very end?",
+      release_date: "June 10th 1991",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2250.jpg"},
+
+{
+      title: "Slam Dunk, Vol. 4",
+      author: "Takehiko Inoue",
+      synopsis: "R to L (Japanese Style). Shohoku's (somewhat) friendly game against Ryonan finally gets underway. Old rivalries reignite with captain Akagi going toe-to-toe with Ryonan's center, Uozumi. Hanamichi has flat-out declared that he will personally shut down Ryonan's ace, Sendoh, but will Kaede Rukawa take care of things before Hanamichi even gets a chance to hit the floor? Either way, this is bound to be a game to remember.",
+      release_date: "August 7th 1991",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2251.jpg"},
+
+{
+      title: "Slam Dunk, Vol. 14",
+      author: "Takehiko Inoue",
+      synopsis: "He tried to slam her with love, but she dunked his heart.Reads R to L (Japanese Style) T audience. Winning isn't everything in the game of basketball, but who wants to come in second? It takes dedication and discipline to be the best, and the Shohoku High hoops team wants to be just that. They have one last year to make their captain's dream of reaching the finals come true--will they do it?",
+      release_date: "August 4th 1993",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2252.jpg"},
+
+{
+      title: "Slam Dunk, Vol. 19",
+      author: "Takehiko Inoue",
+      synopsis: "Get ready for the greatest sports manga of all time!Reads R to L (Japanese Style). Thanks to consecutive three-pointers by Mistui late in the first half of the game against Ryonan High, Shohoku High ends the half down by only six points. Rukawa's still got plenty of strength left and he's going to need it to face Ryonan's ace, Sendoh. The pressure on Ryonan continues to draw fouls from them--can Shohoku exploit this and pull ahead? Or is Ryonan's coach Taoka just waiting for Shohoku to trip themselves up?",
+      release_date: "July 4th 1994",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2253.jpg"},
+
+{
+      title: "Slam Dunk, Vol. 9",
+      author: "Takehiko Inoue",
+      synopsis: "As luck would have it, the basketball team narrowly avoids suspension over the all-out-brawl incident when Yohei and Mitsui's friends take responsibility. Now, with Mitsui back in the lineup for the first time in two years, Shohoku quickly resumes practice in preparation for their upcoming tournament. As punishment for the lack of discipline they displayed in the fight, though, Coach Anzai decides on a starting lineup for Shohoku's game without Hanamichi, Rukawa, Ryota and Mitsui. Can Anzai's squad hold their own when their best players (and perpetual problem children) ride the bench?",
+      release_date: "September 4th 1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2254.jpg"},
+
+{
+      title: "Slam Dunk, Vol. 17",
+      author: "Takehiko Inoue",
+      synopsis: "Get ready for the greatest sports manga of all time!Reads R to L (Japanese Style), for audiences T  As the boys from Shohoku watch from the sidelines, the much-anticipated game between Ryonan High and Kainan High continues to heat up. Kainan superstar Maki’s stellar play helps swing the momentum back in his team’s direction, aided in no small part by a key player from Ryonan getting into foul trouble. However, Captain Akagi and company leave the game early when they receive an alarming bit of news: Coach Anzai has collapsed and is now in the hospital!",
+      release_date: "February 4th 1994",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2255.jpg"},
+
+{
+      title: "Slam Dunk, Vol. 12",
+      author: "Takehiko Inoue",
+      synopsis: "He tried to slam her with love, but she dunked his heart.Reads R to L (Japanese Style), for T audiences. The final four teams that will play in the round-robin tournament have been decided, and Shohoku's one of them. However, Shohoku's next opponent is Kainan, and they're known as the 'Kings' for good reason-they've made it to Nationals 16 years in a row. Ever since he joined Shohoku, Akagi has dreamed of playing Kainan. His wish is about to come true, but is it one he'll soon be regretting?",
+      release_date: "April 2nd 1993",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2256.jpg"},
+
+      [genres[7], genres[15], genres[19]]
       ],
