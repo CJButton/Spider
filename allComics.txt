@@ -4,8 +4,9 @@
 //**
 
 {/*
-Action, Drama, Horror
-[genres[0], genres[7], genres[21], genres[10], genres[20], genres[18]]
+Action, Fantasy
+Themes: Battles
+[genres[0], genres[4], genres[10], genres[10], genres[20], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -5159,4 +5160,266 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1699.jpg"},
 
       [genres[0], genres[7], genres[21]]
+      ],
+[
+{
+      title: "Yu-Gi-Oh!: Duelist, Vol. 8: Yugi vs. Pegasus",
+      author: "Kazuki Takahashi",
+      synopsis: "Yugi's beaten the champions of Duel Monsters... but now it's time to meet the maker! In the final battle of the tournament, Yugi faces ulta-rich game designer Maxillion Pegasus with the soul of his grandfather at stake! As cards fly, Yugi and Pegasus turn to the darker side of their decks, unleashing sinister monsters of the netherworld. But Pegasus has the power of the mind-scanning Millenium Eye. How can Yugi defeat an opponent who knows exactly what he's going to do?",
+      release_date: "1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1700.jpg"},
+
+{
+      title: "Yu-Gi-Oh! Vol. 2: The Cards With Teeth",
+      author: "Kazuki Takahashi",
+      synopsis: "After Seto Kaiba discovers that Yugi's grandfather is the owner of the incredibly rare Blue-Eyes White Dragon card, the master of the dangerous collectible card game will stop at nothing to obtain the greatly desired card.",
+      release_date: "1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1701.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Duelist, Vol. 10: The Egyptian God Cards",
+      author: "Kazuki Takahashi",
+      synopsis: "Yugi enters the Duel Monsters, the world's most popular collectible card game, where he must face ruthless opponents like game designer Maximillion Pegasus in the hopes of discovering the origin of the game and his own powers.",
+      release_date: "December 4th 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1702.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Millennium World, Vol. 5: Tomb of Shadows",
+      author: "Kazuki Takahashi",
+      synopsis: "The final saga of the Yu-Gi-Oh! epic! After many deadly duels, Yugi has collected the three Egyptian God Cards, the key to remembering his own past life as an Egyptian pharaoh. When the cards take Yugi's soul back in time, can he defeat the villains of the past and achieve his ultimate destiny?",
+      release_date: "February 4th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1703.jpg"},
+
+{
+      title: "Yu-Gi-Oh! Vol. 7: Monster World",
+      author: "Kazuki Takahashi",
+      synopsis: "When Yugi beat Kaiba at a card game, little did he know the consequences: a trip through Kaiba's 'Death T'  a theme park of death  and a series of evil spells against Yugi's family. It doesn't help that Kaiba's little brother also has a score to settle.",
+      release_date: "March 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1704.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Duelist, Vol. 3: The Player Killer",
+      author: "Kazuki Takahashi",
+      synopsis: "The diabolical Player Killer challenges Yugi to a duel of darkness while across the ocean, Yugi's #1 rival Kaiba has been awakened to reclaim his fortune and get revenge. Rated for teens.",
+      release_date: "October 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1705.jpg"},
+
+{
+      title: "Yu-Gi-Oh! Vol. 5: The Heart of the Cards",
+      author: "Kazuki Takahashi",
+      synopsis: "Yugi, Jonouchi, and Anzu have survived Kaiba's deadly theme park, but now they're faced with the two Kaiba brothers, heirs of the biggest game empire in Japan. Seto Kaiba has spent years and millions of dollars building the greatest 'Duel Monsters' deck ever. Armed only with his grandfather's hand-me-down deck, Yugi fights Seto Kaiba for his grandfather, for his friends, and most of all, for revenge. But will faith, and good card playing, be enough?",
+      release_date: "August 12th 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1706.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Duelist, Vol. 14: Double Trouble",
+      author: "Kazuki Takahashi",
+      synopsis: "Duels rage around Battle city as fish monsters, sea serpents, and dark beasts of the underworld are unleashed from their decks! First Jonouchi fights Ryota Kajiki, Duelist of the Sea, on his home turf at the Domino City Aquarium! Then Marik's henchmen, the Rare Hunters, force Kaiba and Yugi into a tag-team duel on top of a skyscraper! Can the two arch-rivals work together... or will they fall to their deaths 12 floors below?",
+      release_date: "January 1st 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1707.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Duelist, Vol. 24: Yugi vs. Marik",
+      author: "Kazuki Takahashi",
+      synopsis: "The greatest powers can often fall to the smallest opponents. Yugi used Kuriboh to defeat the Blue-Eyes Ultimate Dragon. Now, does the tiny Metal Devil hold the secret to defeating the Sun Dragon Ra? As the world's mightiest gamers clash, the very island may not survive the battle. The Battle City tournament is over...but who will walk away from the ruins?",
+      release_date: "January 1st 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1708.jpg"},
+
+{
+      title: "Yu-Gi-Oh!, Vol. 1: The Millenium Puzzle",
+      author: "Kazuki Takahashi",
+      synopsis: "10th grader Yugi spent most of his time alone playing games... until he solved the Millennium Puzzle, a mysterious Egyptian artifact! Possessed by the puzzle, Yugi becomes Yu-Gi-Oh, the King of Games, and challenges evildoers to the Shadow Games... weird games with high stakes and high risks! These graphic novels contain new stories not seen in the anime, including the origin of Yugi and his friends!",
+      release_date: "December 16th 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1709.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Millennium World, Vol. 7: Through The Last Door",
+      author: "Kazuki Takahashi",
+      synopsis: "In the illusionary Millennium World of three thousand years ago, the forces of good and evil clash for the last time. But now that Yugi has split from Yu-Gi-Oh, the heroes must go on a journey to present-day Egypt, where Yu-Gi-Oh--the pharaoh--must face his final destination. But what awaits them in Egypt? Has the evil of the Millennium Items truly been exorcised? And can the bonds which hold the pharaoh's soul ever be broken? The ultimate battle beckons!",
+      release_date: "June 4th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1710.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Duelist, Vol. 22: Slifer vs. Obelisk",
+      author: "Kazuki Takahashi",
+      synopsis: "Three thousand years ago, an ancient Egyptian carving predicted the final battle between Yugi and Kaiba...and now that day has finally come! The heavens shake as the archrivals unleash the ultimate gods of collectible card games: Slifer the Sky Dragon and the God of the Obelisk! But will the duel be decided in the present, or will the force of the gods smash through time itself?",
+      release_date: "January 1st 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1711.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Duelist, Vol. 11: The Shadow of Marik",
+      author: "Kazuki Takahashi",
+      synopsis: "First a sinister clown-masked figure steals Yugi's Millennium Puzzle, then Ryuji Otogi challenges Yugi to a collectible dice game. Without the Millennium Puzzle, Yugi can't call Yu-Gi-Oh. Can he win without his other self to help him out? Rated for children 9-12.",
+      release_date: "May 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1712.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Duelist, Vol. 23: Ra the Immortal",
+      author: "Kazuki Takahashi",
+      synopsis: "Yugi and Kaiba fight their final duel! One will lose, and the other will go to meet the greatest Egyptian God, the Sun Dragon Ra! But can anyone defeat the ultimate God Card in the hands of its master, the mad Marik? Or will they fall victim to the terrible prophecy: ",
+      release_date: "October 4th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1713.jpg"},
+
+{
+      title: "Yu-Gi-Oh! Duelist, Vol. 1:  Duelist Kingdom",
+      author: "Kazuki Takahashi",
+      synopsis: "Yugi, Jonouchi, and Anzu have survived Kaiba's deadly theme park, but now they're faced with the two Kaiba brothers, heirs of the biggest game empire in Japan. Seto Kaiba has spent years and millions of dollars building the greatest 'Duel Monsters' deck ever. Armed only with his grandfather's hand-me-down deck, Yugi fights Seto Kaiba for his grandfather, for his friends, and most of all, for revenge. But will faith, and good card playing, be enough?",
+      release_date: "May 1st 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1714.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Millennium World, Vol. 4: Birth of the Dragon",
+      author: "Kazuki Takahashi",
+      synopsis: "The final Yu-Gi-Oh! Story! After hundreds of battles, Yugi has finally gathered all the Egyptian God Cards... the key to unlocking his memories of his past life as a n Egyptian pharaoh. When Ryo Bakura gives him the Millennium Eye, Yugi opens the door to the world of memory, and hismind travels back in time to ancient Egypt, when the magic and mosters were real! Now Yugi and his friends must explore the world of Yugi's forgotten past... and fight an enemy who has been waiting for them for 3000 years!",
+      release_date: "November 4th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1715.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Duelist, Vol. 7: Heavy Metal Raiders",
+      author: "Kazuki Takahashi",
+      synopsis: "It's the final round before the fight with Pegasus, and only one of the four will survive! Mai Kujaku has always wanted to fight Yugi, and now she's got her chance! Can Yugi beat her harpies' pet dragon? Then, Jonouchi fights 'Bandit' Keith Howard, America's most unscrupulous gamer. Jonouchi's deck is loaded with warrior monsters, but Keith's machine deck deals death with six-guns and slot machine... American style!",
+      release_date: "May 22nd 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1716.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Millennium World, Vol. 6: The Name of the Pharaoh",
+      author: "Kazuki Takahashi",
+      synopsis: "In the pharaoh's empty tomb, Yugi fights Bakura for the most powerful magic of all: Yu-Gi-Oh's forgotten Egyptian name! But can Yugi win a life-or-death match of Duel Monsters without his partner's help? Meanwhile, while massive earthquakes shake the World of Memories, the pharaoh and the forces of Egypt fight a last stand against the undead armies of Zorc Necrophades. It's the final battle between good and evil...as the world itself comes to an end!",
+      release_date: "May 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1717.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Duelist, Vol. 12: Magician vs. Magician",
+      author: "Kazuki Takahashi",
+      synopsis: "Yugi fights Pandora, a duelist who uses one of Yugi's own favorite cards, the Dark Magician! But can Yugi duel  Meanwhile, Jonouchi fights an old enemy, Insector Haga. For the sake of his sister, Jonouchi must fight an army of vicious bugs... and that's not all. His own deck has been infected with Haga's parasitic insects! Is this the end?",
+      release_date: "July 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1718.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Duelist, Vol. 19: Duel With the Future",
+      author: "Kazuki Takahashi",
+      synopsis: "Kaiba faces the mysterious eighth duelist, Ishizu Ishtar, the woman who gave him The God of the Obelisk... and now she's taking it back! Even though Kaiba has an Egyptian God Card, Ishizu has the Millennium Tauk, which gives her the power to see the future! Kaiba's the only hope for victory may lie in the sands of time, in the secrets kept for centuries by the mysterious Egyptian Tomb Guardians. But even Kaiba may not be ready for the horrifying secret origin of the mad heir of the Tomb Guardians, the last of the line. His name is Marik Ishtar... Ishizu's brother!",
+      release_date: "November 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1719.jpg"},
+
+{
+      title: "Yu-Gi-Oh! Vol. 4: Kaiba's Revenge",
+      author: "Kazuki Takahashi",
+      synopsis: "When Yugi beat Kaiba at a card game, little did he know the consequences: a trip through Kaiba's 'Death T' -- a theme park of death -- and a series of evil spells against Yugi's family. It doesn't help that Kaiba's little brother also has a score to settle.",
+      release_date: "January 1st 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1720.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Duelist, Vol. 17: One-Turn Kill",
+      author: "Kazuki Takahashi",
+      synopsis: "On an airship flying high above Japan, Yugi fights for his life against Bakura's fiendish occult deck! when Bakura's Ouija Board spells out 'DEATH,' Yugi will be obliterated forever... and nothing can stop it! Then, Jonouchi fights Marik, the evil leader of the Ghouls! Or does he? Unbeknownst to our heroes, Marik has been impersonated by his henchman Rishid, a fanatic duelist with a deck full of Egyptian monsters, and a past as dark as Marik's own...",
+      release_date: "June 6th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1721.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Millennium World, Vol. 3: The Return of Bakura",
+      author: "Kazuki Takahashi",
+      synopsis: "The final Yu-Gi-Oh! Story! After hundreds of battles, Yugi has finally gathered all the Egyptian God Cards... the key to unlocking his memories of his past life as a n Egyptian pharaoh. When Ryo Bakura gives him the Millennium Eye, Yugi opens the door to the world of memory, and hismind travels back in time to ancient Egypt, when the magic and mosters were real! Now Yugi and his friends must explore the world of Yugi's forgotten past... and fight an enemy who has been waiting for them for 3000 years!",
+      release_date: "August 4th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1722.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Duelist, Vol. 18: The Power of Ra",
+      author: "Kazuki Takahashi",
+      synopsis: "The third and most powerful od the Egyptian God Cards is unleashed... twice! Locked in combat with the Egyptian duelist Rishid, Jonouchi watches in shock as his opponent summons the terrifying Sun Dragon Ra! But the Ra in Rishid's deck is a mere counterfeit... the  Ra lies in the hands of Rishid's master Marik, at the heart of his deck of sadistic torture cards. And Marik's next opponent is Mai Kujaku! Is she in over her head, or does she have a special reason for challenging the ruler of the gods?",
+      release_date: "January 1st 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1723.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Duelist, Vol. 15: Yugi vs. Jonouchi",
+      author: "Kazuki Takahashi",
+      synopsis: "The place: the top of a 13-story skyscraper. The duel: Yugi and Kaiba vs. the Rare Hunters in a tag-team match! But even if Yugi escapes a deadly drop to his death, the worst is yet to come. His best friends, Mai and Jonouchi, have been possessed by Marik! Now, Yugi must fight Marik's mind inside Jonouchi's body. But the rules of this duel are... ",
+      release_date: "December 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1724.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Duelist, Vol. 4: Dungeon of Doom",
+      author: "Kazuki Takahashi",
+      synopsis: "The action moves underground as the tournament continues! Bandit Keith, the cutthroat American gamer, drags Jonouchi into the corpse-fulled catacombs for a match with 'Ghost' Kozuka, master of the undead. Traped in the tunnels beneath Duelist Kingdom, Yugi and Jonouchi must conquer the maze of the Meikyû Brothers in a two-on-two duel. It's monster vs. monster in the endless maze of tiny passages... and waiting in the Meikyû Brother's decks is the Gate Guardian, lord of the underworld, one of the most powerful monsters of all!",
+      release_date: "January 8th 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1725.jpg"},
+
+{
+      title: "Yu-Gi-Oh! Vol. 6: Monster Fight!",
+      author: "Kazuki Takahashi",
+      synopsis: "When Yugi beat Kaiba at a card game, little did he know the consequences: a trip through Kaiba's 'Death T'  a theme park of death  and a series of evil spells against Yugi's family. It doesn't help that Kaiba's little brother also has a score to settle.",
+      release_date: "1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1726.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Millennium World, Vol. 2: Magician's Genesis",
+      author: "Kazuki Takahashi",
+      synopsis: "Yu-Gi-Oh's mind has travelled 3000 years back in time, to relive his life as a pharaoh in ancient Egypt! But his life may not last long, because the mad tomb-robber Bakura - vessel of the monstrous spirit Diabound - has invaded the palace to slaughter the pharaoh and his priests! Can the Gods of Egypt stop Bakura's vengeance?",
+      release_date: "January 1st 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1727.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Duelist, Vol. 9: Dungeon Dice Monsters",
+      author: "Kazuki Takahashi",
+      synopsis: "There's a new game shop in town, peddling a hot new game, and things look bad for Grandpa Mutou's family business But the Black Crown game store is more than a business competitor...its owners want to put Yugi and his grandfather out the picture forever. First a sinister clown-masked figure steals Yugi's Millennium Puzzle Then Ryuji Otogi, the teenager heir to the store, challenges Yugi to a collectible dice game of dragons and monsters. But without the Millennium Puzzle, Yugi can't call Yu-Gi-Oh. Can he win without his 'other self' to help him out?",
+      release_date: "January 1st 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1728.jpg"},
+
+{
+      title: "Yu-Gi-Oh! Vol. 3: Capsule Monster Chess",
+      author: "Kazuki Takahashi",
+      synopsis: "With the Millennium Scales and the Millennium Key, Shadi summons deadly illusions that, if Yugi can't successfully fight them, will kill his best friends. Later, Yugi and his friends discover the hidden characters in digital keychain pets, and Yugi meets Mokuba, Kaiba's brother, for a high-stakes game of 'Capsule Monster Chess.'",
+      release_date: "January 1st 1996",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1729.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Duelist, Vol. 13: Slifer the Sky Dragon",
+      author: "Kazuki Takahashi",
+      synopsis: "Tenth-grade loner Yugi always had his head in some game - until he solved the Millennium Puzzle, an Egyptian artifact containing the spirit of a master gambler from the age of the pharoahs! Now, Yugi has become Yu-Gi-Oh - and the Shadow Games has begun!",
+      release_date: "September 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1730.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Duelist, Vol. 16: The Battle City Finals",
+      author: "Kazuki Takahashi",
+      synopsis: "Tenth-grade loner Yugi always had his head in some game - until he solved the Millennium Puzzle, an Egyptian artifact containing the spirit of a master gambler from the age of the pharoahs! Now, Yugi has become Yu-Gi-Oh - and the Shadow Games has begun!",
+      release_date: "April 5th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1731.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Duelist, Vol. 5: Blue-Eyes Ultimate Dragon",
+      author: "Kazuki Takahashi",
+      synopsis: "Can Yugi and Jonouchi escape the subterranean maze of the Meikyû Brothers, or will they be buried with their cards? Maybe they'd be safer underground, because Kaiba, the world's former greatest gamer, is back! On the towers og Pegasus Castle, Yugi and Kaiba fight their third Duel Monsters battle, with everything at stake. But this time, Kaiba is fighting for more than his own pride; he's fighting to save his brother. And there's nothing more dangerous than a gamer with nothing left to lose...",
+      release_date: "November 18th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1732.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Duelist, Vol. 21: Duel the Lightning!",
+      author: "Kazuki Takahashi",
+      synopsis: "Only four duelists remain in the running! On the Tower of Alcatraz, Jonouchi faces Marik, the evil Egyptian duelist whose grudge has smoldered for three thousand years. But can Jonouchi fight while he's trapped in a steel cage surrounded by molten lava? And can he overcome the power of Marik's Egyptian God Card, the Sun Dragon Ra? If he wins, he'll get his dream of facing Yugi in the finals. But if he loses, he'll get a one-way ticket to the grave!",
+      release_date: "January 1st 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1733.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Duelist, Vol. 2: The Puppet Master",
+      author: "Kazuki Takahashi",
+      synopsis: "On the island called Duelist Kingdom a battle royale is taking place to determine the greatest 'Duel Monsters' player in the world! Yugi s friend Jonouchi has finally learned some strategy but will it be enough to beat sexy Mai Kujaku and mean 'Dinosaur' Ryuzaki A fight with fisherman Ryota Kajiki is just a warm up for Yugi the only person who s beaten Kaiba the former world champion. But although Kaiba may be in a coma his deck still lives...in the hands of an evil ventriloquist who has stolen not only Kaiba s deck but his very soul! Contains the original storyline of the first season of Yu Gi Oh! including scenes too startling for TV!",
+      release_date: "August 4th 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1734.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Duelist, Vol. 20: Evil vs. Evil",
+      author: "Kazuki Takahashi",
+      synopsis: "The quarterfinals are over, but not without casualties: Mai and Rishid lie in the infirmary, and if Marik isn't defeated in 24 hours, Mai will never wake up! As the airship speeds toward its mysterious destination, Bakura and Marik end their sinister alliance and fight a vicious duel over the Millennium Rod. But who is Bakura's unexpected ally?! Meanwhile, the four semifinalists get ready for what could be the last duels of their lives. And for Jonouchi, it's his last chance to save Mai from Marik's deadly power...",
+      release_date: "January 1st 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1735.jpg"},
+
+{
+      title: "Yu-Gi-Oh!: Duelist, Vol. 6: The Terror of Toon World",
+      author: "Kazuki Takahashi",
+      synopsis: "Kaiba, the world's second-greatest gamer, duels Pegasus! Are Kaiba's dragons stronger than Pegasus's rubbery, slapstick, fearsome toons? Awaiting their own turn to fight, Yugi and his friends explore Pegasus's castle. But they're not alone. Bandit Keith, the unscrupulous American card shark, prowls the dark castle with his own evil plans. And Mai Kujaku, both friend and foe, has also made it to the final rounds!",
+      release_date: "January 1st 1996",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1736.jpg"},
+
+      [genres[0], genres[4], genres[10]]
       ],
