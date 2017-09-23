@@ -6612,17 +6612,17 @@ allComics = [
       ],
       [
 {
-      title: "The Seven Deadly Sins, Vol. 12",
+      title: "The Seven Deadly Sins, Vol. 2",
       author: "Nakaba Suzuki",
-      synopsis: "BAN'S DECISION Meliodas is on the verge of death as Elizabeth turns herself in to Hendrickson to save Gilthunder. During this moment of crisis, their trusted comrade, Ban the Undead, steps in. However, the Fox Sin of Greed they once knew is no longer—Ban bares his fangs and attacks, aiming straight for Meliodas's heart! The demon blood has begun to run its course; the Kingdom is being razed; and in the wake of it all, a powerful grotesque monster rises. Will the world be swallowed up by darkness, or is there another way?!",
-      release_date: "December 17th 2014",
+      synopsis: "SIN VS VIRTUETo save her kingdom, Princess Elizabeth has pinned her last hope on the infamous traitors, “The Seven Deadly Sins” and has set out on a journey with Meliodas—the Dragon Sin of Wrath—to seek out the rest of his fellow knights and former friends. Deep within an uninviting forest they find Diane, the Serpent Sin of Envy. Before they can celebrate their reunion, they must deal with an attack from Gilthunder, an electrifying Holy Knight!",
+      release_date: "April 17th 2013",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1900.jpg"},
 
 {
-      title: "The Seven Deadly Sins, Vol. 1",
+      title: "The Seven Deadly Sins, Vol. 13",
       author: "Nakaba Suzuki",
-      synopsis: "When they were accused of trying to overthrow the monarchy, the feared warriors the Seven Deadly Sins were sent into exile. Princess Elizabeth discovers the truth - the Sins were framed by the king's guard, the Holy Knights - too late to prevent them from assassinating her father and seizing the throne! Now the princess is on the run, seeking the Sins to help her reclaim the kingdom. But the first Sin she meets, Meliodas, is a little innkeeper with a talking pig. He doesn't even have a real sword! Have the legends of the Sins' strength been exaggerated...?",
-      release_date: "February 15th 2013",
+      synopsis: "A GRAND SACRIFICE   The Seven Deadly Sins fight against Hendrickson in his new form as an evil god, and one by one, its members fall in the face of Hendrickson’s fury—even the mighty Meliodas. But just when it seems like all is lost, a mysterious figure courageously rises to save the day! And that valiant hero turns out to be a trusted friend and comrade! The prayers of a grief-stricken maiden awaken hidden powers, bringing miracles and hope back to life.",
+      release_date: "February 17th 2015",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1901.jpg"},
 
 {
@@ -6640,24 +6640,24 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1903.jpg"},
 
 {
-      title: "The Seven Deadly Sins, Vol. 13",
-      author: "Nakaba Suzuki",
-      synopsis: "A GRAND SACRIFICE   The Seven Deadly Sins fight against Hendrickson in his new form as an evil god, and one by one, its members fall in the face of Hendrickson’s fury—even the mighty Meliodas. But just when it seems like all is lost, a mysterious figure courageously rises to save the day! And that valiant hero turns out to be a trusted friend and comrade! The prayers of a grief-stricken maiden awaken hidden powers, bringing miracles and hope back to life.",
-      release_date: "February 17th 2015",
-      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1904.jpg"},
-
-{
       title: "The Seven Deadly Sins, Vol. 15",
       author: "Nakaba Suzuki",
       synopsis: "THE HOLY WAR BEGINS A three thousand-year-old seal has been broken, awakening members of the Demon clan. The only person standing in their way is none other than Meliodas. With a difficult battle ahead of him, Meliodas must reclaim his Sacred Treasure if he hopes to stand a chance against these new and powerful enemies. Elsewhere, the Demon clan casts its shadow upon the Fairy King and his comrades and at the end of the ensuing battle, the true Fairy King will be revealed.",
       release_date: "June 17th 2015",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1904.jpg"},
+
+{
+      title: "The Seven Deadly Sins, Vol. 12",
+      author: "Nakaba Suzuki",
+      synopsis: "BAN'S DECISIONMeliodas is on the verge of death as Elizabeth turns herself in to Hendrickson to save Gilthunder. During this moment of crisis, their trusted comrade, Ban the Undead, steps in. However, the Fox Sin of Greed they once knew is no longer—Ban bares his fangs and attacks, aiming straight for Meliodas's heart! The demon blood has begun to run its course; the Kingdom is being razed; and in the wake of it all, a powerful grotesque monster rises. Will the world be swallowed up by darkness, or is there another way?!",
+      release_date: "December 17th 2014",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1905.jpg"},
 
 {
-      title: "The Seven Deadly Sins, Vol. 2",
+      title: "The Seven Deadly Sins, Vol. 1",
       author: "Nakaba Suzuki",
-      synopsis: "SIN VS VIRTUE To save her kingdom, Princess Elizabeth has pinned her last hope on the infamous traitors, “The Seven Deadly Sins” and has set out on a journey with Meliodas—the Dragon Sin of Wrath—to seek out the rest of his fellow knights and former friends. Deep within an uninviting forest they find Diane, the Serpent Sin of Envy. Before they can celebrate their reunion, they must deal with an attack from Gilthunder, an electrifying Holy Knight!",
-      release_date: "April 17th 2013",
+      synopsis: "When they were accused of trying to overthrow the monarchy, the feared warriors the Seven Deadly Sins were sent into exile. Princess Elizabeth discovers the truth - the Sins were framed by the king's guard, the Holy Knights - too late to prevent them from assassinating her father and seizing the throne! Now the princess is on the run, seeking the Sins to help her reclaim the kingdom. But the first Sin she meets, Meliodas, is a little innkeeper with a talking pig. He doesn't even have a real sword! Have the legends of the Sins' strength been exaggerated...?",
+      release_date: "February 15th 2013",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1906.jpg"},
 
       [genres[0], genres[4], genres[1], genres[10], genres[18]]
