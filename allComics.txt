@@ -1,7 +1,7 @@
 {/*
-Action, Fantasy
-Themes: Adventure, Battles, Supernatural
-[genres[0], genres[4], genres[1], genres[10], genres[18], genres[18]]
+Action, Drama, Horror
+Themes: Supernatural
+[genres[0], genres[7], genres[21], genres[18], genres[18], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -6661,4 +6661,77 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1906.jpg"},
 
       [genres[0], genres[4], genres[1], genres[10], genres[18]]
+      ],
+[
+{
+      title: "Hellsing, Vol. 09",
+      author: "Kohta Hirano",
+      synopsis: "After Alucard's triumphant return, the streets of London were flooded with the blood of vampire Nazi soldiers and crazed Catholic warriors. After the dust settled, only the Hellsing order of Protestant knights was left standing. Now it's up to the earthly agents of divine punishment to save the souls of the innocent. However, chaos soon engulfs the streets yet again. Come to find out, not all the Nazis were vanquished after all. Will Alucard and his allies have what it takes to save what is left of the city?",
+      release_date: "July 1st 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1907.jpg"},
+
+{
+      title: "Hellsing, Vol. 10",
+      author: "Kohta Hirano",
+      synopsis: "Final Volume!One of the best things about Kohta Hirano's sexy apocalypse of warring vampires, Nazis, Catholics, werewolves, and Australian mercenaries is that all the way up to, and possibly through, this final volume, we don't know who's going to win. The streets of London are awash in blood, a zeppelin descends a la Hindenburg, and six of our favorite characters are locked in face-off fights. It's possible that no one will come away from this crescendo 'alive.' Of course, we're not sure who's alive or undead at this point. But what's most certain is that London needs babies, because there isn't a civilian soul left alive in this battle to the undeath. Alas, Hellsing, we knew you well.",
+      release_date: "March 27th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1908.jpg"},
+
+{
+      title: "Hellsing, Vol. 04",
+      author: "Kohta Hirano",
+      synopsis: "Chronicles the exploits of the secret Hellsing Organization, formed by the Hellsing family to protect England and the Protestant church from vampires and other monsters, and its top operative, the vampire Alucard.Hellsing 4Hirano, KohtaDiamond Comic Distributors2004/09/22208PAPERBACK",
+      release_date: "January 1st 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1909.jpg"},
+
+{
+      title: "Hellsing, Vol. 07",
+      author: "Kohta Hirano",
+      synopsis: "What do you get when you mix reanimated Nazis, vampires, and freaky killer Catholics and Protestants breathing down each others’ necks? In the case of Hellsing, you get an all-out bloody war. Or such has proven to be the case so far. The world is engulfed in the flames of destruction, and all seems lost. Vernedead’s 'Geese' are literally being eaten alive, and it might just take half-vampire, Seras Victoria, a certain loss of innocence to provide a shred of hope. But that’s not all this story hinges on. The vampire Hellsing himself will surely show at some point, and the Catholic Iscariot Army, a dreaded force, is also on the march. This is a situation of boiling blood, and it’s about to burst!",
+      release_date: "December 27th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1910.jpg"},
+
+{
+      title: "Hellsing, Vol. 08",
+      author: "Kohta Hirano",
+      synopsis: "London is already bathed in blood, its citizenry almost entirely slaughtered by vampiric, reborn nazi soldiers. And marching through the rivers of blood - thousands of extreme Catholic warriors in creepy cloaks. But the focus of this chaotic eighth volume is the return of Alucard, the slave-paladin of the British Protestants, who's just piloted an aircraft character up the Thames to join the fray. It's a crazy face-off between three gory armies and their primary killers, and if you think that sounds nuts, wait until you dive into the crimson-stained new volume of Kohta Hirano's creepy-cool Hellsing manga series.",
+      release_date: "January 1st 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1911.jpg"},
+
+{
+      title: "Hellsing, Vol. 01",
+      author: "Kohta Hirano",
+      synopsis: "There's a secret organization somewhere in England created to defend the Queen and country from monsters of all sorts. Yes, it's hard to believe in this day and age.... but really, isn't this the true age of monsters?Enter Hellsing, an agency, long in tooth, with the experience, know-how, and...er...equipment to handle the problems that arise when vampires, ghouls take on these dark forces. 'What equipment?' you may say. How about another vampire, and a big pistol loaded with special silver bullets? That oughta do the trick.Hellsing the long-awaited manga is finally in America, thanks to Dark Horse Comics and the folks at Digital Manga, and you're gonna love it. Come get some smart-ass gore and action as only Japan seems to produce, in that crazy 'non-Western' formats the kids seem to love. And nice and thick at over 200 pages!",
+      release_date: "September 1st 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1912.jpg"},
+
+{
+      title: "Hellsing, Vol. 05",
+      author: "Kohta Hirano",
+      synopsis: "As the emerging Millennium Project, an army of Nazi undead, is unleashed upon the world. What ensues is a war of blood and nostalgia. Featuring old sharpshooter rifles, and throwback uniforms, mixed with jet technology and vampires, this title contains mysticism and apocalypse.",
+      release_date: "January 1st 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1913.jpg"},
+
+{
+      title: "Hellsing, Vol. 03",
+      author: "Kohta Hirano",
+      synopsis: "What's left of the Hellsing crew and their new team of hired bodyguards have traveled to South American to investigate the Millennium threat.",
+      release_date: "December 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1914.jpg"},
+
+{
+      title: "Hellsing, Vol. 06",
+      author: "Kohta Hirano",
+      synopsis: "The war between three armies of vampires, humans, and those in between is in full swing. The Hellsing organization is embattled as London is falling to Nazi vampire forces, turning the city's citizens into rivers of blood and a population of ghouls. It looks like it might be the end of Sir Integral Wingates Hellsing and her henchman, Walter. But what's this? The Vatican? But that means the Vatican is unprotected. If you haven't figured it out yet, Earth is in chaos of a World War like no other. New forces will rise up, surprises of undead power will surge forth, guns will blaze, and blades will sing. There's no telling how this will end, as Hellsing clamors forward with a seething wit and a frantic pace, and style that passes beyond gothic grace.",
+      release_date: "November 14th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1915.jpg"},
+
+{
+      title: "Hellsing, Vol. 02",
+      author: "Kohta Hirano",
+      synopsis: "Hellsing continues with more blood, guts, ghouls, and gothic murder. Created by Kohta Hirano, and making its way into an incredibly popular anime, Hellsing pushes the boundary of horror, yet looks so visually stunning and graphically cool that instead of being scary, it's super fun. Certainly not intended for younger readers, this series follows the Hellsing Organization, an old institution created by English royalty to squash the ghoulish undead of the world, as they face an insurgence of murderous monsters running rampant across the isles, fueled by... could it be... Nazi's? Watch the dark story unravel as Dark Horse Manga presents Hellsing volume 2.",
+      release_date: "December 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1916.jpg"},
+
+      [genres[0], genres[7], genres[21], genres[18]]
       ],
