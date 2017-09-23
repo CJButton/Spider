@@ -1,6 +1,7 @@
 {/*
- Action, Science Fiction
-[genres[0], genres[5], genres[1], genres[10], genres[18], genres[18]]
+Action
+Themes: School Life, Supernatural
+[genres[0], genres[15], genres[18], genres[10], genres[18], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -7508,4 +7509,56 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2022.jpg"},
 
       [genres[0], genres[5]]
+      ],
+[
+{
+      title: "Blue Exorcist, Vol. 3",
+      author: "Kazue Kato",
+      synopsis: "As a new Exorcist Esquire at True Cross Academy, Rin Okumura has a long way to go before he reaches the top rank of Paladin. When Rin and his classmates are sent to search for a ghost, Amaimon, King of Earth, takes Rin by surprise and steals the Koma Sword. Higher powers have been observing events at the academy and make their presence known. New players enter the game, and Rin doesn't even know he's playing!",
+      release_date: "March 4th 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2023.jpg"},
+
+{
+      title: "Blue Exorcist, Vol. 7",
+      author: "Kazue Kato",
+      synopsis: "Mamushi and Todo now have both eyes of the Impure King and are headed for the temple that was once the center of the Myodha sect. Mamushi wants to seal the eyes away, but may be too late to realize Todo’s true purpose—the awakening of the Impure King! Meanwhile, Rin learns more about Father Fujimoto’s connection to Tatsuma and the origin of the Koma Sword. Rin will need the weapon and all of his strength to face the terrible power of the Impure King!",
+      release_date: "September 2nd 2011",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2024.jpg"},
+
+{
+      title: "Blue Exorcist, Vol. 8",
+      author: "Kazue Kato",
+      synopsis: "Awakened by the traitor Saburota Todo, the Impure King’s massive form threatens to engulf the city of Kyoto. As the Exorcists of the Tokyo Branch and the monks of the Myodha temple do all they can to contain the demon, Rin and his friends find themselves separated and facing their own battles. While Rin and Ryuji race to confront the full might of the Impure King, Yukio takes on Todo singlehanded and discovers that he may be his own worst enemy!",
+      release_date: "April 4th 2012",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2025.jpg"},
+
+{
+      title: "Blue Exorcist, Vol. 6",
+      author: "Kazue Kato",
+      synopsis: "The heads of the various Myodha temple families gather to discuss recent events surrounding the Eyes of the Impure King. Revelations at the meeting only deepen suspicion of Suguro’s father, Tatsuma, and angry accusations follow. Tatsuma’s silence on the matter isn’t helping either. Amid all the swirling distrust, Rin tries to make sense of things but struggles to keep his flame in check. Then Rin receives a letter that may shed more light on the current situation—and the secret past!",
+      release_date: "April 4th 2011",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2026.jpg"},
+
+{
+      title: "Blue Exorcist, Vol. 9",
+      author: "Kazue Kato",
+      synopsis: "All of Rin’s friends have done their best to hold off the deadly Impure King so Rin can confront it. Now it’s entirely up to Rin to finish off the gigantic demon. Although Rin has finally drawn the Koma sword and found his confidence, that alone may not be enough to defeat the Impure King! And Yukio’s battle with the possessed Saburota Todo may have awakened something dark deep within him.",
+      release_date: "September 4th 2012",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2027.jpg"},
+
+{
+      title: "Blue Exorcist, Vol. 1",
+      author: "Kazue Kato",
+      synopsis: "Raised by Father Fujimoto, a famous exorcist, Rin Okumura never knew his real father. One day a fateful argument with Father Fujimoto forces Rin to face a terrible truth – the blood of the demon lord Satan runs in Rin's veins! Rin swears to defeat Satan, but doing that means entering the mysterious True Cross Academy and becoming an exorcist himself. Can Rin fight demons and keep his infernal bloodline a secret? It won't be easy, especially when drawing his father's sword releases the demonic power within him!",
+      release_date: "August 4th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2028.jpg"},
+
+{
+      title: "Blue Exorcist, Vol. 11",
+      author: "Kazue Kato",
+      synopsis: "Rin and his friends continue to investigate the Seven School Mysteries. Yukio watches as the Exwires take on the Academy’s ghosts, troubled by lingering doubts about his own feelings. Rin seems to be learning to control his power more, but is tapping his inner demonic fire going to be his salvation or his doom?",
+      release_date: "August 2nd 2013",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2029.jpg"},
+
+      [genres[0], genres[15], genres[18]]
       ],

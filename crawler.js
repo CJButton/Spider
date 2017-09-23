@@ -56,7 +56,7 @@ const mangaList = require('./comicList');
 
 {/* Counter Closure */}
 const comicUpdater = () => {
-  let total = 2019;
+  let total = 2022;
 
   return(
     adder = () => {
