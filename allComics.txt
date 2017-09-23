@@ -1,7 +1,7 @@
 {/*
-Fantasy
-Themes: Adventure, Supernatural
-[genres[4], genres[1], genres[18], genres[10], genres[15], genres[18]]
+Fantasy, Romance
+Themes: Adventure, Reverse Harem
+[genres[4], genres[13], genres[1], genres[22], genres[15], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -6942,9 +6942,9 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1944.jpg"},
 
 {
-      title: "07-GHOST: 16 (ZERO-SUMコミックス)",
+      title: "07-GHOST, Volume 16",
       author: "Yuki Amemiya",
-      synopsis: "カルはテイトを先に進ませ、通路の非常ロックを閉めた。テイトを追ってきた消魂と対峙したカルは、最後の闘いに挑む。それはそれぞれの願いが交錯する悲しい闘い――。",
+      synopsis: "Years ago, the Seven Ghost Landkarte succumbed to a dark desire to eradicate all sin by erasing humanity. His plan has run unchecked for years, and now Frau, Teito, and fellow Seven Ghost Ea are the only ones left standing in his way. If Teito hopes to continue on his journey to seal the evil god Verloren, then he'll have to find a way to forgive even this most irredeemable of souls.",
       release_date: "January 1st 2012",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1945.jpg"},
 
@@ -6956,11 +6956,199 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1946.jpg"},
 
 {
-      title: "07-GHOST: 15 (ZERO-SUMコミックス)",
+      title: "07-GHOST, Volume 15",
       author: "Yuki Amemiya",
-      synopsis: "“戦争屋”にそそのかされ、戦争を始めたという父の告白を聞いたオウカ。そしてついに、すべての元凶である消魂が正体を現す!!",
+      synopsis: "“The identities of the two final Seven Ghosts - revealed. The identity of the Warmonger - revealed. The twisted web of romance and blood relations that drew the Barsburg and Raggs empires into a tragic war - revealed. With all the cards laid on the table, the world of 07-Ghost stands poised for the final battle of good versus evil!",
       release_date: "January 1st 2012",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1947.jpg"},
 
       [genres[4], genres[1], genres[18]]
+      ],
+      [
+{
+      title: "Parasyte, Volume 4",
+      author: "Hitoshi Iwaaki",
+      synopsis: "Shinichi, an ordinary high school student, is the only one who knows that aliens have invaded Earth and are controlling the minds of thousands of unwitting victims. It's a secret too dangerous to share...but too big to cover up. Then Shinichi meets Kana, a brave young girl with a strange gift that may allow her to detect the alien parasites. Has Shinichi at last found an ally to combat these creatures?",
+      release_date: "January 20th 1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1948.jpg"},
+
+{
+      title: "Parasyte, Volume 2",
+      author: "Hitoshi Iwaaki",
+      synopsis: "Shin looks like an ordinary high school boy, but he has a terrible secret: an alien parasite has infected his body. This mysterious creature is ruthless, deadly, and utterly indifferent to human suffering...and it is beginning to assert itself over Shin. As Shinji fights for control of his body, can he also hold on to his humanity?",
+      release_date: "January 18th 1991",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1949.jpg"},
+
+{
+      title: "Parasyte, Volume 7",
+      author: "Hitoshi Iwaaki",
+      synopsis: "Shinichi is both man and monster. He's an ordinary high school student whose body has been invaded by an alien parasite. And he alone knows a terrible secret: The aliens are plotting the destruction of humankind. Now Shinichi is the target - for both the government and the alien invaders - in a hunt that will lead to a terrifying, bloody showdown....",
+      release_date: "July 20th 1993",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1950.jpg"},
+
+{
+      title: "Parasyte, Volume 6",
+      author: "Hitoshi Iwaaki",
+      synopsis: "Shinichi has been hiding his true nature from the world: His body has been colonized by an alien being, and now he's half-human, half-alien. The other alien invaders, led by the cruel and beautiful Tamura, have discovered his secret. Shinichi is a threat to their plan to destroy the human race - a threat that these ruthless creatures will no longer ignore....",
+      release_date: "January 19th 1993",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1951.jpg"},
+
+{
+      title: "Parasyte, Volume 1",
+      author: "Hitoshi Iwaaki",
+      synopsis: "They arrive in silence and darkness. They descend from the skies. They have a hunger for human flesh. They are everywhere. They are parasites, alien creatures who must invade - and take control of - a human host to survive. And once they have infected their victims, they can assume any deadly form they choose: monsters with giant teeth, winged demons, creatures with blades for hands. But most have chosen to conceal their lethal purpose behind ordinary human faces. So no one knows their secret - except an ordinary high school student. Shin is battling for control of his own body against an alien parasite, but can he find a way to warn humanity of the horrors to come?",
+      release_date: "July 20th 1990",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1952.jpg"},
+
+{
+      title: "Parasyte, Volume 5",
+      author: "Hitoshi Iwaaki",
+      synopsis: "MONSTER Shinichi was just an ordinary high school student, until his body was invaded by a parasite, a horrifying alien being. Now Shinichi is a monster with a human face . . . and a human conscience. He is unlike anything else in the world-part man, part alien, and caught in a desperate struggle to save his own soul.",
+      release_date: "August 19th 1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1953.jpg"},
+
+{
+      title: "Parasyte, Volume 3",
+      author: "Hitoshi Iwaaki",
+      synopsis: "ALIEN NATION Aliens parasites have invaded Earth and taken over the minds of ordinary people. Shin has been infected with a parasite, but he still can think and act for himself. Now he's been approached by two mysterious victims of the invasion: Tamiya, a beautiful schoolteacher, and Shimada, another student. What do the aliens want with humanity . . . and with Shin?",
+      release_date: "July 18th 1991",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1954.jpg"},
+
+{
+      title: "Parasyte, Volume 8",
+      author: "Hitoshi Iwaaki",
+      synopsis: "MONSTER TWIST Shinichi vows to destroy Goto, one of the deadliest of the alien parasites that have invaded Earth-and people's bodies. But at the moment of truth, Shinichi discovers something unexpected in his heart: sympathy for the monster. Soon Shinichi, who harbors his own alien parasite, will come to a stunning realization about the dark side of human nature-and his own soul. This is the final volume of Parasyte. Includes special extras after the story!",
+      release_date: "February 16th 1994",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1955.jpg"},
+
+      [genres[7], genres[21], genres[5]]
+      ],
+      [
+{
+      title: "Fushigi Yûgi: The Mysterious Play, Vol. 7: Castaway",
+      author: "Yuu Watase",
+      synopsis: "Now that the Seiryu Warriors have ruined their attempt to summon the god Suzaku, Miaka and her Celestial Warriors are forced to travel to a frozen northern country in hopes of gathering the sacred treasures that will grant them a second chance. Illustrations. Rated for older teens.",
+      release_date: "October 1993",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1956.jpg"},
+
+{
+      title: "Fushigi Yûgi: The Mysterious Play, Vol. 5: Rival",
+      author: "Yuu Watase",
+      synopsis: "A tale of a normal teenager who is transported into a fictional version of ancient China.",
+      release_date: "March 20th 1993",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1957.jpg"},
+
+{
+      title: "Fushigi Yûgi: The Mysterious Play, Vol. 14: Prophet",
+      author: "Yuu Watase",
+      synopsis: "When Miaka was whisked away into the pages of a mysterious old book, she began a dual existence, divided between her life as an ordinary schoolgirl in modern Japan and her role as a priestess in a fictional version of ancient China. Priestess Miaka and her Celestial Warriors saved the earth from destruction, and in the wake of their triumph, Miaka believed that the world of the book was closed to her forever… but she was wrong!Suzaku's ProphetThe voice of the god Suzaku is invading Miaka's thoughts, and she is given a new mission: to restore the balance of power between the four gods. To do it, Miaka must defeat a new foe - a rising, monstrous power with ambitions to take over all of the universes!",
+      release_date: "July 1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1958.jpg"},
+
+{
+      title: "Fushigi Yûgi: VizBig Edition, Vol. 2",
+      author: "Yuu Watase",
+      synopsis: "Includes:Fushigi Yugi: The Mysterious Play, Volumes 4-6",
+      release_date: "2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1959.jpg"},
+
+{
+      title: "Fushigi Yûgi: The Mysterious Play, Vol. 6: Summoner",
+      author: "Yuu Watase",
+      synopsis: "When best friends Miaka and Yui open an ancient Chinese book, they find themselves transported to a parallel world. Trapped in the Universe of the Four Gods, Miaka is identified as a priestess who must save an entire empire.",
+      release_date: "July 1993",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1960.jpg"},
+
+{
+      title: "Fushigi Yûgi: The Mysterious Play, Vol. 10: Enemy",
+      author: "Yuu Watase",
+      synopsis: "Convinced that she can never summon the God Suzaku and get her wishes granted, Miaka runs away from Tamahome and her celestial Warriors, straight into the arms of her enemy Amiboshi.",
+      release_date: "January 1st 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1961.jpg"},
+
+{
+      title: "Fushigi Yûgi: The Mysterious Play, Vol. 1: Priestess",
+      author: "Yuu Watase",
+      synopsis: "When best friends Miaka and Yui open the pages of an ancient Chinese book, they are transported into the Universe of the Four Gods, a parallel world to ancient China. Now, to escape schoolwork and family problems, Miaka flees to the parallel world, only to find a lot more danger and romance than she bargained for.",
+      release_date: "May 1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1962.jpg"},
+
+{
+      title: "Fushigi Yûgi: The Mysterious Play, Vol. 17: Demon",
+      author: "Yuu Watase",
+      synopsis: "An enormous explosion rocks Taka's apartment complex with Taka is inside, and as fire engulfs the building, an image of the demon god Tenko appears in the flames Could Taka have been injured in the blast, or, worse, have fallen into Tenko's clutches? When Tenko steals the four stones that Miaka has already collected, is all hope lost for the return of Taka's memories? And will Tenko's manipulation of Taka and Miaka's friends slowly drive wedges between them and ensure their defeat?",
+      release_date: "April 1996",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1963.jpg"},
+
+{
+      title: "Fushigi Yûgi: The Mysterious Play, Vol. 15: Guardian",
+      author: "Yuu Watase",
+      synopsis: "Miaka must reenter The Universe of the Four Gods and collect the seven magic stones that contain her soulmate Taka's lost memories . . . or else risk losing him forever. Illustrations. Rated for older teens.",
+      release_date: "October 1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1964.jpg"},
+
+{
+      title: "Fushigi Yûgi: The Mysterious Play, Vol. 9: Lover",
+      author: "Yuu Watase",
+      synopsis: "Series Description: Fushigi Yugi features a modern girl magically transported into an ancient Chinese epic fantasy. When they open an ancient Chinese book, best friends Miaka and Yui are transported to the bizarre and dangerous Universe of the Four Gods. In a world with no fast food and no friends, they must find the seven Celestial Warriors and tap the power they hold. Attacks by ninja emissaries, an excursion into the court of the enemy, and Yui's sudden transformation into the Priestess of Seiryu put the two to the ultimate test A much-loved member of the Celestial Warriors of Suzaku has given his life for the sake of a treasure left behind by the god of the North. The Shentso-Pao is one of the keys to summoning the god Suzaku and having Miaka's most cherished wishes granted. Even if she passes the trials and obtains the treasure, can she hold onto it with the murderous Warriors of Seiryu close on her heels?",
+      release_date: "April 1994",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1965.jpg"},
+
+{
+      title: "Fushigi Yûgi: VizBig Edition, Vol. 5",
+      author: "Yuu Watase",
+      synopsis: "R to L (Japanese Style). Get It All--Get Big , The 3-in- Edition Change Your Perspective--Get BIGA Collection of Volumes 13 - 15 Yui summons Seiryu and uses one of her wishes to make Nakago a god. She then sends Miaka back to the real world to separate her from Tamahome, but Tamahome holds on to Miaka, and the couple is sent to present-day Japan together. Suboshi follows Yui to Japan, intent on destroying Miaka for Yui. Simultaneous battles rage in both 'The Universe of the Four Gods' and in present-day Japan, and Celestial Warriors die. But Yui is soon to discover that having her wishes granted comes at a great personal price...",
+      release_date: "2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1966.jpg"},
+
+{
+      title: "Fushigi Yûgi: The Mysterious Play, Vol. 2: Oracle",
+      author: "Yuu Watase",
+      synopsis: "Transported to the Universe of the Four Gods, Miaka is saved from the Imperial Guards when she is proclaimed to be the Priestess of Suzaku. But now she must deal with the lovestruck Emperor and the ire of his would-be bride.",
+      release_date: "May 1st 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1967.jpg"},
+
+{
+      title: "Fushigi Yûgi: The Mysterious Play, Vol. 13: Goddess",
+      author: "Yuu Watase",
+      synopsis: "'First published by Shogakukan Inc. in Japan as 'Fushigi Yugi.' --t.p. verso.",
+      release_date: "April 1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1968.jpg"},
+
+{
+      title: "Fushigi Yûgi: The Mysterious Play, Vol. 16: Assassin",
+      author: "Yuu Watase",
+      synopsis: "As enigmatic exchange student Lian slowly takes control of the minds of everyone in school, his agenda becomes clear: he is training an army of assassins to kill Miaka. Illustrations. Rated for older teens.",
+      release_date: "January 26th 1996",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1969.jpg"},
+
+{
+      title: "Fushigi Yûgi: The Mysterious Play, Vol. 3: Disciple",
+      author: "Yuu Watase",
+      synopsis: "An exciting, funny, and heartfelt tale of a normal teenager who is transported into a fictional version of ancient China. She encounters base villains and dashing heroes, and still manages to worry about her grades and where her next meal is coming from!",
+      release_date: "1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1970.jpg"},
+
+{
+      title: "Fushigi Yûgi: The Mysterious Play, Vol. 8: Friend",
+      author: "Yuu Watase",
+      synopsis: "Now that the Seiryu Warriors have ruined their attempt to summon the god Suzaku, Miaka and her Celestial Warriors are forced to travel to a frozen northern country in hopes of gathering the sacred treasures that will grant them a second chance. Rated for older teens.",
+      release_date: "January 26th 1994",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1971.jpg"},
+
+{
+      title: "Fushigi Yûgi: The Mysterious Play, Vol. 4: Bandit",
+      author: "Yuu Watase",
+      synopsis: "When best friends Miaka and Yui open an ancient Chinese book, they find themselves transported to a parallel world. Trapped in the Universe of the Four Gods, Miaka is identified as a priestess who must save an entire empire.",
+      release_date: "January 1993",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1972.jpg"},
+
+{
+      title: "Fushigi Yûgi: The Mysterious Play, Vol. 18: Bride",
+      author: "Yuu Watase",
+      synopsis: "The Neverending Story meets Romance of the Three Kingdoms in this praised shojo (girls') manga. When classmates Miaka and Yui open an ancient magical Chinese book, Miaka is transported inside, beyond the reach of schoolwork and family problems, into the Universe of the Four Gods. Heralded as the legendary Priestess of Suzaku, she becomes involved in romance and court politics, and must find the Seven Celestial Warriors of Suzaku to fulfill a prophecy and find her way home.",
+      release_date: "1993",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1973.jpg"},
+
+      [genres[4], genres[13], genres[1], genres[22]]
       ],
