@@ -1,7 +1,7 @@
 {/*
-Fantasy, Romance
-Themes: School Life
-[genres[4], genres[13], genres[15], genres[1], genres[9], genres[18]]
+Action, Drama
+Themes: Mystery
+[genres[0], genres[7], genres[8], genres[20], genres[18], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -6443,4 +6443,122 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1877.jpg"},
 
       [genres[4], genres[13], genres[15]]
+      ],
+[
+{
+      title: "Attack on Titan: No Regrets, Volume 01",
+      author: "Hajime Isayama",
+      synopsis: "THE THIEF AND THE SOLDIER The young Erwin Smith is a rising star in the Survey Corps, humanity’s only hope of defeating the man-eating monsters known as Titans. Ruthless and dispassionate, Erwin’s mind is devoted to strategies and intrigue. But beneath Erwin’s feet is another world, the Underground, where humans are born and die surrounded by the garbage the Capital throws away. Here, the criminal Levi survives on his wits and agility. But when these two ambitious men cross paths, who will prove himself stronger? The long-awaited origin story of Levi and Erwin, two of Attack on Titan’s most beloved characters!",
+      release_date: "April 9th 2014",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1878.jpg"},
+
+{
+      title: "Attack on Titan: No Regrets, Volume 02",
+      author: "Hajime Isayama",
+      synopsis: "REMEMBER YOUR TRUE ENEMYErwin’s political enemies have hired Levi and his crew to take back some incriminating documents. Their reward: the right to live a proud life above ground, in the royal capital. But deep in Titan territory, it’s going to be tough to break formation and steal from a squad leader, and Levi still insists on killing the man who humiliated him after the mission is complete. Of course, beyond the walls anything can happen, and a sudden change in Levi’s fortunes will force him to face the greatest regret in his life…FINAL VOLUME!",
+      release_date: "August 8th 2014",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1879.jpg"},
+
+      [genres[0], genres[21], genres[10], genres[20], genres[18]]
+      ],
+[
+{
+      title: "Death Note: Another Note - The Los Angeles BB Murder Cases",
+      author: "NisiOisiN",
+      synopsis: "There's a serial killer loose in Los Angeles and the local authorities need help fast. For some reason the killer has been leaving a string of maddeningly arcane clues at each crime scene. Each of these clues, it seems, is an indecipherable roadmap to the next murder.Onto the scene comes L, the mysterious super-sleuth. Despite his peculiar working habits, he's never shown his face in public—but this time, he needs help.Enlisting the services of an FBI agent named Naomi Misora, L starts snooping around the City of Angels. It soon becomes apparent that the killing spree is a psychotic riddle designed to specifically engage L in a battle of wits. Stuck in the middle between killer and investigator, it's up to Misora to navigate both the dead bodies and the egos to solve the Los Angeles Murder Cases.",
+      release_date: "2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1880.jpg"},
+
+{
+      title: "Death Note, Vol. 4: Love",
+      author: "Tsugumi Ohba",
+      synopsis: "With two Kiras on the loose, L asks Light to join the task force and pose as the real Kira in order to catch the copycat. L still suspects Light and figures that this is the perfect excuse to get closer to his quarry. Light agrees to the plan in order to have free access to the task force resources. But when Light manages to contact the new Kira, he discovers that his rival is anything but as expected. Will Light escape from love unscathed?",
+      release_date: "November 4th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1881.jpg"},
+
+{
+      title: "Death Note, Vol. 3: Hard Run",
+      author: "Tsugumi Ohba",
+      synopsis: "Light is chafing under L's extreme surveillance, but even 64 microphones and cameras hidden in his room aren't enough to stop Light. He steps up the game, but before the battle of wits can really begin, a family emergency distracts him. But even though Light isn't using the Death Note right now, someone else is! Who's the new 'Kira' in town?",
+      release_date: "September 3rd 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1882.jpg"},
+
+{
+      title: "Death Note: Black Edition, Vol. 5",
+      author: "Tsugumi Ohba",
+      synopsis: "Killer 2-for-1 value on hit thriller Death Note!Reads R to L (Japanese Style), for audiences T+  Contains Volumes 9 and 10 of Death Note! Light Yagami is an ace student with great prospects--and he’s bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and now Light has vowed to use the power of the Death Note to rid the world of evil. Will Light's noble goal succeed, or will the Death Note turn him into the very thing he fights against?",
+      release_date: "2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1883.jpg"},
+
+{
+      title: "Death Note, Vol. 8: Target",
+      author: "Tsugumi Ohba",
+      synopsis: "Light, working as Kira, the newest member of the NPA intelligence bureau, and L, has nearly succeeded in creating his ideal world. But the years of uncontested victory have made him complacent, and he is unprepared for a new attack close to home. With his younger sister Sayu kidnapped and the NPA's Death Note demanded as ransom, Light must travel across the world and confront two new adversaries, each with a very different agenda. Will Light's quick wits be a match for this new challenge, or will he be forced to choose between Kira's ambitions and his own family's lives?",
+      release_date: "September 2nd 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1884.jpg"},
+
+{
+      title: "Death Note, Vol. 11: Kindred Spirits",
+      author: "Tsugumi Ohba",
+      synopsis: "Light's latest machinations are putting a strain on even his formidable intellect as Near flies to Japan to beard Kira in his den. Near is sure that Light is Kira, but his sense of honor as L's heir will allow no doubts. He doesn't want to just stop the Kira murders, he wants to expose Light as the Death Note killer. Light thinks he's up to the challenge, but will the pressures of his fiancée, his new flame, and his acolyte prove to be fatal distractions?",
+      release_date: "May 2nd 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1885.jpg"},
+
+{
+      title: "Death Note, Vol. 10: Deletion",
+      author: "Tsugumi Ohba",
+      synopsis: "With Near openly suspecting the new L of being Kira and sowing doubt in the hearts of the taskforce members, Light is once again forced to pass the Death Note on to another to take the heat off himself. But this time, Kira chooses a disciple from among his true believers. With no way to contact his successor directly, Light must rely on his faithful follower's adherence to Kira's goals. Will this newest move bring Light's ideal world closer to reality? Or will losing control of the Death Note spell Light's doom?",
+      release_date: "February 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1886.jpg"},
+
+{
+      title: "Death Note, Vol. 5: Whiteout",
+      author: "Tsugumi Ohba",
+      synopsis: "After a week locked up with no one but Ryuk for company, Light is ready to give up his Death Note and all memories of it. Freed from his past actions, Light is convinced he's innocent. But L is ready to keep Light under lock and key forever, especially since the killings stopped once Light was incarcerated. Then a new wave of Kira crimes hits Japan. Someone else has gotten their hands on a Death Note, and these new deaths aren't focused on making the world a better place, they're focused on making money. Big business can be murder, and Kira has gone corporate!",
+      release_date: "February 4th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1887.jpg"},
+
+{
+      title: "Death Note, Vol. 1: Boredom",
+      author: "Tsugumi Ohba",
+      synopsis: "Light tests the boundaries of the Death Note's powers as L and the police begin to close in. Luckily, Light's father is the head of the Japanese National Police Agency and leaves vital information about the case lying around the house. With access to his father's files, Light can keep one step ahead of the authorities. But who is the strange man following him, and how can Light guard against enemies whose names he doesn't know?",
+      release_date: "April 2nd 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1888.jpg"},
+
+{
+      title: "Death Note, Vol. 6: Give-and-Take",
+      author: "Tsugumi Ohba",
+      synopsis: "Although they've collected plenty of evidence tying the seven Yotsuba members to the newest Kira, Light, L and the rest of the task force are no closer to discovering which one actually possesses the Death Note. Desperate for some headway, L recruits Misa to infiltrate the group and feed them information calculated to bring Kira into the open. But the Shinigami Rem reveals to Misa who the Kiras really are, and, armed with this knowledge, Misa will do anything to help Light. But what will that mean for L...?",
+      release_date: "April 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1889.jpg"},
+
+{
+      title: "Death Note, Vol. 13: How to Read",
+      author: "Tsugumi Ohba",
+      synopsis: "An encyclopedic guide to the  manga series, including character bios, storyline summaries, interviews with creators Tsugumi Ohba and Takeshi Obata, production notes and commentaries, and bonus manga pages. Light Yagami is an ace student with great prospects--and he's bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami death god. Any human whose name is written in the notebook dies, and now Light has vowed to use the power of the Death Note to rid the world of evil. But when criminals begin dropping dead, the authorities send the legendary detective L to track down the killer. With L hot on his heels, will Light lose sight of his noble goal…or his life?",
+      release_date: "October 13th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1890.jpg"},
+
+{
+      title: "Death Note, Vol. 12: Finis",
+      author: "Tsugumi Ohba",
+      synopsis: "The battle ends here!",
+      release_date: "July 4th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1891.jpg"},
+
+{
+      title: "Death Note, Vol. 2: Confluence",
+      author: "Tsugumi Ohba",
+      synopsis: "Light thinks he's put an end to his troubles with the FBI—by using the Death Note to kill off the FBI agents working the case in Japan! But one of the agents has a fiancée who used to work in the Bureau, and now she's uncovered information that could lead to Light's capture. To make matters worse, L has emerged from the shadows to work directly with the task force headed by Light's father. With people pursuing him from every direction, will Light get caught in the conflux?",
+      release_date: "July 2nd 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1892.jpg"},
+
+{
+      title: "Death Note: L, Change the World",
+      author: "M",
+      synopsis: "In an alternative continuity in the  setting, ace detective L's name has been placed in a Death Note. He has twenty-three days to bring a terrorist group to justice, or they will use a deadly new virus to change the world—by killing off most of humanity.",
+      release_date: "2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1893.jpg"},
+
+      [genres[0], genres[7], genres[8]]
       ],
