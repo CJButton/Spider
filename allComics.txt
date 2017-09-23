@@ -6,29 +6,29 @@ Add ], to close series array
 
 This array allows us to keep the naming more consistent
 genres = [
-  0'Action',
-  1'Adventure',
-  2'Science Fantasy',
-  3'Demons',
-  4'Fantasy',
-  5'Science Fiction'
-  6'Mecha',
-  7'Drama',
-  8'Mystery',
-  9'Historical,
-  10'Battles',
-  11'Dark Fantasy',
-  12'Post-Apocalpytic'
-  13'Romance',
-  14'Comedy',
-  15'School Life',
-  16'Slice of Life',
-  17'Magical Girl',
-  18'Supernatural',
-  19'Sports',
-  20'Powers',
-  21'Horror',
-  22'Harem'
+  0'Action', 41
+  1'Adventure', 27
+  2'Science Fantasy', 0
+  3'Demons', 0
+  4'Fantasy', 32
+  5'Science Fiction' 11
+  6'Mecha', 1
+  7'Drama', 28
+  8'Mystery', 11
+  9'Historical, 10
+  10'Battles', 22
+  11'Dark Fantasy', 1
+  12'Post-Apocalpytic' 1
+  13'Romance', 22
+  14'Comedy', 26
+  15'School Life', 21
+  16'Slice of Life', 3
+  17'Magical Girl', 3
+  18'Supernatural', 26
+  19'Sports', 5
+  20'Powers', 7
+  21'Horror', 14
+  22'Harem' 4
  ]
 
 
