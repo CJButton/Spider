@@ -1,7 +1,7 @@
 {/*
-Action, Comedy, Fantasy
-Themes: Harem, School Life
-[genres[0], genres[14], genres[4], genres[22], genres[15], genres[18]]
+Action, Drama, Fantasy
+Themes: Mystery, School Life, Supernatural
+[genres[0], genres[7], genres[4], genres[8], genres[15], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -7824,4 +7824,129 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2066.jpg"},
 
       [genres[0], genres[14], genres[4], genres[22], genres[15]]
+      ],
+      [
+{
+      title: "Naoki Urasawa's Monster, Volume 5: After the Carnival",
+      author: "Naoki Urasawa",
+      synopsis: "Johan is a cold and calculating killer with a mysterious past, and brilliant Dr. Kenzo Tenma is the only one who can stop him! Conspiracy and serial murder open the door to a compelling, intricately woven plot in this masterpiece manga thriller.Suspecting that Johan suffers from a multi-personality disorder, Dr. Tenma calls upon expert criminal psychologist Rudy Gillen to help him in his campaign to stop Johan. But will Dr. Gillen come to the same conclusion as the authorities - that Tenma is the killer with the split personality?",
+      release_date: "May 1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2067.jpg"},
+
+{
+      title: "Naoki Urasawa's Monster, Volume 9: A Nameless Monster",
+      author: "Naoki Urasawa",
+      synopsis: "Johan is a cold and calculating killer with a mysterious past, and brilliant Dr. Kenzo Tenma is the only one who can stop him! Conspiracy and serial murder open the door to a compelling, intricately woven plot in this masterpiece manga thriller.When an unusual children's book causes a disturbing reaction in Johan, it may provide an ideal opportunity for Tenma to fire a well-aimed sniper shot. Could this curious book created by an obscure Czech writer also be the key to unlocking more secrets of Johan's enigmatic past?",
+      release_date: "July 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2068.jpg"},
+
+{
+      title: "Naoki Urasawa's Monster, Volume 10: Picnic",
+      author: "Naoki Urasawa",
+      synopsis: "Johan is a cold and calculating killer with a mysterious past, and brilliant Dr. Kenzo Tenma is the only one who can stop him! Conspiracy and serial murder open the door to a compelling, intricately woven plot in this masterpiece manga thriller.'Cedok Bridge, the three frogs...the mother of the twins is in Pargue.' A cryptic message from wealthy financier Schuwald sends Tenma to the city of a hundred spires. There, he meets Grimmer, an investigative reporter tracking down the former director of the infamous 511 Kinderheim orphanage. Could it be that the horrific experiments of the past are being recreated in Prague?",
+      release_date: "December 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2069.jpg"},
+
+{
+      title: "Naoki Urasawa's Monster, Volume 8: My Nameless Hero",
+      author: "Naoki Urasawa",
+      synopsis: "Johan is a cold and calculating killer with a mysterious past, and brilliant Dr. Kenzo Tenma is the only one who can stop him! Conspiracy and serial murder open the door to a compelling, intricately woven plot in this masterpiece manga thriller.Tenma is hot on Johan's trail and he's more determined than ever. Now in top physical condition and armed with a high-performance sniper rifle, has Tenma acquired the keen hunter's edge necessary to bag his prey? Or will his physician's instincts prevent him from carrying out his dreaded task?",
+      release_date: "February 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2070.jpg"},
+
+{
+      title: "Naoki Urasawa's Monster, Volume 1: Herr Dr. Tenma",
+      author: "Naoki Urasawa",
+      synopsis: "An ice-cold killer is on the loose, and brilliant Dr. Kenzo Tenma is the only one who can stop him! Conspiracies, serial murders, and a scathing indictment of hospital politics are all masterfully woven together in this compelling manga thriller. Tenma risks his promising medical career to save the life of a critically wounded young boy. Unbeknownst to him, this child is destined for a terrible fate. Who could have known that Tenma would create a monster!",
+      release_date: "December 5th 1994",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2071.jpg"},
+
+{
+      title: "Naoki Urasawa's Monster, Volume 7: Richard",
+      author: "Naoki Urasawa",
+      synopsis: "Johan is a cold and calculating killer with a mysterious past, and brilliant Dr. Kenzo Tenma is the only one who can stop him! Conspiracy and serial murder open the door to a compelling, intricately woven plot in this masterpiece manga thriller.When Johan works his way into the inner circle of powerful financier Hans Schuwald, things get dicey for Richard Brown, a private detective hired to find Schuwald's long-lost son. As Richard edges closer to a horrifying truth, his path clashes with Johan's hidden agenda - and his unfortunate fate is all but sealed.",
+      release_date: "December 1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2072.jpg"},
+
+{
+      title: "Naoki Urasawa's Monster, Volume 6: The Secret Woods",
+      author: "Naoki Urasawa",
+      synopsis: "Johan is a cold and calculating killer with a mysterious past, and brilliant Dr. Kenzo Tenma is the only one who can stop him! Conspiracy and serial murder open the door to a compelling, intricately woven plot in this masterpiece manga thriller.Tenma's former fiancée Eva Heinneman's life has gone downhill since the death of her father and her breakup with Tenma. Now she's involved with a menacing man with a shady past and a mysterious connection to Johan. Meanwhile, Johan has worked his way into the graces of a powerful but lonely old financier. Could Johan be targeting this man for more than just his money?",
+      release_date: "May 1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2073.jpg"},
+
+{
+      title: "Naoki Urasawa's Monster, Volume 3: 511 Kinderheim",
+      author: "Naoki Urasawa",
+      synopsis: "An ice-cold killer is on the loose, and brilliant Dr. Kenzo Tenma is the only one who can stop him! Conspiracies, serial murders, and a scathing indictment of hospital politics are all masterfully woven together in this compelling manga thriller.Tenma's on the run!! A wanted man, he's the prime suspect for the serial killings he's trying to stop. But he still manages to edge closer to the truth about Johan's mysterious past, and everything seems to point to a now defunct institution of East Berlin - an infamous 'experimental' orphanage called 511 Kinderheim!",
+      release_date: "March 1996",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2074.jpg"},
+
+{
+      title: "Naoki Urasawa's Monster, Volume 2: Surprise Party",
+      author: "Naoki Urasawa",
+      synopsis: "An ice-cold killer is on the loose, and brilliant Dr. Kenzo Tenma is the only one who can stop him! Conspiracies, serial murders, and a scathing indictment of hospital politics are all masterfully woven together in this compelling manga thriller.Tenma springs to action when he discovers that Johan, the boy whose life he saved nine years ago, has grown up and turned into a serial killer. But when Tenma finds out that Johan has strong inside connections with government officials, he realizes that this monster is far more powerful than he could have ever imagined.",
+      release_date: "September 1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2075.jpg"},
+
+{
+      title: "Naoki Urasawa's Monster, Volume 4: Ayse's Friend",
+      author: "Naoki Urasawa",
+      synopsis: "Johan is a cold and calculating killer with a mysterious past, and brilliant Dr. Kenzo Tenma is the only one who can stop him! Conspiracies and serial murder open the door to a compelling, intricately woven plot in this masterpiece manga thriller.As Tenma uncovers more about the infamous 511 Kinderheim orphanage, Johan's twin sister Anna sets out on her own to stop her brother. Their separate searches lead them both to a powerful neo-Nazi organization conspiring to establish Johan as their new superleader! Can Tenma and Anna stop Johan from becoming another Hitler?",
+      release_date: "August 1996",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2076.jpg"},
+
+{
+      title: "Naoki Urasawa's Monster, Volume 15: The Door to Memories",
+      author: "Naoki Urasawa",
+      synopsis: "Johan is a cold and calculating killer with a mysterious past, and brilliant Dr. Kenzo Tenma is the only one who can stop him! Conspiracy and serial murder open the door to a compelling, intricately woven plot in this masterpiece manga thriller.Dangerous men of influence hoping to exploit Johan's frightening min for their own shadowy purposes are also hot on the 'monster's' trail, and they're willing to use Eva, Tenma's ex-fiancée, to identify him. But what will happen to Eva when her assistance is no longer required? Will her only chance for salvation rest on the shoulders of the very man who's been hired to kill her?!",
+      release_date: "October 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2077.jpg"},
+
+      [genres[0], genres[21], genres[8]]
+      ],
+[
+{
+      title: "X/1999, Volume 02: Overture",
+      author: "CLAMP",
+      synopsis: "This supernatural saga begins when teenager Kamui loses his entire family in a mysterious accident. Kamui finds that he is heir to a bizarre destiny that could determine the fate of the entire world.",
+      release_date: "1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2078.jpg"},
+
+{
+      title: "X (3-in-1 Edition), Vol. 1",
+      author: "CLAMP",
+      synopsis: "Reads R to L (Japanese Style). ",
+      release_date: "October 11th 2011",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2079.jpg"},
+
+{
+      title: "X/1999, Volume 03: Sonata",
+      author: "CLAMP",
+      synopsis: "'Originally published in Japan in 1993 by Kodakawa Shoten Publishing, Inc., Ltd., Tokyo'--T.p. recto.",
+      release_date: "1993",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2080.jpg"},
+
+{
+      title: "X/1999, Volume 01: Prelude",
+      author: "CLAMP",
+      synopsis: "As part of the X/1999 series, this volume features breathless action and stunning art. When Kamui returns to Tokyo, he learns that his childhood girlfriend Kotori and psychic Princess Hitoni are having strange dreams about his role in a coming apocalypse! Is he the angel of salvation, or the devil of destruction?",
+      release_date: "July 29th 1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2081.jpg"},
+
+{
+      title: "X (3-in-1 Edition), Vol. 2",
+      author: "CLAMP",
+      synopsis: "Reads R to L (Japanese Style). ",
+      release_date: "April 10th 2012",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2082.jpg"},
+
+{
+      title: "X (3-in-1 Edition), Vol. 3",
+      author: "CLAMP",
+      synopsis: "Reads R to L (Japanese Style), for audiences rated teen plus. X, the epic series from CLAMP, is now available in this deluxe collector’s edition. The pages have been recomposed in the original right-to-left reading order and restored to the highest quality. Each volume contains three of the original graphic novels, along with gorgeous, full-color illustrations never before published outside Japan. As the gears of fate turn, Kamui draws ever closer to the moment when he must make his inevitable choice: become either humanity’s savior or its scourge. After his last surviving blood relative sacrifices herself to bring forth the Sacred Sword, the weapon he will need in the war to come, that moment finally arrives. With Kamui’s decision, however, come unimaginable consequences for Fuma and Kotori. Meanwhile, the members of both sides of the conflict—the Dragons of Heaven and the Dragons of Earth—converge on Tokyo, obeying the call of their intertwined destinies. Among them is Subaru Sumeragi, a powerful magic user, who arrives just in time to help Kamui see the path that he must take. But Subaru must conquer his own doubts and fears when he’s finally reunited with the one person who is truly special to him—and whom he must fight to the death.",
+      release_date: "April 10th 2012",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2083.jpg"},
+
+      [genres[0], genres[7], genres[4], genres[8], genres[15], genres[18]]
       ],
