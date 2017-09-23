@@ -1,7 +1,7 @@
 {/*
-Fantasy, Romance
-Themes: Battles, Magical Girl
-[genres[4], genres[13], genres[10], genres[17], genres[18], genres[18]]
+Horror, Mystery
+Themes: Supernatural
+[genres[21], genres[8], genres[18], genres[17], genres[18], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -5666,4 +5666,63 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1769.jpg"},
 
       [genres[4], genres[13], genres[10], genres[17]]
+      ],
+[
+{
+      title: "Godchild, Volume 03",
+      author: "Kaori Yuki",
+      synopsis: "A grotesque gift holds a clue to the Cain family past; a mortician's daughter has deadly designs on one of Cain's closest friends; and a woman from Riff's past may have murder on her mind. Enjoy three new tales destined to delight and disturb from the imagination of master storyteller Kaori Yuki!",
+      release_date: "June 19th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1770.jpg"},
+
+{
+      title: "Godchild, Volume 05",
+      author: "Kaori Yuki",
+      synopsis: "Cain crosses a high official of the secret society of DELILAH when he attempts to stop a massacre of socialites at the lushly restored Crimone Gardens. And later, an old nursery rhyme plays out to eerie perfection during a fateful carriage ride in the sinister 'Solomon Grundy's Sunday.'",
+      release_date: "February 19th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1771.jpg"},
+
+{
+      title: "Godchild, Volume 06",
+      author: "Kaori Yuki",
+      synopsis: "Cain crosses a high official of the secret society of DELILAH when he attempts to stop a massacre of socialites at the lushly restored Crimone Gardens. And later, an old nursery rhyme plays out to eerie perfection during a fateful carriage ride in the sinister 'Solomon Grundy's Sunday.'",
+      release_date: "June 19th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1772.jpg"},
+
+{
+      title: "Godchild, Volume 07",
+      author: "Kaori Yuki",
+      synopsis: "Shall the son suffer for the continued sins of the father? Alexis hatches an evil plan involving a beautiful girl with a sick fascination for his son. And could Jizabel's hatred of Cain also stem from their father? Step into the past as we learn more about the tortured early life of Dr. Disraeli!",
+      release_date: "2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1773.jpg"},
+
+{
+      title: "Godchild, Volume 08",
+      author: "Kaori Yuki",
+      synopsis: "It is time for the truth to be told. At last, all the secrets of the Hargreaves family will emerge from the dark into the harsh light of day, as Kaori Yuki wraps up Cain's epic adventures. Is Cain ready to find out who he truly is? Are  ready?",
+      release_date: "January 19th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1774.jpg"},
+
+{
+      title: "Godchild, Volume 01",
+      author: "Kaori Yuki",
+      synopsis: "Deep in the heart of 19th century London, a young nobleman named Cain walks the shadowy cobblestone streets of the aristocratic society into which he was born. Forced to become an earl upon the untimely death of his father, Cain assumes the role of head of the Hargreaves, a noble family with a dark past. With Riff, his faithful manservant, and Mary Weather, his 10-year-old half sister, Cain investigates the mysterious crimes that seem to follow him wherever he goes.",
+      release_date: "November 19th 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1775.jpg"},
+
+{
+      title: "Godchild, Volume 02",
+      author: "Kaori Yuki",
+      synopsis: "Deep in the heart of 19th Century London, a young nobleman named Cain walks the shadowy cobblestone streets of the aristocratic society in which he was born. Forced to become an Earl upon the untimely death of his father, Cain assumes the role of head of the Hargreaves, a noble family with a dark past. With Riff, his faithful manservant, and Marie Weather, his 10-year-old half sister, Cain investigates the mysterious crimes that seem to follow him wherever he goes.",
+      release_date: "2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1776.jpg"},
+
+{
+      title: "Godchild, Volume 04",
+      author: "Kaori Yuki",
+      synopsis: "A grotesque gift holds a clue to the Cain family past; a mortician's daughter has deadly designs on one of Cain's closest friends; and a woman from Riff's past may have murder on her mind. Enjoy three new tales destined to delight and disturb from the imagination of master storyteller Kaori Yuki!",
+      release_date: "October 18th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1777.jpg"},
+
+      [genres[21], genres[8], genres[18]]
       ],
