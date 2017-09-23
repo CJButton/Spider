@@ -1,12 +1,7 @@
-
-//**
-?How to measure lookup time in Rails?
-//**
-
 {/*
-Action, Drama, Fantasy
-Themes: Adventure
-[genres[0], genres[7], genres[4], genres[1], genres[20], genres[18]]
+Comedy, Drama, Romance
+Themes: School Life, Supernatural
+[genres[14], genres[7], genres[13], genres[15], genres[18], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -35,6 +30,12 @@ genres = [
   21'Horror',
   22'Harem'
  ]
+
+
+ //**
+ ?How to measure lookup time in Rails?
+ //**
+
 ///
 // remember to add the ending bracket for allComics!!!
 ///
@@ -5488,4 +5489,105 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1745.jpg"},
 
       [genres[0], genres[7], genres[4], genres[1]]
+      ],
+[
+{
+      title: "Chibi Vampire, Vol. 10",
+      author: "Yuna Kagesaki",
+      synopsis: "Things are finally going great for Karin Maaka. She's now officially going out with Kenta and she's even met another vampire who has similar problems to hers. However, her luck may not continue when her grandmother once again awakens from a long sleep. What will Elda Marker do when she discovers that Karin is not a normal vampire? And when Karin finds out the true reason why love between vampires and humans is taboo, will it destroy her relationship with Kenta?",
+      release_date: "December 28th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1746.jpg"},
+
+{
+      title: "Chibi Vampire, Vol. 07",
+      author: "Yuna Kagesaki",
+      synopsis: "With Kenta discovering the true reason behind Karin's increase in blood when around him, their relationship shatters. Both sides struggle to deal with the thought of losing the one they love. Is there light at the end of the tunnel? Will the two of them finally make up and bring happiness to the whole family?",
+      release_date: "January 1st 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1747.jpg"},
+
+{
+      title: "Chibi Vampire, Vol. 13",
+      author: "Yuna Kagesaki",
+      synopsis: "Karin is a cute little girl who also happens to be a vampire--with a twist. She's a vamp with blood to spare, so rather than stealing blood from humans, she actually gives her blood to them.",
+      release_date: "December 28th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1748.jpg"},
+
+{
+      title: "Chibi Vampire, Vol. 03",
+      author: "Yuna Kagesaki",
+      synopsis: "Kenta sees Karin every day at both work and school, so each day serves as a reminder that something about the girl with the oft-bloody nose just isn't right. He is suspicious, and has not exactly subtle about it.",
+      release_date: "July 1st 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1749.jpg"},
+
+{
+      title: "Chibi Vampire, Vol. 01",
+      author: "Yuna Kagesaki",
+      synopsis: "Karin is a cute little girl who also happens to be a vampire... with a twist. Once a month, she experiences intense bleeding from her nose - we're talking gushers! In other words, she's a vamp with blood to spare, so rather than stealing blood from humans she actually gives her blood to them.",
+      release_date: "October 1st 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1750.jpg"},
+
+{
+      title: "Chibi Vampire, Vol. 04",
+      author: "Yuna Kagesaki",
+      synopsis: "Karin is a cute little girl who also happens to be a vampire... with a twist. Once a month, she experiences intense bleeding from her nose--we're talking gushers! In other words, she's a vamp with blood to spare, so rather than stealing blood from humans she actually gives her blood to them. If done right, this can be an extremely positive experience that benefits the 'victim' as much as the vamp. The problem is that Karin never seems to do things right!",
+      release_date: "November 1st 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1751.jpg"},
+
+{
+      title: "Chibi Vampire, Vol. 05",
+      author: "Yuna Kagesaki",
+      synopsis: "Karin is a cute little girl who also happens to be a vampire... with a twist. Once a month, she experiences intense bleeding from her nose--we're talking gushers! In other words, she's a vamp with blood to spare, so rather than stealing blood from humans she actually gives her blood to them. If done right, this can be an extremely positive experience that benefits the 'victim' as much as the vamp. The problem is that Karin never seems to do things right!",
+      release_date: "March 1st 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1752.jpg"},
+
+{
+      title: "Chibi Vampire, Vol. 12",
+      author: "Yuna Kagesaki",
+      synopsis: "Karin is a cute little girl who also happens to be a vampire--with a twist. She's a vamp with blood to spare, so rather than stealing blood from humans, she actually gives her blood to them.",
+      release_date: "August 9th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1753.jpg"},
+
+{
+      title: "Chibi Vampire, Vol. 08",
+      author: "Yuna Kagesaki",
+      synopsis: "After months of little romantic development, are Karin and Kenta ready to take a big step forward in their relationship? With the young couple finally starting to hold hands in public, Maki forces the issue by setting up a date.",
+      release_date: "April 1st 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1754.jpg"},
+
+{
+      title: "Chibi Vampire, Vol. 11",
+      author: "Yuna Kagesaki",
+      synopsis: "Book by Yuna Kagesaki",
+      release_date: "April 1st 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1755.jpg"},
+
+{
+      title: "Chibi Vampire, Vol. 09",
+      author: "Yuna Kagesaki",
+      synopsis: "Karin Maaka is a vampire, from a family of vampires, but instead of needing to drink blood, she has an excess of blood that she must give to her victims. If done right, giving this blood to her victim can be an extremely positive thing. The problem with this is that Karin never seems to do things right...As Karin and Kenta's official first date continues, Anju shows up to keep an eye on the clumsy couple. But when Kenta notices her, he grabs Karin and takes her on the Ferris wheel. There he tells her how he really feels...will this destroy their relationship? Also, new girl Yuriya begins snooping around town in search of vampires. For what reason is she trying to uncover Karin's identity and what secrets of her own is she hiding?",
+      release_date: "September 1st 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1756.jpg"},
+
+{
+      title: "Chibi Vampire, Vol. 14",
+      author: "Yuna Kagesaki",
+      synopsis: "Features color art and an interview with the creator.",
+      release_date: "April 9th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1757.jpg"},
+
+{
+      title: "Chibi Vampire, Vol. 06",
+      author: "Yuna Kagesaki",
+      synopsis: "Karin's crush of Kenta may be finally be revealed. But things take a turn when Kenta's mom seeks the whereabouts of Kenta and Karin with the assistance of a detective. A case of mistaken identity causes Karin’s most explosive nose bleed ever! Karin's crush continues but now it is a forbidden one.",
+      release_date: "July 1st 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1758.jpg"},
+
+{
+      title: "Chibi Vampire, Vol. 02",
+      author: "Yuna Kagesaki",
+      synopsis: "Kenta sees Karin at work and school, each day serving as a reminder that something about the girl with the oft-bloody nose just isn't right! He's suspicious...and he's not exactly subtle about it. Fearing that he might discover her secret, Karin decides to kill this potential problem--with kindness! She goes out of her way to do all kinds of nice things for him. But when Kenta catches her 'feeding' yet again, the gig may be up. So what's a vampire girl to do? Why, take the boy home to meet her parents, of course!",
+      release_date: "March 1st 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1759.jpg"},
+
+      [genres[14], genres[7], genres[13], genres[15], genres[18]]
       ],
