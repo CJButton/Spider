@@ -4,9 +4,9 @@
 //**
 
 {/*
-Action, Fantasy
-Themes: Battles
-[genres[0], genres[4], genres[10], genres[10], genres[20], genres[18]]
+Action, Drama, Fantasy
+Themes: Adventure
+[genres[0], genres[7], genres[4], genres[1], genres[20], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -5422,4 +5422,70 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1736.jpg"},
 
       [genres[0], genres[4], genres[10]]
+      ],
+[
+{
+      title: "Tsubasa: RESERVoir CHRoNiCLE, Vol. 08",
+      author: "CLAMP",
+      synopsis: "Princess Sakura's memories are scattered across multiple dimensions - and now she and Syaoran are part of an unlikely group of friends traveling from world to world to find them. Unfortunately the memories have been transformed into immensely powerful magical feathers, and those who possess them are seldom willing to give them up without a fight. The quest takes Syaoran's odd bunch to a jungle world where helpless creatures are being terrorized by a sacrifice-demanding beast. When Syaoran, Mokona, and Sakura are separated from Fai and Kurogane, each group finds themselves on opposing sides of a conflict that threatens to destroy the future of a troupe of young women performers...and possibly the entire world!",
+      release_date: "November 1st 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1737.jpg"},
+
+{
+      title: "Tsubasa: RESERVoir CHRoNiCLE, Vol. 07",
+      author: "CLAMP",
+      synopsis: "The latest chapter of the top-selling series continues the saga of heroic, romantic characters on a magical quest. SYAORAN OVERMATCHED? Young Syaoran and his friends are on a quest to retrieve the magically potent feather-shaped shards of Princess Sakura's memory. The search has led them to the country of Oto, a world with the romantic feel of Japan in the early 1900s. However, another dimension traveler has shown up as well-the immensely powerful Seishiro, who first trained Syaoran. Now he and Syaoran are mortal enemies Seishiro's first objective is to kill Fai, beloved wizard and one of Syaoran's closest companions. Does Syaoran, who is just beginning his training, have any hope of surviving their inevitable battle?",
+      release_date: "August 17th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1738.jpg"},
+
+{
+      title: "Tsubasa: RESERVoir CHRoNiCLE, Vol. 01",
+      author: "CLAMP",
+      synopsis: "SAKURA AND SYAORAN RETURN!But they're not the people you know. Sakura is the princess of Clow - and possessor of a mysterious, misunderstood power that promises to change the world. Syaoran is her childhood friend and leader of the archaeological dig that took his father's life. They reside in an alternate reality...where whatever you least expect can happen - . When Sakura ventures to the dig site to declare her love for Syaoran, a puzzling symbol is uncovered - which triggers a remarkable quest. Now Syaoran embarks upon a desperate journey through other worlds - all in the name of saving Sakura.",
+      release_date: "2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1739.jpg"},
+
+{
+      title: "Tsubasa ALBuM De REProDUCTioNS: Original Art Collection",
+      author: "CLAMP",
+      synopsis: "In celebration of the twentieth anniversary of the phenomenon known as CLAMP–a prolific collective of four female artists who are now among the most popular manga creators in the United States–here’s a deluxe, gorgeously designed book featuring more than one hundred pages of color art, plus a five-page original Tsubasa manga that will appear only in this book!",
+      release_date: "2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1740.jpg"},
+
+{
+      title: "Tsubasa Character Guide 2",
+      author: "CLAMP",
+      synopsis: "THE SECRETS OF TSUBASA!Are you completely obsessed with Tsubasa: RESERVoir CHRoNiCLE, the bestselling epic manga by CLAMP? Now explore the magic behind the masterpiece in this official companion to CLAMP’s thrilling fantasy saga. In the second installment of , learn more about the people, creatures, worlds, and mysteries featured in volumes 8 through 14–including a cool look at the Tsubasa and xxxHOLiC crossover!  also includes an interview with CLAMP, games and quizzes, a special fan section, preproduction artwork, a full-color poster, and more! This essential book is perfect for any fan of the Tsubasa anime and manga!",
+      release_date: "September 29th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1741.jpg"},
+
+{
+      title: "Tsubasa Character Guide",
+      author: "CLAMP",
+      synopsis: "TSUBASA: BEHIND THE SCENES!Here is a revealing look at the acclaimed, bestselling manga series Tsubasa: RESERVoir CHRoNiCLE. Spanning the first seven graphic novels, this thrilling guide includes intriguing details about the characters, worlds, and mysteries of Tsubasa, including info on the popular crossover CLAMP characters who always seem to appear in the Tsubasa universe! It also features a brand-new Tsubasa short story, an interview with CLAMP writer Ageha Ohkawa, games and quizzes, a fan section, pre-production artwork, and more. This is an essential book for any fan of the Tsubasa manga series and anime!",
+      release_date: "April 14th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1742.jpg"},
+
+{
+      title: "Tsubasa: RESERVoir CHRoNiCLE, Vol. 03",
+      author: "CLAMP",
+      synopsis: "CAN PURE DETERMINATION DEFEAT A MASTER MAGICIAN?Sakura is awake, but she remembers almost nothing–certainly not Syaoran, who has sacrificed everything to help her. Accompanied by the happy-go-lucky Fai, the intense Kurogane, and the strikingly odd creature Mokona Modoki, Sakura and Syaoran make their way into a new universe where a traveling magician has suddenly become frighteningly powerful and is terrorizing an entire town. Only a few independent-minded stragglers remain to battle for control of their own lives. Fai, the lone magician in the group, traded his magical powers to the dimension witch, ’s Yûko, before the journey started. Without a weapon with which to fight, can the extraordinary group of friends defeat a master magician who can control the Earth’s elements?",
+      release_date: "December 15th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1743.jpg"},
+
+{
+      title: "Tsubasa: RESERVoir CHRoNiCLE, Vol. 06",
+      author: "CLAMP",
+      synopsis: "Syaoran, Sakura, and their companions travel to Ôto, a country where cherry blossoms perfume the days and demons called Oni terrorize the nights. To earn funds, the foursome split up to hunt the wicked creatures. Soon they learn that a new type of Oni has appeared - one that is both mysterious and beautiful...and rumored to control the other demons! Will the brave twosome of Big Puppy (Kurogane) and Little Puppy (Syaoran) save the land of Ôto from this frightening foe - and retrieve another piece of Sakura's fragmented past?",
+      release_date: "June 17th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1744.jpg"},
+
+{
+      title: "Tsubasa: RESERVoir CHRoNiCLE, Vol. 04",
+      author: "CLAMP",
+      synopsis: "A FAIRYTALE TURNED NIGHTMARE!Young Syaoran embarks on a worlds-spanning adventure to restore the memory of the most important person in his life, the princess Sakura– even though he knows that she’ll never remember her love for him. The trail leads to a small town reminiscent of Europe at the turn of the nineteenth century, a place where the ghostly image of a golden-haired woman comes in the night to steal the town’s children. Syaoran and his band of outrageous friends–affable Fai D. Flowright, loose cannon Kurogane, the odd creature Mokona, and Sakura herself–mount their horses and venture into forbidding, barren woods to solve a mystery, rescue the children, and retrieve one more piece of Sakura’s missing memories.",
+      release_date: "January 1st 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1745.jpg"},
+
+      [genres[0], genres[7], genres[4], genres[1]]
       ],
