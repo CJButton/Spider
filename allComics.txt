@@ -1,7 +1,6 @@
 {/*
-Action, Drama
-Themes: Adventure, Historical
-[genres[0], genres[7], genres[1], genres[9], genres[15], genres[18]]
+ Action, Science Fiction
+[genres[0], genres[5], genres[1], genres[10], genres[18], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -7381,4 +7380,132 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2005.jpg"},
 
       [genres[0], genres[7], genres[1], genres[9]]
+      ],
+[
+{
+      title: "Goth",
+      author: "Otsuichi",
+      synopsis: "A notebook that leads to murder - a refrigerator filled with hands... a pit of dead dogs... an accidental suicide... a boy buried alive - and where two teenagers linked by an obsession with murder and torture explore the recesses of humanity's dark side.",
+      release_date: "July 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2006.jpg"},
+
+      [genres[8], genres[1], genres[18]]
+      ],
+[
+{
+      title: "InuYasha: Good Intentions",
+      author: "Rumiko Takahashi",
+      synopsis: "Inu-Yasha's magic sword can only be wielded in defense of humanity. But when the lovesick Nobunaga tells Kagome and InuYasha the story of a 300-year-old demon, it seems that such a sword might come in handy!",
+      release_date: "October 18th 1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2007.jpg"},
+
+{
+      title: "InuYasha: Flesh and Bone",
+      author: "Rumiko Takahashi",
+      synopsis: "The adventure ensues in this new tale of the best-selling graphic novel. Inu-Yasha, Kagome, and Shippo continue their quest for more shards of the shattered magic jewel. Along the way, they meet a young girl named Nazuma fleeing from a horde of Spider-Head demons.",
+      release_date: "April 18th 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2008.jpg"},
+
+{
+      title: "InuYasha: River of Blood",
+      author: "Rumiko Takahashi",
+      synopsis: "River of BloodKagome faces a difficult decision - only she can help Kikyo heal from Naraku's miasma. Will the love triangle between Kagome, Inuyasha, and Kikyo stop her from doing the right thing? Kohaku comes under Naraku's power and is ordered to steal the infant Hakudoshi. Will Kohaku be able to resist? While Inuyasha and his comrades watch, Naraku shows up at the demon bird's nest for a showdown. A series of disturbing events is about to unfold, and a path to the borderland will be revealed",
+      release_date: "September 18th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2009.jpg"},
+
+{
+      title: "InuYasha: Lost and Alone",
+      author: "Rumiko Takahashi",
+      synopsis: "In this adventure, Kagome returns to present-day Japan, only to find herself in the middle of an eerie ghost story. Can she save the lost soul of a little girl?",
+      release_date: "January 18th 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2010.jpg"},
+
+{
+      title: "InuYasha: Building a Better Trap",
+      author: "Rumiko Takahashi",
+      synopsis: "It isn't only demons who can gain power from the Shikon jewel, as Kagome, InuYasha, and their companions see when they fall afoul of the hideous 'Peach Man.' Meanwhile, there are even more mysteries of the jewel to be uncovered, as they meet a village of warriors dedicated to fighting the demons the jewel creates.",
+      release_date: "January 18th 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2011.jpg"},
+
+{
+      title: "InuYasha: The Struggle Continues",
+      author: "Rumiko Takahashi",
+      synopsis: "Historical action and romance from one of Japan’s most beloved creators! L to R (Western Style). The evil Midoriko and Naraku both seek to restore the Shikon Jewel. To do this they must take the final shards from Koga and Kohaku. Then Inuyasha and the gang stumble across a new sword with some intriguing powers. Could this sword lead to a victory against both Midoriko and Naraku?  Kagome is a modern Japanese high school girl. Never the type to believe in myths and legends, her world view dramatically changes when, one day, she's pulled out of her own time and into another! There, in Japan's ancient past, Kagome discovers more than a few of those dusty old legends are true, and that her destiny is linked to one legendary creature in particular--the dog-like half-demon called Inuyasha! That same trick of fate also ties them both to the Shikon Jewel, or 'Jewel of Four Souls.' But demons beware...the smallest shard of the Shikon Jewel can give the user unimaginable power.",
+      release_date: "February 18th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2012.jpg"},
+
+{
+      title: "InuYasha: Turning Back Time",
+      author: "Rumiko Takahashi",
+      synopsis: "Transported back to Japan's feudal era, high school student Kagome accidentally releases the feral half-demon dog boy Inu-Yasha from his imprisonment for stealing the Jewel of Four Souls.",
+      release_date: "May 18th 1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2013.jpg"},
+
+{
+      title: "Inuyasha, Volume 06",
+      author: "Rumiko Takahashi",
+      synopsis: "With the power granted by a large piece of the Shikon Jewel, Naraku's scheming is in high gear as his minions go forth to do his bidding. Kikyo, the priestess whose duty it once was to guard the jewel, gave the fragment to him, but why? Then Inuyasha takes on another of Naraku's evil offspring, a demon that inhabits the very sword his half brother Sesshomaru wields. Naraku's human origins may yet prove to be his downfall if Kikyo can exploit his weaknesses by forcing him to make a difficult choice, one that is mirrored by Inuyasha's lost love for Kikyo and a possible future with Kagome!",
+      release_date: "February 1st 2011",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2014.jpg"},
+
+{
+      title: "InuYasha: The Demon of the Birds",
+      author: "Rumiko Takahashi",
+      synopsis: "The Demon of the BirdsThe search for the final shard of the Shikon Jewel leads Inuyasha and the gang to a mountain fortress. But the gate is guarded by two giant statues and a force that will only allow the dead to enter Seeking a path to the underworld, Naraku meanwhile teams up with a new demon, Abi Hime, who hunts the blood of innocent villagers to heal her mother. Inuyasha and friends step in to stop them when they find that Kikyo may be involved",
+      release_date: "July 18th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2015.jpg"},
+
+{
+      title: "InuYasha: Close Enemies",
+      author: "Rumiko Takahashi",
+      synopsis: "Inu-Yasha's half-brother, the demon Sessho-Maru, has returned with vengeance on his mind and new, stronger powers. Will Inu-Yasha be able to defeat his stronger sibling again? It doesn't help that the demon Naraku is on a rampage.",
+      release_date: "September 18th 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2016.jpg"},
+
+{
+      title: "The Art of Inuyasha",
+      author: "Rumiko Takahashi",
+      synopsis: "This book includes cell art and paintings from the hit anime series running on the Cartoon Network. Showcasing the excellent artwork and beautiful characters of the immensely popular time-traveling horror/action series, this book offers fans page after page of full-color designs, plus character profiles, watercolors from the manga covers, character profiles and 66 pages of colored manga pages, and much more!",
+      release_date: "February 1st 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2017.jpg"},
+
+{
+      title: "Inuyasha, Volume 15",
+      author: "Rumiko Takahashi",
+      synopsis: "After falling through an ancient well, schoolgirl Kagome has become the defender of both modern and 16th-century Japan against the forces of myth and darkness. But if she thought the horrors she and partner Inu-Yasha have faced so far were bgad, she hasn't met Inu-Yasha's family yet. This installment includes the final fight with the soulless, seductive Yura of the Hair.",
+      release_date: "May 18th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2018.jpg"},
+
+{
+      title: "InuYasha: Wounded Souls",
+      author: "Rumiko Takahashi",
+      synopsis: "Kikyo, the killer of InuYasha in the distant past, is distraught from the shock of being resurrected, and she must make a decision — whether to return to death for Kagome's sake or hold onto her second chance at life.",
+      release_date: "May 18th 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2019.jpg"},
+
+      [genres[0], genres[4], genres[1], genres[10], genres[18]]
+      ],
+[
+{
+      title: "Ghost in the Shell 2: Man-machine Interface",
+      author: "Masamune Shirow",
+      synopsis: "March 6, 2035. Motoko Aramaki is a hyper-advanced cyborg, a counter-terrorist net security expert heading the investigative department of the giant multi-national, Poseidon Industrial. Partly transcending the physical world and existing in a virtual world of networks, Motoko is a fusion of multiple entities and identities, deploying remotely controlled prosthetic humanoid surrogates around the globe to solve a series of bizarre crimes. Meanwhile, Tamaki Tamai, a psychic investigator from the Channeling Agency, has been commissioned to investigate strange changes in the temporal universe, brought about by two forces, one represented by the teachings of a professor named Rahampol, and the other by the complex, evolving Motoko entity. What unfolds will be all in a day's work...a day that will change everything, forever.",
+      release_date: "June 28th 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2020.jpg"},
+
+{
+      title: "Ghost in the Shell 1.5: Human-error Processor",
+      author: "Masamune Shirow",
+      synopsis: "This volume presents for the first time in America the lost Ghost in the Shell stories, created by Masamune, but never collected until now. Deep into the 21st century, the line between man and machine has been inexorably blurred as humans rely on the enhancement of mechanical implants, and robots are upgraded with human tissue. Older teens.",
+      release_date: "July 23rd 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2021.jpg"},
+
+{
+      title: "Ghost in the Shell",
+      author: "Masamune Shirow",
+      synopsis: "In the rapidly converging landscape of the 21st century Major Kusanagi is charged to track down the craftiest and most dnagerous terrorists and cybercriminals, including ghost hackers When he track the trail of one hacker, her quest leads her to a world she could never have imagined.",
+      release_date: "October 5th 1991",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2022.jpg"},
+
+      [genres[0], genres[5]]
       ],
