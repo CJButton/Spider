@@ -1,7 +1,7 @@
 {/*
-Drama, Romance
-Themes: Historical, Slice of Life
-[genres[7], genres[13], genres[9], genres[16], genres[18], genres[18]]
+Comedy, Romance
+Themes: School Life
+[genres[14], genres[13], genres[15], genres[8], genres[18], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -8841,4 +8841,301 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2207.jpg"},
 
       [genres[7], genres[13], genres[9], genres[16]]
+      ],
+[
+{
+      title: "Pandora Hearts, Volume 7",
+      author: "Jun Mochizuki",
+      synopsis: "The past holds everyone in its thrall, and Oz, Alice, Raven, Break, and their acquaintances are no exception, especially as recollections of the tragedy of Sablier elude even those who were present. Indeed, with his own body playing host to Jack Vessalius, the hero of Sablier, the likelihood of Oz escaping the past seems nigh impossible. But given a renewed lease on life by Elliot Nightray — the legitimate heir to the Nightray dukedom, of all people — Oz is eager to keep moving forward by learning all that he can about the events that came to pass all those years ago. To this end, he and his friends seek an audience with another of the four great dukes — Duke Rufus Barma. But it is not a glimpse into a hundredyear-old disaster that is revealed to them in the Duke’s presence, but rather one into Break’s lamentable, shockingly unforgettable past…",
+      release_date: "December 27th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2208.jpg"},
+
+{
+      title: "Pandora Hearts, Volume 8",
+      author: "Jun Mochizuki",
+      synopsis: "The snow-white maiden encountered once upon a time in the depths of the Abyss by the clown christened the Red-Eyed Specter…who was she really? As there are two sides to every story, could it be there are two sides to the existence known as Alice? Duke Barma may have provided a sordid outline, but Break colors the tale with vivid swathes of bloody crimson as he opens up about his past. Will these tragic truths long secreted away isolate Break further from his allies once he has revealed them?",
+      release_date: "March 27th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2209.jpg"},
+
+{
+      title: "Pandora Hearts, Volume 6",
+      author: "Jun Mochizuki",
+      synopsis: "Though Oz’s sudden appearance in the midst of Pandora wreaks havoc, the initially chilly reception to the prison-breaker runs more than warm when Jack Vessalius, hero of the tragedy of Sablier and the man from Alice’s memories, manifests in Oz’s body. Sensing Oz’s resultant inner turmoil, Uncle Oscar drags Oz and company on a “mission” to Lutwidge Academy, where Oz’s little sister, Ada, is a student. But some carefree fun and a tearful reunion ten years in the making is not all for which Oz must prepare himself: crimson-cloaked foes are lying in wait to torture him for answers about the events of a hundred years ago…",
+      release_date: "August 27th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2210.jpg"},
+
+{
+      title: "Pandora Hearts, Volume 3",
+      author: "Jun Mochizuki",
+      synopsis: "Heir to an aristocratic family, Oz Vessalius is a carefree teen. That is until his fifteenth birthday. His entire world changes at his coming of age ceremony when dark forces rise to punish Oz for the sins of a past life. Incarcerated in a prison known as the Abyss, Oz’s life and perhaps his sanity are saved by a black rabbit called Alice. As Oz plunges deeper down the proverbial rabbit hole, he must unravel the mysteries surrounding him before falling into the clutches of the shadowy cabal called Pandora!Contents:Retrace X: MaledictionRetrace XI: GrimRetrace XII: Where Am IRetrace XIII: A Lost Raven",
+      release_date: "July 27th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2211.jpg"},
+
+{
+      title: "Pandora Hearts, Volume 4",
+      author: "Jun Mochizuki",
+      synopsis: "As Oz Vessalius and his valet, Gilbert, are reunited with their dear Uncle Oscar, they fail to notice an alienated Alice lost in thought stumbling right into the lurking Xerxes Break. Before Alice can take heed of Break’s warning of a trap set by the Cheshire Cat — a powerful, extraordinary chain — she and Break are spirited away to Cheshire’s lair, where both danger and fragments of Alice’s past reside. With Sharon’s help, Oz and Gil find a way to enter the sealed dimension of memories, but not only do their allies await them there, so too does the man from Alice’s earlier memory! Does he hold the key to the truth about Oz’s “sin”?Contents:Retrace XIV: Lop EarRetrace XV: Welcome to LabyrinthRetrace XVI: Keeper of the SecretRetrace XVII: Odds and EndsRetrace XVIII: Hollow Eye Socket",
+      release_date: "December 27th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2212.jpg"},
+
+{
+      title: "Pandora Hearts, Volume 2",
+      author: "Jun Mochizuki",
+      synopsis: "Oz Vessalius may have survived his stint in the Abyss, but he is no closer to discovering the truth behind the “sin” for which he was condemned. On the advice of a mysterious man who appeared to him when Alice regained the first of her memories, Oz, along with Alice and Pandora’s Raven, embarks on a mission to investigate the site of his disastrous coming-of-age ceremony in search of answers. However, what begins as a simple investigation becomes the revelation of a harsher reality, which comes swooping down on Oz as the hands of the clock continue ticking away mercilessly…Contents:Retrace V: Clockwise DoomRetrace VI: Where am IRetrace VII: ReunionRetrace VIII: WhipsererRetrace IX: Question",
+      release_date: "March 27th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2213.jpg"},
+
+{
+      title: "Pandora Hearts, Volume 5",
+      author: "Jun Mochizuki",
+      synopsis: "Oz memasuki salah satu ingatan Alice yang ternyata merupakan ingatan mengenai bencana yang terjadi 100 tahun lalu. Di sana, Oz mengetahui kenyataan mengerikan tentang Alice dan Vincent Nightray. Tapi, kenapa Vincent bisa berada dalam ingatan Alice? Berhasilkah Oz menyelamatkan Alice!?",
+      release_date: "April 26th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2214.jpg"},
+
+      [genres[7], genres[4], genres[10], genres[8]]
+      ],
+[
+{
+      title: "Eyeshield 21, Vol. 12: Devil Bat Ghost",
+      author: "Riichiro Inagaki",
+      synopsis: "We're back at the Deimon-Amino game as Sena faces his nemesis Munakata in a memorable showdown. Then, as the season unfolds, new rivals emerge, along with a slew of worthy opposing teams, in a thrilling quadruple-header filled with pent-up emotion, gritty determination and a surprise finale. Get ready for more football action in volume 12 of EYESHIELD 21!",
+      release_date: "March 4th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2215.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 3: And They're Called the Devil Bats",
+      author: "Riichiro Inagaki",
+      synopsis: "Sena faces a brick wall in the form of hulking über-athlete, Shin, of the White Knights. Rather than run away, Sena runs at full speed, straight at this exciting new challenge! But will Sena's frail body hold up to all the brain-jostling tackles that Shin dishes out?",
+      release_date: "June 4th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2216.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 2: The False Hero",
+      author: "Riichiro Inagaki",
+      synopsis: "The second game of the season finds Sena and the Devilbats lined up against the champion White Knights. Big and ferocious, the Knights feature a squad of the toughest kids in high school. Will Sena wimp out of this one or will he break through the Knights' defense to see daylight? And what's the deal with the Devilbats' center? Will we ever find out why his head is shaped like a chestnut?",
+      release_date: "March 4th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2217.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 23: Then Came the Showdown!",
+      author: "Riichiro Inagaki",
+      synopsis: "Bone-crushing action, slapstick comedy and a heartwarming coming-of-age story!",
+      release_date: "February 2nd 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2218.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 20: Devils vs. Gods",
+      author: "Riichiro Inagaki",
+      synopsis: "The Devil Bats go up against a team far superior to any they've faced yet! Their opponents, the Nagas, have an ace quarterback and a star player whose athletic skill is so far above others he looks down on them as insects. The dismal score has devastated the Bats' morale and they've all but given up. Even the crowd who usually cheers them on has started to leave. Could this be the end of their surprise winning streak, not to mention their goal of going to the Christmas Bowl?",
+      release_date: "January 1st 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2219.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 17: The Drive to Be the Best",
+      author: "Riichiro Inagaki",
+      synopsis: "With their former kicker back on the team, the Devil Bats have a real shot at closing the gap against the Seibu Wild Gunmen. But Seibu is still a major threat. Can the Devil Bats hold on for the victory?",
+      release_date: "January 5th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2220.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 8: True Warriors Seek Out Strong Foes",
+      author: "Riichiro Inagaki",
+      synopsis: "The Devil Bats take on the NASA Aliens! After months of grueling training, the game against the Americans is finally about to begin. But the Aliens have a huge front line and a quarterback with an arm like a rocket launcher. Will the Devil Bats be able to clinch the win before the Aliens' score goes up into orbit?!",
+      release_date: "April 30th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2221.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 13: Who is the Real Eyeshield 21?",
+      author: "Riichiro Inagaki",
+      synopsis: "Could there be more than one Eyeshield 21? A player on a rival team claims he met the real Eyeshield 21 while he was an exchange student in America. Back then, this mysterious other Eyeshield was on the Notre Dame feeder school football team. But now he's in Japan, and he's going to play during the fall season!",
+      release_date: "April 2nd 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2222.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 22: Time-Out 0",
+      author: "Riichiro Inagaki",
+      synopsis: "Bone-crushing action, slapstick comedy and a heartwarming coming-of-age story!",
+      release_date: "December 4th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2223.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 27: Seijuro Shin vs. Sena Kobayakawa",
+      author: "Riichiro Inagaki",
+      synopsis: "R to L (Japanese Style). With a mere two and a half minutes on the clock, the Deimon Devil Bats desperately try to erase the Ojo White Knights' five-point lead. The ball is in Deimon's hands, but everyone is past the threshold of exhaustion...and they're still 40 yards away from the goal line. Sena's banking on some of his slickest moves to help him outmaneuver Ojo's ace Shin and carry his team to victory...but Shin has never backed down to another competitor before, and doesn't plan on starting anytime soon.",
+      release_date: "November 2nd 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2224.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 15: The Toughest Warriors in Tokyo",
+      author: "Riichiro Inagaki",
+      synopsis: "The Devil Bats' game against the Poseidons comes to its nail-biting conclusion, a foot from the Poseidons' goal line and with only two seconds left in the game. Later, a new player shows up on the scene--Sena's childhood friend Riku, a Seibu Wild Gunman who's looking to become Sena's greatest rival.",
+      release_date: "September 2nd 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2225.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 11: Open Season",
+      author: "Riichiro Inagaki",
+      synopsis: "With summer coming to an end, the Devil Bats are back at home...and the start of the fall season is staring them in the face! Who will be in the fall lineup? And when Sena gets lost on his way to the first game of the season, can the team survive without the speed and star power of Eyeshield 21?",
+      release_date: "December 3rd 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2226.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 29: The Second Quarterback",
+      author: "Riichiro Inagaki",
+      synopsis: "Bone-crushing action, slapstick comedy and a heartwarming coming-of-age story! R to L (Japanese Style). As the gridiron mega-showdown between the Deimon Devil Bats and the Hakushu Dinosaurs rapidly approaches, players on both teams use their final moments to build as much strength as possible. Hoping to muscle-up so as to not be utterly obliterated by the monstrous Rikiya Gao, Kurita turns to an old rival for a unique bout of special training. Also knowing full well that Hakushu will be gunning for his head, Hiruma imparts manager Mamori with some special instructions to be used in the (very likely) event that he gets knocked out of the game. Who will score the first touchdown and who will be carried off the field on a stretcher?! Wimpy Sena Kobayakawa has been running away from bullies all his life. But when the football gear comes on, things change--Sena's speed and uncanny ability to elude big bullies just might give him what it takes to become a great high school football hero! Catch all the bone-crushing action and slapstick comedy of Japan's hottest football manga!",
+      release_date: "April 4th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2227.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 4: Intimidation",
+      author: "Riichiro Inagaki",
+      synopsis: "The Devil Bats face off against the Chamelons--a team of ruthless delinquents. But when fragile Sena goes up against the Chameleon's sinister ace linebacker, who will be intimidating whom?",
+      release_date: "August 4th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2228.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 19: The Successor",
+      author: "Riichiro Inagaki",
+      synopsis: "It's the second half of the game between the Bando Spiders and the Deimon Devil Bats. The winner will walk away with the final seed to the Kanto Tournament--the loser will walk away in shame. Strong winds are playing havoc with the passing games of both teams, forcing them to stick to the ground. But the shifty Hiruma has been intentionally throwing weak passes to make the Spiders defense underestimate him. Just when they least expect it he fires off a missile for a touchdown and puts the Bats back in the game! But it's not over yet...",
+      release_date: "June 2nd 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2229.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 18: Sena Kobayakawa",
+      author: "Riichiro Inagaki",
+      synopsis: "It's time for some serious gridiron action when the Bando Spiders collide with the Devil Bats! The game gets off to a bad start for the Bats when an incredibly accurate onside kick, combined with top-notch blocking, results in a field goal and an early lead for the Spiders. From there it just gets worse as the Devil Bats try to overcome the Spiders' special defensive maneuver, the 'Run Force'!",
+      release_date: "March 3rd 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2230.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 14: The Demons vs. the Gods of the Sea",
+      author: "Riichiro Inagaki",
+      synopsis: "The Devil Bats' game against the Poseidons has begun! Besides a huge size advantage, the Poseidons boast 'the High Wave,' a powerful attack that threatens to wipe out all opposition. Mid-game, the Devil Bats' quarterback decides that it's time to unveil a new counterattack, but will it be enough to stop the team's slide into defeat?",
+      release_date: "July 4th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2231.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 28: Tokyo Dome of the Decisive Battle",
+      author: "Riichiro Inagaki",
+      synopsis: "Just as the manager for the Hakushu Dinosaurs is about to show Sena and Riku some footage of her team in an attempt to dissuade them from continuing in the tournament, the horrifically powerful Rikiya Gao appears and gets ready to smash everything and everyone. But Gao's scare tactics fail to intimidate Riku, who declares that the Wild Gunmen won't back down from their upcoming match. Known for injuring quarterbacks left and right, does Gao now have The Kid dead in his sights?",
+      release_date: "February 4th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2232.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 1: The Boy With the Golden Legs",
+      author: "Riichiro Inagaki",
+      synopsis: "What does a wimpy kid who's been bullied all his life have to depend on but his own two feet? Sena Kobayakawa is about to start his first year in high school and he's vowed not to get picked on anymore. Unfortunately, the sadistic captain of the football team already has his eye on Sena and his lightning-fast speed.",
+      release_date: "January 1st 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2233.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 9: Hell is for Devil Bats",
+      author: "Riichiro Inagaki",
+      synopsis: "Fun in the sun! When the Devil Bats and the Seibu Wild Gunmen head to the Texas coast, they merge to form a single team and compete in a beach football tournament! But this game is played without helmets...so will Eyeshield 21's identity be revealed?! And are the Devil Bats dedicated enough to sacrifice their summer vacation for a hellishly intense training camp?",
+      release_date: "August 4th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2234.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 10: Is There a Loser in the House?",
+      author: "Riichiro Inagaki",
+      synopsis: "The Devil Bats are training harder than ever as they endure a grueling 'death march' from Houston to Las Vegas! A biker gang whisks Sena off on a wild detour to San Antonio, where he tries to recruit a promising tight end prospect. And if the team survives the trek through the desert, what kind of havoc will they wreak in Sin City?!",
+      release_date: "October 4th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2235.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 16: Dawn of the Time-Out",
+      author: "Riichiro Inagaki",
+      synopsis: "The Devil Bats pull out all the stops in their game against the Seibu Wild Gunmen, but the Gunmen's offense proves to be unshakeable. Without a kicker, the Devil Bats don't stand a snowball's chance in hell...or do they?",
+      release_date: "November 4th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2236.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 26: Rough 'n' Tumble",
+      author: "Riichiro Inagaki",
+      synopsis: "R to L (Japanese Style). As the second half begins in the Kanto Tournament game between the Devil Bats and the White Knights, Ojo is still leading by seven points. Sena continues to struggle against the seemingly unstoppable Shin, but it's another Deimon player who finds a kink in the Knights' armor. Hoping to prove his superiority in the air, Monta clashes head-on with ace receiver Sakuraba. Will Monta's skills help put Deimon back in scoring position?",
+      release_date: "September 4th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2237.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 25: Perfect Player",
+      author: "Riichiro Inagaki",
+      synopsis: "R to L (Japanese Style)",
+      release_date: "July 4th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2238.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 32: Xmas BOWL",
+      author: "Riichiro Inagaki",
+      synopsis: "Bone-crushing action, slapstick comedy and a heartwarming coming-of-age story!Reads R to L (Japanese Style). Bone-crushing action, slapstick comedy and a heartwarming coming-of-age story! Christmas Bowl In preparation for their match against the strongest football team in Japan, the Deimon Devil Bats partner up with a host of star players from their previous matches in the hope of gaining a tactical edge. Sena and Shin, Kurita and Gao, Monta and Ikkyu; each Devil Bat hopes to find new strength in this extra-special bout of one-on-one training. But will an emotionally shaken Monta dash Deimon's chance for victory?",
+      release_date: "January 1st 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2239.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 21: They Were 11!!",
+      author: "Riichiro Inagaki",
+      synopsis: "Sena Kobayakawa is about to start his first year of high school and he’s vowed not to get picked on anymore. Unfortunately, the sadistic captain of the football team already has his eye on Sena and his lightning-fast speed. Bone-crushing action, slapstick comedy and a heartwarming coming-of-age story!",
+      release_date: "October 4th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2240.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 24: The Indomitable Fortress",
+      author: "Riichiro Inagaki",
+      synopsis: "R to L (Japanese Style)",
+      release_date: "April 4th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2241.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 6: Devil Bats Take Flight",
+      author: "Riichiro Inagaki",
+      synopsis: "The Devil Bats are going to feel like dancing for joy if they can beat Banba and his hulking team, the Taiyo Sphinx. Sena and crew have held their own in the first half, but they're going to have to come up with something really special to defeat this bunch of bruisers. And don't forget, the winner of this game gets to play against a championship team from the United States!",
+      release_date: "December 19th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2242.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 7: Musashi",
+      author: "Riichiro Inagaki",
+      synopsis: "The American team cancels the big game against the Devil Bats for no apparent reason--but with a bit of creative video editing, Hiruma 'convinces' them to change their minds. And later, Sena and Monta search for a much-needed kicker to join the team and find him in a most unexpected place.",
+      release_date: "March 4th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2243.jpg"},
+
+{
+      title: "Eyeshield 21, Vol. 5: Powerful",
+      author: "Riichiro Inagaki",
+      synopsis: "Sena's school's football team only has two players: Ryokan, who dreams of someday competing in the Christmas bowl game, and Hiruma, the quarterback known for frightening the underclassmen. Sena disguises his identity in order to join the team and showcase his great speed.'",
+      release_date: "October 3rd 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2244.jpg"},
+
+      [genres[14], genres[10], genres[19]]
+      ],
+[
+[
+{
+      title: "Special A, Vol. 14",
+      author: "Maki Minami",
+      synopsis: "A fast-paced comedy series from Japan R to L (Japanese Style). The world of the SA class is turned upside down when Iori Tokiwa, a new student, transfers in and takes second place after Kei in the rankings, knocking Hikari down to third. But instead of resenting him, Hikari recognizes Iori as a kindred spirit as they both aim for the number one spot. As the two grow close, Kei must deal with a completely new experience--jealousy. Her whole life, Hikari Hanazono has been consumed with the desire to win against her school rival, Kei Takishima--at anything. He always comes out on top no matter what he does, and Hikari is determined to do whatever it takes to beat this guy...somehow At age 6 Hikari lost to Kei in an impromptu wrestling match. Now, at 15, Hikari joins 'Special A,' a group of the top seven students at a private academy, for the opportunity to trounce the guy who made her suffer her first defeat.",
+      release_date: "July 16th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2245.jpg"},
+
+{
+      title: "Special A, Vol. 17",
+      author: "Maki Minami",
+      synopsis: "Joy abounds when final exams are over and the students begin to plan for the summer festival. But secretly Hikari is heartbroken--she'll be moving to Kyushu because of her father's job. She can't bring herself to tell Kei and the others. Will she really leave the boy and the school she loves?",
+      release_date: "2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2246.jpg"},
+
+{
+      title: "Special A, Vol. 02",
+      author: "Maki Minami",
+      synopsis: "Hikari and Kei are pitted against a pair of professional wresters in a challenge issued by the student council. Hikari may now be on the same team as Kei, but a rival is still a rival!",
+      release_date: "2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2247.jpg"},
+
+{
+      title: "Special A, Vol. 10",
+      author: "Maki Minami",
+      synopsis: "When Sakura learns of Hikari's feelings for Kei, she is determined to get the two together! But getting Hikari to confess is more difficult than anyone imagined. The effort will take Kei and Hikari from a haunted house to a deadly duel to a date with Kei's mom to... Australia?! This is one trip you won't want to miss!",
+      release_date: "2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2248.jpg"},
+
+      [genres[14], genres[13], genres[15]]
       ],
