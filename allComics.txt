@@ -1,7 +1,7 @@
 {/*
-Drama, Science Fiction
-Themes: Powers
-[genres[7], genres[5], genres[20], genres[18], genres[18], genres[18]]
+Comedy, Fantasy
+Themes: Adventure, Battles, School Life
+[genres[14], genres[4], genres[1], genres[10], genres[15], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -6779,4 +6779,143 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1922.jpg"},
 
       [genres[7], genres[5], genres[20]]
+      ],
+[
+{
+      title: "Beast Master, Vol. 1",
+      author: "Kyousuke Motomi",
+      synopsis: "Reads R to L (Japanese Style). Taming a Beast was never this dangerous! ",
+      release_date: "June 25th 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1923.jpg"},
+
+{
+      title: "Beast Master, Vol. 2",
+      author: "Kyousuke Motomi",
+      synopsis: "Taming a Beast was never this dangerous!R to L (Japanese Style). Taming a Beast was never this dangerous!  Leo's 18th birthday is around the corner, but celebrating seems impossible as someone is after Leo's life! Can Leo overcome the dangers of his past? Or will this beast-like boy be separated from his beloved 'master'...forever?",
+      release_date: "January 1st 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1924.jpg"},
+
+      [genres[14], genres[13]]
+      ],
+[
+{
+      title: "Reborn! Vol. 09: New Item Arrives!",
+      author: "Akira Amano",
+      synopsis: "Junior high student Tsuna is a failure at school, sports, and social life. He needs a Mafia hit man tutor like he needs a hole in the head...and he's about to get both!Tsuna, Reborn and their friends are in deep trouble! The villainous Mukuro appears to be unstoppable, and further efforts by Yamamoto and Gokudera to take him down only seem to prove the point. It finally falls to Tsuna to face this nemesis, though he knows he doesn't have a prayer of coming out of the encounter in one piece. His only hope is to receive a Deathperation Shot, but Reborn has only one left! Will it be enough? Junior high student Tsuna is a failure at school, sports, and social life. He needs a Mafia hit man tutor like he needs a hole in the head...and he's about to get both!",
+      release_date: "April 4th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1925.jpg"},
+
+{
+      title: "Reborn! Vol. 03: Faintly Arrives!",
+      author: "Akira Amano",
+      synopsis: "Tsuna, a timid junior high student, is a failure at school, sports, and social life. But everything changes for Tsuna when Reborn, a fedora-wearing, gun-toting toddler who claims to be an Italian hit man, shows up at his house. Reborn was sent to Japan to groom Tsuna for his future life as a big mafia boss! Reborn's gun has quite an unusual effect: When Reborn shoots people in the head, they die but are then 'reborn' with temporary supernatural powers that allow them to fulfill their dying wish. Reborn and Tsuna make an unlikely pair, but every day they're together, Tsuna gets reborn into a new (and better) guy!",
+      release_date: "March 4th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1926.jpg"},
+
+{
+      title: "Reborn! Vol. 05: The Prince of Star Arrives!",
+      author: "Akira Amano",
+      synopsis: "Tsuna becomes the protector of a master statistician and his book of statistics, which supposedly holds the key to Mafia control of the world! Naturally, other gangs would like to have this book, but that isn't Tsuna's biggest challenge. He also gets embroiled in the snowball fight to end all snowball fights, and finds himself on a zoo date with Kyoko!",
+      release_date: "July 4th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1927.jpg"},
+
+{
+      title: "Reborn! Vol. 06: Ochōshimono Arrives!",
+      author: "Akira Amano",
+      synopsis: "As if Reborn's training regimen at home and at school weren't harrowing enough, Tsuna soon discovers that even his vacations are now being co-opted by his 'tutor' to further the cause of turning Tsuna into a proper boss for the Vongola Family! But even his leisure travails pale when he finds out what awaits at the wedding of...Reborn and Bianchi!",
+      release_date: "September 2nd 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1928.jpg"},
+
+{
+      title: "Reborn! Vol. 17: Hibird Arrives!",
+      author: "Akira Amano",
+      synopsis: "The Power of the Rings Tsuna and his friends have been thrust ten years into the future, where all is decidedly not well. Their only hope of survival seems to lie with Lal Mirch, one-time associate of Tsuna's father Iemitsu.",
+      release_date: "November 2nd 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1929.jpg"},
+
+{
+      title: "Reborn! Vol. 07: Hot Summer Arrives!",
+      author: "Akira Amano",
+      synopsis: "Tsuna is targeted for assassination, so a weapons tuner for the Vongola Family arrives to upgrade Reborn's arsenal. This winds up creating a fair amount of chaos, but it's summer and Tsuna soon finds other distractions--learning to swim, taking part in a summer poetry contest, racing into the ocean to rescue a girl in distress, and defying a ghost bent on taking him to the 'other side'!",
+      release_date: "December 2nd 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1930.jpg"},
+
+{
+      title: "Reborn! Vol. 08: The Neighboring Town Boys Arrives!",
+      author: "Akira Amano",
+      synopsis: "Students at Tsuna's school are being attacked, and it's up to Tsuna and Reborn--on orders from the ninth generation boss of the Vongola Family--to figure out why and take the culprit down. Then it's time for a lunch break, featuring the ever-deadly cuisine of Bianchi, who has a lesson in love to teach. But the big surprise is Tsuna's discovery that a member of his 'family' has become a turncoat!",
+      release_date: "February 3rd 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1931.jpg"},
+
+{
+      title: "Reborn! Vol. 16: Ten Years Later Arrives!",
+      author: "Akira Amano",
+      synopsis: "Tsuna is just a scaredy-cat junior high student who's no good at school or sports...until Reborn shoots him in the head and he starts life fresh with the power to solve his problems! Junior high student Tsuna is a failure at school, sports, and social life. He needs a mafia hit man mentor like he needs a hole in the head...and he's about to get both! Reborn's gun will kill you and make you stronger! Final Volume!Reads R to L (Japanese Style). Tsuna is just a scaredy-cat junior high student who's no good at school or sports...until Reborn shoots him in the head and he starts life fresh with the power to solve his problems!Junior high student Tsuna is a failure at school, sports, and social life. He needs a mafia hit man mentor like he needs a hole in the head...and he's about to get both!Reborn's gun will kill you and make you stronger! Ten Years LaterTsuna wins the Sky Battle and secures the Vongola succession at last. He responds by passing out, though he manages to revive in time to join his friends in a celebration of the victory. But just when things appear to be returning to normal, Reborn gets into a fight with Lambo. Lambo tries to shoot himself with his Ten-Year Bazooka and hits Reborn instead. What happens next launches Tsuna into his most bizarre adventure yet!",
+      release_date: "August 3rd 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1932.jpg"},
+
+{
+      title: "Reborn! Vol. 13: The Mist Guardian Arrives!",
+      author: "Akira Amano",
+      synopsis: "Tsuna is just a scaredy-cat junior high student who's no good at school or sports...until  shoots him in the head and he starts life fresh with the power to solve his problems!Junior high student Tsuna is a failure at school, sports, and social life. He needs a mafia hit man mentor like he needs a hole in the head...and he's about to get both!Reborn's gun will kill you and make you stronger! R to L (Japanese Style).  Yamamoto uses the Shigure Soen Ryu sword technique taught to him by his father to battle Superbi Squalo, who has beaten a Shigure Soen Ryu practitioner once before! Even though Squalo sees through his moves, Yamamoto refuses to lose faith in the technique and presses on. The question is, does he have any chance of winning?! Meanwhile, the identity of the person chosen to be Tsuna's Mist Guardian is finally revealed! Junior high student Tsuna is a failure at school, sports and social life. He needs a Mafia hit man tutor like he needs a hole in the head...and he's about to get both!",
+      release_date: "January 4th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1933.jpg"},
+
+{
+      title: "Reborn! Vol. 02: Many Arrives!",
+      author: "Akira Amano",
+      synopsis: "Tsuna, a timid junior high student, is a failure at school, sports, and social life. But everything changes for Tsuna when Reborn, a fedora-wearing, gun-toting toddler who claims to be an Italian hit man, shows up at his house. Reborn was sent to Japan to groom Tsuna for his future life as a big mafia boss! Reborn's gun has quite an unusual effect: When Reborn shoots people in the head, they die but are then 'reborn' with temporary supernatural powers that allow them to fulfill their dying wish. Reborn and Tsuna make an unlikely pair, but every day they're together, Tsuna gets reborn into a new (and better) guy!",
+      release_date: "December 27th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1934.jpg"},
+
+{
+      title: "Reborn! Vol. 04: Bucking Bronco Arrives!",
+      author: "Akira Amano",
+      synopsis: "It's a reunion--mafia style! Dino, the 10th-generation of the Chiavorone family, and Reborn's former student, brings his squad of goons to pay Tsuna a visit. The explosive little Lambo decides to liven things up a bit by tossing several grenades at the goons. Things quickly escalate as Dino springs into action in a battle of whips versus grenades!",
+      release_date: "May 2nd 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1935.jpg"},
+
+{
+      title: "Reborn! Vol. 15: Zero Point Breakthrough Arrives!",
+      author: "Akira Amano",
+      synopsis: "Tsuna is just a scaredy-cat junior high student who's no good at school or sports...until Reborn shoots him in the head and he starts life fresh with the power to solve his problems! Junior high student Tsuna is a failure at school, sports, and social life. He needs a mafia hit man mentor like he needs a hole in the head...and he's about to get both! Reborn's gun will kill you and make you stronger!R to L (Japanese Style). Tsuna is just a scaredy-cat junior high student who's no good at school or sports...until  shoots him in the head and he starts life fresh with the power to solve his problems! Junior high student Tsuna is a failure at school, sports, and social life. He needs a mafia hit man mentor like he needs a hole in the head...and he's about to get both! Reborn's gun will kill you and make you stronger! : Tsuna finally faces Xanxus in the Ring battle! While they trade blows, Xanxus shows off the power of his Flames of Rage, the very ability possessed by the 2nd Generation boss of the Vongola. Tsuna soon discovers that Xanxus has brought a lot more to the party and is pummeled by attack after attack. Tsuna's friends, meanwhile, pass the Storm Ring around in an attempt to protect Lambo from the renewed fury of Leviathan!",
+      release_date: "May 2nd 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1936.jpg"},
+
+{
+      title: "Reborn! Vol. 12: Hard Battle Arrives!",
+      author: "Akira Amano",
+      synopsis: "The battle between the Varia assassins and Tsuna's 'family' for the Vongola rings is on! Tsuna's intervention on Lambo's behalf has caused forfeiture of both their rings, so it's up to Gokudera to hold up the side. He gives it his all, but the Varia are proving themselves masters of not playing fair and appear to view the rules, such as they are, as applicable only to their opponents!",
+      release_date: "October 4th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1937.jpg"},
+
+{
+      title: "Reborn! Vol. 14: The Sky Match Arrives!",
+      author: "Akira Amano",
+      synopsis: "Tsuna is just a scaredy-cat junior high student who's no good at school or sports...until  shoots him in the head and he starts life fresh with the power to solve his problems!Junior high student Tsuna is a failure at school, sports, and social life. He needs a mafia hit man mentor like he needs a hole in the head...and he's about to get both!Reborn's gun will kill you and make you stronger! R to L (Japanese Style).  Tsuna's old adversary, Mukuro Rokudo, has successfully fought on the side of Tsuna's 'family' for possession of the Mist Ring. But his opponent, the Varia known as Mammon, has a highly developed sense of never-say-die! Later, Tsuna finally completes his training and returns in time to confront one of the Varia who is running amok. The whole game changes, however, when he finds out who this Varia really is! Junior high student Tsuna is a failure at school, sports and social life. He needs a Mafia hit man tutor like he needs a hole in the head...and he's about to get both!",
+      release_date: "March 2nd 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1938.jpg"},
+
+{
+      title: "Reborn! Vol. 10: Ring Arrives!",
+      author: "Akira Amano",
+      synopsis: "Junior high student Tsuna is a failure at school, sports, and social life. He needs a Mafia hit man tutor like he needs a hole in the head...and he's about to get both!Tsuna faces a group of assassins that's taken exception to his candidacy for the coveted position of boss of the Vongola Family. With recent experience having made their deficiencies in fighting prowess glaringly apparent, Tsuna's 'family' members decide they need to undergo a serious training regimen in order to meet this new threat. It hardly helps that Tsuna, now possessed of an impressive new ability, needs the training more than anyone else!Junior high student Tsuna is a failure at school, sports, and social life. He needs a Mafia hit man tutor like he needs a hole in the head...and he's about to get both!",
+      release_date: "June 2nd 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1939.jpg"},
+
+{
+      title: "Reborn! Vol. 11: Varia Arrives!",
+      author: "Akira Amano",
+      synopsis: "Junior high student Tsuna is a failure at school, sports, and social life. He needs a Mafia hit man tutor like he needs a hole in the head...and he's about to get both!Tsuna and his friends continue to train for the imminent confrontation with the Varia. Tsuna manages to complete the second stage of his training and Yamamoto has learned all he can from his father about swordplay, but Gokudera has yet to master the fighting technique of Dr. Shamal. Meanwhile, two members of the Varia have arrived ahead of schedule and are looking to take out anyone in possession of a Vongola ring!",
+      release_date: "August 4th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1940.jpg"},
+
+{
+      title: "Reborn! Vol. 01: Reborn Arrives!",
+      author: "Akira Amano",
+      synopsis: "Tsunayoshi Sawada (Tsuna for short) is a cowardly junior high student who doesn't excel at academics or sports. He only attends school so he can stare at his beautiful classmate Kyoko from afar. But Tsuna's life takes a dramatic turn when Reborn, a suit-wearing, gun-toting baby who claims to be an Italian hit man, shows up at his house. Reborn was sent to Japan to groom Tsuna for his future life as a big Mafia boss. Tsuna doesn't believe this absurd story, so Reborn shoots Tsuna in the head with his gun. As Tsuna faces his own death, he's filled with regret that he never confessed his feelings to Kyoko...and suddenly he's overcome with supernatural powers that allow him to run off screaming to tell Kyoko how much he loves her. After five minutes, Tsuna goes back to normal. Reborn explains how his gun works: when he shoots a person in the head, if that person has regrets about her life, then she will die and be reborn, temporarily endowed with special powers that enable her to fix or solve whatever is the source of her regret. (If Reborn shoots someone who is free of regret, she would die.)Tsuna becomes Reborn's disciple, and because Reborn shoots Tsuna in the head all the time, he is constantly being reborn and growing into a stronger and better person, gradually impressing those around him and making friends.---Junior high student Tsuna is a failure at school, sports, and social life. He needs a Mafia hit man tutor like he needs a hole in the head...and he's about to get both!When Reborn, a fedora-wearing, gun-toting toddler, arrives and says he's come to groom Tsuna for his future as boss of an Italian organized crime family, Tsuna is more than a little skeptical. But Reborn may have the 'magic bullet' necessary to turn Tsuna's life around!",
+      release_date: "October 4th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1941.jpg"},
+
+      [genres[14], genres[4], genres[1], genres[10], genres[15]]
       ],
