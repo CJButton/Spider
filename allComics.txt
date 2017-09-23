@@ -1,18 +1,13 @@
 
 
 {/*
-Check if box sets and remove
-Check for "" and add data if needed
-Add appropriate genres
-
-
 Action, Drama, Fantasy
 Themes: Historical, Supernatural
 [genres[0], genres[21], genres[4], genres[9], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
- const genres = [
+genres = [
   0'Action',
   1'Adventure',
   2'Science Fantasy',
