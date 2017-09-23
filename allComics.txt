@@ -1,7 +1,7 @@
 {/*
-Comedy, Drama, Romance
-Themes: School Life, Supernatural
-[genres[14], genres[7], genres[13], genres[15], genres[18], genres[18]]
+Drama, Horror
+Themes: Adventure, Supernatural
+[genres[7], genres[21], genres[1], genres[18], genres[18], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -5590,4 +5590,14 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1759.jpg"},
 
       [genres[14], genres[7], genres[13], genres[15], genres[18]]
+      ],
+[
+{
+      title: "D.Gray-man, Vol. 1",
+      author: "Katsura Hoshino",
+      synopsis: "Set in a fictional end of the 19th century England, it's the story of Allen Walker, a 15-year-old boy who roams the Earth in search of . Washed away to unknown parts of the world after The Great Flood, Innocence is the mysterious substance used to create weapons that obliterate demons known as .A born exorcist, Walker's primary anti-akuma weapon is the cross that's embossed on his red and disfigured left hand, which contains Innocence. But not only does Walker destroy akuma, he sees the akuma hiding inside a person's soul! Together with his fellow exorcists fighting under the command of the Black Order, Walker leads the battle against the Millennium Earl, the evil being out to destroy mankind.",
+      release_date: "2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1760.jpg"},
+
+      [genres[7], genres[21], genres[1], genres[18]]
       ],
