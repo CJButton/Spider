@@ -1,7 +1,7 @@
 {/*
-Action, Comedy
-Themes: Battles, Powers
-[genres[0], genres[14], genres[10], genres[20], genres[18], genres[18]]
+Action, Comedy, Drama, Fantasy
+Themes: Adventure
+[genres[0], genres[14], genres[7], genres[4], genres[1], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -9367,3 +9367,79 @@ allComics = [
             }
             [genres[0], genres[14], genres[10], genres[20]]
             ],
+            [
+{
+      title: "Maid-sama! Vol. 08",
+      author: "Hiro Fujiwara",
+      synopsis: "Once an all-boys school, Seika High, a renowned school full of reckless and filthy students, has recently become a co-ed school. However, with the female population still remaining a minority even after the change over the recent years, Misaki Ayuzawa takes it into her own hands to reform the school and allow a chance for the girls to feel safer in the rough environment. Even the teachers are on her side. Training, studying and even becoming the first female student council president of the school, Misaki has gained a reputation, among the male students body as an uptight boy-hating demon dictator and as a shining hope for the teachers and fellow female students. However, despite her tough-as-nails appearance, she secretly works part-time at a maid café in order to support her family. Unfortunately, her secret is soon discovered by Takumi Usui, a popular boy at Seika High.",
+      release_date: "September 4th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2269.jpg"},
+
+{
+      title: "Maid-sama! Vol. 07",
+      author: "Hiro Fujiwara",
+      synopsis: "Once an all-boys school, Seika High, a renowned school full of reckless and filthy students, has recently become a co-ed school. However, with the female population still remaining a minority even after the change over the recent years, Misaki Ayuzawa takes it into her own hands to reform the school and allow a chance for the girls to feel safer in the rough environment. Even the teachers are on her side. Training, studying and even becoming the first female student council president of the school, Misaki has gained a reputation, among the male students body as an uptight boy-hating demon dictator and as a shining hope for the teachers and fellow female students. However, despite her tough-as-nails appearance, she secretly works part-time at a maid café in order to support her family. Unfortunately, her secret is soon discovered by Takumi Usui, a popular boy at Seika High.",
+      release_date: "April 3rd 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2270.jpg"},
+
+{
+      title: "Maid-sama! Vol. 03",
+      author: "Hiro Fujiwara",
+      synopsis: "It's Seika High's Sports Day Festival! The Idiot Trio have just completed a fancy, custom-made maid outfit that they want to give to Misaki as a present, but through a mix-up, the maid outfit is sent out to the Sports Day Dress-up Race as one of its generic costumes, a contest which both Misaki and Usui are entering.",
+      release_date: "August 4th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2271.jpg"},
+
+{
+      title: "Maid-sama! Vol. 06",
+      author: "Hiro Fujiwara",
+      synopsis: "Once an all-boys school, Seika High, a renowned school full of reckless and filthy students, has recently become a co-ed school. However, with the female population still remaining a minority even after the change over the recent years, Misaki Ayuzawa takes it into her own hands to reform the school and allow a chance for the girls to feel safer in the rough environment. Even the teachers are on her side. Training, studying and even becoming the first female student council president of the school, Misaki has gained a reputation, among the male students body as an uptight boy-hating demon dictator and as a shining hope for the teachers and fellow female students. However, despite her tough-as-nails appearance, she secretly works part-time at a maid café in order to support her family. Unfortunately, her secret is soon discovered by Takumi Usui, a popular boy at Seika High.",
+      release_date: "September 4th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2272.jpg"},
+
+{
+      title: "Maid-sama! Vol. 01",
+      author: "Hiro Fujiwara",
+      synopsis: "Misaki Ayuzawa is the President of the Student Council at Seika High School, formerly an all-boys school. Unfortunately, most of the students are still male and stuck in their slovenly habits, so man-hating Misaki really socks it to them in an attempt to make the school presentable to attract more female students. But what will she do when the sexiest boy in school finds out that after school, Misaki works in a maid cafe.First published in Japan in 2006 by Hakusensha Inc., Tokyo.",
+      release_date: "September 5th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2273.jpg"},
+
+{
+      title: "Maid-sama! Vol. 02",
+      author: "Hiro Fujiwara",
+      synopsis: "Misaki Ayuzawa is the President of the Student Council at Seika High School, formerly an all-boys school. Unfortunately, most of the students are still male and stuck in their slovenly habits, so man-hating Misaki really socks it to them in an attempt to make the school presentable to attract more female students. But what will she do when the sexiest boy in school finds out that after school, Misaki works in a maid cafe.'First published in Japan in 2007 by Hakusensha, INC., Tokyo'--P. facing T.p.",
+      release_date: "February 5th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2274.jpg"},
+
+{
+      title: "Maid-sama! Vol. 04",
+      author: "Hiro Fujiwara",
+      synopsis: "The rogue hypnotist strikes again! Post-hypnosis, if Misaki sleeps, she will wake up hating Usui! Well, hating him more than usual... Usui fights to keep Misaki's rage at bay by keeping her awake as long as possible. Later, Misaki and Cafe Maid Latte take a trip to the beach. Even with Aoi along for the ride, it's all fun in the sun -- with a bit of danger and romance thrown into the mix!",
+      release_date: "December 5th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2275.jpg"},
+
+      [genres[14], genres[13], genres[15]]
+      ],
+      [
+{
+      title: "Puella Magi Madoka Magica, Vol. 01",
+      author: "Magica Quartet",
+      synopsis: "In this world, there exist strange creatures who have the power to grant one wish to a chosen girl. However, in exchange, that girl must then become a magical girl and use their powers to fight against witches, evil creatures born from darkness that are responsible for murders and suicides.In the city of Mitakihara, a schoolgirl named Madoka Kaname and her friend Sayaka Miki are approached by a familiar named Kyubey, who offers to grant each of them one wish in return for making each of them a magical girl. Another magical girl named Homura Akemi tries to prevent Madoka from making such a deal, while Kyubey urges Madoka by telling her she will become the most powerful magical girl. However, contrary to the glamorous notions one would expect, a magical girl finds herself dealing with death, isolation, loss of humanity, agony over the value of her wish, and existential crisis. Madoka, following her friends, soon sees the darker side of being a magical girl, and because of knowing the truth about being a magical girl, she questions if she should become one as well.",
+      release_date: "February 12th 2011",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2276.jpg"},
+
+{
+      title: "Puella Magi Madoka Magica, Vol. 03",
+      author: "Magica Quartet",
+      synopsis: "Madoka is horrified to learn the true nature of the witches she and her friends, the Magical Girls, have been fighting-and the terrible fate that awaits any Magical Girl who accepts Kyubey's offer of power. Having watched countless Magical Girls sacrificed for the larger aims of his people, Kyubey is only interested in securing more girls to that end, and Madoka is left with his chilling reminder that she too is destined to be a Magical Girl of incredible power... Can Madoka and her friends escape this tragic fate?",
+      release_date: "May 30th 2011",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2277.jpg"},
+
+{
+      title: "Puella Magi Madoka Magica, Vol. 02",
+      author: "Magica Quartet",
+      synopsis: "While Madoka continues to deliberate over the decision to join Akemi as a magical girl, her best friend, Sayaka, seizes the chance to wish for the recovery of the boy she loves. But when Sayaka is caught in a territory dispute with a more experienced (and more deadly) magical girl named Kyouko, Madoka is reminded that being a magical girl is more than a matter of donning a frilly costume and fighting evil... it is also a matter of life and death!",
+      release_date: "March 12th 2011",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2278.jpg"},
+
+      [genres[0], genres[14], genres[7], genres[4], genres[1]]
+      ],
