@@ -1,7 +1,7 @@
 {/*
-Action, Comedy, Science Fiction
-Themes: Adventure, Historical, Supernatural
-[genres[0], genres[14], genres[5], genres[1], genres[9], genres[18]]
+Fantasy, Romance
+Themes: School Life
+[genres[4], genres[13], genres[15], genres[1], genres[9], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -6349,4 +6349,98 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1864.jpg"},
 
       [genres[0], genres[14], genres[5], genres[1], genres[9], genres[18]]
+      ],
+[
+{
+      title: "Kamisama Kiss, Vol. 13",
+      author: "Julietta Suzuki",
+      synopsis: "A divine comedy!Nanami Momozono is alone and homeless after her dad skips town to evade his gambling debts and the debt collectors kick her out of her apartment. So when a man she's just saved from a dog offers her his home, she jumps at the opportunity. But it turns out that his place is a shrine, and Nanami has unwittingly taken over his job as a local deity! Himemiko is convinced that her human boyfriend Kotaro could never love her in her true form, and that dating a yokai will only put him in danger. Even though she feels she can no longer see him, she vows to avenge the wounds he suffered at the hands of Nishiki of Inuaki Swamp. But Himemiko and Nishiki have been engaged since they were young. Will her quest for revenge bring all-out war to the swamps? Reads R to L (Japanese Style) for teen audiences.",
+      release_date: "September 20th 2012",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1865.jpg"},
+
+{
+      title: "Kamisama Kiss, Vol. 10",
+      author: "Julietta Suzuki",
+      synopsis: "Reads R to L (Japanese Style), for audiences rated teen. Nanami Momozono is alone and homeless after her dad skips town to evade his gambling debts and the debt collectors kick her out of her apartment. So when a man she's just saved from a dog offers her his home, she jumps at the opportunity. But it turns out that his place is a shrine, and Nanami has unwittingly taken over his job as a local deity! Kuruma’s father, the Sojobo of the Kuruma tengu, is gravely ill. Nanami thinks she can cure him with her supply of Momotan, but first she needs to get past the magic shields of Jiro, the next in line for the leadership of the mountain. And Jiro isn’t the only thing on the mountain the gang needs to watch out for…",
+      release_date: "September 20th 2011",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1866.jpg"},
+
+{
+      title: "Kamisama Kiss, Vol. 7",
+      author: "Julietta Suzuki",
+      synopsis: "Reads R to L (Japanese Style), for audiences T. Nanami Momozono is alone and homeless after her dad skips town to evade his gambling debts and the debt collectors kick her out of her apartment. So when a man she's just saved from a dog offers her his home, she jumps at the opportunity. But it turns out that his place is a shrine, and Nanami has unwittingly taken over his job as a local deity! Mizuki loves living at the shrine with Nanami, but he hates that he has to stay behind when she goes to school. He hates even more that Tomoe gets to go with her. But Mizuki isn’t used to the human world, so Nanami thinks it’s safer if he just stays put. Can Mizuki become a master of the mundane, or will his secret foray into town end in disaster?!",
+      release_date: "September 17th 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1867.jpg"},
+
+{
+      title: "Kamisama Kiss, Vol. 11",
+      author: "Julietta Suzuki",
+      synopsis: "A divine comedy!Nanami Momozono is alone and homeless after her dad skips town to evade his gambling debts and the debt collectors kick her out of her apartment. So when a man she's just saved from a dog offers her his home, she jumps at the opportunity. But it turns out that his place is a shrine, and Nanami has unwittingly taken over his job as a local deity! New Year’s is coming up, and that means the Tochigami Shrine needs to send a representative to greet the toshigami, the visiting kami who assures a good harvest for the year. Nanami insists on going with her shinshi but gets stuck in limbo at the meeting place. Her shinshi rush to get her back, but instead they all end up trapped in Nanami’s troubled childhood… Reads R to L (Japanese Style) for teen audiences.",
+      release_date: "January 20th 2012",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1868.jpg"},
+
+{
+      title: "Kamisama Kiss, Vol. 12",
+      author: "Julietta Suzuki",
+      synopsis: "A divine comedy!Nanami Momozono is alone and homeless after her dad skips town to evade his gambling debts and the debt collectors kick her out of her apartment. So when a man she's just saved from a dog offers her his home, she jumps at the opportunity. But it turns out that his place is a shrine, and Nanami has unwittingly taken over his job as a local deity! Himemiko, ayakashi ruler of Tatara swamp, is happily dating her human sweetie Kotaro. But yokai/human relationships are hard to manage, especially when the human has no idea who he’s dating! When the supernatural starts to intrude, can Himemiko tell Kotaro the truth about herself? Or will she lose him no matter what she does? Reads R to L (Japanese Style) for teen audiences.",
+      release_date: "April 20th 2012",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1869.jpg"},
+
+{
+      title: "Kamisama Kiss, Vol. 8",
+      author: "Julietta Suzuki",
+      synopsis: "Reads R to L (Japanese Style), for audiences T. Nanami Momozono is alone and homeless after her dad skips town to evade his gambling debts and the debt collectors kick her out of her apartment. So when a man she's just saved from a dog offers her his home, she jumps at the opportunity. But it turns out that his place is a shrine, and Nanami has unwittingly taken over his job as a local deity! Things at the kami convention in Izumo aren’t going so well. Nanami tried to earn some respect by guarding death’s door while the keeper went off to party. But now she’s stuck in the land of the dead, and the residents seem to have a taste for new kami!",
+      release_date: "December 17th 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1870.jpg"},
+
+{
+      title: "Kamisama Kiss, Vol. 2",
+      author: "Julietta Suzuki",
+      synopsis: "A divine comedy!Reads R to L (Japanese Style) T audience. Nanami Momozono is alone and homeless after her dad skips town to evade his gambling debts and the debt collectors kick her out of her apartment. So when a man she's just saved from a dog offers her his home, she jumps at the opportunity. But it turns out that his place is a shrine, and Nanami has unwittingly taken over his job as a local deity!Nanami doesn't want to miss out on the fun when a hot teen idol joins the student body. Tomoe reluctantly agrees to let her go, as long as she conceals her divine mark. After all, what could possibly go wrong at high school...?",
+      release_date: "2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1871.jpg"},
+
+{
+      title: "Kamisama Kiss, Vol. 4",
+      author: "Julietta Suzuki",
+      synopsis: "A divine comedy!Reads R to L (Japanese Style), for audiences T  Being a teen deity is tough! Not only does Nanami have her duties at the shrine, she has her female classmates begging her to get them dates with her yokai companions. Tomoe wants nothing to do with dating, so what is Nanami going to do about her growing feelings for him?",
+      release_date: "September 18th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1872.jpg"},
+
+{
+      title: "Kamisama Kiss, Vol. 9",
+      author: "Julietta Suzuki",
+      synopsis: "Reads R to L (Japanese Style), for audiences rated teen. Nanami Momozono is alone and homeless after her dad skips town to evade his gambling debts and the debt collectors kick her out of her apartment. So when a man she's just saved from a dog offers her his home, she jumps at the opportunity. But it turns out that his place is a shrine, and Nanami has unwittingly taken over his job as a local deity! Nanami may have been (begrudgingly) accepted by the other kami at Izumo, but that doesn't make her any less human or help her deal with her growing feelings for Tomoe. Should she be true to her heart or cut Tomoe loose for his own good? Either way, getting dragged into a group date isn't going to help matters at all!",
+      release_date: "May 19th 2011",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1873.jpg"},
+
+{
+      title: "Kamisama Kiss, Vol. 5",
+      author: "Julietta Suzuki",
+      synopsis: "A divine comedy! After returning from a seaside vacation, Nanami is shocked to discover that the townsfolk consider her shrine abandoned. She decides to hold a summer festival for the local humans and yokai to revitalize the shrine's reputation. But Tomoe is strangely reluctant. Can Nanami pull off the festival with a little help from her yokai friends, or will Tomoe's naysaying spell disaster?",
+      release_date: "January 19th 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1874.jpg"},
+
+{
+      title: "Kamisama Kiss, Vol. 3",
+      author: "Julietta Suzuki",
+      synopsis: "A divine comedy! Nanami has been missing a lot of school because of her new duties at the shrine. But every time she goes to class, something seems to go wrong! And now her instinct to rescue animals has turned and bit her on the wrist! Is she marked for life...or death?!",
+      release_date: "May 19th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1875.jpg"},
+
+{
+      title: "Kamisama Kiss, Vol. 1",
+      author: "Julietta Suzuki",
+      synopsis: "A  comedy!Nanami Momozono is alone and homeless after her dad skips town to evade his gambling debts and the debt collectors kick her out of her apartment. So when a man she's just saved from a dog offers her his home, she jumps at the opportunity. But it turns out that his place is a shrine, and Nanami has unwillingly taken over his job as a local deity!Nanami has all kinds of new responsabilities she doesn't understand, dangers she's unaware of, and a cranky ex-familiar who's... actually pretty hot. What's a new-fledged godling to do?",
+      release_date: "2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1876.jpg"},
+
+{
+      title: "Kamisama Kiss, Vol. 6",
+      author: "Julietta Suzuki",
+      synopsis: "A divine comedy! Every year, kami from all over Japan gather in Izumo for a sort of divine convention. One of Mikage's friends comes to the shrine to invite Nanami to the retreat, but it turns out most of the other kami and Tomoe don't want her to go. Can Nanami prove she's kami enough to attend; or does she even want to bother?",
+      release_date: "May 19th 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1877.jpg"},
+
+      [genres[4], genres[13], genres[15]]
       ],
