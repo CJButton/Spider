@@ -1,7 +1,7 @@
 {/*
-Action
-Themes: Battles, Sports, Supernatural
-[genres[0], genres[10], genres[19], genres[18], genres[18], genres[18]]
+Action, Comedy, Science Fiction
+Themes: Adventure, Historical, Supernatural
+[genres[0], genres[14], genres[5], genres[1], genres[9], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -6077,4 +6077,276 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1826.jpg"},
 
       [genres[0], genres[10], genres[19], genres[18]]
+      ],
+[
+{
+      title: "Yu Yu Hakusho, Volume 4: Training Day",
+      author: "Yoshihiro Togashi",
+      synopsis: "The legendary exorcist Genkai is about to pass on her explosive demon-smiting techniques to just one student. Trouble is, one of the people battling for the honor is a demon in disguise: the sadistic Rando. Can Yusuke defeat him? Complicating matters is the quartet of demonic criminals plotting a monstrous attack on the mortal world.",
+      release_date: "1990",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1827.jpg"},
+
+{
+      title: "Yu Yu Hakusho, Volume 2: Lonesome Ghost",
+      author: "Yoshihiro Togashi",
+      synopsis: "A few weeks ago, Yusuke Urameshi was the ttoughest 8th-grader in his junior high; now, he's taking the toughest test of his life, the test to see if he will come back to life or stay a wandering spirit forever! Until he passes the test, his body is in a coma, and he can only come back to life one day a month. But Yusuke and his spirit guide, Botan, are in for a lot more than they bargained for as evil curses, bullies, and the ghost of a scary little girl all stand in the way of resurrection! And when a real-world fire threatens the life of Yusuke's friend Keiko, Yusuke must make a brave sacrifice, or there'll be another ghost joining him in his haunting...",
+      release_date: "1990",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1828.jpg"},
+
+{
+      title: "Yu Yu Hakusho, Volume 9: The Huge Ordeal!!",
+      author: "Yoshihiro Togashi",
+      synopsis: "After Yusuke Urameshi grounds a 'flighty' Jin for good, Team Urameshi should be one step closer to victory. But thanks (more like no thanks) to a pervading conspiracy among the organizers of the Dark Tournament, Team Urameshi's plate is wiped clean of soldiers left to fight in the twisted event.Meanwhile, Genkai formally reveals herself to Yusuke and gives him the final test to be the sole heir to her formidable technique - a concentrated ball of aura! But due to the conditions surrounding his 'second life,' Yusuke must be ready and able to inherit the technique - or he dies!",
+      release_date: "December 1st 1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1829.jpg"},
+
+{
+      title: "Yu Yu Hakusho, Volume 13: The Executors of a Dying Wish!!",
+      author: "Yoshihiro Togashi",
+      synopsis: "This is it, folks - the conclusion of the long and deadly Dark Tournament. But don't worry - there's lots more to come because a new adventure starts with this volume! After the Dark Tournament ends, Yusuke and his friends come home for a much deserved rest. The vacation is cut short when Yusuke is taken hostage by three classmates who have recently gained strange powers. It's up to Kuwabara and friends to try and rescue him. But without their star fighter's abilities, will they be up to the task?",
+      release_date: "1990",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1830.jpg"},
+
+{
+      title: "Yu Yu Hakusho, Volume 1: Goodbye, Material World!",
+      author: "Yoshihiro Togashi",
+      synopsis: "Yusuke Urameshi was a tough teen delinquent until one selfless act changed his life... by ending it. When he died saving a little kid from a speeding car, the afterlife didn't know what to do with him, so it gave him a second chance at life. Now, Yusuke is a ghost with a mission, performing good deeds at the behest of Botan, the spirit guide of the dead, and Koenma, her pacifier-sucking boss from the 'other side.' But what strange things await him on the borderline between life and death?",
+      release_date: "1990",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1831.jpg"},
+
+{
+      title: "Yu Yu Hakusho, Volume 17: Showdown!",
+      author: "Yoshihiro Togashi",
+      synopsis: "Yusuke and the gang finally face off against Sensui in a final battle to defeat him and close the portal to the demon plane. The furious exchange of devastating punches and reigun blasts push both Sensui and Yusuke beyond the limits, setting off a transformation that no one, least of all Yusuke, ever expected!As things wind down from the battle, it's time to tie up a few loose ends. Then just when it looks like Yusuke might get some time off for a change, another message from the demon plane arrives that will set Yusuke's final destiny in motion! But first Yusuke needs to ask Keiko a very important question...",
+      release_date: "1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1832.jpg"},
+
+{
+      title: "Yu Yu Hakusho, Volume 14: A Bloody Past!!",
+      author: "Yoshihiro Togashi",
+      synopsis: "With the Dark Tournament far behind them, the gang is in a whole new mess! Someone is trying to pick up where Sakyo's dream of opening a portal from the demon plane into the human world left off. Already, energy from their evil world is seeping through.",
+      release_date: "1990",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1833.jpg"},
+
+{
+      title: "Yu Yu Hakusho, Volume 10: Unforgivable!!",
+      author: "Yoshihiro Togashi",
+      synopsis: "Team Urameshi's successful campaign in the Dark Tournament continues after Fox Demon Kurama makes an honest monster out of Reverse Urashima. Too bad Reverse Uramshima's fellow Fractured Fairy Tale Shishiwakamaru silences him before he could divulge the truth about their team.Meanwhile, Team Urameshi suffers the biggest blow when one member bids them adieu... for good!",
+      release_date: "1993",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1834.jpg"},
+
+{
+      title: "Yu Yu Hakusho, Volume 15: Showdown at the Eleventh Hour",
+      author: "Yoshihiro Togashi",
+      synopsis: "Kuwabara's been kidnapped! Unbeknownst to anyone--especially him--his aura sword is so powerful it can actually cut holes between dimensions, which is exactly what his kidnapper Sensui is after. But Yusuke's not giving up so easily and sets off in pursuit on a bicycle.Then Yusuke and his old friends and new allies are put to the test when they battle a bratty little kid in a deadly video game contest! From trivia to battle tennis, the contest heats up! Who will come out on top and who will face the dreaded 'Game Over'?",
+      release_date: "1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1835.jpg"},
+
+{
+      title: "Yu Yu Hakusho, Volume 18: The Demon Plane Unification Tournament",
+      author: "Yoshihiro Togashi",
+      synopsis: "After the epic struggle to close the tunnel to the demon plane, Yusuke and the gang take some hard-earned time off. It's still a busy year, and Hiei and Kurama both spend time training and taking care of some loose ends from their pasts. Meanwhile, Yusuke trains with Raizen and ends up in charge of the old demon's domain!The other kings of the underworld won't stand for this state of affairs for long, so Yusuke proposes a new tournament, and the winner will be king of the demon plane!",
+      release_date: "1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1836.jpg"},
+
+{
+      title: "Yu Yu Hakusho, Volume 11: Eat or Be Eaten!!",
+      author: "Yoshihiro Togashi",
+      synopsis: "The Dark Tournament is finally down to the wire. After a long trail of brutal bloodshed, the stage has been set for the ultimate showdown between Team Urameshi and Team Toguro. And now that Kurama can transform into a fox demon at will by drinking the potion from the Seed of De-Incarnation--a lovely parting gift from Suzuki, The Beautiful Fighter--his ferocious plants have been given a much-needed energy boost.Meanwhile, Sakyo reveals that his grand plan is to create a path between the demon plane and the human world, allowing powerful demons to come through and wreak havoc in the human realm. Could this be the beginning of the end for humans...?",
+      release_date: "1990",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1837.jpg"},
+
+{
+      title: "Yu Yu Hakusho, Volume 5: Focus Your Mind as One!",
+      author: "Yoshihiro Togashi",
+      synopsis: "Yusuke Urameshi was just another street punk until he died in an unexpected act of self-sacrifice... and came back. Now he's the Underworld's official supernatural detective, charged with keeping the peace between the mortal and immortal realms.That peace has been shattered. A gang of demons called the Four Beasts is infecting humanity with a swarm of nasty supernatural brain bugs. The only way to control the bugs is with an enchanted whistle... and the only way to the whistle is straight through the Four Beasts! Yusuke and his fellow delinquent Kuwabara have descended into the Underworld to do a little exterminating, but the two human teenagers can't take down the toughest demonic criminals on the supernatural plane! Good thing they've got backup...",
+      release_date: "March 1st 1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1838.jpg"},
+
+{
+      title: "Yu Yu Hakusho, Volume 7: Knife-Edge Death Match",
+      author: "Yoshihiro Togashi",
+      synopsis: "Yusuke Urameshi was a teen delinquent until a selfless act changed his life... by ending it. The afterlife didn't know what to do with him, so he got a second chance at life. What strange things await him on the borderline between life and death?",
+      release_date: "August 10th 1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1839.jpg"},
+
+{
+      title: "Yu Yu Hakusho, Volume 12: The Championship Match Begins!!",
+      author: "Yoshihiro Togashi",
+      synopsis: "When Kuwabara learns the truth about Genkai's demise, he takes the news hard, wondering why Yusuke waited so long to tell him. Then the elder Toguro reappears and taunts the team about Genkai's death! It's not a good idea to tease those experiencing great sorrow--a lesson the elder Toguro quickly learns, but not from the one you'd expect to teach him.Then it's the match you've all been waiting for--Yusuke vs. younger Toguro! Witness fisticuffs the likes of which you've never before seen! Toguro powers up to 80 percent full fighting capacity and emits an aura so toxic it melts the weakest of the demons watching the tournament--and that's just the beginning!",
+      release_date: "1990",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1840.jpg"},
+
+{
+      title: "Yu Yu Hakusho, Volume 6: The Dark Tournament",
+      author: "Yoshihiro Togashi",
+      synopsis: "When the Black Book Club kidnaps a beautiful ice spirit named Yukina and torments her for the sake of her priceless crystal tears, Yusuki, teenage delinquent and part-time Underworld Detective, is dispatched to rescue Yukina and break up the club.",
+      release_date: "June 1st 1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1841.jpg"},
+
+{
+      title: "Yu Yu Hakusho, Volume 16: Into the Demon Plane!!",
+      author: "Yoshihiro Togashi",
+      synopsis: "Itsuki locks the others away in a separate dimension so Yusuke and Sensui can fight undisturbed. Under intense pressure, Sensui's real personality, suppressed for so long, starts to come out. Then Koenma shows up and things really start to get hot, forcing Yusuke to resort to desperate measures to draw their enemies out.Kuwabara and the rest of the crew escape Itsuki's clutches and plunge into the Demon Plane after Sensui. Meanwhile, the Underworld special defense force goes looking for Yusuke. What secret do they know about Yusuke that is enough to sign his death warrant?",
+      release_date: "1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1842.jpg"},
+
+{
+      title: "Yu Yu Hakusho, Volume 8: Open Your Eyes!!",
+      author: "Yoshihiro Togashi",
+      synopsis: "Dr. Ichigaki's ultimate biological weapons are in the ring, but Team Urameshi is suddenly having a severe attack of conscience. After Kuwabara's enlightening reverie about how Dr. Ichigaki implanted blood-slaver nodes in the brains of Master Mitamura's martial-arts students, Yusuke and company just don't have the heart to conduct their demon-slaying business as usual.",
+      release_date: "September 1st 1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1843.jpg"},
+
+{
+      title: "Yu Yu Hakusho, Volume 3: In the Flesh",
+      author: "Yoshihiro Togashi",
+      synopsis: "Yusuke's new after-school job is working for Botan and Koenma, bringing in renegade demons. But when three demons - a soul-devouring ogre, a shape-shifter, and the deadly Hiei of the Thousand Eyes - escape to the human world with evil artifacts, Yusuke's job turns into a trial by fire.",
+      release_date: "1990",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1844.jpg"},
+
+      [genres[0], genres[10], genres[20], genres[18]]
+      ],
+[
+{
+      title: "Gin Tama, Vol. 2",
+      author: "Hideaki Sorachi",
+      synopsis: "The samurai didn't stand a chance. First, the aliens invaded Japan. Next, they took all the jobs. And then they confiscated everyone's swords. So what does a hotheaded former samurai like Sakata 'Gin' Gintoki do to make ends meet? Take any odd job that comes his way, even if it means losing his dignity.",
+      release_date: "July 2nd 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1845.jpg"},
+
+{
+      title: "Gin Tama, Vol. 16",
+      author: "Hideaki Sorachi",
+      synopsis: "It's samurai vs. aliens!; He's too busy fighting aliens, the yakuza and unemployment! R to L (Japanese Style).   1. Mandatory driving classes for Shinsengumi officers 2. Unibrows for everyone! 3. Zero-tolerance policy for cheesy 'hard-boiled' dialog 4. Lock up all the pervy architects 5. I get in free to speed-dating parties The samurai didn't stand a chance. First, the aliens invaded Japan. Next, they took all the jobs. And then they confiscated everyone's swords. So what does a hotheaded former samurai like Sakata 'Gin' Gintoki do to make ends meet? Take any odd job that comes his way, even if it means losing his dignity...",
+      release_date: "December 27th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1846.jpg"},
+
+{
+      title: "Gin Tama, Vol. 11",
+      author: "Hideaki Sorachi",
+      synopsis: "R to L (Japanese Style)The samurai didn't stand a chance. First, the aliens invaded Japan. Next, they took all the jobs. And then they confiscated everyone's swords. So what does a hotheaded former samurai like Sakata 'Gin' Gintoki do to make ends meet? Take any odd job that comes his way, even if it means losing his dignity...The Sun Rises AgainGin's Surefire Dating Tips1. Chicks with cat ears that you meet online are always hiding something. 2. Riding with a cute girl on the back of your scooter is cool (but watch out for the rocket boost). 3. Never allow partially a blind ninja to take care of your wounds (even if she looks hot in a nurse's uniform).4. When getting involved in a coup d'etat, remember to bring your umbrella (what's that got to do with dating?!)",
+      release_date: "February 3rd 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1847.jpg"},
+
+{
+      title: "Gin Tama, Vol. 7",
+      author: "Hideaki Sorachi",
+      synopsis: "• An ongoing manga series in Japan—17 volumes released and over 13 million copies sold in Japan to date• Each volume is a top ten selling manga title in Japan upon release.• 2.7 million copies sold in Japan in its first year (2004)--Vol. 1 through 4• Gin Tama anime currently running on TV Tokyo.• Sorachi made his manga debut with the one-shot story DANDELION, which is included in volume 1 of the GIN TAMA graphic novel.• Previewed and promoted in VIZ Media’s Shonen Jump magazine.• Originally serialized in Japan’s manga anthology Weekly Shonen Jump.• Official Japanese Website  • Translated into Korean and ChineseThe samurai didn't stand a chance. First, the aliens invaded Japan. Next, they took all the jobs. And then they confiscated everyone's swords. So what does a hotheaded former samurai like Sakata 'Gin' Gintoki do to make ends meet? Take any odd job that comes his way, even if it means losing his dignity. Yoruzuya Hit List  (Exploding Targets):1.  The Shinsegumi elite police and Gin (innocent bystander).               2.  Chief Kondo and Gin's new workplace (during their shift).3.  Human shields named Kondo, Yamazaki, and Gin.4.  The special New Year's issue of Shonen Jump magazine and Gin.5. Gin's apartment (more than once).6. Fireworks and...not Gin.",
+      release_date: "May 2nd 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1848.jpg"},
+
+{
+      title: "Gin Tama, Vol. 15",
+      author: "Hideaki Sorachi",
+      synopsis: "It's samurai vs. aliens!; He's too busy fighting aliens, the yakuza and unemployment! R to L (Japanese Style).   1. If Kondo marries a gorilla, does that mean his kids will be chimpanzees? 2. Which is better to use as body armor, shojo or shonen manga? 3. How do you get a horny robot dog off your leg? 4. If I become shogun and order you to kill yourself, will you do it? 5. How much hot pepper do you have to eat to make your hair get frizzy? The samurai didn't stand a chance. First, the aliens invaded Japan. Next, they took all the jobs. And then they confiscated everyone's swords. So what does a hotheaded former samurai like Sakata 'Gin' Gintoki do to make ends meet? Take any odd job that comes his way, even if it means losing his dignity...",
+      release_date: "November 2nd 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1849.jpg"},
+
+{
+      title: "Gin Tama, Vol. 14",
+      author: "Hideaki Sorachi",
+      synopsis: "R to L (Japanese Style). When you smash the dish that's strapped to my headYou're doing it for honor so it's all okaySandpaper makes lousy toilet tissue (someone said)You can use my picture (but you're gonna pay)Don't fight for Otae (Shinpachi should)Oh, baby you make it hurt so gooood!",
+      release_date: "September 4th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1850.jpg"},
+
+{
+      title: "Gin Tama, Vol. 10",
+      author: "Hideaki Sorachi",
+      synopsis: "The samurai didn't stand a chance. First, the aliens invaded Japan. Next, they took all the jobs. And then they confiscated everyone's swords. So what does a hotheaded former samurai like Sakata 'Gin' Gintoki do to make ends meet? Take any odd job that comes his way, even if it means losing his dignity.Even an Inch-long Insect Has a SoulGin's 'Five Things They Don't Teach You in Samurai School' List 1. Gold can be found in the strangest places (not always up your nose).2. Talking smack to a blind swordsman is NEVER a good idea.3. Stomping on giant beetles the size of small cars is both messy and really dangerous.4. When the scariest thing in your haunted house is one of your customers, just pack up and go home for the day.5. Just because your date has cat ears doesn't necessarily mean she's an alien.The samurai didn't stand a chance. First, the aliens invaded Japan. Next, they took all the jobs. And then they confiscated everyone's swords. So what does a hotheaded former samurai like Sakata 'Gin' Gintoki do to make ends meet? Take any odd job that comes his way, even if it means losing his dignity...",
+      release_date: "December 2nd 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1851.jpg"},
+
+{
+      title: "Gin Tama, Vol. 20",
+      author: "Hideaki Sorachi",
+      synopsis: "It's samurai vs. aliens!; He's too busy fighting aliens, the yakuza and unemployment!Reads R to L (Japanese Style), for T+ audiences. 1. Blatantly rip off other  manga. 2. Make sure the gorilla (artist) gets lots of bananas.3. Add lots of emotional death scenes and sappy dog funerals.4. Make Yamazaki the main character.5. Have plenty of nude beach scenes...with Shinpachi!",
+      release_date: "October 4th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1852.jpg"},
+
+{
+      title: "Gin Tama, Vol. 23",
+      author: "Hideaki Sorachi",
+      synopsis: "It's samurai vs. aliens!Reads R to L (Japanese Style), for audiences T+  Gin&#8217;s Hot Spring Travel Tips 1. If it looks like a haunted mansion, it probably is 2. Ghosts like hot baths too 3. Skid marks on your briefs are unavoidable 4. Return your rented DVDs before you leave 5. When being chased by angry ghosts you only need to run faster than Shinpachi Final Volume!",
+      release_date: "April 4th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1853.jpg"},
+
+{
+      title: "Gin Tama, Vol. 12",
+      author: "Hideaki Sorachi",
+      synopsis: "R to L (Japanese Style)The samurai didn't stand a chance. First, the aliens invaded Japan. Next, they took all the jobs. And then they confiscated everyone's swords. So what does a hotheaded former samurai like Sakata 'Gin' Gintoki do to make ends meet? Take any odd job that comes his way, even if it means losing his dignity...The Longest Way Around Is the Shortest WayThings I've Learned While Living With Gin (by Kagura)1. Buildings get destroyed because they are in the way.2. If you're going to stalk someone, watch out for pit-traps!3. People who say Santa doesn't really exist actually want to believe in him.4. Some people (Shinpachi) are always the butt of the joke.5. No matter what Gin says ice cream is a great prize for winning a snowball fight, uh-huh!",
+      release_date: "April 4th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1854.jpg"},
+
+{
+      title: "Gin Tama, Vol. 21",
+      author: "Hideaki Sorachi",
+      synopsis: "It's samurai vs. aliens!; He's too busy fighting aliens, the yakuza and unemployment!Reads R to L (Japanese Style) T+ audience. Shinpachi&#8217;s List of Things I Learned During My Summer Vacation 1. Never trust a guy in a turtle suit! 2. Sometimes the age to wisdom ratio isn&#8217;t what it should be. 3. If you want to see how a woman will age, look at her mother. 4. Whack-a-Mole is awesome. 5. Parents still don&#8217;t understand.",
+      release_date: "December 4th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1855.jpg"},
+
+{
+      title: "Gin Tama, Vol. 17",
+      author: "Hideaki Sorachi",
+      synopsis: "It's samurai vs. aliens!; He's too busy fighting aliens, the yakuza and unemployment!R to L (Japanese Style). It's samurai vs. aliens!; He's too busy fighting aliens, the yakuza and unemployment!   Gin's Top 5 List of Things to Look For When Hiring a Maid  1. Alien robot head? Attached! 2. King-sized pooper scooper? Check! 3. Mad scientist to keep mechanical maid army running? Check! 4. Main battle tank gassed up? Check! 5. Extra-manly moustache? Check! What?!",
+      release_date: "March 2nd 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1856.jpg"},
+
+{
+      title: "Gin Tama, Vol. 18",
+      author: "Hideaki Sorachi",
+      synopsis: "万事屋VS真選組のゲーム対決最終戦は、仮想現実世界でのRPG対決！！　意外な武器が勝負を決める事に！？　他にも洞爺湖の仙人的なオジさんとかウルトラなヒーローとかマダオ裁判の弁護人銀時とか断食道場本気闘争とか！",
+      release_date: "May 2nd 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1857.jpg"},
+
+{
+      title: "Gin Tama, Vol. 19",
+      author: "Hideaki Sorachi",
+      synopsis: "It's samurai vs. aliens!; He's too busy fighting aliens, the yakuza and unemployment!Reads R to L (Japanese Style). It's samurai vs. aliens!; He's too busy fighting aliens, the yakuza and unemployment! A Schemer Caught in His Own Scheme. Top 5 Things to Consider Before Joining the Shinsengumi: 1. Your sword might be cursed by the vengeful spirit of an anime otaku. 2. Rivalries and betrayals may lead to a short and painful career.3. No Shonen Jump manga allowed4. You're a nobody unless you can afford the sword with the built-in MP3 player. 5. The black uniforms are killer on a hot summer day!",
+      release_date: "August 3rd 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1858.jpg"},
+
+{
+      title: "Gin Tama, Vol. 9",
+      author: "Hideaki Sorachi",
+      synopsis: "The samurai didn't stand a chance. First, the aliens invaded Japan. Next, they took all the jobs. And then they confiscated everyone's swords. So what does a hotheaded former samurai like Sakata 'Gin' Gintoki do to make ends meet? Take any odd job that comes his way, even if it means losing his dignity.Gin's 'to do' list for this volume:1. Stock up on paper napkins and stain remover.2. Think of a good excuse not to buy Hasegawa a new shirt.3. Find out who swiped my strawberry milk from the fridge. 4. Get tickets to the game at Edo Dome.5. Tell Shinpachi, Kondo and Matsudaira they're buying if they want me to go for drinks with them.The samurai didn't stand a chance. First, the aliens invaded Japan. Next, they took all the jobs. And then they confiscated everyone's swords. So what does a hotheaded former samurai like Sakata 'Gin' Gintoki do to make ends meet? Take any odd job that comes his way, even if it means losing his dignity...",
+      release_date: "October 4th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1859.jpg"},
+
+{
+      title: "Gin Tama, Vol. 5",
+      author: "Hideaki Sorachi",
+      synopsis: " 1. Sea Monster extermination 2. Traveling exorcism 3. Convenience-store sitting/motorcycle gang thrashing 4. Rescuing kidnapping victims (willing and unwilling)  Pachinko, TV shopping, extricating self from shotgun weddings, etc.",
+      release_date: "December 27th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1860.jpg"},
+
+{
+      title: "Gin Tama, Vol. 6",
+      author: "Hideaki Sorachi",
+      synopsis: " 1. Zombie bear with mysterious mushroom growing out of head (magic?) 2. Crab chock-full of food poisoning (yum!) 3. Hot nurse in hospital (where we wind up due to #2) 4. Goro, queen of the human-size cockroaches (no comment) 5. 100 ice cream mini-cups (yum!) 6. The truth behind a cult that purports to make your dreams a reality (dream on…)",
+      release_date: "March 4th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1861.jpg"},
+
+{
+      title: "Gin Tama, Vol. 8",
+      author: "Hideaki Sorachi",
+      synopsis: "• An ongoing manga series in Japan—17 volumes released and over 13 million copies sold in Japan to date• Each volume is a top ten selling manga title in Japan upon release.• 2.7 million copies sold in Japan in its first year (2004)--Vol. 1 through 4• Gin Tama anime currently running on TV Tokyo.• Sorachi made his manga debut with the one-shot story DANDELION, which is included in volume 1 of the GIN TAMA graphic novel.• Previewed and promoted in VIZ Media’s Shonen Jump magazine.• Originally serialized in Japan’s manga anthology Weekly Shonen Jump.• Official Japanese Website ? • Translated into Korean and ChineseThe samurai didn't stand a chance. First, the aliens invaded Japan. Next, they took all the jobs. And then they confiscated everyone's swords. So what does a hotheaded former samurai like Sakata 'Gin' Gintoki do to make ends meet? Take any odd job that comes his way, even if it means losing his dignity. Do's and Don'ts for Daddy-Daughter Day:1.  Don't let alien monsters grow exponentially by siphoning energy from space terminals and eating your daughter.2.  Do show your dad you've learned to use your abnormal strength to help others--not hurt them.3.  Do respect your daughter's planetary preferences, especially when they're in writing.4.  Don't assassinate your daughter's boyfriend.",
+      release_date: "August 4th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1862.jpg"},
+
+{
+      title: "Gin Tama, Vol. 1",
+      author: "Hideaki Sorachi",
+      synopsis: "The samurai didn't stand a chance. First, the aliens invaded Japan. Next, they took all the jobs. And then they confiscated everyone's swords. So what does a hotheaded former samurai like Sakata 'Gin' Gintoki do to make ends meet? Take any odd job that comes his way, even if it means losing his dignity.",
+      release_date: "April 2nd 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1863.jpg"},
+
+{
+      title: "Gin Tama, Vol. 13",
+      author: "Hideaki Sorachi",
+      synopsis: "R to L (Japanese Style). 1. Frontal wedgies are extremely effective.2. Girls hit a lot harder the more innocent they look (unless they are alien gorillas).3. Only morons start fights in the Ninja Bar. Yeah, only morons...4. Using a bazooka is cheating (but it sure settles things quickly).5. No one hits harder than Shinpachi's sister Otae when she's riled.",
+      release_date: "July 4th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1864.jpg"},
+
+      [genres[0], genres[14], genres[5], genres[1], genres[9], genres[18]]
       ],
