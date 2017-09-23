@@ -1,7 +1,7 @@
 {/*
-Fantasy, Romance
-Themes: Adventure, Reverse Harem
-[genres[4], genres[13], genres[1], genres[22], genres[15], genres[18]]
+Action, Drama
+Themes: Adventure, Historical
+[genres[0], genres[7], genres[1], genres[9], genres[15], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -7151,4 +7151,234 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1973.jpg"},
 
       [genres[4], genres[13], genres[1], genres[22]]
+      ],
+      [
+{
+      title: "Toradora! Vol. 5",
+      author: "Yuyuko Takemiya",
+      synopsis: "Ryuji Takasu thought that his ill-fated luck had turned around now that he was in Junior High sitting next to the girl of his dreams, Minori Kushieda. Ryuji was wrong; for after unwittingly crossing the most feared and fearsome girl in school, Taiga Aisaku, everything went off the deep end!New transfer student Ami might have won Ryuuji all to herself for the summer...but Taiga, Minori, and Kitamura won't be giving them a moment of peace! Let the wet hot Japanese summer begin!",
+      release_date: "January 1st 2012",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1974.jpg"},
+
+{
+      title: "Toradora! Vol. 3",
+      author: "Yuyuko Takemiya",
+      synopsis: "'A romance of warmth and humor with an uncanny ability to dodge the excesses of the genre while exploiting all the joys it has to offer.'—Ryuji Takasu thought that his ill-fated luck had turned around now that he was in Junior High and sitting next to the girl of his dreams, Minori Kushieda. Ryuji was wrong; after he unwittingly crossed the most fearsome girl in school, Taiga Aisaku, everything went off the deep end! Taiga made Ryuji's life by taking it over, and Ryuji's every attempt to make peace led only to further complications.It's taken time, but Ryuji and Taiga have found some common ground and can at least tolerate each other (just a little). The problem is everyone in Ryuji's class is now convinced that he and Taiga are datingeven Minori! And to make matters even more embarrassing, Minori has given Ryuji and Taiga her blessings. How's Ryuji ever going to win Minori's heart?",
+      release_date: "September 2011",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1975.jpg"},
+
+{
+      title: "Toradora! Vol. 7",
+      author: "Yuyuko Takemiya",
+      synopsis: "Ryuji Takasu thought that his ill-fated luck had turned around now that he was in Junior High sitting next to the girl of his dreams, Minori Kushieda. Ryuji was wrong; for after unwittingly crossing the most feared and fearsome girl in school, Taiga Aisaku, everything went off the deep end!It's taken time, but Ryuji and Taiga have slowly found some common ground and can at least tolerate each other (just a little). The problem is, Fate just doesn't seem to throw Ryuji a bone. Everyone in Ryuji's class is now convinced that he and Taiga are dating--even Minori! And to make matters even more embarassing, Minori has given Ryuji and Taiga her blessings. How's Ryuji ever going to win Minori's heart now?!",
+      release_date: "April 21st 2015",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1976.jpg"},
+
+{
+      title: "Toradora! Vol. 6",
+      author: "Yuyuko Takemiya",
+      synopsis: "A must-have for fans of over-the-top high school comedies like School Rumble and The Melancholy of Haruhi Suzumiya, this is the sixth volume in the bestselling series.The gang is back in school and it's nearly time for the Culture Festival. Ryuuji and Taiga and the rest of Class 2-C can't figure out what to do for the event, until a random lottery pick tasks them with presenting... a pro-wrestling performance?!Over on the home front, Taiga's dad has decided to pop back into her life. The possibility of a divorce with his current wife could mean a reunion with his estranged daughter, but Taiga doesn't trust the old man. Ryuuji feels conflicted. While he hopes for a happily-ever-after between father and daughter, it could spell the end of his own 'domestic bliss' with Taiga.",
+      release_date: "October 1st 2013",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1977.jpg"},
+
+      [genres[14], genres[13], genres[15]],
+      ],
+      [
+{
+      title: "Blade of The Immortal, Volume 16: Shortcut",
+      author: "Hiroaki Samura",
+      synopsis: "As Rin frets over her bodyguard Manji's disappearance, she is surprised by the arrival of two warriors, the feisty Doa Yoshino and her companion, Isaku Yasono-okami. Rin quickly regrets her decision to let this couple stay with her, but her detective work takes priority when she returns to the stronghold of Habaki Kagamura to search for Manji.",
+      release_date: "2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1978.jpg"},
+
+{
+      title: "Blade of the Immortal, Volume 21: Demon Lair II",
+      author: "Hiroaki Samura",
+      synopsis: "A prisoner subjected to Habaki Kagimura and crazy Doc Burando's twisted experiments for far too long, Manji finds himself closer to freedom than ever before -- but several colorful villains block his way! While the shogun's executioner matches Manji and Doa's skills, the reborn, powerful Isaku struggles with Asaemon and Kagimura's henchmen. The breakout battle in the tunnels beneath Edo Castle continues! With plenty of mortal enemies to go around, Manji and company are surprised by the appearance of Burando's most horrific kessen-chu success story, just as the already treacherous tunnels begin to flood. Rin tries to remain hopeful, Burando faces the reality of his 'immortality experiments' on Manji, and a monstrous villain makes a return appearance!",
+      release_date: "May 30th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1979.jpg"},
+
+{
+      title: "Blade of the Immortal, Volume 4: On Silent Wings",
+      author: "Hiroaki Samura",
+      synopsis: "Manji is one of the most skilled samurai in all of feudal Japan. He is also immortal, condemned to a life of combat until he spills the blood of a thousand evil men. But along with eternal life comes the need to make an eternal living, and so manji works as a bodyguard for Rin, who seeks to personally avenge her father's murder at the hands of one of Japan's deadliest swordsmen, Anotsu Kagehisa. But with Manji's instruction and her own burning thirst for retribution, can Rin ever stand against such a powerful and ruthless adversary? And in her quest to kill Anotsu, does she risk becoming more like him?",
+      release_date: "October 31st 1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1980.jpg"},
+
+{
+      title: "Blade of the Immortal Volume 25: Snowfall at Dawn",
+      author: "Hiroaki Samura",
+      synopsis: "The showdown that fans have been waiting for begins here, as Manji and Shira finally cross swords! Although he's missing an arm, Manji's mystical healing powers still ensure that he's a formidable opponent -- but his greatest foe, the masochistic Shira, has a few depraved tricks up his own sleeves! With Shira deadlier than ever, having had plenty of time to plot twisted revenge schemes, will Manji be able to protect Rin from his deranged nemesis? Plus -- an Itto-ryu warrior dies, in typically dramatic Hiroaki Samura fashion. Samura's widely acclaimed Blade of the Immortal manga series has won awards across the globe, including the Eisner Award in America, the prestigious Media Arts Award of Japan, and multiple British Eagle Awards.",
+      release_date: "September 23rd 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1981.jpg"},
+
+{
+      title: "Blade of the Immortal, Volume 28: Raining Chaos",
+      author: "Hiroaki Samura",
+      synopsis: "Another group of suicidal soldiers face off! Heads and limbs fly as the vicious grudge match between desperate rogue Anotsu and disgraced officer Habaki continues! Three weird Rokki-dan thugs catch up to the fleeing Itto-Ryu crew -- with unexpected results! Hiroaki Samura's epic manga series nears its final volume, so now's the time to catch up with Manji, Rin, and your favorite battling groups of anachronistic, freakish warriors! Blade of the Immortal has won many awards across the globe, including the Eisner Award in America, the prestigious Media Arts Award of Japan, and multiple British Eagle Awards.",
+      release_date: "January 1st 2013",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1982.jpg"},
+
+{
+      title: "Blade of the Immortal, Volume 1: Blood of a Thousand",
+      author: "Hiroaki Samura",
+      synopsis: "Blade of the Immortal,Vol. 1- Blood of a Thousand by Samura,Hiroaki. [2010] Paperback",
+      release_date: "September 22nd 1994",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1983.jpg"},
+
+{
+      title: "Blade of the Immortal, Vol. 15: Trickster",
+      author: "Hiroaki Samura",
+      synopsis: "Kidnapped and bound by three Ittoryu warriors, Rin is unable to warn her bodyguard Manji, the immortal swordsman, that he's heading into a trap. To make matters worse, the Itto-ryu possess a large dose of kessen-satsu, the only poison known to damage Manji's blood and severely cripple his regenerative abilities. And is Mugai-ryu assassin Giichi following Manji in order to help rescue Rin … or will he just stick around long enough to finish off any survivors?",
+      release_date: "November 30th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1984.jpg"},
+
+{
+      title: "Blade of the Immortal, Volume 5: On Silent Wings II",
+      author: "Hiroaki Samura",
+      synopsis: "In her quest across feudal Japan to avenge the murder of her parents, Rin has seen too much death and agony. When Rin befriends a young boy, she is horrified to learn that his father is one of her parents' killers. Wery of blood, Rin now wishes only for an apology from the killer, a mask maker whose only desire is to keep his evil past from his son and who will take up the sword again to protect his secret. Protecting Rin, however, is the immortal samurai, Manji--but if he kills the mask maker, will Rin's young friend be drawn into the same cycle of vengeance that has scarred her own life?",
+      release_date: "1996",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1985.jpg"},
+
+{
+      title: "Blade of the Immortal, Volume 19: Badger Hole",
+      author: "Hiroaki Samura",
+      synopsis: "The time for reconnaissance, planning, and waiting is over! Rin and Doa, desperate to be reunited with their friends (or even reassured that they're alive), take their first bold steps in penetrating Edo Castle's defenses and foiling Kagimura's foul 'immortality' experiments! A trip to an old doctor, a chance encounter with a high-strung peasant, and an appearance by a strange, all-new Itto-ryu warrior combine to make this volume an important series of encounters in persistent Rin's quest to find Manji and Isaku-and in her own growth as a warrior! The 'Badger Hole' is a dank passageway that leads to an underground tunnel system beneath Edo Castle. With some new skills and tricks, these two young ladies brave darkness and the promise of death to run headlong towards Kagimura's cruel prisons, where Manji hangs drugged and helpless!",
+      release_date: "June 30th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1986.jpg"},
+
+{
+      title: "Blade of the Immortal, Volume 7: Heart of Darkness",
+      author: "Hiroaki Samura",
+      synopsis: "It is said that the enemy of my enemy is my friend, but couldn't he just be another enemy? Rin and her bodyguard, the immortal swordsman Manji, need to know the answer when they visit the headquarters of the mysterious Akagi assassins - led by the beautiful and deadly Hyakurin - who are out for vengeance against the Itto-Ryu, the rogue swordschool of Anotsu Kagehisa, the man responsible for the murder of Rin's parents. Can Rin and Manji hold to their own course once they've agreed to join forces with the misfit band of killers? Collecting the eight-issue story arc. 'Samura's art is the icing which makes this...confection of violence and irreverence rather enticing.' - The Comics Journal",
+      release_date: "1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1987.jpg"},
+
+{
+      title: "Blade of the Immortal, Volume 18: The Sparrow Net",
+      author: "Hiroaki Samura",
+      synopsis: "The immortality of the captive Manji is being sorely tested, as the horrifying experiments commanded by Habaki Kagimura in the dungeons below Edo castle continue. One of Kagimura’s doctors, Ayame Burando, has already gone half-mad, tormented by the sickening mutilations intended to unlock the secret of passing Manji’s amazing regenerative powers to others, and Burando’s replacements have upped the ante with their utter incompetence. Meanwhile, Manji’s charge, Rin, is desperately trying to find him, but Edo’s brutal police are on her trail, and the race is on for Rin to free her immortal bodyguard before she joins him behind bars!",
+      release_date: "October 30th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1988.jpg"},
+
+{
+      title: "Blade of the Immortal, Volume 11: Beasts",
+      author: "Hiroaki Samura",
+      synopsis: "After traveling a long and perilous road together, Rin and her immoral bodyguard, Manji, have become separated, Rin risking life and limb in her pursuit of her family's murderer, the ruthless Anotsu Kagehisa, leader of the outlaw Itto-Ryu sword school. Manji is slowly recovering -- and reassembling -- after being dismembered by Itto-ryu thugs, and has set off to find Rin. Meanwhile, both friends and enemies are also assembling. Manji's ally, the beautiful assassin Hyakurin has put a lot of Itto-ryu swordsmen under the dirt, but the tides are turned when she falls under the hands of a group of Itto-ryu killers who will go to any length -- and spare no agonies -- to get her to talk. Collecting issues #66-72 of the ongoing series.",
+      release_date: "January 1st 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1989.jpg"},
+
+{
+      title: "Blade of the Immortal, Volume 10: Secrets",
+      author: "Hiroaki Samura",
+      synopsis: "Anotsu Kagehisa, murderous leader of the rogue Ittö-ryü, has journeyed to the mountains far from Edo to the romote Shingyötö-ryü dojo under invitation to bring the sword school under his wing. But instead of a warm welcome, Anotsu finds a dojo full of angry young men who don't want to take orders from an upstart, unless he can proves he's tougher than the best of them! That sits just fine with Anotsu, who has dedicated his life to putting the killing back into Japan's formalized sword schools, but Anotsu suspects that something more than proof of his worthiness lies beneath the challenge. Meanwhile, the immortal swordsman, Manji, is recovering from a battle that left him literally cut to pieces. His charge, Rin, is till nowhere to be found, bound for vengeance against Anotsu, but soon his troubles may become a bit more immediate, troubles that even an immortal may not survive! Collecting issues #58-#65 of the ongoing series.",
+      release_date: "2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1990.jpg"},
+
+{
+      title: "Blade of the Immortal Volume 14: Last Blood",
+      author: "Hiroaki Samura",
+      synopsis: "Rin has spent countless days chasing the murderer of her parents, and now she has Anotsu Kagehisa where she wants him, but the deathly ill Anotsu is too sick for the honor-bound Rin to strike down. But such is not the case for the students of the Shingyvtv-ry], who are out to avenge the death of their sword master, and they have Rin captured and Anotsu cornered. The spirit of revenge is thick in the air - and about to get thicker as Manji, Rin's immortal bodyguard, finally reunites with his charge as this pot of retribution prepares to boil over. And so Manji's faced with a strange irony - to save Rin, he must cut down the men who are out to kill Anotsu, Manji's sworn enemy",
+      release_date: "2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1991.jpg"},
+
+{
+      title: "Blade of the Immortal, Volume 17: On the Perfection of Anatomy",
+      author: "Hiroaki Samura",
+      synopsis: "Manji, the immortal swordsman, lies imprisoned in the bakufu stronghold of the mysterious Habaki Kagemura. Seeking to impart the life-extending powers of the Manji’s kessen chu bloodworms to other humans, Kagimura orders his medical examiners to discover the secrets of Manji’s amazing regenerative abilities. Using a series of convicts as live subjects in an increasingly grisly series of twisted experiments, Burando, Kagimura’s lead medical examiner, begins to grow more desperate and sickened with each horrifying failure. And through it all, Manji lives, and regenerates, and bides his time for the moment that he can pay back his tormentors... limb by limb!",
+      release_date: "2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1992.jpg"},
+
+{
+      title: "Blade of the Immortal, Volume 22: Footsteps",
+      author: "Hiroaki Samura",
+      synopsis: "Hiroaki Samura's latest Blade of the Immortal volume finds Manji and Rin recovering from their harrowing escape out of Edo's underground prisons and finally confronting their odd relationship. Döa and Isaku have something important to announce when Anotsu and the Itto-ryu reunite with their missing members, and Habaki Kagimura faces a death sentence! To atone for his failures and sins, Kagimura has one month to destroy Anotsu and his crew — or Kagimura must commit suicide. With his Mugai-ryu assassins disbanded, Kagimura enlists even stranger felons than before, creating the frightening, new Rokki-dan gang. With his colorful cast expanding, Samura's knack for creating memorable characters and his masterful ability to dovetail multiple plotlines into each other are evident in this new volume, which also packs a powerful surprise ending!",
+      release_date: "December 21st 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1993.jpg"},
+
+{
+      title: "Blade of the Immortal, Volume 26: Blizzard",
+      author: "Hiroaki Samura",
+      synopsis: "Last volume's vicious battle continues -- and a popular, key character meets a grisly end! With the help of some new allies, Manji and Rin may have a fighting chance, but can a wounded and road-weary Magatsu hold his own against an invigorated, freshly armed foe? Hiroaki Samura's spellbinding masterpiece finds several major story lines finally beginning to dovetail. As some characters' strange paths are beginning to converge, is Samura's epic study on revenge and survival beginning to wind its way toward a massive, final confrontation?",
+      release_date: "May 21st 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1994.jpg"},
+
+{
+      title: "Blade of the Immortal Volume 27: Mist on the Spider's Web",
+      author: "Hiroaki Samura",
+      synopsis: "With Hiroaki Samura's epic series completed in Japan, now's the time to catch up with Manji, Rin, and your favorite battling groups of anachronistic, enigmatic warriors! Anotsu Kagehisa's Itto-Ryu crew is splintered - yet still deadly - as Habaki Kagimura's group of suicidal Rokki-dan soldiers closes in on them! The cursed former general Kagimura is desperate to find and kill the remaining members of the Itto-Ryu - even if it puts his own daughter's life on the line! Hiroaki Samura's Blade of the Immortal series has won many awards across the globe, including the Eisner Award in America, the prestigious Media Arts Award of Japan, and multiple British Eagle Awards.",
+      release_date: "May 1st 2011",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1995.jpg"},
+
+{
+      title: "Blade of the Immortal, Volume 2: Cry of the Worm",
+      author: "Hiroaki Samura",
+      synopsis: "The curse of the bloodworm is what keeps Manji alive -- slit his throat or stab him in the heart and those mystical worms will force his body to heal. This immortal curse will not be lifted until Manji has killed one thousand evil men. Manji's female companion, Rin, finds the treasured sword of her destroyed  (school of swordsmanship). The ronin who has it must have been involved in the destruction of the school -- and that means that Manji could be one step closer to ending his curse. If you like ninja action, Hiroaki Samura's  will keep you on edge.",
+      release_date: "December 15th 1994",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1996.jpg"},
+
+{
+      title: "Blade of the Immortal, Volume 13: Mirror of the Soul",
+      author: "Hiroaki Samura",
+      synopsis: "Anotsu Kagehisa, master swordsman and leader of the rogue Itto-ryu dojo, has sheathed his blade for the moment to join in marriage with the daughter of yet another dojo soon to be brought under his dark wing. But for a man of action, the formal traditions of feudal Japan can be just as tense and fraught with hidden agendas as the battlefield. And while Anotsu may indulge in a moment of peace, his enemies are not at rest, among them Rin, who has stalked him for years to take revenge for the murder of her parents. Anotsu had best make sure that if he stops to smell the flowers, he doesn't end up losing his head!",
+      release_date: "1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1997.jpg"},
+
+{
+      title: "Blade of the Immortal, Volume 9: The Gathering II",
+      author: "Hiroaki Samura",
+      synopsis: "His droop-toed characters and hilarious sound effects have gained Don Martin worldwide recognition and acclaim as the seminal MAD artist and a master of the profoundly absurd cartoon! Packed with outrageous gags and unique humor, this is Don's hand-picked collection of his favorite material -- including his syndicated newspaper strip The Nutheads, and material never before published in the U.S.! New cover painting by Martin.This special limited edition hardcover of Don Martin's Droll Book, includes a numbered signature sheet featuring an all-new, full-color illustration signed by the artist! Limited to 500 copies!",
+      release_date: "1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1998.jpg"},
+
+{
+      title: "Blade of the Immortal, Volume 29: Beyond Good and Evil",
+      author: "Hiroaki Samura",
+      synopsis: "Disgraced Edo officer Habaki and his strange group of Rokki-dan thugs turn a seemingly innocent harbour into a port of death - killing everyone who's docked there just in case they're working with Anotsu's fleeing warriors! And when will Manji, revenge-seeking Rin, desperate Anotsu, and possibly the most powerful soldier arrive?",
+      release_date: "April 1st 2013",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1999.jpg"},
+
+{
+      title: "Blade of the Immortal, Volume 8: The Gathering",
+      author: "Hiroaki Samura",
+      synopsis: "The immortal samurai, Manji, and his charge, Rin have lost their best chance to avenge the death of Rin's parents at the hands of Anotsu Kagehisa's renegade sword school, the deadly Itto-ryu.",
+      release_date: "1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2000.jpg"},
+
+{
+      title: "Blade of the Immortal, Volume 12: Autumn Frost",
+      author: "Hiroaki Samura",
+      synopsis: "You'd think that Manji, the immortal swordsman, would have dispatched just about every sinister personality in feudal Japan on his mission to slay a thousand evil men. But instead of thinning out the vicious herd, he's only shaken loose the most vicious and depraved. Now, Manji and his pal Magatsu are on the trail of one of the baddest apples in the barrel, Shira, old enemy of Manji - and a one-handed enemy, courtesy of the immortal's blade. But while Manji and Magatsu are hunting Shira, the crafty killer has hired a pack of hunters of his own, and if he can't kill Manji, he's hoping for the next best thing: to cut Manji to pieces on a daily basis. Streetwise and violent and yet possessed with a dark grace and beauty, Hiroaki Samura's award-winning Blade of the Immortal has taken its rightful place among the finest that graphic fiction has to offer, a stunning tour-de-force of story and art like none other.",
+      release_date: "1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2001.jpg"},
+
+{
+      title: "Blade of the Immortal, Volume 6: Dark Shadows",
+      author: "Hiroaki Samura",
+      synopsis: "MANGA ACTION ADVENTURE WITH THE IMMORTAL SAMURAI MANJI, WHO WILL NOT HAVE HIS CURSE OF ETERNAL LIFE LIFTED UNTIL HE HAS KILLED 1000 EVIL MEN. WORKING AS A BODYGUARD FOR THE YOUNG GIRL RIN, MANJI MUST FIGHT THE RENEGADE ITTO-RYU SWORD SCHOOL TO AVENGE THE DEATH OF RIN'S FATHER. BLADE OF THE IMMORTAL HAS WON JAPAN'S 1998 MEDIA ARTS AWARD AND THE USA'S WILL EISNER AWARD.",
+      release_date: "1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2002.jpg"},
+
+{
+      title: "Blade of the Immortal, Volume 24: Massacre",
+      author: "Hiroaki Samura",
+      synopsis: "There s going to be a massacre at Edo Castle! While the bitter Kagimura believes that he s sending his forces chasing after Anotsu and the entire Itto-ryu crew, Anotsu fakes them all out and risks his life in one mad dash back to Edo Castle grounds! What is his strange mission? Hiroaki Samura's widely acclaimed Blade of the Immortal manga series has won awards across the globe, including the Eisner Award in America, the prestigious Media Arts Award of Japan, and multiple British Eagle Awards.'",
+      release_date: "2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2003.jpg"},
+
+{
+      title: "Blade of the Immortal, Volume 20: Demon's Lair",
+      author: "Hiroaki Samura",
+      synopsis: "A massive, 280-page volume brings readers back into the 'Badger Hole' with Rin and Doa, as they make some shocking discoveries and finally find their missing companions! When Rin bumps into Toraemon, the unfortunate assistant to crazy Doc Burando and witness to his disgusting 'immortality experiments,' it seems that breaking Manji free will be a breeze. Not so. Getting Manji out of Edo's nightmarish underground cells and dank tunnel systems will be just as arduous as the ordeal of locating him was!",
+      release_date: "2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2004.jpg"},
+
+{
+      title: "Blade of the Immortal, Volume 3: Dreamsong",
+      author: "Hiroaki Samura",
+      synopsis: "Makie is a natural-born killer bred to be a geisha. Splitting her life between servitude and slaughter could lead to an untimely death, so it's time she chooses a path, but her choice could mean trouble for Manji, the immortal samurai. It's round two for the man who gave up his right to die and the woman who gave up her right to dream. And this time, there'll be no winners.",
+      release_date: "1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2005.jpg"},
+
+      [genres[0], genres[7], genres[1], genres[9]]
       ],
