@@ -1,167 +1,163 @@
 
 
-
-const request = require('request');
+const request = require('request').defaults({ family: 4 });
 const cheerio = require('cheerio');
 const URL = require('url-parse');
 const fs = require('fs');
 const download = require('image-downloader')
 
-const baseUrl = 'https://www.goodreads.com'
+const startUrl = 'http://www.goodreads.com';
+const url = new URL(startUrl);
+const baseUrl = url.protocol + "//" + url.hostname;
 
-let url = "https://www.goodreads.com/book/show/1315744.Doraemon_Vol_01"
-// grabComic(url);
+const mangaList = require('./comicList');
+
+{/* testing links and one offs */}
+// const testUrl = 'https://www.goodreads.com/book/show/870.Fullmetal_Alchemist_Vol_1';
+// const testUrl = 'https://www.goodreads.com/book/show/1725523.PLUTO';
+// grabComic(testUrl);
+
+// not all ranma covers have an entry in comics.txt
+// in cloudinary, (,) turn into (_)
+// might consider deleting the ranma 1/2 (2-in-1 editions)
+{/*
+  Delete comics/elements:
+  Reads R to L (Japanese Style) for teen plus audiences.
+
+  consider fixing synopsis for Bakuman
+  update synopsis for love hina
+  create table for genres/tags for easier searching and grabbing books of genres
+  - create list of genres based off of wikipiedia's recommendations
+
+
+  #   cities = Manga.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
+  The below sample is valid for creating an object in the db
+  Bookshelf.create({user_id: 1, title: "Currently-Reading"})
+
+  Have each comic sorted together as objects inside of arrays
+  Iterate over each comic, thereby creating an object in the db, and then
+  take that comics id, and add it to the appropriate genre categories table
+  {
+   title:"tester",
+   author:"Akira Toriyama",
+   synopsis:"tester2",
+   release_date: "January 10, 1986",
+   img_url:"nothing",
+   genre: ["Adventure", "Martial arts", "Sci-Fi"]}
+
+  Genres to Create:
+  ['Action',
+   'Adventure',
+   'Science Fantasy'
+  ]
+  */}
+
+// change to parens to quotes to avoid erros with seed synopsis
+
+{/* Counter Closure */}
+const comicUpdater = () => {
+  let total = 2275;
+
+  return(
+    adder = () => {
+      return total += 1;
+    }
+  );
+}
+
+let comicCounter = comicUpdater();
 
 function grabComic(url) {
   request(url, function(error, response, body) {
     if(error) {
       console.log("Error: " + error);
     }
-    console.log("Status code: " + response.statusCode);
 
     var $ = cheerio.load(body);
 
-    // this grabs the title of the comic (filter retains only the comic title)
+    {/* check if correct language and return if not English or none given*/}
+    let lang = $('div[itemprop = "inLanguage"]').text().trim();
+    if (lang !== 'English') return;
+
+    {/* title  */}
     let title = $('h1.bookTitle').first().contents().filter(function() {
       return this.type === 'text';
     }).text().trim();
 
-    let releaseDate = $('nobr.greyText').text().trim();
+    {/* authors  */}
+    let authors = [];
+    $('a.authorName > span').each(function( index ) {
+      authors.push($(this).text());
+    });
 
-    let descrip = $('div#description > span').last().contents().filter(function() {
+    {/* releaseDate  */}
+    let date = $('nobr.greyText').text().trim();
+    let noBrackets = date.replace(/[()]/g, '');
+    let releaseDate = noBrackets.replace(/first published /g, '');
+    if (releaseDate === '') return;
+
+    {/* synopsis  */}
+    {/* removes double quotes if there are any, and replaces them with ''; this is to prevent
+        issues with the seed file later  */}
+    let description = $('div#description > span').last().contents().filter(function() {
       return this.type === 'text';
     }).text();
+    let descrip = description.replace(/"/g, '\'');
+    if (descrip === '') return;
 
-    // compresses name for img title (for easier matching later)
-    let imgTitle = title.replace(/\s/g,'');
 
-    let mangaCreate = `Manga.create(
-      title: '${title}',
-      synopsis: '${descrip}',
-      release_date: '${releaseDate}')`
+    let imgTitle = comicCounter();
 
-    fs.appendFileSync('fma.txt', mangaCreate + '\n')
+    {/* place into an object  */}
+    let mangaCreate = `{
+      title: "${title}",
+      author: "${authors[0]}",
+      synopsis: "${descrip}",
+      release_date: "${releaseDate}",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/${imgTitle}.jpg"},`
 
-    // grabs and saves the comic cover for us
+
+    {/* append to the file  */}
+    fs.appendFileSync('allComics.txt', mangaCreate + '\n' + '\n');
+
+    {/* cover image  */}
     const cover = $('div.editionCover > img').attr('src');
 
     options = {
       url: cover,
-      dest: `./images/${imgTitle}.jpg`
+      dest: `./newImages/${imgTitle}.jpg`
     }
 
     download.image(options)
       .then(({ filename, image }) => {
-        console.log('File saved to', filename)
       }).catch((err) => {
         throw err
     });
-
-    // grab link to each comic in the series (and a few more)
-    // can also grab all starting links in 'most popular series'
-    //   fs.appendFileSync('fma.txt', title + '\n' + baseUrl.concat(link) + '\n');
-    //   let title = $(this).find('a.bookTitle > span').text().trim();
-
   });
 }
 
-const comicList = 'https://www.goodreads.com/list/show/7512.Best_Manga_of_All_Time';
-
-function grabLinks() {
-
+{/* grab all links in a set  */}
+function grabLinks(comicList) {
   request(comicList, function(error, response, body) {
     if(error) {
       console.log("Error: " + error);
     }
-    console.log("Status code: " + response.statusCode);
 
     const $ = cheerio.load(body);
-
+    let total = 0;
+    fs.appendFileSync('allComics.txt', '[' + '\n');
     $('a.bookTitle').each(function( index ) {
       let link = $(this).attr('href');
-      fs.appendFileSync('fma.txt', baseUrl.concat(link) + '\n');
+      total += 1;
+      console.log(total);
+      grabComic(baseUrl.concat(link));
     });
+    console.log("Status code: " + response.statusCode);
   });
-
 }
 
-grabLinks();
+const comicList = mangaList;
 
-
-
-
-
-// request performs url requests
-// cheerio parses html
-// url parses urls
-//
-//
-// // contains the list of the 100 most popular comic series
-// const START_URL = "https://www.goodreads.com/list/show/7512.Best_Manga_of_All_Time";
-// // const SEARCH_WORD = "stemming";
-// const MAX_PAGES_TO_VISIT = 10;
-//
-// const pagesVisited = {};
-// const numPagesVisited = 0;
-// const pagesToVisit = [];
-// const url = new URL(START_URL);
-// const baseUrl = url.protocol + "//" + url.hostname;
-//
-// pagesToVisit.push(START_URL);
-// // by invoking, we begin the crawl
-// crawl();
-//
-// function crawl() {
-//   if(numPagesVisited >= MAX_PAGES_TO_VISIT) {
-//     console.log("Reached max limit of number of pages to visit.");
-//     return;
-//   }
-//   const nextPage = pagesToVisit.pop();
-//   if (nextPage in pagesVisited) {
-//     // We've already visited this page, so repeat the crawl
-//     crawl();
-//   } else {
-//     // New page we haven't visited
-//     visitPage(nextPage, crawl);
-//   }
-// }
-//
-// function visitPage(url, callback) {
-//   // Add page to our set
-//   pagesVisited[url] = true;
-//   numPagesVisited++;
-//
-//   // Make the request
-//   console.log("Visiting page " + url);
-//   request(url, function(error, response, body) {
-//      // Check status code (200 is HTTP OK)
-//      console.log("Status code: " + response.statusCode);
-//      if(response.statusCode !== 200) {
-//        callback();
-//        return;
-//      }
-//      // Parse the document body
-//      const $ = cheerio.load(body);
-//      const isWordFound = searchForWord($, SEARCH_WORD);
-//      if(isWordFound) {
-//        console.log('Word ' + SEARCH_WORD + ' found at page ' + url);
-//      } else {
-//        collectInternalLinks($);
-//        // In this short program, our callback is just calling crawl()
-//        callback();
-//      }
-//   });
-// }
-//
-// function searchForWord($, word) {
-//   const bodyText = $('html > body').text().toLowerCase();
-//   return(bodyText.indexOf(word.toLowerCase()) !== -1);
-// }
-//
-// function collectInternalLinks($) {
-//     const relativeLinks = $("a[href^='/']");
-//     console.log("Found " + relativeLinks.length + " relative links on page");
-//     relativeLinks.each(function() {
-//         pagesToVisit.push(baseUrl + $(this).attr('href'));
-//     });
-// }
+comicList.map((list) => {
+  grabLinks(list);
+});
