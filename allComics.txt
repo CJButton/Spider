@@ -1,7 +1,7 @@
 {/*
-Horror, Mystery
-Themes: Supernatural
-[genres[21], genres[8], genres[18], genres[17], genres[18], genres[18]]
+Action, Fantasy
+Themes: Adventure, Battles
+[genres[0], genres[4], genres[1], genres[10], genres[18], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -5725,4 +5725,154 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1777.jpg"},
 
       [genres[21], genres[8], genres[18]]
+      ],
+[
+{
+      title: "Fairy Tail, Vol. 02",
+      author: "Hiro Mashima",
+      synopsis: "THE BOOK OF SECRETS Beautiful celestial wizard Lucy has teamed up with the crazy fire wizard Natsu and his bizarre flying cat, Happy. Their job: to steal a book from the notorious Duke Everlue. But the eccentric Everlue has killed wizards before, and Lucy’s team is walking right into his death trap!",
+      release_date: "January 12th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1778.jpg"},
+
+{
+      title: "Fairy Tail, Vol. 05",
+      author: "Hiro Mashima",
+      synopsis: "GRAY-OUTGray’s old training companion Reitei Lyon is trying to revive a calamity demon, but doing so will make their former master’s sacrifice meaningless! What’s the secret of Gray’s past, and why does he keep taking off his clothing? Gray is revealed (metaphorically speaking) in this pivotal volume!",
+      release_date: "July 17th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1779.jpg"},
+
+{
+      title: "Fairy Tail, Vol. 06",
+      author: "Hiro Mashima",
+      synopsis: "DEMON RISINGHotshot Natsu and his cool rival Gray are fighting to stop a calamity demon from being revived by Gray’s fellow disciple Lyon and Zalty, a master of Lost Magic. But while they try to defeat the bad guys, the magical ice binding the demon keeps melting. Then a grudge between Fairy Tail and a rival guild turns to all-out war!Includes special extras after the story!",
+      release_date: "September 14th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1780.jpg"},
+
+{
+      title: "Fairy Tail, Vol. 40",
+      author: "Hiro Mashima",
+      synopsis: "DRAGONS VS. WIZARDS!Seven years ago, one dragon defeated all of Fairy Tail. Now they're up against seven! How can Natsu and Fairy Tail defeat the most destructive force in history?! The secrets of the dragon slayers are revealed in the stunning climax of the Festival of the Dragon King!",
+      release_date: "October 17th 2013",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1781.jpg"},
+
+{
+      title: "Fairy Tail, Vol. 47",
+      author: "Hiro Mashima",
+      synopsis: "LOST IN THE ETHERIOUS Desperate to stop the Face bombs from going off, Natsu and Gajeel face off against Tempester and Torafuzar from Tartaros! Meanwhile, Gray emerges from his dramatic encounter with Silver with a new power: demon slayer magic, and Erza finally reaches the control room only to find it infested by demons! The Book of Zeref's worst denizens stand arrayed before Fairy Tail's wizards... Can they defeat them and preserve the magic of the entire continent?",
+      release_date: "January 16th 2015",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1782.jpg"},
+
+{
+      title: "Fairy Tail, Vol. 10",
+      author: "Hiro Mashima",
+      synopsis: "SHADOWS OF THE PAST Erza Scarlet is the most kick-butt woman wizard in Fairy Tail, but in the past this indomitable fighter was . . . a slave? Now she finds out that her old companions have completed the evil device they were forced to build while held in slavery: the Tower of Heaven. What's more, their wicked master requires a sacrifice: Erza! Includes special extras after the story!",
+      release_date: "May 16th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1783.jpg"},
+
+{
+      title: "Fairy Tail, Vol. 03",
+      author: "Hiro Mashima",
+      synopsis: "MUSICAL MURDERSThe evil members of the Dark Guild Eisenwald have found a cursed flute that can murder anyone who hears its music–and now they’ve taken over a midtown train station with a very loud public address system. Only Natsu and his crazy friends (including a flying cat) can stop them!Includes special extras after the story!",
+      release_date: "March 16th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1784.jpg"},
+
+{
+      title: "Fairy Tail, Vol. 11",
+      author: "Hiro Mashima",
+      synopsis: "WHEN CHECKMATE MEANS DEATH! Erza's childhood friend Jellal has started to play an elaborate board game--with Natsu and his team as enemy pieces to be eliminated. Meanwhile, Siegrain is trying to get the Magic Council to fire a weapon that will wipe out Jellal's tower, killing everyone within it--including our heroes from Fairy Tail!",
+      release_date: "March 3rd 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1785.jpg"},
+
+{
+      title: "Fairy Tail, Vol. 1",
+      author: "Hiro Mashima",
+      synopsis: "THE WICKED SIDE OF WIZARDRYCelestial wizard Lucy wants to join the Fairy Tail, a club for the most powerful wizards. But instead, her ambitions land her in the clutches of a gang of unsavory pirates led by a devious magician. Her only hope is Natsu, a strange boy she happens to meet on her travels. Natsu's not your typical hero, he gets motion sickness, eats like a pig, and his best friend is a talking cat. With friends like this, is Lucy better off with her enemies?",
+      release_date: "December 15th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1786.jpg"},
+
+{
+      title: "Fairy Tail, Vol. 08",
+      author: "Hiro Mashima",
+      synopsis: "Gajeel is a dragon slayer who can shoot huge iron pillars from his body with crushing precision, while dragon slayer Natsu fights with devastating flame attacks. Their fierce battle began when Gajeel’s wizard guild, Phantom Lord, assaulted rival guild Fairy Tail–but can either headquarters withstand two such destructive forces?",
+      release_date: "January 17th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1787.jpg"},
+
+{
+      title: "Fairy Tail, Vol. 45",
+      author: "Hiro Mashima",
+      synopsis: "Fairy Tail takes place in a world filled with magic. 17-year-old Lucy is an attractive mage-in-training who wants to join a magician's guild so that she can become a full-fledged magician. The guild she dreams about joining is the most famous in the world, and it is known as the Fairy Tail. One day she meets Natsu, a boy raised by a Dragon who mysteriously left him when he was young. Natsu has devoted his life to finding his Dragon father. When Natsu helps Lucy out of a tricky situation, she discovers that he is a member of the Fairy Tail magician's guild, and our heroes' adventure together begins.",
+      release_date: "September 17th 2014",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1788.jpg"},
+
+{
+      title: "Fairy Tail, Vol. 04",
+      author: "Hiro Mashima",
+      synopsis: "S IS FOR SCREWUPS-Class quests are so dangerous that one false move means certain death! Now loose cannon Natsu, rookie Lucy, and nearly powerless Happy have embarked on a stolen S-Class quest, setting out for the Demon Island. Can anyone stop them before they get themselves killed?",
+      release_date: "May 17th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1789.jpg"},
+
+{
+      title: "Fairy Tail, Vol. 09",
+      author: "Hiro Mashima",
+      synopsis: "FADING WIZARD Stylish wizard Loke is the ladies' man of the Fairy Tail guild. But now he's suddenly broken up with all his girlfriends, claiming he simply doesn't have the time! It turns out that Loke's life may be about to end, and Lucy, a freshman, is the only one who can save him! But what can a first-year wizard do that an experienced wizard can't?",
+      release_date: "March 17th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1790.jpg"},
+
+{
+      title: "Fairy Tail, Vol. 57",
+      author: "Hiro Mashima",
+      synopsis: "  Prepared to do what they need to or die trying, Fairy Tail faces off against the vast hordes of the Alvarez Empire. They've retaken the port town of Hargeon, but the battles are hard, and every victory is costly. Fairy Tail's prisoner, Brandish, makes an offer to act as a go-between in a negotiation with August, a man known as the strongest of the Spriggan 12. Fairy Tail is desperate, but can Brandish be trusted? Meanwhile, Gajeel's group has fought a fierce battle to rescue the members of Saber Tooth and regain lost ground, but powerful enemies are close, which could mean more despair for the embattled members of Fairy Tail...",
+      release_date: "September 16th 2016",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1791.jpg"},
+
+{
+      title: "Fairy Tail, Vol. 12",
+      author: "Hiro Mashima",
+      synopsis: "THE DOOMSDAY WEAPON!   Erza and Natsu are trying to stop Jellal from reviving the most feared black wizard the world has ever known! To help in the effort, the Magic Council launches its magic of mass destruction, Etherion. But Jellal knows that the Council’s attack could kill both him and the Fairy Tail wizards—and he isn’t running away. What is he plotting?  ",
+      release_date: "October 17th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1792.jpg"},
+
+{
+      title: "Fairy Tail, Vol. 56",
+      author: "Hiro Mashima",
+      synopsis: "THE SHOW MUST GO ONDespite the Spriggan 12 being reduced to eight, both sides remain uncertain of victory.. In Halgeon, the Warrior Queen Di Maria has trapped the Sky Sisters in a tricky situation. Meanwhile, back at Fairy Tail, members start disappearing at the hands of Jacob the Assassin, but Natsu is still fast asleep! The decisive battle for Magnolia remains perilous...the waves of formidable enemies keep coming, but the wizards of Fiore are ready to fight!",
+      release_date: "July 15th 2016",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1793.jpg"},
+
+{
+      title: "Fairy Tail, Vol. 41",
+      author: "Hiro Mashima",
+      synopsis: "FAIRY TOTSFairy Tail visits a town of giants frozen in magical ice that Gray can't dispel and Natsu can't melt! At its heart is supposedly an Eternal Flame… but how can a flame be frozen? And they're not the only ones after the town's secrets. Three treasure hunters block their path, while an old nemesis lurks in the shadows. To top it off, a magical trap makes all the Fairy Tail wizards' problems seem much bigger!",
+      release_date: "December 17th 2013",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1794.jpg"},
+
+{
+      title: "Fairy Tail, Vol. 13",
+      author: "Hiro Mashima",
+      synopsis: "THE DOOMSDAY WEAPON! Master Makarov’s grandson, the too-powerful wizard Laxus, has seen the new Fairy Tail guild hall and doesn’t like what he sees! So he gathers some of the strongest wizards in the guild, and starts a Fairy Tail civil war!",
+      release_date: "December 17th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1795.jpg"},
+
+{
+      title: "Fairy Tail, Vol. 43",
+      author: "Hiro Mashima",
+      synopsis: "FACE OFFThe demons of Tartaros are murdering Council members to try to get to a secret weapon with the power to wipe out all who would oppose them in one fell swoop. But what is this weapon? How could killing ex-Council members help them get it? And how do they even know about it in the first place? Natsu and his friends need to solve these mysteries if they hope to stand up to the demons!",
+      release_date: "May 16th 2014",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1796.jpg"},
+
+{
+      title: "Fairy Tail, Vol. 07",
+      author: "Hiro Mashima",
+      synopsis: "GUILD WARFairy Tail’s rival guild, Phantom Lord, has taken the competition to dangerous levels by smashing the Fairy Tail building and nearly killing three wizards. What is Fairy Tail response? A full-frontal assault on Phantom Lord! But this clash is all part of the Phantom Lord evil plot to capture a coveted prize.Includes special extras after the story!",
+      release_date: "November 16th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1797.jpg"},
+
+{
+      title: "Fairy Tail, Vol. 46",
+      author: "Hiro Mashima",
+      synopsis: "FACE THE COLD TRUTHAs the bloody battle against the Nine Demon Gates and their king Mard Geer engulfs all of Fairy Tail, the guild learns a terrible secret: the threat from Face, the magic pulse bomb, isn’t over yet! Meanwhile, the ice demon slayer known as Silver faces off against Gray, and the bond that ties their fates together is revealed! The truth sends Gray from shivering terror into an icy rage, but what greater sadness waits in the fight ahead?",
+      release_date: "November 17th 2014",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1798.jpg"},
+
+      [genres[0], genres[4], genres[1], genres[10]]
       ],
