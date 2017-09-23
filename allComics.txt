@@ -1,7 +1,7 @@
 {/*
-Action
-Themes: School Life, Supernatural
-[genres[0], genres[15], genres[18], genres[10], genres[18], genres[18]]
+Action, Comedy, Fantasy
+Themes: Harem, School Life
+[genres[0], genres[14], genres[4], genres[22], genres[15], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -7561,4 +7561,267 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2029.jpg"},
 
       [genres[0], genres[15], genres[18]]
+      ],
+[
+[
+{
+      title: "Negima! Volumes 19-21",
+      author: "Ken Akamatsu",
+      synopsis: "TO THE MAGICAL WORLD!Asuna trains hard to accompany Negi on the quest of his life-- a journey to the Magical World to find his mysterious and powerful father! But when they arrive, they realize it's going to be even harder than they thought. A mysterious platinum-haired boy named Fate scatters Negi's students to the winds, and it's up to him to save them from the unknown dangers lurking in this new realm!Contains Negima! volumes 19-20-21!",
+      release_date: "June 25th 2012",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2030.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 33",
+      author: "Ken Akamatsu",
+      synopsis: "A PERFECT WORLDNegi and his party have arrived at the Gravekeeper's Palace and are ready to rescue their friends and save the world, but the evil organization has another trick up their seeve. Ala Alba is about to find out exactly what Cosmo Entelekheia means - as they experience it firsthand. Includes special extras after the story!",
+      release_date: "February 17th 2011",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2031.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 7",
+      author: "Ken Akamatsu",
+      synopsis: "IT'S TRAINING TIME!After their adventures on a school trip to Kyoto, you'd think that Negi and his students would want to rest. But now that they're back at Mahora Academy, relaxation is pretty low on the list! First there are Asuna's dreams, which hint at a deeper relationship between Negi and his father of which she is unaware. Then Negi starts a quest to improve his abilities. To do this, the teacher will need to become a student - and Negi's students will become his teachers.Fei Ku is a master of every martial art imaginable, but can she teach Negi the skill he needs to survive? And there's only one magic user at Mahora Academy with abilities that surpass Negi's own. Dark Evangeline might train him, but only at a price - and does Negi really want to be Evangeline's personal slave?!",
+      release_date: "September 17th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2032.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Vol. 15",
+      author: "Ken Akamatsu",
+      synopsis: "STUDENT VS. TEACHER!Boy wizard Negi Springfield has met some tough challenges. After all, heâ��s an English teacher at an all-girls high school. But now he must face one of his own students in battle . . . without relying on his magical powers!Includes special extras after the story![Rating logo:]OTAges 16+",
+      release_date: "August 17th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2033.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 20",
+      author: "Ken Akamatsu",
+      synopsis: "BLAST FROM THE PASTAsuna and her friends want to give Negi some fun in the sun at the beach before they all set out on a dangerous journey to the Magical World. But then Negiâ��s childhood friend Anya crashes the partyâ��and all hell breaks loose when her jealousy goes nuclear!",
+      release_date: "October 17th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2034.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 9",
+      author: "Ken Akamatsu",
+      synopsis: "MAHORAFEST MADNESSItâ��s almost time for the legendary MahoraFestâ��the Mahora Academy Festivalâ��and the whole school is buzzing with anticipation. Class 3-A is preparing a haunted house, even though the class really is haunted. Evaâ��s robotic servant appears to be malfunctioning, but the mechanical girl might just be feeling human emotions. And sheâ��s not the only one! Asuna sees the upcoming festival as the perfect opportunity to finally confess true love to Takahata-sensei. Unfortunately, Asuna canâ��t work up the nerve. Whatâ��s a girl to do? Why, go out on a practice date with a magically aged Negi, of course!",
+      release_date: "January 1st 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2035.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 4",
+      author: "Ken Akamatsu",
+      synopsis: "A FIELD TRIP INTO PERILTen-year-old teacher/magician Negi Springfield is looking forward to taking his class of beautiful girls to the historic cities of Kyoto and Nara–but there’s a catch! Negi’s student, Konoka, is a kidnap target of feuding magicians in those very cities. Her grandfather, the school principal, orders Negi to protect Konoka–while keeping the fact that she’s in danger a secret from the unsuspecting girl. To add to Negi’s headaches, his sword-wielding student, Setsuna, may be a spy for the kidnappers. With so much on his mind, how is a young magician to see the sights, care for a sarcastic stoat, and stay in the good graces of his hot-tempered magical partner Asuna?",
+      release_date: "January 16th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2036.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 21",
+      author: "Ken Akamatsu",
+      synopsis: "A Fateful EncounterNegi and his students have journeyed to the Magical World in search of Negiâ��s father. But a mysterious platinum-haired boy called Fate has other plans for them. Seriously wounded, Negi watches helplessly as his students are teleported to the far corners of this mysterious realm. Negi made a promise to protect his students no matter what. Can he rescue them from certain peril?",
+      release_date: "January 17th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2037.jpg"},
+
+{
+      title: "Negima! Magister Negi Magi, Vol. 1",
+      author: "Ken Akamatsu",
+      synopsis: "Ten-year-old prodigy Negi Springfield, has just graduated from magic academy. He dreams of becoming a master wizard. Instead he's sent to Japan to teach English...at an all-girls high school! All the students are delighted with their cute new teacher--except for Asuna, who resents Negi for replacing the teacher she secretly has a crush on. Although he is forbidden to display his magical powers, sometimes Negi can't resist. And when Asuna discovers Negi's secret, she vows to make his life as difficult as possible--just the thing to prepare Negi for the challenges of life as a master wizard!",
+      release_date: "July 17th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2038.jpg"},
+
+{
+      title: "Negima! Magister Negi Magi, Vol. 2",
+      author: "Ken Akamatsu",
+      synopsis: "KNOWLEDGE CAN BE DANGEROUS!For ten-year-old teacher Negi Springfield and his all-girl class, it's time for final exams! If his students manage  to end up with the lowest scores in school, the principal has promised to make Negi an  teacher. To prepare for the tests, the class takes a trip to the school's Library Island. But this is no quiet place of study...stone golems, traps, and secret passageways are the norm throughout the enormous library building. With all of these distractions, can Negi's class hope to climb out of the cellar--both academically and literally?",
+      release_date: "August 12th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2039.jpg"},
+
+{
+      title: "Negima! Volumes 7-9",
+      author: "Ken Akamatsu",
+      synopsis: "10-year-old Negi Springfield has just graduated from a British school for wizards. After meeting with the school headmaster to discuss his graduate work assignment, he finds that he will be moving to Japan--to teach English at an all-girls high school. Under strict instructions not to show his magic powers, Negi finds that he can't resist using them to help others. Of course, despite his good intentions sometimes his magic just makes things even worse!",
+      release_date: "December 6th 2011",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2040.jpg"},
+
+{
+      title: "Negima! Volumes 16-18",
+      author: "Ken Akamatsu",
+      synopsis: "10-year-old Negi Springfield has just graduated from a British school for wizards. After meeting with the school headmaster to discuss his graduate work assignment, he finds that he will be moving to Japan--to teach English at an all-girls high school. Under strict instructions not to show his magic powers, Negi finds that he can't resist using them to help others. Of course, despite his good intentions sometimes his magic just makes things even worse!",
+      release_date: "November 27th 2012",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2041.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 38",
+      author: "Ken Akamatsu",
+      synopsis: "THE ETERNAL QUESTION Class 3-A has finally had enough of Negi and his philandering ways! They've devised an elaborate plot for revenge, but everything changes when they discover that their young teacher may actually have some small affection for one special girl. Can Negi escape with his secret intact, or will they make him talk?FINAL VOLUME!",
+      release_date: "May 17th 2012",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2042.jpg"},
+
+{
+      title: "Negima! Volumes 10-12",
+      author: "Ken Akamatsu",
+      synopsis: "TIME AFTER TIMEThe epic Mahora Academy Festial storyline that spanned over 700 pages begins here, in this omnibus collection of Negima! Volumes 10, 11, and 12. Exhausted by Evangeline's training, battling enemy wizards, hiding his magic abilities, and teaching 31 students, Negi sleeps through the first day of the festival! All the girls he promised to spend the day with are going to be incredibly disappointed... or are they? This is Negima!, after all! But before the festival is over, Negi finds himself competing in the Budokai Marital Arts Tournament, and there's more at stake than he thinks!Includes special extras after the story!",
+      release_date: "March 13th 2012",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2043.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 36",
+      author: "Ken Akamatsu",
+      synopsis: "NEGI VS. FATE   The battle with Fate continues, and neither opponent shows any sign of giving in. Knowing Fate's past, Negi is even more determined to win him over to his side. It comes down to one last clash of spells, but with magic as powerful as theirs, they can't possibly both survive.",
+      release_date: "November 17th 2011",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2044.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 5",
+      author: "Ken Akamatsu",
+      synopsis: "A KISS IS NOT JUST A KISSWhen ten-year-old prodigy Negi Springfield graduated from university with a degree in magic, he never imagined he would soon be teaching English to a bevy of gorgeous high school girls. Now Negi’s old friend Chamo, a lecherous weasel from Wales, and student Asakura have arranged a competition among the girls to see which of the lovely students will be the first to kiss the teacher! Sure, a kiss will strengthen Negi’s magical abilities, but doesn’t this contest just support Chamo’s voyeuristic proclivities? On the other hand, Negi needs all the help he can get when the magical creatures of western Japan strike back!",
+      release_date: "April 16th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2045.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 35",
+      author: "Ken Akamatsu",
+      synopsis: "TWO WORLDS COLLIDE   The time has come for the long-awaited showdown between Negi Springfield and Fate Averruncus. Negi is prepared to do whatever it takes to knock his own version of sense into Fate. Meanwhile the two worlds have connected, and Mahora Academy must save itself from hordes of demons!Includes special extras after the story!",
+      release_date: "August 17th 2011",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2046.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 32",
+      author: "Ken Akamatsu",
+      synopsis: "His battle with Fate looms ever closer, but Negi has more pressing concerns. The darkness has started to consume him, and if he doesn't get it under control, he'll turn into a monster. Before Negi can keep his students safe from Fate, he has to keep them safe from himself.",
+      release_date: "October 7th 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2047.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 17",
+      author: "Ken Akamatsu",
+      synopsis: "THE ULTIMATE BATTLEBoy wizard and high school teacher Negi is the only one who can stop Chao and her plans for world domination. But Chaoâ��master magician, Martian warrior, and supergeniusâ��may be the most formidable opponent the boy wonder has ever faced. Who will survive their final clash?",
+      release_date: "January 17th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2048.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 14",
+      author: "Ken Akamatsu",
+      synopsis: "ALL GROWN UP?Negi Springfield has finally met his fatherâ��or at least a hologram of him. Now Negi is more determined than ever to follow in his fatherâ��s footsteps. But there is no time for self-reflection: After his mind-blowing performance at the BudÅ�kai Martial Arts Tournament, Negi is at the center of a media storm. On the run from marauding reporters, Negi disguises himself with the help of a potion that turns him into a gorgeous bishÅ�nen. But using magic puts Negi at risk. His sneaky pupil Chisame may finally discover his secretâ��that Negi is really a powerful wizard!",
+      release_date: "April 17th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2049.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 30",
+      author: "Ken Akamatsu",
+      synopsis: "Now that Negi has learned all about his parents and his village, Goedel invites the boy to join forces with him, promising to help Negi get revenge on those who destroyed his life. Our hero asserts that vengeance was never his goal, but the dark magic inside him claims otherwise.",
+      release_date: "May 17th 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2050.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 31",
+      author: "Ken Akamatsu",
+      synopsis: "10-year-old Negi Springfield has just graduated from a British school for wizards. After meeting with the school headmaster to discuss his graduate work assignment, he finds that he will be moving to Japan--to teach English at an all-girls high school. Under strict instructions not to show his magic powers, Negi finds that he can't resist using them to help others. Of course, despite his good intentions sometimes his magic just makes things even worse!",
+      release_date: "August 17th 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2051.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 22",
+      author: "Ken Akamatsu",
+      synopsis: "NEW TEACHERTo help his students get home from the Magical World, Negi must become a more powerful wizardâ��and fast. Just when heâ��s beginning to doubt himself, he meets Rakan, his fatherâ��s old friend and rival. Rakan is an awesome wizard, but his teaching methods are a little . . . eccentric. Can he teach Negi to be strong like his father?Includes special extras after the story!",
+      release_date: "April 17th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2052.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 18",
+      author: "Ken Akamatsu",
+      synopsis: "TELL ME A SECRETNow that the Mahora Festival is finally over, everyone’s ready for some peace and quiet. But the school is in an uproar after Misora impersonates a priest . . . and convinces her fellow students to spill their deepest secrets in the confessional. It seems like everyone has a secret–and all of them involve Negi!",
+      release_date: "April 17th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2053.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 29",
+      author: "Ken Akamatsu",
+      synopsis: "Realizing it might be a trap, Negi and friends accept an invitation to the ball where Goedel claims he will tell Negi everything he wants to know.  Haruna insists that Negi make as many pactios as possible before walking into danger, but the girls won’t surrender their lips so easily!",
+      release_date: "January 14th 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2054.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 26",
+      author: "Ken Akamatsu",
+      synopsis: "HIS FATHER’S SON After hearing about his father’s heroics, Negi vows to prove himself—by winning the martial arts tournament and freeing his students from slavery. With his teacher’s help, Negi has gotten much stronger, so it should be a piece of cake! What possibly could go wrong? Turns out: plenty! Available on DVD from FUNimation Entertainment ",
+      release_date: "May 15th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2055.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 27",
+      author: "Ken Akamatsu",
+      synopsis: " INVINCIBLE It’s time for the final match to decide the winner of the Nagi Cup, but Negi must compete against martial arts legend Jack Rakan. Will Negi’s intense training and new trump cards be enough to beat the unbeatable hero?",
+      release_date: "September 17th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2056.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 19",
+      author: "Ken Akamatsu",
+      synopsis: "WIN OR DIE!Itâ��s summer breakâ��a time when most kids are getting ready for a vacation full of fun and friends. But not Asuna. Sheâ��s prepping for the challenge of her life. Sheâ��s started a new school club thatâ��s devoted to helping Negi find his father, but before Asuna can embark on this adventure she has to prove her mettle. The test: a dangerous mission on a snow-covered mountain. Does Asuna have what it takes to survive?",
+      release_date: "July 17th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2057.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 34",
+      author: "Ken Akamatsu",
+      synopsis: "DARKNESS FALLSThe battle gets fierce as Negi and his party come up against the leaders of Cosmo Entelekheia. Our hero manages to defeat Dynamis, but in the process he allows the dark magic to almost consume him. As he fights for his humanity, his class must fight Fate for their lives.Includes special extras after the story!",
+      release_date: "May 17th 2011",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2058.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 37",
+      author: "Ken Akamatsu",
+      synopsis: "ENEMY TO WOMANKIND   The war is over, and all that's left is the save the Magical World from imminent destruction. With the help of Asuna and others in his class, Negi is working to put his plan into effect. Meanwhile, Negi's students are realizing just what a heartbreaker the little boy has become.",
+      release_date: "February 17th 2012",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2059.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 23",
+      author: "Ken Akamatsu",
+      synopsis: "DARKNESS OR LIGHT?The great tournament that will decide the fate of Negi and his friends is fast approaching. Negi has no choice: He must become a great wizard like his father–and soon. For Negi will have to face his powerful nemesis, Fate Averruncus, and make a profound decision, one that will bring him victory or death!Available on DVD from FUNimation EntertainmentIncludes special extras after the story!",
+      release_date: "August 12th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2060.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 28",
+      author: "Ken Akamatsu",
+      synopsis: "Now that the tournament is over, Negi wants to find his missing students and take them home. But first, he’s confronted by a sinister man who claims to know the answers to all of Negi’s questions. He promises to share those answersâ€”but only if Negi will join his cause. Â  Available on DVD from FUNimation Entertainment",
+      release_date: "November 17th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2061.jpg"},
+
+{
+      title: "Negima! Magister Negi Magi, Vol. 3",
+      author: "Ken Akamatsu",
+      synopsis: "BLOOD FEUD WITH A VAMPIREThere is a vampire stalking the night! Normally ten-year-old teacher/magician Negi Springfield would have no problem dispatching such a villain, but this vampire has a magic-enhancing partner--and worse, the vampire is a student in his own class! Now he must find a partner of his own, but with a class full of beautiful girls all vying for the position, it won't be an easy task. Add in Negi's old friend, a skirt-chasing, wisecracking weasel from Wales, and the nice orderly chaos of Negi's life turns into a hilarious melee of sirens and sorcery!",
+      release_date: "November 17th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2062.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 6",
+      author: "Ken Akamatsu",
+      synopsis: "The chaotic class trip continues as Negi Springfield and his thirty-one beautiful female students explore the historic cities of Kyoto and Nara. Negi’s special headache is Konoka, the headmaster’s granddaughter, who turns out to have her own magical abilities! Although she’s not aware of them, others certainly are . . . and Konoka is kidnapped by a group of wizards who plan to corrupt her budding talents. Negi is going to need all the help he can get–even if it comes from a former foe. . . .",
+      release_date: "June 17th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2063.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 24",
+      author: "Ken Akamatsu",
+      synopsis: "NODOKA IN PERILThe Festival of Ostia is the Magical Worldâ��s most amazing eventâ��and includes a major martial arts tournament in which Negi and his friends will be active participants! But a team of professional bounty hunters blocks Nodokaâ��s way to the event. Can Negi save her, or will they all fall into the huntersâ�� trap?",
+      release_date: "November 17th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2064.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Volume 25",
+      author: "Ken Akamatsu",
+      synopsis: "A TRICK OF FATE When the Festival of Ostia begins, Fate Averruncus emerges from hiding to set his evil plans into motion. But first he gives Negi a proposition. If Negi promises not to interfere with Fate’s plot, he will allow Negi and the girls to go home unharmed. Now Negi must choose between his students and an entire world. ",
+      release_date: "February 17th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2065.jpg"},
+
+{
+      title: "Negima!: Magister Negi Magi, Vol. 16",
+      author: "Ken Akamatsu",
+      synopsis: "In Stock. Covers do have a few bends and some wear. Mint!",
+      release_date: "October 17th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2066.jpg"},
+
+      [genres[0], genres[14], genres[4], genres[22], genres[15]]
       ],
