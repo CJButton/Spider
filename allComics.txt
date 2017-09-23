@@ -4,9 +4,9 @@
 //**
 
 {/*
-Action, Drama, Science Fiction
-Themes: Adventure, Battles
-[genres[0], genres[7], genres[5], genres[1], genres[10], genres[18]]
+Comedy, Drama
+Themes: Mystery
+[genres[14], genres[7], genres[8], genres[1], genres[10], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -4717,4 +4717,161 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1637.jpg"},
 
       [genres[0], genres[7], genres[5], genres[1], genres[10]]
+      ],
+[
+{
+      title: "GTO: Great Teacher Onizuka, Vol. 4",
+      author: "Tōru Fujisawa",
+      synopsis: "Meet Eikichi Onizuka, a 22-year-old college karate champ and ex-biker. He's crude, foul-mouthed, and has a hair-trigger temper. Just the sort of guy you'd expect to see going back to school...to become a teacher",
+      release_date: "November 17th 1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1638.jpg"},
+
+{
+      title: "GTO: Great Teacher Onizuka, Vol. 5",
+      author: "Tōru Fujisawa",
+      synopsis: "Meet Eikichi Onizuka, a 22-year-old college karate champ and ex-biker. He's crude, foul-mouthed, and has a hair-trigger temper. Just the sort of guy you'd expect to see going back to school...to become a teacher",
+      release_date: "January 16th 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1639.jpg"},
+
+{
+      title: "GTO: Great Teacher Onizuka, Vol. 15",
+      author: "Tōru Fujisawa",
+      synopsis: "Meet Eikichi Onizuka, a 22-year-old college karate champ and ex-biker. He's crude, foul-mouthed, and has a hair-trigger temper. Just the sort of guy you'd expect to see going back to school...to become a teacher",
+      release_date: "April 14th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1640.jpg"},
+
+{
+      title: "GTO: Great Teacher Onizuka, Vol. 3",
+      author: "Tōru Fujisawa",
+      synopsis: "Meet Eikichi Onizuka, a 22-year-old college karate champ and ex-biker. He's crude, foul-mouthed, and has a hair-trigger temper. Just the sort of guy you'd expect to see going back to school...to become a teacher",
+      release_date: "September 17th 1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1641.jpg"},
+
+{
+      title: "GTO: Great Teacher Onizuka, Vol. 1",
+      author: "Tōru Fujisawa",
+      synopsis: "Meet Eikichi Onizuka, a 22-year-old college karate champ and ex-biker. He's crude, foul-mouthed, and has a hair-trigger temper. Just the sort of guy you'd expect to see going back to school...to become a teacher",
+      release_date: "May 16th 1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1642.jpg"},
+
+{
+      title: "GTO: Great Teacher Onizuka, Vol. 9",
+      author: "Tōru Fujisawa",
+      synopsis: "Meet Eikichi Onizuka, a 22-year-old college karate champ and ex-biker. He's crude, foul-mouthed, and has a hair-trigger temper. Just the sort of guy you'd expect to see going back to school...to become a teacher",
+      release_date: "November 17th 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1643.jpg"},
+
+{
+      title: "GTO: Great Teacher Onizuka, Vol. 7",
+      author: "Tōru Fujisawa",
+      synopsis: "Meet Eikichi Onizuka, a 22-year-old college karate champ and ex-biker. He's crude, foul-mouthed, and has a hair-trigger temper. Just the sort of guy you'd expect to see going back to school...to become a teacher",
+      release_date: "June 17th 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1644.jpg"},
+
+{
+      title: "GTO: Great Teacher Onizuka, Vol. 13",
+      author: "Tōru Fujisawa",
+      synopsis: "Meet Eikichi Onizuka, a 22-year-old college karate champ and ex-biker. He's crude, foul-mouthed, and has a hair-trigger temper. Just the sort of guy you'd expect to see going back to school...to become a teacher",
+      release_date: "November 17th 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1645.jpg"},
+
+{
+      title: "GTO: Great Teacher Onizuka, Vol. 6",
+      author: "Tōru Fujisawa",
+      synopsis: "Meet Eikichi Onizuka, a 22-year-old college karate champ and ex-biker. He's crude, foul-mouthed, and has a hair-trigger temper. Just the sort of guy you'd expect to see going back to school...to become a teacher",
+      release_date: "April 17th 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1646.jpg"},
+
+{
+      title: "GTO: Great Teacher Onizuka, Vol. 8",
+      author: "Tōru Fujisawa",
+      synopsis: "Meet Eikichi Onizuka, a 22-year-old college karate champ and ex-biker. He's crude, foul-mouthed, and has a hair-trigger temper. Just the sort of guy you'd expect to see going back to school...to become a teacher",
+      release_date: "August 17th 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1647.jpg"},
+
+{
+      title: "GTO: Great Teacher Onizuka, Vol. 10",
+      author: "Tōru Fujisawa",
+      synopsis: "Meet Eikichi Onizuka, a 22-year-old college karate champ and ex-biker. He's crude, foul-mouthed, and has a hair-trigger temper. Just the sort of guy you'd expect to see going back to school...to become a teacher",
+      release_date: "March 17th 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1648.jpg"},
+
+{
+      title: "GTO: Great Teacher Onizuka, Vol. 14",
+      author: "Tōru Fujisawa",
+      synopsis: "Meet Eikichi Onizuka, a 22-year-old college karate champ and ex-biker. He's crude, foul-mouthed, and has a hair-trigger temper. Just the sort of guy you'd expect to see going back to school...to become a teacher",
+      release_date: "January 17th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1649.jpg"},
+
+{
+      title: "GTO: Great Teacher Onizuka, Vol. 12",
+      author: "Tōru Fujisawa",
+      synopsis: "Meet Eikichi Onizuka, a 22-year-old college karate champ and ex-biker. He's crude, foul-mouthed, and has a hair-trigger temper. Just the sort of guy you'd expect to see going back to school...to become a teacher",
+      release_date: "August 17th 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1650.jpg"},
+
+{
+      title: "GTO: Great Teacher Onizuka, Vol. 19",
+      author: "Tōru Fujisawa",
+      synopsis: "In a surprise visit, Onizuka shows Uchiyamada life is indeed wonderful. Meanwhile, Teshigawara rocks the schoolhouse when he hatches a deadly plot to kidnap Fuyutsuki. Can Onizuka get her back before Teshigawara lays a finger on her? Put away the homework and take notes-an explosive conclusion awaits readers in this action-packed volume of GTO!",
+      release_date: "March 16th 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1651.jpg"},
+
+{
+      title: "GTO: Great Teacher Onizuka, Vol. 20",
+      author: "Tōru Fujisawa",
+      synopsis: "Meet Eikichi Onizuka, a 22-year-old virgin and ex-biker. He’s crude, foul-mouthed, and has a split second temper. His goal: to be the Greatest High School Teacher in the World!When former gangster Onizuka decides to become a teacher, the only job he lands is a student teacher position at the Holy Forest Academy where he must rely on his street smarts to deal with the difficult students.",
+      release_date: "June 15th 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1652.jpg"},
+
+{
+      title: "GTO: Great Teacher Onizuka, Vol. 23",
+      author: "Tōru Fujisawa",
+      synopsis: "What can Onizuka do to help Miyabi improve her relationship with her parents? Kidnap her of course! Unfortunately the police don't agree with Onizuka's crazy scheme. In contrast to the wild adventure orchestrated by Onizuka, some light is finally shed on Miyabi's traumatic past. Even if Onizuka can rebuild the bridge between Miyabi and her parents, will he be able to stop her from jumping off the deep end?",
+      release_date: "March 15th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1653.jpg"},
+
+{
+      title: "GTO: Great Teacher Onizuka, Vol. 17",
+      author: "Tōru Fujisawa",
+      synopsis: "Miyabi has exposed Urumi's secret to the school and Urumi wants revenge. Urumi's web page featuring secret cameras in Miyabi's house leads Miyabi to an overdose. With both girls hanging on to their lives by a thread, Onizuka must pool all his resources to save them before it's too late.",
+      release_date: "September 14th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1654.jpg"},
+
+{
+      title: "GTO: Great Teacher Onizuka, Vol. 22",
+      author: "Tōru Fujisawa",
+      synopsis: "Onizuka's quest to become the greatest teacher in the world often lands him in hot water. On this occasion, Onizuka must convince Tokiwa that not all men deserve a beating, something about which Ms. Daimon won't be very happy! Meanwhile, Uehara appears to be falling for a computer nerd. Does she know something behind the thick glasses and pocket protectors?",
+      release_date: "November 16th 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1655.jpg"},
+
+{
+      title: "GTO: Great Teacher Onizuka, Vol. 16",
+      author: "Tōru Fujisawa",
+      synopsis: "Meet Eikichi Onizuka, a 22-year-old college karate champ and ex-biker. He's crude, foul-mouthed, and has a hair-trigger temper. Just the sort of guy you'd expect to see going back to school...to become a teacher",
+      release_date: "July 17th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1656.jpg"},
+
+{
+      title: "GTO: Great Teacher Onizuka, Vol. 21",
+      author: "Tōru Fujisawa",
+      synopsis: "Tokiwa may look like an angel on the outside, but don't let the saintly exterior deceive you... she's got quite an inner demon. After dispatching a bunch of delinquents, the devious diva brings the rumble to Kikuchi. Onizuka must step in to teach Tokiwa a lesson about real men!",
+      release_date: "August 10th 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1657.jpg"},
+
+{
+      title: "GTO: Great Teacher Onizuka, Vol. 18",
+      author: "Tōru Fujisawa",
+      synopsis: "Meet Eikichi Onizuka, a 22-year-old virgin and ex-biker. He's crude, foul-mouthed, and has a split second temper. His goal: to be the Greatest High School Teacher in the World!",
+      release_date: "December 15th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1658.jpg"},
+
+{
+      title: "GTO: Great Teacher Onizuka, Vol. 2",
+      author: "Tōru Fujisawa",
+      synopsis: "Meet Eikichi Onizuka, a 22-year-old college karate champ and ex-biker. He's crude, foul-mouthed, and has a hair-trigger temper. Just the sort of guy you'd expect to see going back to school...to become a teacher",
+      release_date: "July 17th 1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1659.jpg"},
+
+      [genres[14], genres[7], genres[8]]
       ],
