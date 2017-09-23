@@ -1,7 +1,7 @@
 {/*
-Action, Drama, Fantasy
-Themes: Mystery, School Life, Supernatural
-[genres[0], genres[7], genres[4], genres[8], genres[15], genres[18]]
+Action, Fantasy
+Themes: Adventure, Battles
+[genres[0], genres[4], genres[1], genres[10], genres[15], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -7949,4 +7949,315 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2083.jpg"},
 
       [genres[0], genres[7], genres[4], genres[8], genres[15], genres[18]]
+      ],
+      [
+{
+      title: "Naruto, Vol. 09: Turning the Tables",
+      author: "Masashi Kishimoto",
+      synopsis: "Still in the thick of the Chūnin Selection Exams, the student ninja unleash their signature techniques as they spar in a series of one-on-one elimination matches. The heated battles bring out a new side in many of the opponents as they fight to advance to the third stage of the test and, in some cases, struggle to survive! Naruto looses an explosive new move on his foe—but will it be enough to win? And when Hyuga clan members Neji and Hinata are pitted against each one another, will old family grudges make their duel even more vicious than the others?",
+      release_date: "October 4th 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2084.jpg"},
+
+{
+      title: "Naruto, Vol. 18: Tsunade's Choice",
+      author: "Masashi Kishimoto",
+      synopsis: "Naruto's training with Jiraiya intensifies, while Orochimaru uses threats to coerce a legendary kunoichi into helping him. But will her tragic past play a part in destroying Naruto's future?",
+      release_date: "August 4th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2085.jpg"},
+
+{
+      title: "Naruto, Vol. 26: Awakening",
+      author: "Masashi Kishimoto",
+      synopsis: "The battle between former best friends Sasuke and Naruto grows even more fierce. Will Sasuke risk everything, even Naruto's life, to obtain the power of the Mangekyo?",
+      release_date: "February 4th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2086.jpg"},
+
+{
+      title: "Naruto, Vol. 01: The Tests of the Ninja",
+      author: "Masashi Kishimoto",
+      synopsis: "In another world, ninja are the ultimate power—and in the village of Konohagakure live the stealthiest ninja in the world. But twelve years ago Konohagakure was attacked by a fearsome threat—a nine-tailed fox demon which claimed the life of the Hokage, the village champion. Today, peace has returned, and a troublemaking orphan named Uzumaki Naruto is struggling to graduate from the Ninja Academy. His goal: to become the next Hokage. But unknown to Naruto and his classmates, within him is a terrifying force...",
+      release_date: "September 21st 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2087.jpg"},
+
+{
+      title: "Naruto, Vol. 24: Unorthodox",
+      author: "Masashi Kishimoto",
+      synopsis: "Kankuro, Temari and Gaara unexpectedly aid Konohagakure against the Sound Ninja. Could they have another purpose besides rekindling the old alliance between Leaf and Sand?",
+      release_date: "October 4th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2088.jpg"},
+
+{
+      title: "Naruto, Vol. 07: Orochimaru's Curse",
+      author: "Masashi Kishimoto",
+      synopsis: "Deep within the Forest of Death, Naruto, Sasuke and Sakura are still reeling from Orochimaru's attack—and now they must battle his minions, the mysterious Sound Ninja. And as Sasuke struggles with the strange force growing inside him, spreading like an infection from the curse-mark Orochimaru burned into his neck, time is running out for the student ninja to collect the scrolls they need to pass the Chūnin Exams!",
+      release_date: "May 1st 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2089.jpg"},
+
+{
+      title: "Naruto, Vol. 17: Itachi's Power",
+      author: "Masashi Kishimoto",
+      synopsis: "What does Sasuke's older brother want with Naruto? As Jiraiya trains Naruto to push beyond his limits, secrets of the past are revealed, and a mysterious shinobi who could change everything begins to take center stage.",
+      release_date: "May 1st 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2090.jpg"},
+
+{
+      title: "Naruto, Vol. 14: Hokage vs. Hokage!!",
+      author: "Masashi Kishimoto",
+      synopsis: "Their village is under attack, and Naruto, Sakura and Shikamaru can't stay behind to defend it. They have a top priority mission to track down Sasuke and the Sand chūnin. But with nine bloodthirsty ninja on their heels, the hunters have quickly become the hunted! Back at the village, the Third Hokage is still trapped in Orochimaru's impenetrable barrier. Pushed to the breaking point, the Hokage must decide how far he will go to save what is precious to him!",
+      release_date: "November 1st 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2091.jpg"},
+
+{
+      title: "Naruto, Vol. 47: The Seal Destroyed",
+      author: "Masashi Kishimoto",
+      synopsis: "Naruto inches ever closer to discovering the true identity of his nemesis, Pain. But is it worth it as the frustrated ninja begins to morph at last into the dreaded Nine Tails? Plus an unexpected confession reveals incredible secrets about his past as Naruto prepares for the ultimate battle with Pain. Can the chakra-challenged Naruto win when one misstep could spell disaster?",
+      release_date: "August 4th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2092.jpg"},
+
+{
+      title: "Naruto, Vol. 61: Uchiha Brothers United Front",
+      author: "Masashi Kishimoto",
+      synopsis: "As Madara uses his dominating power to fend off the Five Kage, Sasuke is reunited with his brother Itachi. Can the brothers put aside their differences and help each other out? When they come face-to-face with Kabuto, the man who revived Itachi from the dead, they'll have to team up if they have any hope of survival!",
+      release_date: "July 27th 2012",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2093.jpg"},
+
+{
+      title: "Naruto, Vol. 15: Naruto's Ninja Handbook!",
+      author: "Masashi Kishimoto",
+      synopsis: "The tension between Naruto and Gaara builds, and Naruto finds himself not only understanding his rival but also sympathizing with him. But that doesn't mean he's gone soft. As Gaara continues to mutate, Naruto prepares for the fight of his life!",
+      release_date: "December 20th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2094.jpg"},
+
+{
+      title: "Naruto, Vol. 32:  The Search for Sasuke",
+      author: "Masashi Kishimoto",
+      synopsis: "A new ninja causes trouble among the ranks of Team Kakashi when they return from the battle against Sasori. The secrets this stranger hides could be disastrous for Naruto. Meanwhile, Naruto's nemesis Orochimaru has troubles of his own—his stronghold may be infiltrated by a spy!",
+      release_date: "April 4th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2095.jpg"},
+
+{
+      title: "Naruto, Vol. 08: Life-and-Death Battles",
+      author: "Masashi Kishimoto",
+      synopsis: "As the preliminaries to the third phase of the Chūnin Exams begin, the student ninja face off against each other in no-holds-barred, one-on-one bouts. Deaf to Sakura's pleas to withdraw from the contest and despite the crippling effects of the curse placed on him by the nefarious Orochimaru, Sasuke enters the first match against one of the vicious Sound Ninja spies. But with his signature fighting techniques suddenly off-limits, how can Sasuke possibly prevail? And even if he manages to survive the violent brawl, Orochimaru's curse is threatening to change Sasuke forever!",
+      release_date: "August 3rd 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2096.jpg"},
+
+{
+      title: "Naruto, Vol. 04: The New Opponents",
+      author: "Masashi Kishimoto",
+      synopsis: "There comes a time in every ninja's training when he must put aside his morals and face the truth: ninjas are tools for killing. For Naruto, seeing Sasuke dead, that time is now. Rage awakens the nine-tailed fox spirit within Naruto, giving him the strength to overcome Haku—but can he bring himself to finish the job?As the battle for the Land of the Waves comes to a tragic ending, our heroes return to the village of Konohagakure in time for the Chūnin Exams. But junior ninjas from around the world have gathered to take the exam, bringing their own strange ninjutsu and mysterious goals.",
+      release_date: "October 4th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2097.jpg"},
+
+{
+      title: "Naruto, Vol. 25: Brothers",
+      author: "Masashi Kishimoto",
+      synopsis: "Sasuke delves deep to remember how his brother Itachi became the feared ninja he is today! In the bloody battle that ensues between Naruto and his best friend, Naruto realizes that being close to an Uchiha brother could mean his downfall.",
+      release_date: "December 3rd 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2098.jpg"},
+
+{
+      title: "Naruto, Vol. 33: The Secret Mission",
+      author: "Masashi Kishimoto",
+      synopsis: "Morphing out of control, a stronger-than-ever Naruto turns on his own teammates! Orochimaru triggers a frightening change in Naruto as he reveals a sinister plot that's been the death of far more people than anyone knew.",
+      release_date: "June 2nd 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2099.jpg"},
+
+{
+      title: "Naruto, Vol. 02: The Worst Client",
+      author: "Masashi Kishimoto",
+      synopsis: "Tired of menial tasks, Naruto, Sasuke and Sakura ask for a tougher assignment. But you should always be careful what you wish for! Along with their sensei, Kakashi, the trio must guard a cranky old man from the Land of Waves. But Tazuna the bridge builder is in more danger than anyone could have imagined. And now the young ninja are too!",
+      release_date: "June 2nd 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2100.jpg"},
+
+{
+      title: "Naruto, Vol. 13: The Chūnin Exam, Concluded...!!",
+      author: "Masashi Kishimoto",
+      synopsis: "The final battle of the Chūnin Exam is at hand! Sasuke makes it to the arena in time to compete, but the anticipation has only whetted Gaara's terrible bloodlust and strained his already fragile sanity. Can Gaara pull himself together in time to face Sasuke's newfound strength? Or will the demon inside him take complete control and wreak havoc on Konohagakure?!",
+      release_date: "August 2nd 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2101.jpg"},
+
+{
+      title: "Naruto, Vol. 16: Eulogy",
+      author: "Masashi Kishimoto",
+      synopsis: "Death in the village! When the dust settles from Orochimaru's attack, the shinobi find that not everyone has survived. While the ninja mourn, an unlikely candidate is chosen for greatness, a long-lost ninja returns with a dangerous entourage, and Naruto finds his life in more turmoil than ever before.",
+      release_date: "March 4th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2102.jpg"},
+
+{
+      title: "Naruto, Vol. 46: Naruto Returns",
+      author: "Masashi Kishimoto",
+      synopsis: "Naruto's friends are tested as an attempt to overthrow Tsunade begins and they must all fight—or fall. New secrets about Pain are revealed, but they only add to the mystery of his identity. As Pain commences with the final destruction of Konoha, Naruto and the Toads prepare to take him on in battle. Can Naruto save his beloved village?",
+      release_date: "May 1st 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2103.jpg"},
+
+{
+      title: "Naruto, Vol. 10: A Splendid Ninja",
+      author: "Masashi Kishimoto",
+      synopsis: "With only a few matches left to be fought in the preliminaries to the third portion of the Chūnin Selection Exams, the highly anticipated bout between mysterious Sand ninja Gaara and intense, earnest Konoha ninja Rock Lee begins. Will Gaara's bloodlust and his strange powers of sand manipulation be too much for Lee to handle? Or could Lee prove that dedication and an amazing work ethic are enough to make him a splendid ninja?",
+      release_date: "December 4th 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2104.jpg"},
+
+{
+      title: "Naruto, Vol. 31: Final Battle",
+      author: "Masashi Kishimoto",
+      synopsis: "Naruto and his fellow ninja engage in deadly conflict with the enemy. If any of them makes the wrong decision, it could be one of Naruto's closest friends who pays the ultimate price.",
+      release_date: "December 26th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2105.jpg"},
+
+{
+      title: "Naruto, Vol. 29: Kakashi vs. Itachi",
+      author: "Masashi Kishimoto",
+      synopsis: "Guy vs. Kisame!! Kakashi vs. Itachi!! We finally learn what may be happening to Gaara and what might also be in store for Naruto, when they both come face to face with a devious common enemy: the Akatsuki!",
+      release_date: "August 4th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2106.jpg"},
+
+{
+      title: "Naruto, Vol. 05: Exam Hell",
+      author: "Masashi Kishimoto",
+      synopsis: "The three ninja-in-training have signed up for the Chūnin Selection Exams, which they must pass if they ever want to advance to the rank of full-fledged shinobi. They learn too late how grueling the exams are—and how dangerous. If the tests of skill, stealth, and battle prowess don't kill them, their fellow junior ninja will. And, since the three pass or fail as a group, they're only as strong as their weakest link: Naruto!",
+      release_date: "December 4th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2107.jpg"},
+
+{
+      title: "Naruto, Vol. 19: Successor",
+      author: "Masashi Kishimoto",
+      synopsis: "It's all-out shinobi war as Naruto, Tsunade, Jiraiya and Shizune take on Orochimaru and Kabuto in battle—with the final fate of Tsunade hanging on the outcome! Will her darkest fears finally become reality?!",
+      release_date: "November 4th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2108.jpg"},
+
+{
+      title: "Naruto, Vol. 12: The Great Flight",
+      author: "Masashi Kishimoto",
+      synopsis: "At last, the finals of the third phase of the Chūnin Selection Exams begin! In the first battle, Naruto faces off against Neji, widely considered to be the most talented young ninja in Konohagakure. With his newfound ability to access the power of the Nine-Tailed Fox, can Naruto beat his genius opponent? Or will Neji overcome his family's troubled history to triumph in the match?",
+      release_date: "May 1st 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2109.jpg"},
+
+{
+      title: "Naruto, Vol. 30: Puppet Masters",
+      author: "Masashi Kishimoto",
+      synopsis: "Sakura takes her place at the front of the fight to save Naruto. With Granny Chiyo at her side, she must battle Sasori, who can create golems from the undead. But Granny Chiyo is a puppet master too—only it could be Sakura's strings she's pulling!",
+      release_date: "November 4th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2110.jpg"},
+
+{
+      title: "Naruto, Vol. 49: The Gokage Summit Commences",
+      author: "Masashi Kishimoto",
+      synopsis: "As the five leaders of the strongest villages in the ninja world meet to discuss the fate of their universe—and how to deal with the ever-looming threat of the rogue organization, the Akatsuki—plans are made that will affect Naruto deeply. The new Hokage, leader of Naruto's village, is not afraid to make the final end move against Naruto's old pal, Sasuke!",
+      release_date: "January 4th 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2111.jpg"},
+
+{
+      title: "Naruto, Vol. 27: Departure",
+      author: "Masashi Kishimoto",
+      synopsis: "Sakura, Sasuke and Naruto part ways to begin training with separate sensei. Plus, take a trip back in time to finally learn the true story of Kakashi's greatest secret!",
+      release_date: "April 4th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2112.jpg"},
+
+{
+      title: "Naruto, Vol. 28: Homecoming",
+      author: "Masashi Kishimoto",
+      synopsis: "It's been two years since Naruto left to train with Jiraiya. Now he reunites with his old friends to find out he's still not the most accomplished of his former teammates. But when one of them is kidnapped, it's up to Naruto to prove he's got the stuff to save them!",
+      release_date: "June 3rd 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2113.jpg"},
+
+{
+      title: "Naruto, Vol. 42: The Secret of the Mangekyo",
+      author: "Masashi Kishimoto",
+      synopsis: "To truly end the Akatsuki's reign of pain, Naruto's teacher Jiraiya must delve deep into the past to uncover the secret of Pain's origin. At the same time, Sasuke moves toward the final battle of the Uchiha brothers when he closes in on the elusive Itachi!",
+      release_date: "May 2nd 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2114.jpg"},
+
+{
+      title: "Naruto, Vol. 45: Battlefield, Konoha",
+      author: "Masashi Kishimoto",
+      synopsis: "Sasuke and Naruto find that their powers are ever-increasing. Sasuke can now use the Mangekyo Sharingan in multiple ways, and Naruto may have become even more powerful than his fallen sensei, Jiraiya! But is anyone powerful enough to stop the ultimate attack as the Pains of the Akatsuki launch their deadly strike against Naruto's home village?!",
+      release_date: "February 4th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2115.jpg"},
+
+{
+      title: "Naruto, Vol. 06: The Forest of Death",
+      author: "Masashi Kishimoto",
+      synopsis: "Through Naruto's pluck and a healthy dose of luck, Naruto, Sasuke and Sakura passed the written portion of their Chūnin Exam—but that was only the beginning. They're now in the thick of the exam's second portion, held in the aptly named Forest of Death, and instructor Mitarashi Anko has promised to cut the number of advancing teams by half!Each team is turned against the others, using stealth and cunning to purloin the scrolls that they need to pass the test, while trying to survive the many perils that lurk in the forest. And if that's not enough, there's a mysterious imposter among the students who has it in for Sasuke!",
+      release_date: "March 2nd 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2116.jpg"},
+
+{
+      title: "Naruto, Vol. 03: Bridge of Courage",
+      author: "Masashi Kishimoto",
+      synopsis: "While they recover from their injuries, Kakashi puts Naruto, Sasuke, and Sakura on a strict training regimen to protect Tazuna's family against Zabuza's next attack. But Zabuza has a dangerous new apprentice in Haku. And as the bridge comes closer to completion, our heroes must be willing to kill—or die.",
+      release_date: "August 4th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2117.jpg"},
+
+{
+      title: "Naruto, Vol. 44: Senjutsu Heir",
+      author: "Masashi Kishimoto",
+      synopsis: "Naruto must decipher the cryptic last words of his beloved mentor. What did Jiraiya find out about the leader of the Akatsuki that was so important he had to hide it in code? And can Naruto stand a fighting chance against those who managed to take down one of the Three Great Shinobi?",
+      release_date: "November 4th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2118.jpg"},
+
+{
+      title: "Naruto, Vol. 23: Predicament",
+      author: "Masashi Kishimoto",
+      synopsis: "Orochimaru's nefarious plans for Sasuke are revealed, and Naruto vows to save his friend. But first he must battle the mysterious Kimimaro, who has deadly past ties to the Sound Ninja Four!",
+      release_date: "August 4th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2119.jpg"},
+
+{
+      title: "Naruto, Vol. 21: Pursuit",
+      author: "Masashi Kishimoto",
+      synopsis: "Tsunade sends a team to hunt down the conflicted Sasuke, who's made a terrible choice of new teammates. Are Naruto, Neji and the others capable of beating the Sound Four? They have no choice but to find out!",
+      release_date: "March 4th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2120.jpg"},
+
+{
+      title: "Naruto, Vol. 58:  Naruto vs. Itachi",
+      author: "Masashi Kishimoto",
+      synopsis: "Kabuto’s hold over his army of undead minions tightens as he senses that he’s losing power over the stronger members of his Immortal Corps, including Nagato Pain. Sasuke’s brother, Itachi, may have the best chance of breaking Kabuto’s hold. But he’s still not completely in control of his actions, which means Naruto may have to take him down once and for all.",
+      release_date: "November 4th 2011",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2121.jpg"},
+
+{
+      title: "Naruto, Vol. 64: Ten Tails",
+      author: "Masashi Kishimoto",
+      synopsis: "With the masked man's identity revealed as Obito, Kakashi's resolve is severely shaken. It will be up to Naruto to inspire his old master to continue the fight. But when Ten Tails is finally awakened, will the entire ninja world be doomed?",
+      release_date: "April 4th 2013",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2122.jpg"},
+
+{
+      title: "Naruto, Vol. 40: The Ultimate Art",
+      author: "Masashi Kishimoto",
+      synopsis: "It's Deidara vs. Sasuke! Is even Deidara's Ultimate Art no match for the all-powerful new Sasuke? Plus, deep inside the Land of Rain lies a secret of the Akatsuki that sheds doubt on the mysterious organization's true intentions as well as their bizarre leader, Pain.",
+      release_date: "November 2nd 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2123.jpg"},
+
+{
+      title: "Naruto, Vol. 20: Naruto vs. Sasuke",
+      author: "Masashi Kishimoto",
+      synopsis: "It's ninja vs. ninja and Sakura is caught in the middle! With the Sound Four looming close and Lee in the hospital, all three friends hurl toward an uncertain future and find that growing up sometimes means growing apart.",
+      release_date: "December 19th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2124.jpg"},
+
+{
+      title: "Naruto, Vol. 60: Kurama",
+      author: "Masashi Kishimoto",
+      synopsis: "Now aligned with the tailed beasts and his fellow jinchūriki hosts more than ever, Naruto impresses the Allied Shinobi Forces with his newfound strength. But his comrades are not going to leave this final battle with the forces of Tobi up to Naruto alone. As they rush to assist their friend, Sasuke returns. And this time, he's intent on taking out Naruto once and for all.",
+      release_date: "May 2nd 2012",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2125.jpg"},
+
+{
+      title: "Naruto, Vol. 48: The Cheering Village",
+      author: "Masashi Kishimoto",
+      synopsis: "Finally face-to-face with his ultimate nemesis, Naruto finds out there's way more to the true Pain than he could have ever imagined. As the consequences of the tumultuous politics of the past come to light, an unexpected turn of events puts a new ninja in power in Konoha. And the first act by the new leader will change Naruto's world forever.",
+      release_date: "November 4th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2126.jpg"},
+
+{
+      title: "Naruto, Vol. 11: Impassioned Efforts",
+      author: "Masashi Kishimoto",
+      synopsis: "Now preparing for the finals of the Chūnin Selection Exams, Naruto studies with naughty new mentor Jiraiya and struggles to harness the power of the Nine-Tailed Fox chakra locked within him. Meanwhile, other ninja villages are forming secret alliances against Konohagakure...",
+      release_date: "March 4th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2127.jpg"},
+
+      [genres[0], genres[4], genres[1], genres[10]]
       ],
