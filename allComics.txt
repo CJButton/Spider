@@ -1,7 +1,7 @@
 {/*
-Drama, Horror
-Themes: Adventure, Supernatural
-[genres[7], genres[21], genres[1], genres[18], genres[18], genres[18]]
+Fantasy, Romance
+Themes: Battles, Magical Girl
+[genres[4], genres[13], genres[10], genres[17], genres[18], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -5600,4 +5600,70 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1760.jpg"},
 
       [genres[7], genres[21], genres[1], genres[18]]
+      ],
+[
+{
+      title: "Pretty Guardian Sailor Moon, Vol. 3",
+      author: "Naoko Takeuchi",
+      synopsis: "Tuxedo Mask gone bad?! As more of her closest allies fall under the power of the evil Queen Beryl, Usagi comes closer to discovering the truth behind her past. The stage is set for an all-out battle for the fate of Earth between the Sailor Guardians and the forces of evil. But when the dust settles, a little girl calling herself “Usagi” falls from the sky and right into the arms of Mamoru. What is her connection to Sailor Moon and why does she want the Legendary Silver Crystal?This new edition of Sailor Moon features: - An entirely new, incredibly accurate translation- Japanese-style, right-to-left reading- New cover art never before seen in the U.S.- The original Japanese character names- Detailed translation notes",
+      release_date: "October 23rd 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1761.jpg"},
+
+{
+      title: "Pretty Guardian Sailor Moon, Vol. 5",
+      author: "Naoko Takeuchi",
+      synopsis: "Chibi-Usa gets sucked into the far reaches of space-time and vanishes! It’s up to Tuxedo Mask to reach her and get her back safely while Sailor Moon and the others must escape Nemesis and the evil clutches of Wiseman and his cronies. But as Tuxedo Mask travels through the space-time storm, he encounters an ominous woman claiming to be his daughter! Who is this strange woman? Is she really Chibi-Usa?!This new edition of Sailor Moon features:- An entirely new, incredibly accurate translation- Japanese-style, right-to-left reading- New cover art never before seen in the U.S.- The original Japanese character names- Detailed translation notes",
+      release_date: "December 22nd 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1762.jpg"},
+
+{
+      title: "Pretty Guardian Sailor Moon, Vol. 10",
+      author: "Naoko Takeuchi",
+      synopsis: "The threat of the Dead Moon Circus is so great that the outer planet Guardians return to fight alongside their compatriots. But with Usagi now coughing up black blood as well, are they too late? And to make things worse, Queen Nehelenia's servant, Zirconia, casts another curse upon Usagi and Mamoru, sending them both back into childhood. However, Helios whisks away their spirits to Elysion, where they manage to break free and return to their true forms. After they rejoin their companions, the final showdown against Queen Nehelenia herself begins! Will the Sailor Guardians and Tuxedo Mask manage to save Earth and Elysion before the Queen transforms them into eternal realms of nightmares?",
+      release_date: "May 21st 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1763.jpg"},
+
+{
+      title: "Pretty Guardian Sailor Moon, Vol. 2",
+      author: "Naoko Takeuchi",
+      synopsis: "The mysterious Tuxedo Mask has revealed his identity, forcing Usagi to come to terms with her growing affections for the masked vigilante, all the while defending the people of Earth from renewed attacks by the sinister “enemy”. Everything threatens to overwhelm even Sailor Moon when suddenly a new Sailor Guardian appears. Could this new Guardian be the Moon Princess the Sailor Guardians are sworn to protect?",
+      release_date: "September 22nd 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1764.jpg"},
+
+{
+      title: "Pretty Guardian Sailor Moon, Vol. 6",
+      author: "Naoko Takeuchi",
+      synopsis: "Just when all seems well again in the world, another enemy appears. Two new figures from the private school Mugen Academy appear and take a special interest in Sailor Moon and company. Who are they, and do they have anything to do with the strange occurrences that are suddenly taking place? Meanwhile, the appearance of two new Guardians takes everyone by surprise as our favorite Sailor heroes must once again face off against new enemies to save the world.This new edition of Sailor Moon features:  - An entirely new, incredibly accurate translation  - Japanese-style, right-to-left reading  - New cover art never before seen in the U.S.  - The original Japanese character names  - Detailed translation notes",
+      release_date: "January 23rd 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1765.jpg"},
+
+{
+      title: "Pretty Guardian Sailor Moon, Vol. 7",
+      author: "Naoko Takeuchi",
+      synopsis: "Old friends and new enemies lurk in the mysteries surrounding Mugen Academy. The Death Busters crave the Hoste, the human energies, of Sailor Moon and her friends--and they’ll prey on the girls’ dreams and weaknesses to get it! Furthermore, prophetic dreams hint of “talismans” that could awaken a “Deity of Destruction.” Could these things be connected to the guardians’ power? And are the Sailor Senshi capable of murdering the innocent to save the entire world?",
+      release_date: "February 23rd 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1766.jpg"},
+
+{
+      title: "Pretty Guardian Sailor Moon, Vol. 9",
+      author: "Naoko Takeuchi",
+      synopsis: "Amidst the chaos caused by Usagi and Chibi-Usa's body swap, courtesy of the Amazoness PallaPalla, the Sailor Guardians' primary concern remains Mamoru's illness and its possible link to the newcomers in town, the Dead Moon Circus. The Amazonesses and their circus animal lackeys go after the Guardians one by one, tempting them with false visions. However, each of the Guardians manage to defeat the enemy after their inner selves shows them their individual heart crystals and new power. Meanwhile, it is still a toss up who the 'young maiden' is that Elysion priest Helios seeks: She who shall find and unlock the Golden Crystal that will save Earth, Elysion and Mamoru!",
+      release_date: "April 23rd 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1767.jpg"},
+
+{
+      title: "Pretty Guardian Sailor Moon, Vol. 8",
+      author: "Naoko Takeuchi",
+      synopsis: "Chibi Usa’s sickly friend Hotaru isn’t just Sailor Saturn, Deity of Destruction. She’s also possessed by Master Pharaoh 90. Facing this cataclysmic power will be impossible--unless Sailor Moon can unite the powers of every Guardian of the Solar System. Then, when the moon eclipses the sun, a mystical unicorn begs for help. An elaborate ship floats through the sky, and Usagi and Chibi-Usa have trouble seeing eye to eye...",
+      release_date: "March 23rd 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1768.jpg"},
+
+{
+      title: "Pretty Guardian Sailor Moon, Vol. 4",
+      author: "Naoko Takeuchi",
+      synopsis: "A new group calling themselves Black Moon is after Usagi and the rest of the Sailor Guardians, wielding a new power known only as the Malefic Black Crystal. Chibi-Usa may be the key to it all, but to find the answers and rescue her kidnapped friends, Usagi will have to journey through time to the 30th century and discover what fate has in store.  This new edition of Sailor Moon features:  - An entirely new, incredibly accurate translation  - Japanese-style, right-to-left reading  - New cover art never before seen in the U.S.  - The original Japanese character names  - Detailed translation notes",
+      release_date: "November 21st 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1769.jpg"},
+
+      [genres[4], genres[13], genres[10], genres[17]]
       ],
