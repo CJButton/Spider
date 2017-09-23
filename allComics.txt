@@ -1,6 +1,7 @@
 {/*
-Action, Science Fiction
-[genres[0], genres[5], genres[18], genres[15], genres[15], genres[18]]
+Drama, Romance
+Themes: Music, Slice of Life
+[genres[7], genres[13], genres[16], genres[15], genres[15], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -8635,4 +8636,119 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2179.jpg"},
 
       [genres[0], genres[5]]
+      ],
+[
+{
+      title: "Nana, Vol. 4",
+      author: "Ai Yazawa",
+      synopsis: "This is the story of two 20-year old women who share the same name. Even though they come from completely different backgrounds, they somehow meet and become best friends. The world of NANA is a world exploding with sex, music, fashion, gossip, and all-night parties.",
+      release_date: "December 10th 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2180.jpg"},
+
+{
+      title: "Nana, Vol. 7",
+      author: "Ai Yazawa",
+      synopsis: "Nana K. was happy to be Blast's biggest cheerleader, but now that the band is taking off, she's discovering that there are hordes of fans eager to take her place. At the same time, her involvement with Trapnest hottie Takumi is turning into a romantic entanglement she hadn't expected. When a chance for another kind of happiness presents itself, will Nana K. be strong enough to face the difficult choices that result?",
+      release_date: "October 15th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2181.jpg"},
+
+{
+      title: "Nana, Vol. 8",
+      author: "Ai Yazawa",
+      synopsis: "Hachi's happiness with Nobu is slipping through her fingers as an unexpected complication with Takumi threatens to upend her entire life. And unlike her past romantic woes, the choice she makes now will change the lives of everyone around her.",
+      release_date: "May 15th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2182.jpg"},
+
+{
+      title: "Nana, Vol. 1",
+      author: "Ai Yazawa",
+      synopsis: "Nana Komatsu is a young woman who's endured an unending string of boyfriend problems. Moving to Tokyo, she's hoping to take control of her life and put all those messy misadventures behind her. She's looking for love and she's hoping to find it in the big city. Nana Osaki, on the other hand, is cool, confident and focused. She swaggers into town and proceeds to kick down the doors to Tokyo's underground punk scene. She's got a dream and won't give up until she becomes Japan's No. 1 rock'n'roll superstar. This is the story of two 20-year-old women who share the same name. Even though they come from completely different backgrounds, they somehow meet and become best friends. The world of Nana is a world exploding with sex, music, fashion, gossip and all-night parties.",
+      release_date: "May 15th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2183.jpg"},
+
+{
+      title: "Nana, Vol. 10",
+      author: "Ai Yazawa",
+      synopsis: "Being an engaged woman isn't as wonderful as Hachi thought it would be. She has a trendy new apartment, but she's isolated from all her friends and Takumi is hardly ever home. When scandal hits Blast hard, Trapnest (and her fiancé) flee to Europe and Hachi is left to watch Blast suffer in the scandal rags and tabloid shows.",
+      release_date: "March 15th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2184.jpg"},
+
+{
+      title: "Nana, Vol. 11",
+      author: "Ai Yazawa",
+      synopsis: "Nana 11",
+      release_date: "August 11th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2185.jpg"},
+
+{
+      title: "Nana, Vol. 3",
+      author: "Ai Yazawa",
+      synopsis: "This is the story of two 20-year old women who share the same name. Even though they come from completely different backgrounds, they somehow meet and become best friends. The world of NANA is a world exploding with sex, music, fashion, gossip, and all-night parties.",
+      release_date: "May 15th 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2186.jpg"},
+
+{
+      title: "Nana, Vol. 13",
+      author: "Ai Yazawa",
+      synopsis: "This is the story of two 20-year-old women who share the same name. Even though they come from completely different backgrounds, they somehow meet and become best friends. The world of Nana is a world exploding with sex, music, fashion, gossip and all-night parties.",
+      release_date: "August 12th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2187.jpg"},
+
+{
+      title: "Nana, Vol. 20",
+      author: "Ai Yazawa",
+      synopsis: "The all-time best-selling shojo title in Japan R to L (Japanese Style). Ren's drug use is spiraling out of control and he doesn't want to drag Trapnest down with him. Neither Takumi nor Reira are willing to let Ren quit the band, and both do their best to give him the time he needs to get it together. But Ren isn't sure this is something he can handle on his own. Will he turn to Nana for help, or will their strained relationship make him try to face his demons alone? Nana 'Hachi' Komatsu hopes that moving to Tokyo will help her make a clean start and leave her capricious love life behind her. Nana Osaki, who arrives in the city at the same time, has plans to score big in the world of rock'n'roll. Although these two young women come from different backgrounds, they quickly become best friends in a whirlwind world of sex, music, fashion, gossip and all-night parties!",
+      release_date: "September 12th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2188.jpg"},
+
+{
+      title: "Nana, Vol. 21",
+      author: "Ai Yazawa",
+      synopsis: "Reads R to L (Japanese Style). The all-time best-selling shojo title in Japan ",
+      release_date: "March 13th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2189.jpg"},
+
+{
+      title: "Nana, Vol. 14",
+      author: "Ai Yazawa",
+      synopsis: "This is the story of two 20-year-old women who share the same name. Even though they come from completely different backgrounds, they somehow meet and become best friends. The world of Nana is a world exploding with sex, music, fashion, gossip and all-night parties.",
+      release_date: "December 15th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2190.jpg"},
+
+{
+      title: "Nana, Vol. 5",
+      author: "Ai Yazawa",
+      synopsis: "Nana K. is going home--for an awesome TrapNest concert! She drags Nana O. along, convinced that somehow Ren will sense his ex-flame in the audience. But life is never that easy, and Nana O. isn't sure if she even wants Ren back. As for Nana K., is she prepared for TrapNest to come down off the stage and into her life, or will her fan-girl attitude land her in a heap of trouble?",
+      release_date: "May 15th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2191.jpg"},
+
+{
+      title: "Nana, Vol. 9",
+      author: "Ai Yazawa",
+      synopsis: "Takumi and Hachi are getting married, but it's far from a joyous announcement. Nobu and Nana are devastated, and even Takumi's bandmates take the news hard. With paparazzi skulking around for a new scandal to exploit and tensions between Trapnest and Blast on high alert, will Hachi ever get her happily ever after?",
+      release_date: "November 14th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2192.jpg"},
+
+{
+      title: "Nana, Vol. 12",
+      author: "Ai Yazawa",
+      synopsis: "Hachi tells herself that she's got her eye on the future and her life with Takumi, but she just can't let go of the past and her friendship with Nana and the rest of Blast - especially Nobu. And the tangle gets thicker when Hachi's wedding has to be postponed in favor of Nana and Ren's nuptials. Can Hachi handle another delay in her happily ever after?",
+      release_date: "March 15th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2193.jpg"},
+
+{
+      title: "Nana, Vol. 2",
+      author: "Ai Yazawa",
+      synopsis: "This is the story of two 20-year old women who share the same name. Even though they come from completely different backgrounds, they somehow meet and become best friends. The world of NANA is a world exploding with sex, music, fashion, gossip, and all-night parties.",
+      release_date: "December 11th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2194.jpg"},
+
+{
+      title: "Nana, Vol. 6",
+      author: "Ai Yazawa",
+      synopsis: "Nana Osaki's band Blast is taking off in a big way--from sold-out club dates to a record label waving a contract at them. But the Trapnest menace still lurks, stealing away everything she cares for. Trapnest took her boyfriend, and even though Ren is back in her life, his band still comes first. And now her trusty sidekick Nana K. is being lured away by Trapnest bassist Takumi. But this time, Nana O. won't give up without a fight!",
+      release_date: "September 13th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2195.jpg"},
+
+      [genres[7], genres[13], genres[16]]
       ],
