@@ -1,7 +1,6 @@
 {/*
-Fantasy
-Themes: Supernatural
-[genres[4], genres[18], genres[9], genres[10], genres[15], genres[18]]
+Action, Science Fiction
+[genres[0], genres[5], genres[18], genres[15], genres[15], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -8441,4 +8440,199 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2152.jpg"},
 
       [genres[4], genres[18]]
+      ],
+[
+{
+      title: "Ouran High School Host Club, Vol. 9",
+      author: "Bisco Hatori",
+      synopsis: "In middle school, Tamaki Suoh must entice the coldhearted twins, Hikaru and Kaoru Hitachiin, to join his newly created Host Club. But in order to get them to accept his proposal, he must first best them at their own game.",
+      release_date: "September 5th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2153.jpg"},
+
+{
+      title: "Ouran High School Host Club, Vol. 4",
+      author: "Bisco Hatori",
+      synopsis: "One day, Haruhi, a scholarship student at exclusive Ouran High School, breaks an $80,000 vase that belongs to the 'Host Club', a mysterious campus group consisting of six super-rich (and gorgeous) guys. To pay back the damages, she is forced to work for the club, and it's there that she discovers just how wealthy the boys are and how different they are from everybody else.",
+      release_date: "December 31st 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2154.jpg"},
+
+{
+      title: "Ouran High School Host Club, Vol. 5",
+      author: "Bisco Hatori",
+      synopsis: "In this sharp-witted romantic comedy about the clash of the classes (of all kinds), a poor girl at a rich kids' school ends up working at the school's toniest club-and gets mistaken for a boy!",
+      release_date: "January 5th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2155.jpg"},
+
+{
+      title: "Ouran High School Host Club, Vol. 2",
+      author: "Bisco Hatori",
+      synopsis: "The school-wide physical exam has thrown the members of the elegant Host Club for a loop. How can the doctor not discover that Haruhi is a girl? And once the female customers learn the turn, Haruhi can kiss her job goodbye. Illustrations. Rated for teens.",
+      release_date: "November 5th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2156.jpg"},
+
+{
+      title: "Ouran High School Host Club, Vol. 3",
+      author: "Bisco Hatori",
+      synopsis: "In this sharp-witted romantic comedy about the clash of the classes (of all kinds), a poor girl at a rich kids' school ends up working at the school's toniest club, and gets mistaken for a boy! ",
+      release_date: "March 5th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2157.jpg"},
+
+{
+      title: "Ouran High School Host Club, Vol. 6",
+      author: "Bisco Hatori",
+      synopsis: "In this sharp-witted romantic comedy about the clash of the classes (of all kinds), a poor girl at a rich kids' school ends up working at the school's toniest club-and gets mistaken for a boy!",
+      release_date: "July 5th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2158.jpg"},
+
+{
+      title: "Ouran High School Host Club, Vol. 11",
+      author: "Bisco Hatori",
+      synopsis: "In this screwball romantic comedy, Haruhi, a poor girl at a rich kids' school, is forced to repay an $80,000 debt by working for the school's swankiest, all-male club--as a boy! There, she discovers just how wealthy the six members are and how different the rich are from everybody else... ",
+      release_date: "November 4th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2159.jpg"},
+
+{
+      title: "Ouran High School Host Club, Vol. 10",
+      author: "Bisco Hatori",
+      synopsis: "Ever since the day he helped her up after a nasty tumble, Black Magic Club member Reiko Kanazuki has been obsessed with Hunny. She is devoting all her knowledge of the dark arts to curse him and steal his soul. Will the sweetest member of the Host Club fall victim to her spells?",
+      release_date: "August 14th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2160.jpg"},
+
+{
+      title: "Ouran High School Host Club, Vol. 7",
+      author: "Bisco Hatori",
+      synopsis: "Hunny's little brother, Chika, pays a visit to the Host Club--and immediately starts attacking Hunny, using all his martial-arts prowess against his older brother! Chika seems to be the absolute opposite of his sweets-loving, Bun-Bun-toting sibling, but why is he so angry with Hunny? The Host Club is determined to find out the cause...",
+      release_date: "December 5th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2161.jpg"},
+
+{
+      title: "Ouran High School Host Club, Vol. 14",
+      author: "Bisco Hatori",
+      synopsis: " ",
+      release_date: "May 1st 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2162.jpg"},
+
+{
+      title: "Ouran High School Host Club, Vol. 12",
+      author: "Bisco Hatori",
+      synopsis: "In this screwball romantic comedy, Haruhi, a poor girl at a rich kids' school, is forced to repay an $80,000 debt by working for the school's swankiest, all-male club--as a boy! There she discovers just how wealthy the six members are and how different the rich are from everybody else... ",
+      release_date: "July 22nd 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2163.jpg"},
+
+{
+      title: "Ouran High School Host Club, Vol. 15",
+      author: "Bisco Hatori",
+      synopsis: "Reads R to L (Japanese Style), for T audiences. The members of the Host Club plan an event to help Tamaki get over his separation anxiety from the Host Club, and even Haruhi gets in on the action. Will the bonds of friendship between Tamaki and Haruhi become bonds of love?",
+      release_date: "2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2164.jpg"},
+
+{
+      title: "Ouran High School Host Club, Vol. 1",
+      author: "Bisco Hatori",
+      synopsis: "One day, Haruhi, a scholarship student at exclusive Ouran High School, breaks an $80,000 vase that belongs to the 'Host Club', a mysterious campus group consisting of six super-rich (and gorgeous) guys. To pay back the damages, she is forced to work for the club, and it's there that she discovers just how wealthy the boys are and how different they are from everybody else.",
+      release_date: "August 5th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2165.jpg"},
+
+{
+      title: "Ouran High School Host Club, Vol. 17",
+      author: "Bisco Hatori",
+      synopsis: "Tamaki’s father and grandmother, the heads of the powerful Suoh Corp., are behind the Host Club’s suspension and the plan for Haruhi to be shipped off abroad. Now the Host Club members must pull out all the stops to save their beloved leader from his family’s infighting.",
+      release_date: "September 3rd 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2166.jpg"},
+
+{
+      title: "Ouran High School Host Club Box Set",
+      author: "Bisco Hatori",
+      synopsis: "The complete best-selling series, now in a value-priced box setReads R to L (Japanese style) for teen audiences. In this screwball romantic comedy, Haruhi, a poor girl at a rich kids school, is forced to repay an $80,000 debt by working for the school's swankiest, all-male club, as a boy! There she discovers just how wealthy the six members are and how different the rich are from everybody else.",
+      release_date: "August 16th 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2167.jpg"},
+
+{
+      title: "Ouran High School Host Club, Vol. 8",
+      author: "Bisco Hatori",
+      synopsis: "The first-years in Class 1-A are taking part in a test of courage, where the loser will receive the dubious honor of being dubbed Best of Cowards. Kazukiyo Souga, the club president and fraidy-cat at heart, is happy to be on a team with the levelheaded Haruhi, but will he be able to stomach the antics of his other teammates - the twins Hikaru and Kaori Hitachiin?",
+      release_date: "April 5th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2168.jpg"},
+
+{
+      title: "Ouran High School Host Club, Vol. 16",
+      author: "Bisco Hatori",
+      synopsis: "The two senior members of the Host Club are graduating and will lead separate lives at university. Everyone is mourning the loss of the Hunny-Mori Combo, but the longtime duo already seems to have ended their close friendship. Now Mori has challenged Hunny to a duel--but why?",
+      release_date: "2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2169.jpg"},
+
+{
+      title: "Ouran High School Host Club, Vol. 13",
+      author: "Bisco Hatori",
+      synopsis: "Mei, wanting Haruhi to face up to her feelings, leaves out a magazine that has a checklist for determining whether a girl is in love. As Haruhi reads through the checklist, she realizes that one host may have captured her heart without her even knowing...",
+      release_date: "August 20th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2170.jpg"},
+
+      [genres[14], genres[13], genres[22], genres[15]]
+      ],
+      [
+{
+      title: "Battle Angel Alita, Volume 04: Angel of Victory",
+      author: "Yukito Kishiro",
+      synopsis: "Alita must choose a challenge team to defeat Jashugan, the proud, invincible Motorball champion. Who will give their all-their very life-for the lovely Battle Angel? In the intense heat of battle during her final one-on-one showdown with Jashugan, Alita slips into a trance that provides an incredible revelation about her mysterious past.",
+      release_date: "May 1993",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2171.jpg"},
+
+{
+      title: "Battle Angel Alita, Volume 01: Rusty Angel",
+      author: "Yukito Kishiro",
+      synopsis: "Yukito Kishiro blurs the lines between human and machine in the sci-fi/action adventure Battle Angel Alita.Daisuke Ido, a talented cybernetic doctor, finds the head of a cyborg in a junk heap. When he rebuilds her body, Alita's only clue to her past surfaces-her deadly fighting instincts! And now she is determine to find out the truth about who she once was...",
+      release_date: "September 24th 1991",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2172.jpg"},
+
+{
+      title: "Battle Angel Alita, Volume 07: Angel Of Chaos",
+      author: "Yukito Kishiro",
+      synopsis: "Alita meets Kaos, the son of mad scientist Desty Nova, who uses his psychometric powers to repair Alita's cyborg body after she falls into a sinkhole. A refurbished Alita finally goes head to head against the forces of Barjack and is ready to kill their leader, Den, when she's unexpectedly betrayed. Then Alita discovers the secret relationship between Den and Kaos...",
+      release_date: "1994",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2173.jpg"},
+
+{
+      title: "Battle Angel Alita, Volume 03: Killing Angel",
+      author: "Yukito Kishiro",
+      synopsis: "Her spirit crushed over the loss of Hugo, Alita runs away from Doc Ido and the life she's built in the Scrapyard to become a challenger in motorball, a combat-like game that pits cyborg competitors against each other. As they race through the obstacle course, fighting for the ball, Alita learns her foes will do anything to win, and that losers often don't live to talk about their defeat.",
+      release_date: "1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2174.jpg"},
+
+{
+      title: "Battle Angel Alita, Volume 09: Angel's Ascension",
+      author: "Yukito Kishiro",
+      synopsis: "The final volume of this epic sci-fi action series finds the beautiful and deadly cyborg Alita locked in a nightmarish virtual-reality battle with her nemesis, Desty Nova -- a struggle that may spell the end of the world.",
+      release_date: "1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2175.jpg"},
+
+{
+      title: "Battle Angel Alita, Volume 08: Fallen Angel",
+      author: "Yukito Kishiro",
+      synopsis: "'First published in Japan in 1991 by Shueisha Inc., Tokyo'--T.p. verso.",
+      release_date: "September 1st 1994",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2176.jpg"},
+
+{
+      title: "Battle Angel Alita, Volume 05: Angel Of Redemption",
+      author: "Yukito Kishiro",
+      synopsis: "'First published in Japan in 1991 by Shueisha Inc., Tokyo'--T.p. verso.",
+      release_date: "1993",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2177.jpg"},
+
+{
+      title: "Battle Angel Alita, Volume 06: Angel Of Death",
+      author: "Yukito Kishiro",
+      synopsis: "Alita's death sentence is commuted in exchange for her service as a member of the 'Tuned,' an elite force of the utopian city of Tiphares. Her first assignment is to protect a nuclear-powered train from the infamous bandit known as Barjack.",
+      release_date: "June 1st 1994",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2178.jpg"},
+
+{
+      title: "Battle Angel Alita, Volume 02: Tears of an Angel",
+      author: "Yukito Kishiro",
+      synopsis: "Alita's mastery of the lethal Panzer Kunst technique may not help her in volume 2 of this popular series. Her worst enemy may be herself.",
+      release_date: "February 24th 1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2179.jpg"},
+
+      [genres[0], genres[5]]
       ],
