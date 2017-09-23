@@ -4,9 +4,9 @@
 //**
 
 {/*
-Action
-Themes: Adventure, Fan Service
-[genres[1], genres[0], genres[4], genres[21], genres[9], genres[18]]
+Action, Drama, Science Fiction
+Themes: Adventure, Battles
+[genres[0], genres[7], genres[5], genres[1], genres[10], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -4466,4 +4466,255 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1602.jpg"},
 
       [genres[1], genres[0]]
+      ],
+[
+{
+      title: "xxxHolic, Vol. 6",
+      author: "CLAMP",
+      synopsis: "Kimihiro Watanuki takes a welcome break from his grueling service to the time-space witch, Yûko Ishihara, only to find himself mixed up in the strangest parade of the Japanese magical world. But a slipup reveals that Kimihiro is a powerless human! How can he survive the festival without being eaten by its dangerous participants?Then Kimihiro meets a woman who grieves for her lost son. Since Kimihiro is an orphan, the two form an immediate bond. But what will Kimihiro do when he realizes that his wonderful new friendship may very well kill him?xxxHOLiC crosses over with Tsubasa, also by CLAMP. Don’t miss it!Includes chapters 35-42",
+      release_date: "January 1st 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1603.jpg"},
+
+{
+      title: "xxxHolic, Vol. 13",
+      author: "CLAMP",
+      synopsis: "The medium Kohane-chan has been punched and bruised on national TV, but still her controlling mother is forcing her to go on the air. Now Kimihiro steps between the rebellious young psychic and her raging mother, only to take the beating himself. See the dramatic conclusion of Kohane-chan’s story!Includes chapters 80-84",
+      release_date: "June 23rd 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1604.jpg"},
+
+{
+      title: "xxxHolic, Vol. 4",
+      author: "CLAMP",
+      synopsis: "It’s Valentine’s Day–and while Domeki is showered with chocolates and cards from girls, Watanuki receives none. To make matters worse, he must also do the usual chores for Yûko, which includes making chocolate cake for her and Mokona, as well as the treats his boss wants to give away as gifts. But when Watanuki discovers he has a shy and secret admirer who is not quite human, he finds that chocolates can be more than just sweets.Then, after seeing identical twin sisters pass by in the street, Yûko makes a curious remark: that there are chains that only humans can use to bind others. Watanuki meets the sisters and senses that the relationship between them is not what it seems. . . .crosses over with , also by CLAMP. Don’t miss it!Includes chapters 23-28",
+      release_date: "June 17th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1605.jpg"},
+
+{
+      title: "xxxHolic, Vol. 10",
+      author: "CLAMP",
+      synopsis: "Months ago, when Kimihiro Watanuki became the indentured servant of the witch Yûko Ichihara, Yûko warned Kimihiro about his attraction to cute young Himawari-chan. But he refused to listen. How could his pretty classmate possibly pose any kind of danger to him? At last the secret is revealed . . . and with near-fatal results.Includes chapters 59-64",
+      release_date: "November 17th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1606.jpg"},
+
+{
+      title: "xxxHolic, Vol. 17",
+      author: "CLAMP",
+      synopsis: "Watanuki no longer leaves the wish-granting shop he inherited from the witch Yûko. What’s more, he must help everyone who walks through its doors—even the monster that ate his eye! How can the still-inexperienced Watanuki handle what can only be called one dangerous customer? Includes chapters 102-105",
+      release_date: "January 1st 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1607.jpg"},
+
+{
+      title: "xxxHolic, Vol. 8",
+      author: "CLAMP",
+      synopsis: "Kimihiro Watanuki’s after-school job working for the mysterious witch Yûko Ishikawa has taken a dangerous turn. A recent assignment cost Kimihiro his right eye to a spider with a grudge. Now the missing eye has become the latest must-have item in the spirit world. Even the Zashiki-Warashi, the pretty spirit who has a crush on Kimihiro, has become entangled in the mess . . . and she’s being held captive by an unknown evil! Can Kimihiro save both the girl and his eye–without getting himself killed by beings more powerful than he can imagine?Includes chapters 48-51",
+      release_date: "1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1608.jpg"},
+
+{
+      title: "xxxHolic, Vol. 1",
+      author: "CLAMP",
+      synopsis: "Watanuki Kimihiro is haunted by visions of ghosts and spirits. Seemingly by chance, he encounters a mysterious witch named Yuuko, who claims she can help. In desperation, he accepts, but realizes that he's just been tricked into working for Yuuko in order to pay off the cost of her services. Soon he's employed in her little shop--a job which turns out to be nothing like his previous work experience Most of Yuuko's customers live in Japan, but Yuko and Watanuki are about to have some unusual visitors named Sakura and Syaoran from a land called Clow. . . . XXXHolic volume one 'crosses over with 'Tsubasa volume one 'Don't miss it 'Includes special extras after the story Includes chapters 1-8",
+      release_date: "July 23rd 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1609.jpg"},
+
+{
+      title: "xxxHolic, Vol. 14",
+      author: "CLAMP",
+      synopsis: "Kimihiro is a mystery even to himself. He has no memory of his past, or even of his beloved parents’ names. Neither does he have any idea why he is being followed by malicious spirits. But his boss, the witch Yûko Ichihara, knows, and in this volume many of Kimihiro’s secrets are finally revealed!xxxHOLiC crosses over with Tsubasa, also by CLAMP. Don’t miss it!Includes chapters 85-91",
+      release_date: "January 1st 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1610.jpg"},
+
+{
+      title: "xxxHolic, Vol. 3",
+      author: "CLAMP",
+      synopsis: "Kimihiro Watanuki is haunted by spirits–-and the only way to escape his curse is to become the indentured servant of the mysterious witch, Yûko Ichihara. But when his beloved, beautiful Himawari-chan, asks him for a favor, he and his eternal rival, the exorcist Dômeki, must go on a spirit-busting adventure without Yûko there to save them!Meanwhile Yûko gives a young woman a precious cylindrical box from her treasure room. There’s just one caveat: She must never open it. Inside is a magical device with a terrifying reputation! Can Kimihiro save an ambitious young lady from her own overconfidence? Tsubasa xxxHOLiC volume three! Includes chapters 16-22",
+      release_date: "February 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1611.jpg"},
+
+{
+      title: "xxxHolic, Vol. 11",
+      author: "CLAMP",
+      synopsis: "Kimihiro Watanuki has been saved from death by the sacrifices of his friends, but his recovery time is cut short. His special connection with the spirit world is needed to investigate a terrifying haunted house, placate annoyed Warashi spirits, and face the growing threat of a shadowy figure called Fei-Wang Reed.Includes chapters 65-72",
+      release_date: "2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1612.jpg"},
+
+{
+      title: "xxxHolic, Vol. 5",
+      author: "CLAMP",
+      synopsis: "Kimihiro Watanuki is the indentured servant of Yûko, the beautiful but completely unpredictable Space-Time Witch. He must work at her bizarre wish-granting shop until he can pay off his own wish: to be free of the spirits that haunt him. Yûko’s latest customer is a rain spirit who wants Kimihiro dispatched on a rescue mission. Little does Kimihiro know that this mission will take him to death’s door!Kimihiro has another problem. A cute spirit has given him a Valentine’s Day present, which means he’s obligated by Japanese custom to return the favor. What do you get a girl who may not even exist in this world?Includes chapters 29-34",
+      release_date: "January 1st 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1613.jpg"},
+
+{
+      title: "xxxHolic, Vol. 9",
+      author: "CLAMP",
+      synopsis: "Without realizing it, Kimihiro Watanuki has purchased a dream. According to his boss Yûko Ishikawa, the mysterious time-space witch, people usually buy good dreams–but Kimihiro’s dream is a man-eating nightmare. Even worse, it has come true! Then Kimihiro meets a wistful girl who, like him, can see the spirit world. Together they try to prevent a harmless ghost from being exorcised from its beloved resting place, an ancient cherry tree. The girl’s mother wants her to have nothing to do with Kimihiro, but the spirits say otherwise. . . .Includes chapters 52-58",
+      release_date: "2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1614.jpg"},
+
+{
+      title: "xxxHolic, Vol. 18",
+      author: "CLAMP",
+      synopsis: "Includes special extras after the story!Watanuki's vow to the witch Yuko, who has disappeared, leaves him in charge of the shop where wishes must be granted to those who meet the price. Enter a deranged customer who is determined to capture the heart of the man she is stalking. Now Watanuki may have no choice but to deliver his friend Shizuka Domeki into the arms of this unstable woman!xxxHOLiC crosses over with Tsubasa, also by CLAMP. Don't miss it!Available on DVD from FUNimation EntertainmentIncludes chapters 106-107 + Special",
+      release_date: "January 1st 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1615.jpg"},
+
+{
+      title: "xxxHolic, Vol. 12",
+      author: "CLAMP",
+      synopsis: "Lately Kimihiro Watanuki’s dreams have been pleasant escapes that have given him the chance to talk to his new friend Haruki Dômeki. But now he’s falling asleep a lot–and starting to think that his entire life with the witch Yûko might be taking place in some kind of dreamworld. Then one night his dream is visited by a pretty princess named Sakura. . . .xxxHOLiC crosses over with Tsubasa, also by CLAMP. Don’t miss it!Available on DVD from FUNimation EntertainmentIncludes chapters 73-79",
+      release_date: "October 17th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1616.jpg"},
+
+{
+      title: "xxxHOLiC: AnotherHOLiC",
+      author: "CLAMP",
+      synopsis: "Introducing the thrilling first novel set in the exotic, mysterious world of xxxHOLiC! Written by bestselling author NISIOISIN, and spectacularly illustrated by CLAMP, this original story features the ever-excitable high school student Kimihiro Watanuki, the mystifying time-space witch Yûko Ichihara, and a host of fascinating new characters.Nothing could have thrilled Kimihiro more than stumbling upon the bizarre wish-granting shop of the beautiful but unnerving Yûko Ichihara, who solemnly promises to make the spirits plaguing Kimihiro go away just as soon as her fee–rendered in daily afternoon chores at her shop–is paid in full.Of course, the thrill wears off as soon as Kimihiro realizes that his payment plan bears a disturbing resemblance to indentured servitude . . . eternalindentured servitude. Still he soldiers on, ready for whatever number of adventures lie ahead. But in Kimihiro’s case, three may not be the charm!His first assignment–to procure a pair of fake eyeglasses–is exceptionally pointless, even by Yûko’s standards. Or at least it seems that way, until Kimihiro watches a woman throw herself into traffic. He soon discovers that the doors of bespectacled perception can swing both ways. Next, when a classmate seeks help solving a mystery involving text messages from the dead, Kimihiro is glad to play Sherlock. But he must turn to Yûko to determine whether the root of the riddle is otherworldly shenanigans, deceit, or murder. Finally, however ready, willing, and able Kimihiro thinks he is to face the most unusual of circumstances, he still finds himself completely bewildered by the stranger who chases away his darkest spirits, condemns Yûko as a craven charlatan, and offers Kimihiro a way out of his preternatural predicament–anda fortune besides.",
+      release_date: "2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1617.jpg"},
+
+{
+      title: "xxxHolic, Vol. 7",
+      author: "CLAMP",
+      synopsis: "KimihIro Watanuki has a wish on layaway with Yûko Ishikawa, the sultry time-space witch who can grant anyone’s deepest desire… for a price! Still, working like a slave in Yûko’s shop hasn’t dampened Kimihiro’s enthusiasm for his cute classmate Himawari-chan, nor his irritation with his too-cool rival Dômeki, the guy who always seems to be around during Kimihiro’s most embarrassing moments.But when Dômeki, trying to be a good samaritan, inadvertently becomes the object of a terrible grudge, Kimihiro seeks Yûko’s help. However, the cost for her assistance is steep: Kimihiro would be permanently impaired! Is such a sacrifice worth it for someone he would rather have disappear?Includes chapters 43–47.",
+      release_date: "October 17th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1618.jpg"},
+
+{
+      title: "xxxHolic, Vol. 19",
+      author: "CLAMP",
+      synopsis: "Kimihiro Watanuki has passed through many trials by fire. Once an indentured servant, he has matured and become the poised and skilled keeper of the shop that grants wishes. But Watanuki’s final wish is for himself: to meet the witch Yûko one more time. With Yûko long vanished from our world, is it even possible? That question and others are answered now in the concluding volume of the bestselling manga xxxHOLiC! Includes chapters 108–111",
+      release_date: "January 1st 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1619.jpg"},
+
+{
+      title: "xxxHolic, Vol. 2",
+      author: "CLAMP",
+      synopsis: "Kimihiro Watanuki thought he had signed up with a bunch of weirdoes, and he was right! He became the unfortunate indentured servant of a woman known as Yûko Ichihara, who was widely rumored to be the time-space witch. Now his voyage through the worlds of the occult are off and running, as he and Yûko go visiting fortune tellers and horoscope readers. But can the future really be told?Meanwhile, the romance is heating up between Kimihiro and cute Himawari-chan. Then fate throws Kimihiro’s old rival back into his life. Now Yûko invites all three to a temple to tell scary stories throughout the night. Is it just for fun or is there some deeper reason?Tsubasa xxxHOLiC volume two! Includes chapters 9-15",
+      release_date: "October 16th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1620.jpg"},
+
+      [genres[7], genres[4], genres[8], genres[18]]
+      ],
+[
+{
+      title: "Black Cat, Volume 16",
+      author: "Kentaro Yabuki",
+      synopsis: "Train Heartnet, also known as 'Black Cat,' was an infamous assassin for a secret organization called Chronos...until he abandoned that cold-blooded existence to live on his own terms as an easygoing bounty hunter. But is Train's past as far behind him as he thinks?Train and River put aside their differences as they face off with Shiki, one of the most powerful members of the Apostles of the Stars. Shiki is determined to show that the Tao is the ultimate form of power, and he's going to take down Train, his friends and all of Chronos to prove it!",
+      release_date: "November 15th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1621.jpg"},
+
+{
+      title: "Black Cat, Volume 07",
+      author: "Kentaro Yabuki",
+      synopsis: "Train Heartnet, also known as 'Black Cat,' was an infamous assassin for a secret organization called Chronos...until he abandoned that cold-blooded existence to live on his own terms as an easygoing bounty hunter. But is Train's past as far behind him as he thinks?",
+      release_date: "April 28th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1622.jpg"},
+
+{
+      title: "Black Cat, Volume 11",
+      author: "Kentaro Yabuki",
+      synopsis: "Charden and Kyoko have deserted Creed's Apostles of the Stars and joined up with Train and Sven. But it won't be easy to protect them, since Train has been shot by a nanotech bullet that turns him into a little boy. Rinslet goes in search of Dr. Tearju, who developed Creed's nanotechnology and may be the only one who can return Train to normal. But will Rinslet find the doctor before Creed or Chronos finds Train?",
+      release_date: "February 16th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1623.jpg"},
+
+{
+      title: "Black Cat, Volume 08",
+      author: "Kentaro Yabuki",
+      synopsis: "Train Heartnet, also known as 'Black Cat,' was an infamous assassin for a secret organization called Chronos...until he abandoned that cold-blooded existence to live on his own terms as an easygoing bounty hunter. But is Train's past as far behind him as he thinks?",
+      release_date: "June 23rd 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1624.jpg"},
+
+{
+      title: "Black Cat, Volume 04",
+      author: "Kentaro Yabuki",
+      synopsis: "Train Heartnet was once a legendary assassin known as 'Black Cat' and belonged to a secret society called Chronos. But two years ago he faked his own death in order to leave Chronos and become a bounty hunter, able to live by his own rules. His main mission in life now is to find Creed Diskense, a former Chronos member who killed his best friend. Train and his partner Sven are joined by a sexy thief named Rinslet and an amazing young girl named Eve who is a creation of nanotechnology!",
+      release_date: "September 24th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1625.jpg"},
+
+{
+      title: "Black Cat, Volume 15",
+      author: "Kentaro Yabuki",
+      synopsis: "• 20 volumes of Black Cat have sold approximately 600,000 copies each in Japan. • Volumes 1-11 have all debuted in the top 15 on Bookscan’s Graphic Novel charts.• Named one of the Top 50 Manga Properties of 2006 by ICv2• The first eleven volumes of Black Cat manga have sold through over 175k units in the U.S. to date.• Previewed and promoted in SHONEN JUMP magazine• Black Cat anime DVDs launched in fall of 2006 by Funimation.• Serialized in Weekly Shonen Jump in Japan for approximately four years, from issue 32 in 2000 through issue 29 in 2004• Creator Kentaro Yabuki debuted as an artist with the Weekly Shonen Jump one-shot Yamato Gensouki. • Anime started airing in Fall 2005 on TV in Japan. Produced by Studio Gonzo, renowned for its 2D/3D hybrid CGI animation.• Released bi-monthly (every other month).Train Heartnet, also known as 'Black Cat,' was an infamous assassin for a secret organization called Chronos...until he abandoned that cold-blooded existence to live on his own terms as an easygoing bounty hunter. But is Train's past as far behind him as he thinks? Train and the Sweeper Alliance make it to Creed's island hideout. However, the Apostles of the Stars are ready and waiting for them. Separated from the others, Eve must finally do battle on her own when confronted by Leon, the wind master. She has the powers she needs to win, but does she have the heart?",
+      release_date: "January 1st 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1626.jpg"},
+
+{
+      title: "Black Cat, Volume 13",
+      author: "Kentaro Yabuki",
+      synopsis: "After surviving another attack by the Apostles, Train and his partners agree that they have to eliminate Creed. At Sven's urging, Train finally reveals the details of his past: the nature of his relationship with Saya Minasaki, the details of his quitting the Chrono Numbers and the cause of his violent hatred of Creed.",
+      release_date: "June 17th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1627.jpg"},
+
+{
+      title: "Black Cat, Volume 14",
+      author: "Kentaro Yabuki",
+      synopsis: "Glin, a mysterious information broker, is forming a Sweeper Alliance in order to destroy Creed and the Apostles of the Stars. He invites Train, Eve and Sven to join their group. But even if this motley crew can locate the Apostles' hiding place, will they be able to survive the perilous journey to get there?",
+      release_date: "2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1628.jpg"},
+
+{
+      title: "Black Cat, Volume 10",
+      author: "Kentaro Yabuki",
+      synopsis: "The battle between Creed's Apostles and the Cerberus Team ends in a draw, with serious wounds on both sides. Just when Train thinks he can relax again, his friends Sven and Eve are captured by Creed, who believes that killing them is the only way to get Train to join him. Now Train has to race to save the only people he can trust.",
+      release_date: "October 20th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1629.jpg"},
+
+{
+      title: "Black Cat, Volume 19",
+      author: "Kentaro Yabuki",
+      synopsis: "R to L (Japanese Style)",
+      release_date: "August 18th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1630.jpg"},
+
+{
+      title: "Black Cat, Volume 20",
+      author: "Kentaro Yabuki",
+      synopsis: "R to L (Japanese Style)",
+      release_date: "September 22nd 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1631.jpg"},
+
+{
+      title: "Black Cat, Volume 03",
+      author: "Kentaro Yabuki",
+      synopsis: "Two years ago, Train, a high-level assassin known as Number XIII in Chronos, left the secret society to live by his own rules. Since then, Train has been a sweeper, a bounty hunter, catching criminals and bringing them in alive. But his main mission is to find a former Chronos member who killed his best friend.",
+      release_date: "January 1st 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1632.jpg"},
+
+{
+      title: "Black Cat, Volume 06",
+      author: "Kentaro Yabuki",
+      synopsis: "Train Heartnet, also known as 'Black Cat,' was an infamous assassin for a secret organization called Chronos...until he abandoned that cold-blooded existence to live on his own terms as an easygoing bounty hunter. But is Train's past as far behind him as he thinks?",
+      release_date: "February 18th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1633.jpg"},
+
+{
+      title: "Black Cat, Volume 09",
+      author: "Kentaro Yabuki",
+      synopsis: "A new force has been unleashed from the darkest, wildest realms of the Net--a menace more dangerous than anything DenTech City has ever faced. What is it? MegaMan himself! Transformed by the mysterious 'Beast' program, MegaMan has developed the unwelcome power to turn into a rampaging monster. While Lan's scientist dad searches for a solution, MegaMan and Lan try to deal with MegaMan's beastly new condition...while fighting the world's most powerful NetNavis!",
+      release_date: "September 1st 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1634.jpg"},
+
+{
+      title: "Black Cat, Volume 01",
+      author: "Kentaro Yabuki",
+      synopsis: "Two years ago, Train, a high-level assassin known as Number XIII in Chronos, left the secret society to live by his own rules. Since then, Train has been a sweeper, a bounty hunter, catching criminals and bringing them in alive. But his main mission is to find a former Chronos member who killed his best friend.",
+      release_date: "January 1st 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1635.jpg"},
+
+{
+      title: "Black Cat, Volume 12",
+      author: "Kentaro Yabuki",
+      synopsis: "In order to revert back to his regular-sized self, Train sets out to see Dr. Tearju, a woman who bears a striking resemblance to the girl Eve. But before she can help Train return to normal, the Apostles of the Stars come crashing in, with the intent of forcing Dr. Tearju to join their ranks. A mysterious new weapon may be the only hope for keeping the Apostles at bay.",
+      release_date: "March 16th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1636.jpg"},
+
+{
+      title: "Black Cat, Volume 02",
+      author: "Kentaro Yabuki",
+      synopsis: "Two years ago, Train, a high-level assassin known as Number XIII in Chronos, left the secret society to live by his own rules. Since then, Train has been a sweeper, a bounty hunter, catching criminals and bringing them in alive. But his main mission is to find a former Chronos member who killed his best friend.",
+      release_date: "June 18th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1637.jpg"},
+
+      [genres[0], genres[7], genres[5], genres[1], genres[10]]
       ],
