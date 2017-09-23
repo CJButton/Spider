@@ -103,6 +103,8 @@ function grabComic(url) {
       return this.type === 'text';
     }).text();
     let descrip = description.replace(/"/g, '\'');
+    if (descrip === '') return;
+
 
     let imgTitle = comicCounter();
 

@@ -1,9 +1,11 @@
 
+//**
+?How to measure lookup time in Rails?
+//**
 
 {/*
-Action, Drama, Fantasy
-Themes: Historical, Supernatural
-[genres[0], genres[21], genres[4], genres[9], genres[18]]
+Comedy, Romance
+[genres[14], genres[13], genres[4], genres[9], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -3931,4 +3933,222 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1528.jpg"},
 
       [genres[21]]
+      ],
+
+
+      ////////////
+      Continue from here
+      ////////////
+[
+{
+      title: "Skip Beat!, Vol. 04",
+      author: "Yoshiki Nakamura",
+      synopsis: "Kyoko Mogami followed her true love Sho to Tokyo to support him while he made it big as an idol. But he's casting her out now that he's famous! Kyoko won't suffer in silence--she's going to get her sweet revenge by beating Sho in show biz!",
+      release_date: "July 18th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1529.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 19",
+      author: "Yoshiki Nakamura",
+      synopsis: "Show biz is sweet, but revenge is sweeter! R to L (Japanese Style). Koo and Lory can't stop meddling in Kyoko's and Ren's lives. Because while Koo is impressed with Kyoko's talent, he knows that she will never be a great actress unless she can overcome her fatal weakness. And Lory knows that Ren's acting is likewise affected by his refusal to face his past. Can the two old-timers give their young protégés a much-needed kick in the pants, or will their plans blow up in their faces?! Kyoko Mogami followed her true love Sho to Tokyo to support him while he made it big as an idol. But he's casting her out now that he's famous! Kyoko won't suffer in silence--she's going to get her sweet revenge by beating Sho in show biz!",
+      release_date: "July 17th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1530.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 16",
+      author: "Yoshiki Nakamura",
+      synopsis: "Kyoko Mogami followed her true love Sho to Tokyo to support him while he made it big as an idol. But he's casting her out now that he's famous! Kyoko won't suffer in silence--she's going to get her sweet revenge by beating Sho in show biz!Saving Kyoko from Reino's attack has finally knocked some sense into Sho's head, and he realizes how much he cares for her. But before he can declare his devotion, Ren shows up to ruin the moment. Both men realize that Kyoko has no idea of their true feelings for her and begin a secret battle for her affections!Kyoko Mogami followed her true love Sho to Tokyo to support him while he made it big as an idol. But he's casting her out now that he's famous! Kyoko won't suffer in silence--she's going to get her sweet revenge by beating Sho in show biz!",
+      release_date: "June 19th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1531.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 24",
+      author: "Yoshiki Nakamura",
+      synopsis: "Show biz is sweet, but revenge is sweeter!Reads R to L (Japanese Style), for audiences T  Valentine’s Day is on its way, but Kyoko won’t be able to celebrate love and friendship the normal way. She’s getting blackmailed into giving chocolate to guys she hates, she has her ongoing revenge to oblige, and to top it all off, it’s Ren’s birthday! How can Kyoko give him a meaningful present when she’s slinging meaningless chocolate left and right?",
+      release_date: "February 19th 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1532.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 21",
+      author: "Yoshiki Nakamura",
+      synopsis: "Reads R to L (Japanese Style). Show biz is sweet, but revenge is sweeter! ",
+      release_date: "February 19th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1533.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 03",
+      author: "Yoshiki Nakamura",
+      synopsis: "Kyoko is determined to win her way into show business, even if it means wearing embarrassing bright pink overalls and putting up with spoiled stars. But her first big assignment is proving more difficult than she imagined when Kyoko finds herself in front of the camera with an injured leg. Will she be able to ace her first attempt at acting despite the pain, or will she make an utter fool of herself in front of her sort-of nemesis, Ren Tsugura?",
+      release_date: "March 19th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1534.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 11",
+      author: "Yoshiki Nakamura",
+      synopsis: "There's trouble on the set, and surprisingly it's not Kyoko's fault. Ren is having difficulty acting the part of a love-struck suitor since he's never really been in love before. Stressed by his sudden acting impotence, Ren goes MIA. Kyoko is determined to help her friend, and joins forces with Ren's manager. But as Ren sees the two of them getting close, he realizes he might know more about serious emotion than he thought!",
+      release_date: "October 19th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1535.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 17",
+      author: "Yoshiki Nakamura",
+      synopsis: "R to L (Japanese Style)Kyoko Mogami followed her true love Sho to Tokyo to support him while he made it big as an idol. But he's casting her out now that he's famous! Kyoko won't suffer in silence--she's going to get her sweet revenge by beating Sho in show biz!Dark Moon is getting excellent ratings, and Kyoko is getting tons of offers for more acting jobs! But all the offers are for twisted, damaged characters like Mio. Kyoko doesn't want to get stuck as a character actor, and she certainly doesn't want to play freaks for the rest of her career. But if she refuses all these jobs, will she even have a career left?!",
+      release_date: "October 19th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1536.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 23",
+      author: "Yoshiki Nakamura",
+      synopsis: "Show biz is sweet, but revenge is sweeter!Reads R to L (Japanese Style) T audience. Kyoko Mogami followed her true love Sho to Tokyo to support him while he made it big as an idol. But he's casting her out now that he's famous! Kyoko won't suffer in silence--she's going to get her sweet revenge by beating Sho in show biz!Chiori’s rage threatens the whole production when she lashes out and hurts Kyoko. Kyoko is used to overcoming obstacles, and she uses her injury as an excuse to push Chiori into exploring her acting. But Chiori has a traumatic past. Will focusing on the dark side of her character bring it all rushing back?!",
+      release_date: "October 19th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1537.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 28",
+      author: "Yoshiki Nakamura",
+      synopsis: "Reads R to L (Japanese Style), for audiences T.Kyoko Mogami followed her true love Sho to Tokyo to support him while he made it big as an idol. But he's casting her out now that he's famous! Kyoko won't suffer in silence--she's going to get her sweet revenge by beating Sho in show biz!Kyoko’ s having trouble getting into the role of Cain’ s sister. But is it because she can’ t relate to a spoiled punk princess, or because she can’ t let go of the fact that Ren is playing Cain? And Ren faces his own challenge with the situation. Can he stand to have the woman he loves treat him like a brother?",
+      release_date: "June 20th 2011",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1538.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 26",
+      author: "Yoshiki Nakamura",
+      synopsis: "Show biz is sweet, but revenge is sweeter!Reads R to L (Japanese Style). Kyoko thinks she's survived Valentine's Day, but that's just the kind of attitude that gets her in trouble with the president of LME. Lory is very disappointed in the girls of the Love Me Section and sets up special new assignments to teach them the power of love. But will the president's strange methods have any affect on the troubled souls of Chiori, Moko and Kyoko?",
+      release_date: "October 19th 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1539.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 12",
+      author: "Yoshiki Nakamura",
+      synopsis: "Kyoko's determination to help Ren continues as she lends a friendly ear--in her chicken suit. Ren opens up and confides in Chicken Bo, but is Kyoko really ready to deal with his lovelorn confession? To make matters worse, Ren's been given an ultimatum by the LME president, and if he can't act right by the end of the week, he's out on his ear!",
+      release_date: "February 17th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1540.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 35",
+      author: "Yoshiki Nakamura",
+      synopsis: "Kyoko Mogami followed her true love Sho to Tokyo to support him while he made it big as an idol. But he's casting her out now that he's famous! Kyoko won't suffer in silence--she's going to get her sweet revenge by beating Sho in show biz!Kyoko is on the tropical paradise of Guam, and in true fairy-tale fashion, she encounters a magical creature emerging from the sea! She even recognizes him as Corn, a beloved friend from her childhood whose gift of an enchanted stone has helped her deal with the trauma in her life. But Corn is actually Kuon, who is actually Ren Tsuruga! And it’s only a matter of time before Kyoko’s brilliant ability to see through Ren’s disguises breaks his cover…for good!",
+      release_date: "September 19th 2014",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1541.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 13",
+      author: "Yoshiki Nakamura",
+      synopsis: "• An ongoing manga series in Japan—over 14 volumes to date• Consistent ranking in Japan’s Top 10 manga sales• An American Idol-style manga• Every new volume has appeared in Japan’s Tohan Top 1• Previewed and promoted in VIZ Media’s Shojo Beat magazine• Released Bi-monthly (every other month).Kyoko Mogami followed her true love Sho to Tokyo to support him while he made it big as an idol. But he's casting her out now that he's famous! Kyoko won't suffer in silence--she's going to get her sweet revenge by beating Sho in show biz! Ren's acting test is about to begin, with his entire future hanging in the balance, and he's managed to make his leading lady Itsumi mad at him. Rather than confront him directly, Itsumi decides to hit him where it hurts. Will she sabotage his test, or will Ren be able to get it together and use his legendary acting ability to lead her through the scene?",
+      release_date: "June 19th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1542.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 18",
+      author: "Yoshiki Nakamura",
+      synopsis: "R to L (Japanese Style)Kyoko Mogami followed her true love Sho to Tokyo to support him while he made it big as an idol. But he's casting her out now that he's famous! Kyoko won't suffer in silence--she's going to get her sweet revenge by beating Sho in show biz!Kyoko hasn't had a Love Me Section job in a while, and this newest assignment is pushing her limits. She's now the personal assistant to Koo Hizuri, a Japanese actor turned Hollywood star, and everyone knows how assistants are treated in Hollywood! Can Kyoko see past Koo's meanness, or will his nastiness just make her demons worse?!",
+      release_date: "February 19th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1543.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 20",
+      author: "Yoshiki Nakamura",
+      synopsis: "Show biz is sweet, but revenge is sweeter!R to L (Japanese Style). Show biz is sweet, but revenge is sweeter! It's the season of giving in Tokyo, but Lory's granddaughter Maria is in no mood to celebrate. Kyoko, never one to sit out a challenge, finally gets Maria to admit what has her so soured on the holidays. It turns out December 24th is Maria's birthday--and the anniversary of her mother's death! Can Kyoko work a Christmas miracle and give this little girl a happy birthday?",
+      release_date: "October 17th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1544.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 06",
+      author: "Yoshiki Nakamura",
+      synopsis: "Superstar Ren's manager Yashiro comes down with a nasty cold, but Ren is in the middle of an important shoot and needs someone to look after him. In a feverish fit, Yashiro dares Kyoko to take over his job! Of course Kyoko accepts, but she's in way over her head with a pack of new responsibilities and the scorn of everyone who thinks she's doing a bad job. But the more time Ren spends with Kyoko the more he sees of her kind and gentle side. Will all her hassles be worth his change of heart?",
+      release_date: "February 19th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1545.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 07",
+      author: "Yoshiki Nakamura",
+      synopsis: "All Kyoko's dreams are coming true! She's got a best friend (okay, so Moko still needs to come to terms with their bosom-buddyhood, but she's learning). She's finally going to high school (so what if a mean girl is picking on her--Kyoko knows how to deal with bullies). And she's landed a spot in Sho's new video (Yes! Revenge! Bwa ha ha ha!). Life doesn't get any better than this.",
+      release_date: "July 16th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1546.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 22",
+      author: "Yoshiki Nakamura",
+      synopsis: "Show biz is sweet, but revenge is sweeter!Reads R to L (Japanese Style), for T audiences. Is there such a thing as being too good? With Ren's help, Kyoko finally gets into her new character. But when she shows up on set and wows the crew with her new spin on the old bully role, it sends some of her costars over the edge! Kyoko's used to dealing with her own demons, but can she stand up to someone else's?!",
+      release_date: "June 19th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1547.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 02",
+      author: "Yoshiki Nakamura",
+      synopsis: "Kyoko Mogami followed her true love Sho to Tokyo to support him while he made it big as an idol. But he's casting her out now that he's famous enough! Kyoko won't suffer in silence--she's going to get her sweet revenge by beating Sho in show biz!",
+      release_date: "November 19th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1548.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 15",
+      author: "Yoshiki Nakamura",
+      synopsis: "Kyoko Mogami followed her true love Sho to Tokyo to support him while he made it big as an idol. But he's casting her out now that he's famous! Kyoko won't suffer in silence--she's going to get her sweet revenge by beating Sho in show biz!",
+      release_date: "February 19th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1549.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 05",
+      author: "Yoshiki Nakamura",
+      synopsis: "Kyoko lands a regular role on a TV show...as a giant chicken. Not content to settle for poultry recognition, Kyoko tries out for a big commercial. At the audition she runs into her Love Me rival Moko, who's having rival woes of her own. With a jealous rich girl out to bring them down, can Kyoko and Moko overcome their difficulties and act as a team to trounce the competition?",
+      release_date: "October 17th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1550.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 25",
+      author: "Yoshiki Nakamura",
+      synopsis: "Show biz is sweet, but revenge is sweeter!Reads R to L (Japanese Style). Kyoko's Valentine's battle with Reino has finally gained her Sho's attention—but now it's the last thing she wants! Sho is determined to make her obsessed with him, and shows up on set with an over-the-top gift to taunt her. But when Kyoko explains her true relationship with Reino, Sho makes an inexcusable move. Has he undone her years of healing in one fell swoop?!",
+      release_date: "June 18th 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1551.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 36",
+      author: "Yoshiki Nakamura",
+      synopsis: "Kyoko’s time in Guam is coming to an end, and with it her role as Setsu. She’s sad that she won’t have an excuse to be near Ren anymore, but unbeknownst to her, Ren is even more affected by their parting than she is! Facing his demons finally let him believe in the bright future Kyoko represents. But back in Japan, her dark past is rearing its ugly head. Will it get in the way of Kyoko’s hopes of a happily ever after?!",
+      release_date: "March 20th 2015",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1552.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 08",
+      author: "Yoshiki Nakamura",
+      synopsis: "Kyoko's perfect chance to wreak her revenge on Sho isn't going as well as she'd hoped. In fact, her rage is so consuming that she forgets she's supposed to be acting and tries to throttle Sho for real. That's not her only problem: Sho still thinks he owns Kyoko body and soul, but his manager is worried that Kyoko might be stealing his heart!",
+      release_date: "October 19th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1553.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 10",
+      author: "Yoshiki Nakamura",
+      synopsis: "Kyoko's been scouted for a role in this year's most anticipated drama, a remake of the classic . But shades of the past threaten to stifle the production as Kyoko struggles to get into the character of Mio, a young woman with a severely scarred face. Ms. Iizuka, the actress who played the original Mio, is now playing Kyoko's mother, and has grave doubts about Kyoko's ability to do justice to the role. She demands that Kyoko pass an acting test, and quit the production if she fails!",
+      release_date: "June 17th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1554.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 14",
+      author: "Yoshiki Nakamura",
+      synopsis: "Kyoko Mogami followed her true love Sho to Tokyo to support him while he made it big as an idol. But he's casting her out now that he's famous! Kyoko won't suffer in silence--she's going to get her sweet revenge by beating Sho in show biz!Vie Ghoul is the new band burning up the charts by stealing Sho's moves, and Kyoko's hopping mad on his behalf. Kyoko's confrontation with Sho about his lack of action doesn't go as well as she hoped--Sho gets violent, and the front man for Vie Ghoul gets a good look at Kyoko's demons. And both men seem a little more interested in Kyoko than Ren would like...",
+      release_date: "October 19th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1555.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 27",
+      author: "Yoshiki Nakamura",
+      synopsis: "Kyoko Mogami followed her true love Sho to Tokyo to support him while he made it big as an idol. But he's casting her out now that he's famous! Kyoko won't suffer in silence--she's going to get her sweet revenge by beating Sho in show biz! Kyoko’s having trouble getting into the role of Cain’s sister. But is it because she can’t relate to a spoiled punk princess, or because she can’t let go of the fact that Ren is playing Cain? And Ren faces his own challenge with the situation. Can he stand to have the woman he loves treat him like a brother?",
+      release_date: "February 18th 2011",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1556.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 01",
+      author: "Yoshiki Nakamura",
+      synopsis: "Kyoko always thought that Sho, whose family took her in when she was small, was her prince charming. However, when Sho heads for Tokyo to make it big as a musician, Kyoko goes with him and has to quit high school to support his dream. But soon, being in the big city makes Kyoko realize that she has show business ambitions of her own!",
+      release_date: "July 19th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1557.jpg"},
+
+{
+      title: "Skip Beat!, Vol. 09",
+      author: "Yoshiki Nakamura",
+      synopsis: "Kyoko's big chance is finally here! Her performance in Sho's promo clip impressed some important people, and now she's been asked to act in the year's most anticipated drama! But Ren is the leading man and the character Kyoko is supposed to play is damaged and scary! Can Kyoko overcome her fear of Ren and her shame about her demons, or will this chance of a lifetime slip through her fingers?",
+      release_date: "February 18th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1558.jpg"},
+
+      [genres[14], genres[13]]
       ],
