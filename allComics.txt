@@ -1,7 +1,7 @@
 {/*
 Drama, Romance
-Themes: Music, Slice of Life
-[genres[7], genres[13], genres[16], genres[15], genres[15], genres[18]]
+Themes: Historical, Slice of Life
+[genres[7], genres[13], genres[9], genres[16], genres[18], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -8751,4 +8751,94 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2195.jpg"},
 
       [genres[7], genres[13], genres[16]]
+      ],
+[
+{
+      title: "Soul Eater, Vol. 07",
+      author: "Atsushi Ohkubo",
+      synopsis: "Shinigami-sama summons the strongest weapons from around the world to contain the rogue kishin and the spread of his madness. As these powerful weapons strategize for what will be the most difficult battle of their lives, the students of DWMA try to get back to their normal lives as best they can. For Maka, adjusting to the dangerous times is nothing compared to Crona's struggle to adjust to life as a DWMA student!",
+      release_date: "September 22nd 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2196.jpg"},
+
+{
+      title: "Soul Eater, Vol. 03",
+      author: "Atsushi Ohkubo",
+      synopsis: "Tsubaki and Black*Star set off on their most difficult mission yet: a battle with the Uncanny Sword Masamune, a soul on the brink of becoming a Kishin. But this fight holds personal significance for Tsubaki - their target is her older brother. Jealous of her inherited talents, Masamune is holding nothing back. Usually docile and complacent, Tsubaki must find the strength to overtake the Uncanny Sword before she too is sucked into the darkness.",
+      release_date: "April 22nd 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2197.jpg"},
+
+{
+      title: "Soul Eater, Vol. 01",
+      author: "Atsushi Ohkubo",
+      synopsis: "Maka is a weapon meister, determined to turn her partner, a living scythe named Soul Eater, into a powerful death scythe - the ultimate weapon of Death himself! Charged with the task of collecting and devouring the tainted souls of ninety-nine humans and one witch, Maka and her fellow meisters strive to master their weapons as they face off against the bizarre and dangerous minions of the underworld. But the meisters' own personal quirks may prove a bigger obstacle than any sultry enchantress!",
+      release_date: "June 22nd 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2198.jpg"},
+
+{
+      title: "Soul Eater, Vol. 04",
+      author: "Atsushi Ohkubo",
+      synopsis: "At Maka's request, she and Soul meet with Doctor Stein for an intensive tutoring session. Although Stein warns that they may never be able to resonate again if they fail to complete the training, Maka insists, desperate to become stronger so that Soul is never hurt again. But Soul's strange nightmares have made him reluctant to seek power, and his unwillingness to share his fears only frustrates his partner. With their soul wavelengths pulling apart, will Maka and Soul be able to come together when danger emerges on their next assignment?",
+      release_date: "August 22nd 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2199.jpg"},
+
+{
+      title: "Soul Eater, Vol. 06",
+      author: "Atsushi Ohkubo",
+      synopsis: "Death the Kid and Black*Star race after Free and Eruka, ready to do whatever it takes to stop the Black Blood before it is used to revive the slumbering First Kishin. Meanwhile, Maka has allowed herself to slip into madness in an effort to reach Crona’s troubled soul. In addition to being horribly embarrassing, her actions carry a great risk. If Maka can’t find Crona fast, she too will be consumed by madness!",
+      release_date: "January 1st 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2200.jpg"},
+
+{
+      title: "Soul Eater, Vol. 02",
+      author: "Atsushi Ohkubo",
+      synopsis: "The remedial assignment continues as Soul and Maka confront Dr. Franken Stein, the man behind Sid-sensei's unfortunate transformation and the strongest meister ever to graduate from Death Weapon Meister Academy. Even without a weapon, his massive soul dwarfs them all-even big shot Black*Star! Can Maka rally her strength to face Stein in battle, or will despair be her downfall?",
+      release_date: "November 22nd 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2201.jpg"},
+
+{
+      title: "Soul Eater, Vol. 05",
+      author: "Atsushi Ohkubo",
+      synopsis: "On the night of DWMA’s anniversary celebration, every meister and weapon in Death City has gathered at the school for an evening of music and dancing. Little do they know that the witch Medusa is about the crash Shinigami-sama’s party. Trapping the meisters inside, the witch makes her way to the chamber where the First Kishin is imprisoned. Will the few meisters who’ve managed to escape be enough to prevent Medusa from rousing the madness that slumbers far below in the Kishin’s domain?",
+      release_date: "December 22nd 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2202.jpg"},
+
+      [genres[0], genres[4], genres[1], genres[10], genres[18]]
+      ],
+[
+{
+      title: "A Bride's Story, Vol. 2",
+      author: "Kaoru Mori",
+      synopsis: "Acclaimed creator Kaoru Mori's tale of life on the nineteenth-century Silk Road continues as the young bride, Amir Halgal, struggles to remain with her new groom despite the wishes of her family, who would see her wed another. Will Amir be able to preserve the bonds she has cultivated in her new home?",
+      release_date: "June 15th 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2203.jpg"},
+
+{
+      title: "A Bride's Story, Vol. 1",
+      author: "Kaoru Mori",
+      synopsis: "Acclaimed creator Kaoru Mori (Emma, Shirley) brings the nineteenth-century Silk Road to lavish life, chronicling the story of Amir Halgal, a young woman from a nomadic tribe betrothed to a twelve-year-old boy eight years her junior. Coping with cultural differences, blossoming feelings for her new husband, and expectations from both her adoptive and birth families, Amir strives to find her role as she settles into a new life and a new home in a society quick to define that role for her.",
+      release_date: "October 15th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2204.jpg"},
+
+{
+      title: "A Bride's Story, Vol. 3",
+      author: "Kaoru Mori",
+      synopsis: "Acclaimed creator Kaoru Mori's tale of life on the nineteenth-century Silk Road continues, this time introducing a new would-be bride--Talas. A young widow, Talas opens her home to the researcher Mr. Smith, who has ventured to her town to continue his studies. However, when Talas's uncle begins to see Smith as an impediment to his plans to wed his son to Talas, the old man's schemes land the Englishman in prison! Far from friends and even farther from home, Smith's outlook seems grim...",
+      release_date: "June 15th 2011",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2205.jpg"},
+
+{
+      title: "A Bride's Story, Vol. 4",
+      author: "Kaoru Mori",
+      synopsis: "Acclaimed creator Kaoru Mori’s tale of life on the nineteenth-century Silk Road turns westward, following Englishman Mr. Smith on his long journey to Ankara. Passing through a fishing village along the Aral Sea, Smith and his guide encounter a pair of spirited young girls named Laila and Leily--identical twins who are fishing not for sturgeon, but for husbands! Despite their efforts to find two wealthy, healthy, and handsome brothers to wed, Laila and Leily’s plans generally only land them in loads of trouble!",
+      release_date: "May 12th 2012",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2206.jpg"},
+
+{
+      title: "A Bride's Story, Vol. 5",
+      author: "Kaoru Mori",
+      synopsis: "Acclaimed creator Kaoru Mori's tale of life on the nineteenth-century Silk Road takes on an air of celebration as, at long last, Laila and Leily's wedding day arrives! But the marriage ceremony may be even more taxing for the girls than their search for a pair of grooms. Sitting still and silent as their guests celebrate and eat is a trial that will push the girls' patience to its limit, not to mention that of Sami and Sarm! As the twins finally make their vows and commit themselves to their husbands, the gravity of the moment finally sets in. Though they have dreamed of marriage for years, only now do they realize that everything in their lives is about to change...Crafted in painstaking detail, Ms. Mori's pen breathes life into the scenery and architecture of the period in this heart-warming, slice-of-life tale that is at once wholly exotic, yet familiar and accessible through the everyday lives of the characters she has created.",
+      release_date: "January 15th 2013",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2207.jpg"},
+
+      [genres[7], genres[13], genres[9], genres[16]]
       ],
