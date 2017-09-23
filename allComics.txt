@@ -1,7 +1,7 @@
 {/*
-Comedy, Fantasy
-Themes: Adventure, Battles, School Life
-[genres[14], genres[4], genres[1], genres[10], genres[15], genres[18]]
+Fantasy
+Themes: Adventure, Supernatural
+[genres[4], genres[1], genres[18], genres[10], genres[15], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -6918,4 +6918,49 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1941.jpg"},
 
       [genres[14], genres[4], genres[1], genres[10], genres[15]]
+      ],
+[
+{
+      title: "07 Ghost, Volume 06",
+      author: "Yuki Amemiya",
+      synopsis: "Ayanami has set his sights on capturing Teito at all costs, and has chosen the vessel with which to capture his prey -- the passionate and faithful Kuroyuri! When Kuroyuri's schemes place Teito at the mercy of Ayanami's entire military, Bishop Frau must make a soul-shattering decision between his duty as a Seven Ghost. . . and Teito's life.",
+      release_date: "May 24th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1942.jpg"},
+
+{
+      title: "07-Ghost, Volume 02",
+      author: "Yuki Amemiya",
+      synopsis: "His best friend's fate spurs Teito into trying to master the Bascule - a powerful weapon that can harness and focus his innate power. Friends become enemies and rivals become allies as Teito begins to fulfill his destiny, and protect his fallen country from the minions of his former masters.",
+      release_date: "January 1st 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1943.jpg"},
+
+{
+      title: "07 Ghost, Volume 07",
+      author: "Yuki Amemiya",
+      synopsis: "Trapped in an ancient battle between a wicked God and the Seven Ghosts and guided by three mysterious priests, Teito discovers a power that could save the world. . . and shed light on his own mysterious past.",
+      release_date: "November 25th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1944.jpg"},
+
+{
+      title: "07-GHOST: 16 (ZERO-SUMコミックス)",
+      author: "Yuki Amemiya",
+      synopsis: "カルはテイトを先に進ませ、通路の非常ロックを閉めた。テイトを追ってきた消魂と対峙したカルは、最後の闘いに挑む。それはそれぞれの願いが交錯する悲しい闘い――。",
+      release_date: "January 1st 2012",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1945.jpg"},
+
+{
+      title: "07-Ghost, Volume 01",
+      author: "Yuki Amemiya",
+      synopsis: "Thousands of years ago, two powerful countries existed in a delicate balance of power. Each received a magical Eye to watch over it. Each thought they were invincible... until one fell. The destinies of both now depend on only one thing... a boy named Teito.",
+      release_date: "November 25th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1946.jpg"},
+
+{
+      title: "07-GHOST: 15 (ZERO-SUMコミックス)",
+      author: "Yuki Amemiya",
+      synopsis: "“戦争屋”にそそのかされ、戦争を始めたという父の告白を聞いたオウカ。そしてついに、すべての元凶である消魂が正体を現す!!",
+      release_date: "January 1st 2012",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1947.jpg"},
+
+      [genres[4], genres[1], genres[18]]
       ],
