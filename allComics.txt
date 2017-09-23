@@ -4,8 +4,9 @@
 //**
 
 {/*
-Comedy, Romance
-[genres[14], genres[13], genres[4], genres[9], genres[18]]
+Action, Drama, Fantasy, Horror
+Themes: Historical, Supernatural
+[genres[7], genres[0], genres[4], genres[21], genres[9], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -4151,4 +4152,266 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1558.jpg"},
 
       [genres[14], genres[13]]
+      ],
+[
+{
+      title: "Berserk, Vol. 34",
+      author: "Kentaro Miura",
+      synopsis: "Faced with the Kushan emperor's horrific new form and the bloody swath of destruction and spawning demons he leaves in his wake with every step, the soldiers in Griffith's new Band of the Hawk must assume their true unholy forms to battle the emperor, revealing their true faces to the citizens of Midland. How will these tormented refugees react when they discover that their would-be rescuers are as monstrous as their enemies? And could this titanic confrontation threaten to unleash even greater horrors upon the human world?",
+      release_date: "October 2nd 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1559.jpg"},
+
+{
+      title: "Berserk, Vol. 6",
+      author: "Kentaro Miura",
+      synopsis: "Back in the day, Guts the Black Swordsman was a top slayer for The Band of the Hawk, an elite mercenary unit led by Griffith, whose calm demeanor and callow beauty belied his fighting prowess and steel will. While in a king's employ, the attraction between the king's daughter and Griffith and the growing favor of the king towards the Hawk leader raises the hackles of the king's jealous brother, who plots to have Griffith summarily assassinated. But if the plot fails, the king's brother will likely have to deal with Guts and his titanic broadsword, and the results of such confrontations are rarely pretty... or easy to clean up.",
+      release_date: "September 30th 1993",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1560.jpg"},
+
+{
+      title: "Berserk, Vol. 30",
+      author: "Kentaro Miura",
+      synopsis: "Thanks to Lady Farnese's selfless sacrifice, Guts, the Black Swordsman, and the rest of his companions are free to carry on their journey aboard the ship of Farnese's brother, Magnifico — that is, if they're willing to leave Farnese behind. But having to choose between their mission and their loyalties might not be a problem for long if the Kushan emperor and his legion of monstrous minions have their way. With a host of Kushan forces descending on Vritannis, there might not be much left of Farnese's family — or any of the citizenry — to worry about!",
+      release_date: "April 5th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1561.jpg"},
+
+{
+      title: "Berserk, Vol. 8",
+      author: "Kentaro Miura",
+      synopsis: "Oblężenie twierdzy Doldrey wkracza w decydującą fazę. Drużyna Sokoła wraz z armią Midland stawia czoła przeważającym siłom wroga. Tymczasem niewielki oddział pod dowództwem Caski dostaje się na teren fortecy. Tam jednak czeka na nich kolejny potężny przeciwnik. Stawką w toczącej się bitwie jest odzyskanie utraconych przez Midland ziem oraz... być może kres toczącego się od stu lat konfliktu z imperium Tudorów. Czy w zniszczonym wojną kraju wreszcie zapanuje pokój?",
+      release_date: "September 30th 1994",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1562.jpg"},
+
+{
+      title: "Berserk, Vol. 2",
+      author: "Kentaro Miura",
+      synopsis: "The evil Count uses his dark powers to transform a defeated guard captain into an inhuman horror to combat Guts, the Black Swordsman. Meanwhile, Guts' pint-sized elf sidekick, Puck, is captured and given as a gift to the Count's daughter, a sweet girl in a gilded cage, imprisoned by her father in her own room. Guts, determined to make mincemeat of the Count - and maybe bail out his companion, if he gets around to it - assaults the castle and takes on the nearly indestructible demon/guard in a blood-soaked battle royal! But then, face-to-face with the Black Swordsman at last, the unholy Count reveals his own true form, and even Guts' super-sized sword may not be big enough to contend with this demonic monstrosity!",
+      release_date: "March 3rd 1991",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1563.jpg"},
+
+{
+      title: "Berserk, Vol. 7",
+      author: "Kentaro Miura",
+      synopsis: "Drużyna Sokoła, jako część armii Midland, bierze udział w kampanii mającej zakończyć trwającą od stu lat wojnę z imperium Tudorów. Podczas jednej z bitew Guts ratuje życie Casce, w wyniku czego oboje spadają z wysokiego klifu. W ślad za nimi rusza pogoń wroga. Nasi bohaterowie muszą zrobić wszystko, by wrócić do swoich. Czy oboje wyjdą z tego żywi?",
+      release_date: "March 31st 1994",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1564.jpg"},
+
+{
+      title: "Berserk, Vol. 31",
+      author: "Kentaro Miura",
+      synopsis: "Escaping the port city of Vritannis is no easy task, for even the finest ship is useless if it can't be reached, and a horde of Kushan monsters stalks the city's docks. Led by a powerful necromancer who has mastered both the elements and the monsters of the deep, this hideous brigade may be too much for Guts the Black Swordsman and his companions to handle, even if Guts and Schierke are able to join forces and control the awful wrath of the Berserker armor. And will it even matter, if the Kushan emperor makes Guts an offer he can't refuse?",
+      release_date: "September 29th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1565.jpg"},
+
+{
+      title: "Berserk, Vol. 12",
+      author: "Kentaro Miura",
+      synopsis: "The Band of the Hawks’ rescue of their leader, Griffith, has brought them no ease. Broken beyond healing, a frail ghost of his former glory, Griffith is now more an object of pity than a man, and the Hawks, who’ve grimly hung together under duress and death during his absence, are now on the verge of splintering to the winds. But Griffith’s dreams and ambitions, built on the bodies of his troops and the countless enemies they have slain, have not gone unnoticed in the spirit realm, and though Griffith has nowhere to go as a man, he may yet have a future . . . a future borne on jet-black wings in the company of the demon lords of the Godhand!",
+      release_date: "September 30th 1996",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1566.jpg"},
+
+{
+      title: "Berserk, Vol. 17",
+      author: "Kentaro Miura",
+      synopsis: "Pages: 24 Language: English Publisher: Dark Horse Comics Warrior supreme Guts. the Black Swordsman. has seen better days - and more popular - in the kingdom of Midland. a land he once defended as captain of the Band of the Hawk But the. Hawks were betrayed and slaughtered. and now the hyolier-than-thou Holy Iron Chain Knights have captured Guts and plan to whip some repentance into him - literally But Guts is not so easily held at bay. at when he manages to escape with. the Holy Knights 'leader. Farnese. as his hostage. the demons that are drawn to Guts' Brand of Sacrifice are all too willing to show her the teeming darkness in her own soul!",
+      release_date: "April 5th 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1567.jpg"},
+
+{
+      title: "Berserk, Vol. 14",
+      author: "Kentaro Miura",
+      synopsis: "The once unbeatable Band of the Hawk is smashed, and their former leader, Griffith, has made an unholy pact with the demon lords of the Godhand, sacrificing his former troops to resurrect his crippled body and ascend to stand in power beside these profane gods. The Invocation of Doom has unleashed a plague of unspeakable horrors upon the earth, and the first battle not only shatters the Hawks, but the hand of their champion, Guts, and the mind of their captain and Guts' lover, Casca. And while time may heal some of Guts' wounds, it will not heal his desire for vengeance. And his discovery of a gigantic, dragon-slaying sword might be just the ticket to deal out some king-sized payback! Also included in this volume: -Berserk Prototype, - the very first Berserk story, created during Kentaro Miura's college days as his audition that sold the series!",
+      release_date: "September 30th 1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1568.jpg"},
+
+{
+      title: "Berserk, Vol. 13",
+      author: "Kentaro Miura",
+      synopsis: "The Band of the Hawk may have been the most formidable band of fighters around, but when matched up against an army of abyssal monstrosities, earthly fighting skills don't amount to a hill of beans. The Hawks' tortured and mutilated former leader, Griffith, has used the accursed Crimson Behelit to open the gates to a shadowy realm of unspeakable horrors, the realm of the demon lords of the Godhand, who are willing to transform Griffith into a being of terrible power and majesty as long as Griffith is willing to give up his former command as sacrifices in the Invocation of Doom. But nobody takes down the Hawks without a fight, and their berserker champion, Guts, will take on anything Hell can throw at him in order to save his lover, Casca, from the sordid violations that only Hell can offer.",
+      release_date: "March 31st 1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1569.jpg"},
+
+{
+      title: "Berserk, Vol. 3",
+      author: "Kentaro Miura",
+      synopsis: "Guts, the feared Black Swordsman, finishes his desperate battle with the monstrous Count, cutting and blasting him to gory scraps when the presence of the Count's daughter makes the monster hesitate. But Guts won't even have the time to clean his gigantic sword when the Count's dying pleas activate the Behelit, summoning the five God Hands, demon lords of immeasurable power. Guts' journey so far has been a long road of pain and death, but that's a walk in the park compared to fighting his way out of Hell itself!",
+      release_date: "October 31st 1991",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1570.jpg"},
+
+{
+      title: "Berserk, Vol. 9",
+      author: "Kentaro Miura",
+      synopsis: "Griffith, charismatic leader of the elite mercenary Band of the Hawk, has seen better days. His fearless champion, Guts, has left the Band, defeating Griffith in personal combat as his ticket out. With his judgment clouded by this unthinkable humiliation, Griffith eases his pain in the arms of the daughter of Midland’s king. But the King doesn’t take kindly to an employee picking the royal flowers, and the next stop for Griffith is the dungeon and the torture rack! Without Griffith and Guts, the Hawks become easy prey for Midland’s army, and the AWOL Guts may be the only answer to the Hawks' — and Griffith’s — lethal problems.",
+      release_date: "March 31st 1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1571.jpg"},
+
+{
+      title: "Berserk, Vol. 23",
+      author: "Kentaro Miura",
+      synopsis: "Desperate as Guts, the Black Swordsman, has been to reunite with his former captain and lover, the now-mad Casca, he’s quickly learning that being together is as dangerous as being apart. What should be a simple journey to the safety of Puck’s homeland proves to be a gauntlet of perils, as the Mark of Sacrifice each bears brings the fury of Hell down upon them, and Guts discovers that in his darkest moments he himself is the greatest danger to the woman he loves. Created by Kentaro Miura, Berserk is a fiery manga apocalypse, an ominous omnibus of furious action, fearsome horror, and funereal humor that strikes a power chord in the hearts of its devoted followers and strikes down the rest like a scythe through wheat. Bring in the sheaves!",
+      release_date: "July 5th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1572.jpg"},
+
+{
+      title: "Berserk, Vol. 28",
+      author: "Kentaro Miura",
+      synopsis: "Guts, the Black Swordsman, and his companions have finally arrived at the sea, where they discover a mysterious child who seems to share a special bond with Guts and his former lover, the now-mad Casca. The troupe's brief respite at the shore offers moments for quiet introspection and deeper bonding, but such peace is always short lived where Guts is involved, and Guts must once again don the demonic Berserker Armor to take on a force of bloodthirsty beasts emerging from the once-peaceful surf, possessed by the accursed sorcery of a powerful Kushan enchanter! And who knows what will happen when internal strife pushes a member of Guts's band unknowingly into the comforting companionship of an enemy!",
+      release_date: "March 5th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1573.jpg"},
+
+{
+      title: "Berserk, Vol. 10",
+      author: "Kentaro Miura",
+      synopsis: "Warrior supreme Guts has returned, and just in time to save the weakened Band of the Hawk from certain destruction… and to form an intimate bond with the beautiful warrior Casca. But job one is to find a way to free Griffith, the Hawks' leader, from the dank dungeons and round-the-clock tortures of the Hawks' former benefactor, the King of Midland. But while the flayed and starved Griffith may be in isolation, he is not alone. Horrors beyond imagination await Guts and the Hawks in the catacombs, and those who die may just be the lucky ones!",
+      release_date: "September 30th 1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1574.jpg"},
+
+{
+      title: "Berserk, Vol. 1",
+      author: "Kentaro Miura",
+      synopsis: "Created by Kenturo Miura, Berserk is manga mayhem to the extreme - violent, horrifying, and mercilessly funny - and the wellspring for the internationally popular anime series. Not for the squeamish or the easily offended, Berserk asks for no quarter - and offers none! His name is Guts, the Black Swordsman, a feared warrior spoken of only in whispers. Bearer of a gigantic sword, an iron hand, and the scars of countless battles and tortures, his flesh is also indelibly marked with The Brand, an unholy symbol that draws the forces of darkness to him and dooms him as their sacrifice. But Guts won't take his fate lying down; he'll cut a crimson swath of carnage through the ranks of the damned - and anyone else foolish enough to oppose him! Accompanied by Puck the Elf, more an annoyance than a companion, Guts relentlessly follows a dark, bloodstained path that leads only to death...or vengeance.",
+      release_date: "December 1st 1990",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1575.jpg"},
+
+{
+      title: "Berserk, Vol. 29",
+      author: "Kentaro Miura",
+      synopsis: "Guts, the Black Swordsman, and his companions have finally broken free of the monster-infested wilderness and arrived at the port city of Vritannis. But the band finds out all too quickly that humans can be just as monstrous as the nightmarish creatures and apostles they battled in the forest. As Schierke and Isidro face off against pirate slavers, Farnese's power-hungry family tries to force her once again under the yoke of their political ambitions. The group's only hope is to find a ship out of the city, but even if they manage to secure a vessel, will everyone be free to leave?",
+      release_date: "October 5th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1576.jpg"},
+
+{
+      title: "Berserk, Vol. 19",
+      author: "Kentaro Miura",
+      synopsis: "Berserk, Vol. 19 by Kentaro Miura",
+      release_date: "April 5th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1577.jpg"},
+
+{
+      title: "Berserk, Vol. 20",
+      author: "Kentaro Miura",
+      synopsis: "The Black Swordsman Guts’ former captain and lover, Casca, has been taken by the Holy Iron Chain Knights to the 'Tower of Conviction' of the fanatic torturer of the Holy See, Mozgus, who plans to treat the rumored witch to the proper agonies of the damned, but Guts is on his way to rescue Casca and dish out some chastisement of his own on any who get in his way. But forces in the demonic realms are in motion and are being drawn to the torture tower in what may be a prelude to a second Eclipse and an unprecedented release of malign spirits into the world!",
+      release_date: "November 5th 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1578.jpg"},
+
+{
+      title: "Berserk, Vol. 21",
+      author: "Kentaro Miura",
+      synopsis: "Guts, the feared Black Swordsman, is on the rampage — and it's personal. Mozgus, the malefic master Inquisitor of the Holy See, in his murderous campaign against heretics, has captured Guts' former lover Casca and has her at the ready to be burned at the stake in the Tower of Conviction, little knowing that Casca's demonic Mark of Sacrifice is drawing hideous dark powers to the Tower. It'll take everything Guts has and more to defeat Mozgus — who is much, much more than a man — and even if he can, will he be able to save Casca from the hordes of Hell amidst the inquisitor's disintegrating citadel?",
+      release_date: "June 5th 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1579.jpg"},
+
+{
+      title: "Berserk, Vol. 33",
+      author: "Kentaro Miura",
+      synopsis: "Guts the Black Swordsman and his companions brave the open sea, hoping to reach Puck's homeland, Elfhelm, and its powerful elven king, who might be able to restore the sanity of Guts' former lover, Casca. But seeking out a sanctuary for Casca means that Guts must postpone his hunt for his ex-friend and leader, Griffith, who has been reborn as a demon lord hell-bent on conquest. The winds of change blow fast and hard across the war-torn lands of the Holy See, and if Guts waits too long to exact his vengeance, Griffith might attain his murderous goals before Guts can return to Midland to stop him!",
+      release_date: "October 31st 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1580.jpg"},
+
+{
+      title: "Berserk, Vol. 25",
+      author: "Kentaro Miura",
+      synopsis: "Guts the Black Swordsman just can't seem to find a little peace. On his way to the idyllic tranquility of his miniature pal Puck's homeland of Elfhelm, Guts and his companions, at the behest of a local witch, assist a village beset by a plague of hideous and deadly trolls. Assisted by the witch's disciple, Schierke, the warrior band manages to turn the tide against the beasts, but when a monstrous ogre hits town, a tide of another kind is needed, a mystic flood to wash the town clean. But when Casca and Farnese are carried away by the flood, they become prisoners in the troll's den, where a fate far worse than any imaginable death awaits!",
+      release_date: "July 5th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1581.jpg"},
+
+{
+      title: "Berserk, Vol. 32",
+      author: "Kentaro Miura",
+      synopsis: "Guts, the Black Swordsman, joins forces with a most unlikely ally, the fiendish Nosferatu Zodd, in a desperate attempt to defeat the Kushan emperor's malevolent astral form. But Griffith, Guts' former commander and friend reborn as a demonic lord of the Godhand, has plans of his own for the emperor, and for Midland itself. Guts and his companions' only hope is to reach the promised safety of the elf Puck's homeland, Elfhelm, but if Griffith and the emperor turn their attention back to this motley band of travelers, there may be nowhere left for Guts and crew to hide!",
+      release_date: "December 5th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1582.jpg"},
+
+{
+      title: "Berserk, Vol. 11",
+      author: "Kentaro Miura",
+      synopsis: "The Band of the Hawk - what's left of them - are on the run, Guts and Casca having rescued the Hawks' leader, Griffith, from the horrors of the King of Midland's dungeons. Starved, tortured mercilessly and imprisoned in an iron mask, Griffith hangs to life and sanity by a thread... and he'll be no help against the King's latest charges sent to bring him back to pay for his dalliance with the King's daughter. Now the depleted Hawks will have to face the Knights of the Black Dog, led by the merciless, bestial Wyald... one bad dog who's even worse when he unleashes the beast within!",
+      release_date: "March 29th 1996",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1583.jpg"},
+
+{
+      title: "Berserk, Vol. 26",
+      author: "Kentaro Miura",
+      synopsis: "Guts, the Black Swordsman, goes from the frying pan to the fire as he must enter the mating chamber in the horrifying lair of trolls to rescue his love, Casca, and the Lady Farnese from the loathsome attentions of the hideous beasts. But while even an army of trolls cannot stand against Guts's boundless fury, the mightiest of warriors is no match for a demon lord. And so when Slan of the Godhand manifests from the entrails of slain trolls and takes Guts into her deadly embrace, Guts discovers he may not only be fighting for his life, but for his very soul!",
+      release_date: "December 24th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1584.jpg"},
+
+{
+      title: "Berserk, Vol. 36",
+      author: "Kentaro Miura",
+      synopsis: "What Guts the Black Swordsman and his companions had seen as an island refuge for monstrous sea creatures and the ghost ship of the demonic Bonebeard is, in fact, the very lair of the malefic sea god that controls them. With no avenue of escape, Guts must once again don the Berserker armor to give his company any chance of survival. But without the protective influence of the sorceress Schierke, Guts risks being forever lost within the cursed armor and becoming an even greater threat to his comrades",
+      release_date: "September 23rd 2011",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1585.jpg"},
+
+{
+      title: "Berserk, Vol. 35",
+      author: "Kentaro Miura",
+      synopsis: "After a hellish battle against ravenous sea monsters, Guts the Black Swordsman and his companions are forced to seek refuge on a small island so that their ship can be repaired. But this island is not the safe haven they'd hoped for - it's a sinister place rife with dark energy, watched over by an ancient, vengeful god. And with a full moon on the rise, that god's power is about to be unleashed...",
+      release_date: "September 29th 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1586.jpg"},
+
+{
+      title: "Berserk, Vol. 22",
+      author: "Kentaro Miura",
+      synopsis: "The world of Guts, the Black Swordsman, is changing in a hurry. Though a demonic maelstrom has leveled the dreaded Tower of Conviction and ended the reign of terror of its grand inquisitor, Mozgus, peace has not returned to Midland. The Tower’s fall has heralded the unexpected return of Griffith, Guts former leader, last seen transformed from a shattered husk into one of the demon lords of the Godhand. but Griffith looks like his old self again — and with his dreams of carving out a kingdom by his own hand still intact. He’s raising a new Band of the Hawk, but this time he’s recruiting from the dark side to fulfill his deadly destiny!",
+      release_date: "December 24th 2001",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1587.jpg"},
+
+{
+      title: "Berserk, Vol. 18",
+      author: "Kentaro Miura",
+      synopsis: "Hell has broken loose in the kingdom of Midland. On the death of Midland's king comes invasion, demonic forces seem to be on the rise, underground pagan cults are running wild, and the church is busily rounding up and teaching heretics the errors of their ways. While, Guts is busy testing out his newly repaired sword on the invaders, his former captain and lover, Casca, her mind wrecked by her unholy tryst with the demon lord, has fallen in with a rough crowd who don't exactly wish her well. But she, like Guts, is marked with the Brand of Sacrifice, and her abusers may soon find themselves face-to-face with the unholy abominations that are inexorably drawn to the Brand!",
+      release_date: "October 5th 1999",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1588.jpg"},
+
+{
+      title: "Berserk, Vol. 15",
+      author: "Kentaro Miura",
+      synopsis: "From his days as a young mercenary to his time as captain of the Band of the Hawks' Raiders, Guts's life has been defined by his ability to fight and his will to win. Now cursed with the Brand of Sacrifice - a sigil that will forever mark him as prey for the damned - and with his companions dead, his lover's mind destroyed and his one-time commander and friend reborn as a malevolent demon lord, it seems that more than ever Guts must rely upon his instinct to survive. But Hell has many faces, and when what appears to be an innocent country village proves to be a den of tragic secrets, the horror of a fairy tale perverted by pain and hate may prove to be more than Guts can handle!",
+      release_date: "January 30th 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1589.jpg"},
+
+{
+      title: "Berserk, Vol. 37",
+      author: "Kentaro Miura",
+      synopsis: "Guts the Black Swordsman has again donned the accursed Berserker armor, and he ll need all its unholy power to battle the titanic Sea God from the inside! As the creature takes on an army of beautiful merrow, Guts plunges deep within the God to find its sole vulnerability and pierce its living heart. But even if he can manage this impossible task deep within the leviathan, how will Guts get back out?'",
+      release_date: "March 29th 2013",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1590.jpg"},
+
+{
+      title: "Berserk, Vol. 24",
+      author: "Kentaro Miura",
+      synopsis: "Desperate to find a sanctuary where his lover, Casca, will be safe from the demons drawn to her Brand of Sacrifice, Guts the Black Swordsman pushes his motley band of followers onward towards fairy Puck s homeland, Elfhelm. With new allies who make their home in a mystically guarded woodland paradise, Guts goal seems within reach, but danger lurks in the shadows of even the most dazzling utopias, and even fairy witchery may not protect the wondrous kingdom from an army of marauding, murderous trolls! Created by Kentaro Miura, Berserk is a runaway manga locomotive, a crashing colossus of teeth-rattling action, spine-chilling horror, and taboo-breaking humor that fires the boilers of its devoted devotees and burns the rest. Ashes to ashes!'",
+      release_date: "December 24th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1591.jpg"},
+
+{
+      title: "Berserk, Vol. 5",
+      author: "Kentaro Miura",
+      synopsis: "He is Guts, the Black Swordsman, a warrior of legendary prowess — relentless, fearless, merciless. As cold and brutal as the iron of the massive sword he wields. Bent on revenge against the unholy forces that have branded him for sacrifice, but especially on Griffith, one of the demon lords of the Godhand. But Griffith was once a man, the leader of the Hawks, a renowned cadre of elite fighters with a young Guts as its fiercest champion. Though forged in a crucible of cruelty and violence, nothing could prepare Guts for a confrontation with Nosferatu Zodd, a superhuman beast who slaughters Guts’ comrades as easily as a scythe cuts wheat. Even Guts and Griffith are no match for the abomination’s power...but something Griffith wears around his neck may well be!",
+      release_date: "March 31st 1993",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1592.jpg"},
+
+{
+      title: "Berserk, Vol. 27",
+      author: "Kentaro Miura",
+      synopsis: "Now equipped with the mystical Berserker Armor, Guts fights on against the dragon-form of Grunbeld and his legion of fanatic apostle soldiers. But the very armor that holds Guts together — in a nightmarishly literal sense — might be the last straw that tears his tortured mind apart! While Guts struggles to hold his own against his inner demons, monsters of a very different sort rally in Windham as the Kushan Emperor, Ganishka, and the newly reborn Griffith rally their forces in a head-to-head struggle for control of all of Midland. But when the dust finally settles, there may be little left of the kingdom to claim!",
+      release_date: "August 5th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1593.jpg"},
+
+{
+      title: "Berserk, Vol. 16",
+      author: "Kentaro Miura",
+      synopsis: "Warrior supreme Guts has been marked for sacrifice to the armies of the damned, and now he has the b....",
+      release_date: "August 31st 1998",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1594.jpg"},
+
+{
+      title: "Berserk, Vol. 4",
+      author: "Kentaro Miura",
+      synopsis: "Now that the evil Count has been killed and dragged to Hell by the demon lords of the Godhand, Guts, the Black Swordsman, hooks up with his former benefactor, the mercenary Gambino. But it’s a deadly reunion, one that nearly takes Guts’ life. The following years see Guts wandering from battlefield to battlefield, where his awesome skills as a slayer catch the eye of both warring parties, including the legendary Griffith, warrior leader of the Band of the Hawk, who is eager to test his combat skills against those of the Black Swordsman. As usual, anytime that Guts is involved there will be hell to pay!",
+      release_date: "February 29th 1992",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1595.jpg"},
+
+      [genres[7], genres[0], genres[4], genres[21], genres[9], genres[18]]
       ],
