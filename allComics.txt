@@ -1,7 +1,7 @@
 {/*
-Drama
-Themes: School Life, Sports
-[genres[7], genres[15], genres[19], genres[8], genres[18], genres[18]]
+Action, Comedy
+Themes: Battles, Powers
+[genres[0], genres[14], genres[10], genres[20], genres[18], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -9198,3 +9198,172 @@ allComics = [
 
       [genres[7], genres[15], genres[19]]
       ],
+      [
+{
+      title: "Case Closed, Vol. 11",
+      author: "Gosho Aoyama",
+      synopsis: "High-school mystery fan Shin'ichi Kudo is actually one of his high school's best minds, but he gets his reality checks from his childhood friend and almost-girlfriend Ran Mori. Nothing can keep Shin'ichi from a case, until he follows a suspicious man into a park, is accosted from behind and fed a strange chemical which renders him unconscious. When he awakens, he has been transformed into a puny grade schooler! The hapless boy finds a home with eccentric inventor Professor Agasa, who searches for a cure for his condition. While he's waiting to be restored to his adolescence, Shin'ichi takes on the name Conan Edogawa (borrowed from Sir Arthur Conan Doyle and the last name of the famous Japanese mystery writer Edogawa Ranpo). As Conan, he plays the part of the little brother that Ran never had, and helps her incompetent private-detective father solve all of the gruesome murder mysteries that come their way.",
+      release_date: "July 18th 1996",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2257.jpg"},
+
+{
+      title: "Case Closed, Vol. 8",
+      author: "Gosho Aoyama",
+      synopsis: "It's Conan versus the Phantom Thief. When Conan's elementary school friends decide to become super sleuths, they form the Junior Detective League. But will they get into more trouble than they can handle?",
+      release_date: "December 9th 1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2258.jpg"},
+
+{
+      title: "Case Closed, Vol. 1",
+      author: "Gosho Aoyama",
+      synopsis: "Ghastly beheadings, bloody murders, and cold-hearted child abduction cases: precocious high school student Shin'ichi Kudo uses his keen powers of observation and astute intuition to solve mysteries that have left law enforcement officials baffled. Hot on the trail of a suspect, Shin'ichi is accosted from behind and fed a strange chemical which physically transforms him into a grade schooler! Taking on the pseudonym Conan Edogawa, he attempts to track down the people that did this to him.",
+      release_date: "June 18th 1994",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2259.jpg"},
+
+{
+      title: "Case Closed, Vol. 9",
+      author: "Gosho Aoyama",
+      synopsis: "The Junior Detective league takes action! While playing hide and seek, first- grader Amy discovers a chopped off head. Will Conan and friends be able to save Amy from a serial murderer? And when Richard Moore P.I. attends a reunion of his college friends, one of them ends up with a bullet hole to her temple and a gun in her hand. Was it suicide or murder?! Later, Conan, Richard, and Rachel attend the birthday party of the daughter of a wealthy financier. But Conan's deductive skills are put to the test when the birthday girl ends up missing and a dead body turns up.",
+      release_date: "January 18th 1996",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2260.jpg"},
+
+{
+      title: "Case Closed, Vol. 12",
+      author: "Gosho Aoyama",
+      synopsis: "High-school mystery fan Shin'ichi Kudo is actually one of his high school's best minds, but he gets his reality checks from his childhood friend and almost-girlfriend Ran Mori. Nothing can keep Shin'ichi from a case, until he follows a suspicious man into a park, is accosted from behind and fed a strange chemical which renders him unconscious. When he awakens, he has been transformed into a puny grade schooler! The hapless boy finds a home with eccentric inventor Professor Agasa, who searches for a cure for his condition. While he's waiting to be restored to his adolescence, Shin'ichi takes on the name Conan Edogawa (borrowed from Sir Arthur Conan Doyle and the last name of the famous Japanese mystery writer Edogawa Ranpo). As Conan, he plays the part of the little brother that Ran never had, and helps her incompetent private-detective father solve all of the gruesome murder mysteries that come their way.",
+      release_date: "September 18th 1996",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2261.jpg"},
+
+{
+      title: "Case Closed, Vol. 5",
+      author: "Gosho Aoyama",
+      synopsis: "A vicious murderer whose face is covered in bandages is on the loose. Will Conan be able to catch him before he strikes again?",
+      release_date: "April 18th 1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2262.jpg"},
+
+{
+      title: "Case Closed, Vol. 6",
+      author: "Gosho Aoyama",
+      synopsis: "It's Conan versus the Phantom Thief. When Conan's elementary school friends decide to become super sleuths, they form the Junior Detective League. But will they get into more trouble than they can handle? Rated for older teens.",
+      release_date: "July 18th 1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2263.jpg"},
+
+{
+      title: "Case Closed, Vol. 14",
+      author: "Gosho Aoyama",
+      synopsis: "The Magical Suicide",
+      release_date: "March 18th 1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2264.jpg"},
+
+{
+      title: "Case Closed, Vol. 7",
+      author: "Gosho Aoyama",
+      synopsis: "On a remote island, a job request comes in from a pianist who's been dead for over 10 years. Can Conan solve the case of the cursed piano?And later, a mysterious woman shows up claiming to be Jimmy's girlfriend. The only problem is, Conan's never seen her before in his life!",
+      release_date: "November 18th 1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2265.jpg"},
+
+{
+      title: "Case Closed, Vol. 15",
+      author: "Gosho Aoyama",
+      synopsis: "During a school field trip, Conan and Rachel end up in a mountain cabin with several members of the teaching staff. Conan gets quite a surprise when he answers the doorbell and a frozen teacher's corpse falls into the house! To add to the mystery, a strange letter is written on the teacher's hand, which sends another of the educators running to his room. Shortly after, he's found dead too! Can Conan put his brainpower to work and solve the mystery before the students run out of teachers?",
+      release_date: "June 18th 1997",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2266.jpg"},
+
+{
+      title: "Case Closed, Vol. 13",
+      author: "Gosho Aoyama",
+      synopsis: "High-school mystery fan Shin'ichi Kudo is actually one of his high school's best minds, but he gets his reality checks from his childhood friend and almost-girlfriend Ran Mori. Nothing can keep Shin'ichi from a case, until he follows a suspicious man into a park, is accosted from behind and fed a strange chemical which renders him unconscious. When he awakens, he has been transformed into a puny grade schooler! The hapless boy finds a home with eccentric inventor Professor Agasa, who searches for a cure for his condition. While he's waiting to be restored to his adolescence, Shin'ichi takes on the name Conan Edogawa (borrowed from Sir Arthur Conan Doyle and the last name of the famous Japanese mystery writer Edogawa Ranpo). As Conan, he plays the part of the little brother that Ran never had, and helps her incompetent private-detective father solve all of the gruesome murder mysteries that come their way.",
+      release_date: "December 10th 1996",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2267.jpg"},
+
+{
+      title: "Case Closed, Vol. 4",
+      author: "Gosho Aoyama",
+      synopsis: "Bloody murder is committed at a museum, reproducing a scene from a gruesome painting. Later, the men in black are back! Will Conan be able to come any closer to getting his old body back? Also, Conan's friends from grade school find a treasure map--but will it only lead them to a trove of trouble?--P. [4] of cover.",
+      release_date: "February 18th 1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2268.jpg"},
+
+      [genres[8]]
+      ],
+      [
+{
+             title: "One Punch Vol. 1",
+             author: "One",
+             synopsis: "A manga series that packs quite the punch! Nothing about Saitama passes the eyeball test when it comes to superheroes, from his lifeless expression to his bald head to his unimpressive physique. However, this average-looking guy has a not-so-average problem—he just can’t seem to find an opponent strong enough to take on! Every time a promising villain appears, he beats the snot out of ’em with one punch! Can Saitama finally find an opponent who can go toe-to-toe with him and give his life some meaning? Or is he doomed to a life of superpowered boredom?",
+             release_date: "December 12, 2012",
+             img_url: "https://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/onepunch1_mkmmb3.jpg",
+             },
+
+{
+            title: "One Punch Man: The Secret To His Strength Vol. 2",
+            author: "One",
+            synopsis: "Saitama’s easily taken out a number of monsters, including a crabby creature, a malicious mosquito girl and a muscly meathead. But his humdrum life takes a drastic turn when he meets Genos—a cyborg who wants to uncover the secret behind his strength!",
+            release_date: "December 12, 2012",
+            img_url: "https://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/onepunch2_lcnzsy.jpg",
+            },
+
+{
+            title: "One Punch Man: The Rumor Vol. 3",
+            author: "One",
+            synopsis: "For three years, Saitama has defeated countless monsters, but no one knows about him… That’s because he isn’t in the Hero Association’s registry! Together with Genos, Saitama decides to take the Hero Association’s test! But can they pass?!",
+            release_date: "April 4, 2013",
+            img_url: "https://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/onepunch3_v8w7lx.jpg",
+            },
+
+{
+            title: "One Punch Man: Giant Meteor Vol. 4",
+            author: "One",
+            synopsis: "Saitama is now a certified hero! And with that title comes great responsibility—he’s required to perform one heroic deed per week. While Saitama makes the rounds to meet his quota, an incoming threat from outer space is screeching toward Earth...",
+            release_date: "August 2, 2013",
+            img_url: "https://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/onepunch4_wkmgjm.jpg",
+            },
+
+{
+            title: "One Punch Man: Shining in Tatters Vol. 5",
+            author: "One",
+            synopsis: "To stop a Demon-level crisis, Saitama and company head toward the action. However, even Class-S heroes prove to be no match for the Deep Sea King! In order to protect the good citizens, our heroes will need to summon all of their courage and confront this threat!",
+            release_date: "December 4, 2013",
+            img_url: "https://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/onepunch5_bskv9p.jpg",
+            },
+
+{
+            title: "One Punch Man: The Big Prediction Vol. 6",
+            author: "One",
+            synopsis: "An emergency summons gathers Class S heroes at headquarters…and Saitama tags along. There, they learn that the great seer Shibabawa left the following prophecy: “The Earth is in danger!” What in the world is going to happen?!",
+            release_date: "May 2, 2014",
+            img_url: "https://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/onepunch6_jgvrhl.jpg",
+            },
+
+{
+            title: "One Punch Man: The Fight Vol. 7",
+            author: "One",
+            synopsis: "When aliens invade Earth, a group of Class-S heroes finally finds a way to fight back and go on the offensive. Inside the enemy mother ship, Saitama fights Boros. Faced with the alien’s frightful power, he decides to get serious! What is the Earth’s fate?!",
+            release_date: "December 4, 2014",
+            img_url: "https://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/onepunch7_e80ljs.jpg",
+            },
+
+{
+            title: "One Punch Man: That Man Vol. 8",
+            author: "One",
+            synopsis: "Class-S hero King is known as the strongest man on earth. Even monsters fear him. But when a mysterious organization sends an assassin after him, the shocking truth about King is revealed!",
+            release_date: "April, 2015",
+            img_url: "https://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/onepunch8_n9bhlv.jpg",
+            },
+
+{
+            title: "One Punch Man: Don't Dis Heroes Vol. 9",
+            author: "One",
+            synopsis: "Garo, a man who admires monsters, attacks the Hero Association! But after pulverizing the heroes there, he just leaves. What the heck does this guy want?! Meanwhile, Class-B, Rank-1 Miss Blizzard visits Saitama at his apartment. Since he’s just a low-ranking hero, she thinks she can make him one of her subordinates, but as always, Saitama has other plans!",
+            release_date: "August 9, 2015",
+            img_url: "https://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/onepunch9_iqwtow.jpg",
+            },
+
+{
+            title: "One Punch Man: Pumped Up Vol. 10",
+            author: "One",
+            synopsis: "Hero hunter Gato intensifies his onslaught, so of course Saitama decides now is the perfect time to join a combat tournament. Meanwhile, Class-S hero Metal Bat takes an assignment guarding a Hero Association executive and his son, and before long trouble appears!",
+            release_date: "December 4, 2015",
+            img_url: "https://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/onepunch10_ry24vh.jpg",
+            }
+            [genres[0], genres[14], genres[10], genres[20]]
+            ],

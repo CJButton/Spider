@@ -93,8 +93,8 @@ module.exports = [
         // 'http://www.goodreads.com/series/80338-elfen-lied',
         // 'http://www.goodreads.com/series/58571-special-a',
         // 'http://www.goodreads.com/series/57513-slam-dunk',
-        'http://www.goodreads.com/series/193081-detective-conan-nueva-edici-n',
-        // 'http://www.goodreads.com/series/100669-onepunch-man',
+        // 'http://www.goodreads.com/series/193081-detective-conan-nueva-edici-n',
+        'http://www.goodreads.com/series/100669-onepunch-man',
         // 'http://www.goodreads.com/series/53312-maid-sama',
         // 'http://www.goodreads.com/series/72068-puella-magi-madoka-magic'
       ]
