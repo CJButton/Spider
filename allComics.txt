@@ -1,7 +1,7 @@
 {/*
-Action, Drama
-Themes: Mystery
-[genres[0], genres[7], genres[8], genres[20], genres[18], genres[18]]
+Fantasy, Horror
+Themes: Mystery, Supernatural
+[genres[4], genres[21], genres[8], genres[18], genres[18], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -6555,10 +6555,34 @@ allComics = [
 
 {
       title: "Death Note: L, Change the World",
-      author: "M",
+      author: "Tsugumi Ohba",
       synopsis: "In an alternative continuity in the  setting, ace detective L's name has been placed in a Death Note. He has twenty-three days to bring a terrorist group to justice, or they will use a deadly new virus to change the world—by killing off most of humanity.",
       release_date: "2007",
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1893.jpg"},
 
       [genres[0], genres[7], genres[8]]
+      ],
+      [
+{
+      title: "Pet Shop of Horrors, Vol. 1",
+      author: "Matsuri Akino",
+      synopsis: "A smoke-filled alley in Chinatown harbors Count D's Pet Shop. The pets sold here aren's your everyday variety and the Count prides himself on selling Love and Dreams in the form of magical creatures that come with an exclusive contract. But buyers beware. If the contract is broken the Count cannot be held accountable for whatever may happen. A fascinating and macabre look into the very soul of human nature. ",
+      release_date: "February 1995",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1894.jpg"},
+
+{
+      title: "Pet Shop of Horrors, Volume 09",
+      author: "Matsuri Akino",
+      synopsis: "Book by Akino, Matsuri",
+      release_date: "2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1895.jpg"},
+
+{
+      title: "Pet Shop of Horrors, Vol. 2",
+      author: "Matsuri Akino",
+      synopsis: "Count D and his exotic pets have a way of changing a person's life for better or for worse. Whether it is fulfilling one's deepest desire or teaching an errant soul an important lesson in life, his magic always comes with a price.",
+      release_date: "August 12th 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1896.jpg"},
+
+      [genres[4], genres[21], genres[8], genres[18]]
       ],
