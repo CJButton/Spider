@@ -1,7 +1,7 @@
 {/*
-Action, Fantasy
-Themes: Adventure, Battles
-[genres[0], genres[4], genres[1], genres[10], genres[18], genres[18]]
+Fantasy, Horror
+Themes: Supernatural
+[genres[4], genres[21], genres[18], genres[10], genres[18], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -5875,4 +5875,84 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1798.jpg"},
 
       [genres[0], genres[4], genres[1], genres[10]]
+      ],
+[
+{
+      title: "Trinity Blood, Vol. 12",
+      author: "Kiyo Kyujyo",
+      synopsis: "With the Pope injured and what seems like the entire Vatican turned against them, Esther and Schera must fight for their lives, as well as attempt to reveal Cardinal D'Annuncio's fiendish plot. But with so much blood already shed, can even the Lady Saint and her powerful ally escape unscathed? Then, the curtain closes on the story of Istvan, and a new story begins as Esther and co. head towards the island nation of Albion! Sell Sheet Keynote:In this gorgeous, gothic-action series-part of the super-popular Trinity Blood franchise-the very survival of the human race is at stake.",
+      release_date: "August 24th 2009",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1799.jpg"},
+
+{
+      title: "Trinity Blood, Vol. 11",
+      author: "Kiyo Kyujyo",
+      synopsis: "In the damaged city of Istvan, where the populace clings to the hope of their Holy Saint Esther, intrigue and vengeance lurk around every corner. When faith and betrayal are blended in the dark shadows of the alleys and back streets, will Esther and Abel ever be able to find one another again?",
+      release_date: "October 17th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1800.jpg"},
+
+{
+      title: "Trinity Blood, Vol. 1",
+      author: "Kiyo Kyujyo",
+      synopsis: "In a dark and distant future, Armageddon has giving rise to the fabled Second Moon--and a perpetual war between the vampires and the humans! Esther is a nun in the city of Istavan. When she crosses paths with Abel Nightroad, a priest sent from the Vatican to combat the local order of vampires, the two form a holy alliance to battle the most evil of threats: Gyula, the leader of the vampires. In this gorgeous, gothic-action series--part of the super-popular Trinity Blood franchise--the very survival of the human race is at stake!",
+      release_date: "March 17th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1801.jpg"},
+
+{
+      title: "Trinity Blood, Vol. 4",
+      author: "Kiyo Kyujyo",
+      synopsis: "The Gothic-action masterpiece continues as Esther remembers the cold, cruel day when a heartless Dietrich betrayed her. And now, among the flames, Radu is about to do the same to Ion...until Brother Petros and his Department of Inquisition arrive. Weakened after his previous fight with Petros, Abel is just barely keeping himself under control and, as the battle rages, Esther may once again find herself betrayed by someone she trusted...",
+      release_date: "June 17th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1802.jpg"},
+
+{
+      title: "Trinity Blood, Vol. 7",
+      author: "Kiyo Kyujyo",
+      synopsis: "Astaroshe and Abel present their case to the Diwan, while Ion and Esther get lost in the city. They meet a strange young tea-seller named Seth, and have a run-in with Dietrich's vampire zombie soldiers, one of whose victims reveals that Radu may be alive...just as the man himself appears before Abel and accuses the party from the west of conspiring to assassinate the Empress.",
+      release_date: "July 15th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1803.jpg"},
+
+{
+      title: "Trinity Blood, Vol. 6",
+      author: "Kiyo Kyujyo",
+      synopsis: "Ion awakes to find that he is still alive, while Esther confronts Abel in the underground waterway. Orders have been given to recover Radu's body from the ocean, but is he really dead? Older teens.",
+      release_date: "February 2nd 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1804.jpg"},
+
+{
+      title: "Trinity Blood, Vol. 9",
+      author: "Kiyo Kyujyo",
+      synopsis: "The war between humans and vampires continues as a struggle between two factions: the Vatican and the New Human Empire. Amidst the bloodshed and violence, many desire a peaceful coexistence between the two species. But standing between them is a group of vampire extremists.",
+      release_date: "May 17th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1805.jpg"},
+
+{
+      title: "Trinity Blood, Vol. 2",
+      author: "Kiyo Kyujyo",
+      synopsis: " ",
+      release_date: "July 17th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1806.jpg"},
+
+{
+      title: "Trinity Blood, Vol. 8",
+      author: "Kiyo Kyujyo",
+      synopsis: "A plot to assassinate the Methuselah Emperor is revealed at last, but Ion, Esther and company are accused of the crime! Astharoshe struggles with her own immortality and how feelings of loyalty and love can change over the course of centuries, and Dietrich has yet another cruel twist of fate in store for his beloved Esther.",
+      release_date: "December 16th 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1807.jpg"},
+
+{
+      title: "Trinity Blood, Vol. 10",
+      author: "Kiyo Kyujyo",
+      synopsis: "In a post-apocalyptic world, humans represented by the Vatican and vampires of the New Human Empire struggle for world domination. Standing in the way is a group of vampire extremists. The only thing to do is to send in a vampire who preys on other vampires.",
+      release_date: "February 16th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1808.jpg"},
+
+{
+      title: "Trinity Blood, Vol. 5",
+      author: "Kiyo Kyujyo",
+      synopsis: "Esther is left terrified by Abel's form as the Crusnik while the Vatican agents, along with the injured Petros, head east to return Ion to the Empire. But an enormous artificial sandstorm is unleashed by Radu in a final attempt to destroy the city of Carthage, and new alliances must be forged in order to halt its devastating path, while an old friend is waiting for Abel in a secret underground chamber...",
+      release_date: "September 17th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/1809.jpg"},
+
+      [genres[4], genres[21], genres[18]]
       ],
