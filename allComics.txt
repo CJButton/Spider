@@ -1,7 +1,7 @@
 {/*
-Action, Fantasy
-Themes: Adventure, Battles
-[genres[0], genres[4], genres[1], genres[10], genres[15], genres[18]]
+Fantasy
+Themes: Supernatural
+[genres[4], genres[18], genres[9], genres[10], genres[15], genres[18]]
 Add ], to close series array
 
 This array allows us to keep the naming more consistent
@@ -8260,4 +8260,185 @@ allComics = [
       img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2127.jpg"},
 
       [genres[0], genres[4], genres[1], genres[10]]
+      ],
+[
+{
+      title: "Claymore, Vol. 7: Fit for Battle",
+      author: "Norihiro Yagi",
+      synopsis: "Fearing that she's no match for the deadly Claymore named Ophelia, Clare spirits her companion Raki away to relative safety. But no matter how far they run they won't be able to escape Ophelia's heightened senses. And now that Ophelia knows that Clare has awakened, she will not rest until she has destroyed Clare.",
+      release_date: "November 4th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2128.jpg"},
+
+{
+      title: "Claymore, Vol. 6: The Endless Gravestones",
+      author: "Norihiro Yagi",
+      synopsis: "Teresa, a powerful Claymore, saves a young girl from her bandit captors and leaves the child in the care of some villagers. But triumph quickly gives way to despair when the situation takes a tragic turn, and Teresa is forced to kill a human--an act that will condemn her to death at the hands of her own kind.",
+      release_date: "April 30th 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2129.jpg"},
+
+{
+      title: "Claymore, Vol. 11: Kindred of Paradise",
+      author: "Norihiro Yagi",
+      synopsis: "In the northern town of Pieta, Clare and a force of Claymores battle a troupe of Awakened Ones to prevent them from advancing south. Their orders are to hold off the evil horde at all costs, while the Organization prepares a secret weapon. Clare and her comrades realize that theirs is a suicide mission. As their friends fall one by one, the warriors band together to make their last stand.",
+      release_date: "November 2nd 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2130.jpg"},
+
+{
+      title: "Claymore, Vol. 9: The Deep Abyss of Purgatory",
+      author: "Norihiro Yagi",
+      synopsis: "Clare and her fellow Claymores Galatea and Jean must battle the Awakened Beings that are holding them captive. In the process, they find their captors' true motive: by torturing the warriors, they want to force them to awaken, and join them in a gathering of Yoma. Will Clare and her comrades be able to defeat the Awakened Beings without becoming one themselves?",
+      release_date: "November 4th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2131.jpg"},
+
+{
+      title: "Claymore, Vol. 15: Genesis of War",
+      author: "Norihiro Yagi",
+      synopsis: "Sexy sword-swinging ladies. R to L (Japanese Style). Galatea's plans to eliminate the Awakened former number 2, 'Bloody' Agatha, have failed, but the arrival of Clare and her comrades turns the tide of battle. In the aftermath, Miria decides to finally share her shocking discoveries about the true nature of the Yoma, of the Organization and of the Claymores themselves. In a world where monsters called Yoma prey on humans and live among them in disguise, humanity's only hope is a new breed of warrior known as Claymores. Half human, half monster, these silver-eyed slayers possess supernatural strength, but are condemned to fight their savage impulses or lose their humanity completely.",
+      release_date: "December 4th 2008",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2132.jpg"},
+
+{
+      title: "Claymore, Vol. 19: Phantoms in the Heart",
+      author: "Norihiro Yagi",
+      synopsis: "Sexy, sword-swinging ladies in an epic medieval monster huntReads R to L (Japanese Style). Priscilla relentlessly pursues Clare's destruction, while Deneve and Helen remain just as determined to protect her. But when the combined form of Luciela and Rafaela attacks, Clare and her cohorts are pulled into the twisting mass. Meanwhile, in Ribona, Miria heads east to destroy the Organization. She encounters Rubel and his secret weapons: mysterious warrior twins who may be Alicia and Beth's successors, as well as the Organization's number 10—a deadly fighter who can read Miria's mind.",
+      release_date: "December 3rd 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2133.jpg"},
+
+{
+      title: "Claymore, Vol. 3: Teresa of the Faint Smile",
+      author: "Norihiro Yagi",
+      synopsis: "A Claymore - a female warrior named for the sword she carries - travels from medieval village to village to destroy Yoma, monsters who disguise themselves as humans and who are almost impossible to kill. Claymores are half-humans, half-demons who willingly transformed themselves by mixing their blood with monster's blood. Claire, nicknamed silver-eyed killer, is such a powerful Claymore, she can slay a Yoma using only one hand. But she must constantly struggle to keep from becoming a monster herself.",
+      release_date: "November 1st 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2134.jpg"},
+
+{
+      title: "Claymore, Vol. 10: The Battle of the North",
+      author: "Norihiro Yagi",
+      synopsis: "Clare and a group of Claymores are sent to the north to battle a group of Yoma that have banded together under the command of Isley, a powerful Awakened Being. When the warriors arrive, they find their new enemies to be unusually dangerous. They are incredibly strong, well organized, and seem to have a plan to dominate the entire region. Will the Claymores be able to stop this monstrous army?",
+      release_date: "May 2nd 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2135.jpg"},
+
+{
+      title: "Claymore, Vol. 5: The Slashers",
+      author: "Norihiro Yagi",
+      synopsis: "Teresa, a powerful Claymore, saves a young girl from her bandit captors and leaves the child in the care of some villagers. But triumph quickly gives way to despair when the situation takes a tragic turn, and Teresa is forced to kill a human--an act that will condemn her to death at the hands of her own kind.",
+      release_date: "January 1st 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2136.jpg"},
+
+{
+      title: "Claymore, Vol. 22: Claws and Fangs of the Abyss",
+      author: "Norihiro Yagi",
+      synopsis: "Sexy, sword-swinging ladies in an epic medieval monster huntIn a world where monsters called Yoma prey on humans and live among them in disguise, humanity's only hope is a new breed of warrior known as Claymores. Half human, half monster, these silver-eyed slayers possess supernatural strength but are condemned to fight their savage impulses or lose their humanity completely. Rebel Claymores, the Organization that created them, and a host of reanimated top-level warriors clash with savage intensity. The Claymores’ demonic impulses are provoked, threatening to destroy their human consciousnesses. Meanwhile, Hysteria, animated by blind vengeance, grows stronger with each attack against her. Is it possible that the rebels will be defeated by their long-dead comrades? Reads R to L (Japanese Style) for teen plus audiences.",
+      release_date: "June 4th 2012",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2137.jpg"},
+
+{
+      title: "Claymore, Vol. 2: Darkness in Paradise",
+      author: "Norihiro Yagi",
+      synopsis: "A Claymore - a female warrior named for the sword she carries - travels from medieval village to village to destroy Yoma, monsters who disguise themselves as humans and who are almost impossible to kill. Claymores are half-humans, half-demons who willingly transformed themselves by mixing their blood with monster's blood. Claire, nicknamed silver-eyed killer, is such a powerful Claymore, she can slay a Yoma using only one hand. But she must constantly struggle to keep from becoming a monster herself.",
+      release_date: "May 1st 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2138.jpg"},
+
+{
+      title: "Claymore, Vol. 8: The Witch's Maw",
+      author: "Norihiro Yagi",
+      synopsis: "Clare's battle with the awakened Ophelia ends with a surprising request from Ophelia. Ominous signs begin to emerge as Clare searches for Raki. Not only are the usually solitary Yoma joining forces, they appear to be preparing for battle. More mysteriously, Clare is taken captive by a male Awakened Being and held in a dungeon with other Claymores. Who are her captors, and what do they want?",
+      release_date: "April 28th 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2139.jpg"},
+
+{
+      title: "Claymore, Vol. 4: Marked for the Death",
+      author: "Norihiro Yagi",
+      synopsis: "Teresa, a powerful Claymore, saves a young girl from her bandit captors and leaves the child in the care of some villagers. But triumph quickly gives way to despair when the situation takes a tragic turn, and Teresa is forced to kill a human--an act that will condemn her to death at the hands of her own kind.",
+      release_date: "May 1st 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2140.jpg"},
+
+{
+      title: "Claymore, Vol. 18: The Ashes of Lautrec",
+      author: "Norihiro Yagi",
+      synopsis: "Sexy, sword-swinging ladies in an epic medieval monster huntReads R to L (Japanese Style), for audiences T+  The Ashes of Lautrec After finding herself mysteriously drawn to the lair of Riful of the West, Clare made contact with the fused form of Rafaela and Luciela, which Awakened and transformed into the terrible being known as the Destroyer. Now, the entire land of Lautrec is subject to its dreadful, relentless assault. It seems that nothing, and no one, can halt the devastation. But there may be one force that is greater still…",
+      release_date: "July 2nd 2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2141.jpg"},
+
+{
+      title: "Claymore, Vol. 21: Corpse of the Witch",
+      author: "Norihiro Yagi",
+      synopsis: "Reads R to L (Japanese Style). In a world where monsters called Yoma prey on humans and live among them in disguise, humanity's only hope is a new breed of warrior known as Claymores. Half human, half monster, these silver-eyed slayers possess supernatural strength but are condemned to fight their savage impulses or lose their humanity completely.A battle begins between rebel Claymore warriors and the Organization that created them. When the team of seven notorious rebel fighters is joined by an army of newly minted soldiers loyal to rebel leader Miria, it seems their victory is a foregone conclusion. Then the Organization releases its newest secret weapon: reanimated high-level warriors from past generations of Claymores.",
+      release_date: "December 2nd 2011",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2142.jpg"},
+
+{
+      title: "Claymore, Vol. 12: The Souls of the Fallen",
+      author: "Norihiro Yagi",
+      synopsis: "In a world where monsters called Yoma prey on humans and live among them in disguise, humanity’s only hope is a new breed of warrior known as Claymores.",
+      release_date: "April 4th 2007",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2143.jpg"},
+
+{
+      title: "Claymore, Vol. 1: Silver-eyed Slayer",
+      author: "Norihiro Yagi",
+      synopsis: "A Claymore - a female warrior named for the sword she carries - travels from medieval village to village to destroy Yoma, monsters who disguise themselves as humans and who are almost impossible to kill. Claymores are half-humans, half-demons who willingly transformed themselves by mixing their blood with monster's blood. Claire, nicknamed silver-eyed killer, is such a powerful Claymore, she can slay a Yoma using only one hand. But she must constantly struggle to keep from becoming a monster herself.",
+      release_date: "January 5th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2144.jpg"},
+
+      [genres[0], genres[4], genres[9]]
+      ],
+[
+{
+      title: "Mushishi, Vol. 7",
+      author: "Yuki Urushibara",
+      synopsis: "Ginko is sent on a fact-finding expedition to discover what the head of an ancient clan of mushishi is doing in an isolated, abandoned Japanese village. But the answer may be more than Ginko can handle: the Ragged Road he is investigating leads to mushi that can leave a man worse than dead!Includes special extras after the story!",
+      release_date: "February 23rd 2006",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2145.jpg"},
+
+{
+      title: "Mushishi, Vol. 4",
+      author: "Yuki Urushibara",
+      synopsis: "Nebulous and unseen, existing in a state somewhere between life and death, mushi bring nothing but pain, suffering, and destruction to humans. A small community of wandering healers and naturalists known as mushishi protect humans from the ravages of these malevolent entities. Ginko, with his green eye and white hair, is a mushishi. But when Ginko tries to help a boy who seems to have found spring in the middle of winter, he and the boy both become victims of the life-sucking creatures.",
+      release_date: "October 22nd 2003",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2146.jpg"},
+
+{
+      title: "Mushishi, Vol. 8/9/10",
+      author: "Yuki Urushibara",
+      synopsis: "Ginko is a master of the ephemeral life form known as Mushi. Their influence can be as visible as a mountain never giving up its winter to allow for spring, or as subtle as a prank played in a child's game. To some they are a curse; to others they offer unimagined possibility. Read the final three volumes of Ginko's journeys in this one remarkable edition!",
+      release_date: "2010",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2147.jpg"},
+
+{
+      title: "Mushishi, Vol. 2",
+      author: "Yuki Urushibara",
+      synopsis: "DARK MOUNTAINMushi, a terrifying primitive life-form, take countless shapes–most of them deadly to the human race. Enter Ginko, a mushi expert, known as a mushishi. Though his laconic smile and soft-spoken manner don’t seem imposing, he represents the human world’s greatest defense. When a fellow mushishi disappears, Ginko must search for him on a mushi-infested mountain, putting his own life on the line!",
+      release_date: "February 20th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2148.jpg"},
+
+{
+      title: "Mushishi, Vol. 1",
+      author: "Yuki Urushibara",
+      synopsis: "THEY HAVE EXISTED SINCE THE DAWN OF TIME.Some live in the deep darkness behind your eyelids. Some eat silence. Some thoughtlessly kill. Some simply drive men mad. Shortly after life emerged from the primordial ooze, these deadly creatures, mushi, came into terrifying being. And they still exist and wreak havoc in the world today. Ginko, a young man with a sardonic smile, has the knowledge and skill to save those plagued by mushi . . . perhaps.",
+      release_date: "November 22nd 2000",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2149.jpg"},
+
+{
+      title: "Mushishi, Vol. 5",
+      author: "Yuki Urushibara",
+      synopsis: "Imagine being blind–but that nebulous creatures called mushi allow you to see farther and better than any human, even into another person’s future. Ginko, whose lifelong task is to understand the many kinds of mushi, encounters such a woman and becomes entangled in the shocking future she sees for him.",
+      release_date: "October 22nd 2004",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2150.jpg"},
+
+{
+      title: "Mushishi, Vol. 3",
+      author: "Yuki Urushibara",
+      synopsis: "They live on the shadowy border between the possible and the impossible–ancient life-forms known as mushi. Rare is the individual who can see them, but those with that special ability, the mushishi, can counter the creatures’ deadly effects on humans. After a young boy is orphaned in the forest, he is saved by a reclusive female mushishi. But the lake near the mushishi’s home holds a deadly secret, and the boy must find out what it is before his only friend is lost forever.",
+      release_date: "December 18th 2002",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2151.jpg"},
+
+{
+      title: "Mushishi, Vol. 6",
+      author: "Yuki Urushibara",
+      synopsis: "A father disappears and his son, a hunter, inherits his father’s power to lure animals to their deaths, quietly and entranced. But this ability poisons the mind and the body. Can mushi master Ginko cure the son before he shares his father’s fate, or will the young man turn his deadly powers on his would-be savior?",
+      release_date: "June 23rd 2005",
+      img_url: "http://res.cloudinary.com/ddbfkqb9m/image/upload/c_scale,h_350,w_233/covers/2152.jpg"},
+
+      [genres[4], genres[18]]
       ],
